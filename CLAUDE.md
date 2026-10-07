@@ -28,3 +28,7 @@ These override the generic steps in the scheduled prompt where they differ.
 - Omar prefers longer, more in-depth episodes. This overrides the scheduled prompt's 4,000-4,500 words and 30-minute cap.
 - On a full week, aim for about 5,500-7,000 words (roughly 35-45 minutes). Hard cap: 50 minutes.
 - Spend the extra time on depth, not more items. Go further into methods, the trial's place in prior evidence, discourse and disagreement, and practical implications. A quiet week is still shorter: never pad.
+
+## Publishing (Omar, 7 Oct 2026)
+- Always add episodes; never replace or overwrite one that's already in the feed. Don't edit an existing `<item>` or overwrite its MP3.
+- If there's already an episode for today's date (a re-run, an extended edition, or a correction), publish the new one alongside it. Use `episodes/YYYY-MM-DD-2.mp3` (then -3 and so on), a matching guid such as `od-digest-YYYY-MM-DD-2`, and a title that says how it differs ("extended", "correction" and so on).
