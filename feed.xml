@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 17:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:11:47 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,51 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: ARDS phenotypes and personalised ventilation</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-ards-phenotypes-personalised-ventilation</guid>
+      <pubDate>Wed, 07 Oct 2026 17:11:47 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-ards-phenotypes-personalised-ventilation.mp3" length="3416712" type="audio/mpeg"/>
+      <itunes:duration>569</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Kate and Tom ask whether ARDS can yet be treated as more than one disease. Secondary analyses of older trials found hyper- and hypo-inflammatory subphenotypes that differ in prognosis and may respond differently to fluids, PEEP and simvastatin. The prospective UK PHIND study shows they can be identified near the bedside within about an hour, and the UK PANTHER platform trial is now testing phenotype-guided treatment (no results yet). They also cover the 2024 global definition (a consensus statement), driving pressure and mechanical power as associations rather than proven targets, harm or no benefit from personalised PEEP strategies (ART, EPVent-2, LIVE, EITVent), proning (PROSEVA), the ACURASYS versus ROSE paralysis story, DEXA-ARDS and steroids, and EOLIA and ECMO, then where the ESICM 2023, ATS 2024 and FICM/ICS guidelines diverge.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Inflammatory subphenotypes are reproducible and prognostic, but treating by phenotype belongs in trials until PANTHER-type trials report.</li>
+<li>Driving pressure and mechanical power are associations from observational and mediation analyses, not proven targets: use them as warning lights.</li>
+<li>Avoid prolonged high-pressure recruitment (ART showed harm), and prone early and for 16 hours or more when P/F is below 150 mmHg.</li>
+<li>Routine paralysis is where guidelines split most (ESICM against, ATS conditionally for early severe ARDS): use it selectively.</li>
+<li>Talk to an ECMO centre early for EOLIA-type patients. Steroids are suggested by ATS 2024 but not addressed by ESICM 2023 or FICM/ICS.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S2213-2600(14)70097-9">Calfee 2014, phenotypes (Lancet Respir Med)</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201603-0645OC">Famous 2017, FACTT phenotypes (AJRCCM; secondary analysis)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(18)30177-2">Calfee 2018, HARP-2 phenotypes (Lancet Respir Med; secondary analysis)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-018-5378-3">Sinha 2018, SAILS phenotypes (Intensive Care Med; secondary analysis)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(26)00040-8">PHIND 2026 (Lancet Respir Med; prospective observational)</a></li>
+<li><a href="https://www.isrctn.com/ISRCTN81435672">PANTHER trial registration</a></li>
+<li><a href="https://doi.org/10.1164/rccm.202303-0558WS">New global definition of ARDS 2024 (consensus)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMsa1410639">Amato 2015, driving pressure (NEJM)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-018-5375-6">Serpa Neto 2018, mechanical power (Intensive Care Med; observational)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2017.14171">ART (JAMA 2017)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2019.0555">EPVent-2 (JAMA 2019)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(19)30138-9">LIVE (Lancet Respir Med 2019)</a></li>
+<li><a href="https://doi.org/10.1093/ajrccm/aamaf125">EITVent (AJRCCM 2026)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1214103">PROSEVA (NEJM 2013)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2016.0291">LUNG SAFE (JAMA 2016)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1005372">ACURASYS (NEJM 2010)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1901686">ROSE (NEJM 2019)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(19)30417-5">DEXA-ARDS (Lancet Respir Med 2020)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1800385">EOLIA (NEJM 2018)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2018.14276">EOLIA Bayesian reanalysis (JAMA 2018; post hoc)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-020-06248-3">CESAR/EOLIA individual-patient meta-analysis (Intensive Care Med 2020)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-023-07050-7">ESICM ARDS guideline 2023</a></li>
+<li><a href="https://doi.org/10.1164/rccm.202311-2011ST">ATS ARDS guideline update 2024</a></li>
+<li><a href="https://doi.org/10.1136/bmjresp-2019-000420">FICM/ICS ARDS guideline (2018, published 2019)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Vasopressors in septic shock</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-vasopressors-septic-shock</guid>
