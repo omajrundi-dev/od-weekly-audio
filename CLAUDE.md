@@ -3,11 +3,17 @@
 These override the generic steps in the scheduled prompt where they differ.
 
 ## Research
-- The sandbox's egress policy blocks journal, government, legal and FOAMed sites, both for shell and WebFetch. WebSearch still returns results.
+- Network access was opened on 7 Oct 2026. Fetch with curl and a browser User-Agent. criticalcarereviews.com and 39essex.com still return 403 (site bot protection), so use Gmail for CCR and WebSearch for 39 Essex.
+- Read these feeds every week (verified 7 Oct 2026) and keep items first published in the window:
+  - Journals: Anaesthesia https://associationofanaesthetists-publications.onlinelibrary.wiley.com/feed/13652044/most-recent · BJA https://www.bjanaesthesia.org/current.rss · JAMA https://jamanetwork.com/rss/site_3/67.xml · NEJM https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss · Lancet Respir Med https://www.thelancet.com/rssfeed/lanres_online.xml
+  - Safety: MHRA alerts https://www.gov.uk/drug-device-alerts.atom · Drug Safety Update https://www.gov.uk/drug-safety-update.atom
+  - Medicolegal: PFD reports https://www.judiciary.uk/feed/?post_type=pfd · EWCOP https://caselaw.nationalarchives.gov.uk/atom.xml?court=ewcop · MCLP https://www.mentalcapacitylawandpolicy.org.uk/feed/
+  - Discourse: The Bottom Line https://www.thebottomline.org.uk/feed/ · St Emlyn's https://www.stemlynsblog.org/feed/
+  - No working feed found yet for ICM (Springer), Critical Care (BMC), AJRCCM, HSSIB, RCoA or PulmCCM. Use their journal pages or PubMed (now reachable), and update this list when a feed URL is confirmed.
 - Read the newest Critical Care Reviews subscriber newsletter from Omar's Gmail first (`from:rob@criticalcarereviews.com subject:Newsletter`). It arrives on Saturday or Sunday night and is the lead source. Its "Quick Takes" give CCR's own numbers. Say on air that figures come from CCR's summary if the paper itself couldn't be opened.
 - Use WebSearch to corroborate details such as DOIs, trial design and court case pages. Never use an unconfirmed number.
 - Also search Gmail for the past 8 days for journal alerts, MHRA/Drug Safety Update, Mental Capacity Report, PFD, The Bottom Line and FOAMed newsletters. Omar may subscribe to more over time.
-- If the environment's network policy has been opened up, fetch primary sources directly; don't assume they're still blocked. Test one first.
+- Open primary sources (papers, judgments, PFD reports) directly and quote from them rather than from summaries.
 
 ## Discourse around each item
 - For each major item, look for what clinicians are saying, not just what the paper found. Check the journal's own editorial and correspondence, CCR's critique, The Bottom Line, St Emlyn's, EMCrit, PulmCCM, REBEL EM, ICM-focused podcasts, and public posts by named clinicians and triallists (use WebSearch with site: filters where fetch is blocked).
