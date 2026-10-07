@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:25:04 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Neuroprognostication after cardiac arrest</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-post-arrest-neuroprognostication</guid>
+      <pubDate>Wed, 07 Oct 2026 16:25:04 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-post-arrest-neuroprognostication.mp3" length="3683942" type="audio/mpeg"/>
+      <itunes:duration>614</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Kate and Tom walk through the 2025 ERC-ESICM prognostication algorithm for comatose survivors of cardiac arrest: the wider entry point (motor score below 6 at 72 hours or later), the two-or-more rule for poor outcome, the new favourable indicators, why neurofilament light is not yet recommended, bias from self-fulfilling prophecy and early withdrawal, and the UK best-interests framework (MCA 2005, Aintree v James, Re Y, RCP PDOC guidance).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Wait until at least 72 hours, exclude confounders (sedation, relaxants, temperature, hypotension, sepsis, metabolic) and examine carefully.</li>
+<li>Poor outcome is likely only with two or more concordant predictors; one alone is not enough.</li>
+<li>Look for favourable signs too (motor score 4 or 5, normal NSE, continuous EEG, no MRI diffusion restriction); indeterminate means observe and reassess, because late awakening happens.</li>
+<li>NSE needs serial samples (24, 48, 72 h) and care over haemolysis; the guideline does not recommend neurofilament light yet.</li>
+<li>Prognosis informs a best-interests decision but does not make it; keep the prognosis and withdrawal conversations separate and document.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1007/s00134-025-08117-3">ERC-ESICM guidelines 2025: post-resuscitation care (Nolan et al., Intensive Care Med 2025)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2013/67">Aintree University Hospitals v James [2013] UKSC 67</a></li>
+<li><a href="https://www.supremecourt.uk/cases/uksc-2017-0202.html">An NHS Trust v Y [2018] UKSC 46</a></li>
+<li><a href="https://www.rcp.ac.uk/news-and-media/news-and-opinion/prolonged-disorders-of-consciousness-new-rcp-guidance-to-help-healthcare-staff-and-families/">RCP: Prolonged disorders of consciousness following sudden onset brain injury, national clinical guidelines (2020)</a></li>
+<li><a href="https://www.mentalcapacitylawandpolicy.org.uk/guidance-on-canh-decision-making-published-by-bma-and-rcp/">BMA and RCP guidance on CANH decision-making (2018)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>7 October 2026 (extended): PRESSURE, neuroprognosis in the Court of Protection, and an ICU-referral PFD</title>
       <guid isPermaLink="false">od-digest-2026-10-07-extended</guid>
