@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 20:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,5 +26,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>7 October 2026: PRESSURE permissive BP targets; Townsend heads to the Supreme Court</title>
+      <guid isPermaLink="false">od-digest-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-07.mp3" length="4865754" type="audio/mpeg"/>
+      <itunes:duration>811</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>Covers 30 September to 7 October 2026.</strong> A shorter edition, because the primary sources were blocked this week. Findings are taken from the Critical Care Reviews subscriber newsletter 773 (4 October), and the papers themselves were not read.</p>
+<ul>
+<li><strong>PRESSURE</strong> (JAMA, online 28 Sep; recent context, CCR's lead). In about 1,900 ventilated children on vasoactive drugs, a permissive MAP target near the 5th centile showed no difference in the 30-day mortality and ventilation composite, with about 37.5% less vasoactive drug. Brain injury and post-cardiotomy patients were excluded. Takeaway: it supports challenging unnecessarily high MAP targets, but it is not proof of safety. <a href="https://doi.org/10.1001/jama.2026.19747">JAMA</a></li>
+<li><strong>SAFER</strong> (AJRCCM, online 30 Sep). An open-label RCT in 100 patients with acute exacerbation of IPF compared pulse methylprednisolone with non-pulse dosing. There was no significant mortality difference and the confidence intervals were very wide. Takeaway: no change to practice. <a href="https://www.atsjournals.org/journal/ajrccm">AJRCCM</a></li>
+<li><strong>2026 AHA/ACC perioperative cardiovascular guideline</strong> (JACC). This reaffirms the 2024 recommendations: no routine stress testing in low-risk patients, and withhold SGLT2 inhibitors 3 to 4 days before surgery where feasible. Takeaway: check this against local and UK guidance before changing pre-op advice. <a href="https://www.jacc.org/">JACC</a></li>
+<li><strong>Medicolegal: Townsend v Epsom and St Helier</strong> (recent context). The Court of Appeal held in March that there is no "clinical decision" carve-out from best interests. The Supreme Court granted permission in June, and the case page lists a hearing for January 2027. Takeaway: document withholding of life-sustaining treatment as a best-interests decision. <a href="https://supremecourt.uk/cases/uksc-2026-0050">UKSC case page</a></li>
+</ul>
+<p><strong>Unchecked this week (blocked):</strong> all journal sites (NEJM, Lancet, JAMA, BJA, Anaesthesia, ICM, AJRCCM, Chest, Crit Care, CCM, Resuscitation), PubMed, MHRA alerts and Drug Safety Update, NICE, RCoA, Association of Anaesthetists, ICS, FICM, NCEPOD, HSSIB, judiciary.uk PFD reports, Find Case Law, Mental Capacity Law and Policy, 39 Essex, and FOAMed sites. Please check the MHRA field safety notices yourself.</p>]]></description>
+    </item>
   </channel>
 </rss>
