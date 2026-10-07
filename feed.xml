@@ -27,6 +27,37 @@
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
     <item>
+      <title>Deep dive: Acute myocardial infarction in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-acute-mi-in-the-icu</guid>
+      <pubDate>Wed, 07 Oct 2026 16:25:04 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-acute-mi-in-the-icu.mp3" length="3237088" type="audio/mpeg"/>
+      <itunes:duration>539</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Kate and Tom cover what reaches the ICU after myocardial infarction: culprit-only PCI in cardiogenic shock (CULPRIT-SHOCK), the negative ECLS-SHOCK trial of early VA-ECMO, the positive but complication-heavy DanGer Shock trial of the microaxial pump, immediate versus delayed angiography after cardiac arrest (COACT, TOMAHAWK), type 2 MI and troponin interpretation, and perioperative myocardial injury (VISION, MANAGE).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Culprit-only PCI in infarct-related shock; no routine intra-aortic balloon pump.</li>
+<li>Routine early VA-ECMO did not improve 30-day survival in ECLS-SHOCK and roughly doubled bleeding and vascular complications.</li>
+<li>In DanGer Shock a microaxial pump improved survival in selected STEMI shock patients (not comatose after arrest) at the cost of more complications; involve the shock team early.</li>
+<li>After arrest, ST elevation goes to the cath lab; stable patients without it can have delayed angiography.</li>
+<li>Do not treat a type 2 troponin rise like a type 1 infarction: treat the cause.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1710261">CULPRIT-SHOCK (NEJM 2017)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2307227">ECLS-SHOCK (NEJM 2023)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2312572">DanGer Shock (NEJM 2024)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1816897">COACT (NEJM 2019)</a></li>
+<li><a href="https://www.acc.org/Latest-in-Cardiology/Articles/2021/08/26/20/08/sun-8am-tomahawk-esc-2021">TOMAHAWK (NEJM 2021)</a></li>
+<li><a href="https://www.tctmd.com/news/danger-shock-impella-tied-better-survival-even-10-years-later">DanGer Shock long-term follow-up (ESC 2025; report)</a></li>
+<li><a href="https://www.pcronline.com/News/Congress-coverages/ESC/2023/2023-ESC-Guidelines-for-the-management-of-acute-coronary-syndromes">2023 ESC Guidelines for the management of acute coronary syndromes</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-08117-3">ERC-ESICM guidelines 2025: post-resuscitation care</a></li>
+<li><a href="https://www.nice.org.uk/guidance/htg775">NICE: percutaneous microaxial flow pump for cardiogenic shock</a></li>
+<li><a href="https://www.uthsc.edu/internal/residency/documents/consult-curriculum/manage-mins-lancet-2018.pdf">MANAGE (Lancet 2018)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
       <title>Deep dive: Neuroprognostication after cardiac arrest</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-post-arrest-neuroprognostication</guid>
       <pubDate>Wed, 07 Oct 2026 16:25:04 +0000</pubDate>
