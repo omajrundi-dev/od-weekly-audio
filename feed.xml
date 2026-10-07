@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 16:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:11:45 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,47 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Vasopressors in septic shock</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-vasopressors-septic-shock</guid>
+      <pubDate>Wed, 07 Oct 2026 17:11:45 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-vasopressors-septic-shock.mp3" length="3359958" type="audio/mpeg"/>
+      <itunes:duration>560</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Consultant-level look at vasopressor decisions in septic shock, built around the 2026 Surviving Sepsis Campaign guidelines. Early noradrenaline (CENSER, CLOVERS) looks safe but has not been shown to reduce mortality. Observational data and the 2026 guideline support starting peripherally rather than waiting for a central line. VASST and the UK VANISH trial place vasopressin as a catecholamine-sparing add-on rather than a life-saver, and observational data link later vasopressin starts with higher mortality. ATHOS-3 and a small single-centre methylene blue trial show blood pressure gains without proven survival benefit. On MAP targets, SEPSISPAM, the UK 65 trial and Japan's OPTPRESS (stopped early for harm with the higher target) underpin the new suggestion of 60 to 65 mmHg in patients aged 65 or over. Terlipressin and selepressin don't help.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Early noradrenaline is safe but has not been shown to save lives.</li>
+<li>Start vasopressors peripherally rather than delay for a central line.</li>
+<li>Target a MAP of 65 mmHg, or 60 to 65 in patients aged 65 or over; higher targets have looked harmful.</li>
+<li>Add vasopressin as the noradrenaline dose rises: it spares catecholamine but has not shown a survival benefit.</li>
+<li>Angiotensin II and methylene blue are rescue options with weak evidence; avoid terlipressin.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026">Surviving Sepsis Campaign guidelines 2026 (SCCM page)</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000007075">Surviving Sepsis Campaign 2026 (Crit Care Med)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06506-y">Surviving Sepsis Campaign 2021</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201806-1034OC">CENSER (AJRCCM 2019)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2212663">CLOVERS (NEJM 2023)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa067373">VASST (NEJM 2008)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2016.10485">VANISH (JAMA 2016)</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000005317">Vasopressin initiation and mortality, Sacha (Crit Care Med 2022; observational)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1704154">ATHOS-3 (NEJM 2017)</a></li>
+<li><a href="https://doi.org/10.1186/s13054-023-04397-7">Methylene blue RCT, Ibarra-Estrada (Crit Care 2023; single centre)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1312173">SEPSISPAM (NEJM 2014)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2020.0930">65 trial (JAMA 2020)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-07910-4">OPTPRESS (Intensive Care Med 2025)</a></li>
+<li><a href="https://doi.org/10.1002/jhm.2394">Peripheral vasopressors, Cardenas-Garcia (J Hosp Med 2015; observational)</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2023.08.019">Peripheral vasopressors, Yerke (Chest 2024; observational)</a></li>
+<li><a href="https://doi.org/10.1016/j.jcrc.2015.01.014">Peripheral extravasation review, Loubani (J Crit Care 2015)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-018-5267-9">Terlipressin RCT, Liu (Intensive Care Med 2018)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2019.14607">SEPSIS-ACT (JAMA 2019)</a></li>
+<li><a href="https://doi.org/10.1016/j.ajem.2026.09.025">Dissenting opinion on SSC 2026 (Am J Emerg Med 2026)</a></li>
+<li><a href="https://emcrit.org/emcrit/ssc-2026-sepsis-guidelines/">EMCrit 422 on SSC 2026</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Acute myocardial infarction in the ICU</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-acute-mi-in-the-icu</guid>
