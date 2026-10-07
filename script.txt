@@ -1,0 +1,124 @@
+Kate: Hello, and welcome to the I C M and Anaesthesia Digest. It's the seventh of October. I'm Kate.
+Tom: And I'm Tom. Morning.
+Kate: So, a slightly odd week behind the scenes, and I think we should be upfront about it.
+Tom: Yeah. Our usual route into the journals was shut this week. We couldn't open the papers, the M H R A pages, the coroners' reports, any of it.
+Kate: So what we do have is Critical Care Reviews. The subscriber newsletter, number seven seven three, which came out on Sunday.
+Tom: Which is our lead source anyway. But it means every number you hear today is C C R's summary of the paper, not us reading the paper.
+Kate: Right. And we've left out anything we couldn't pin down. So it's a shorter one.
+Tom: Fewer things, a bit more chat. Which is fine.
+Kate: Three items. A big paediatric blood pressure trial that I think matters for adults too. A small steroid trial in acute exacerbation of I P F. And the American perioperative cardiovascular guideline, for the anaesthesia side.
+Tom: And then a short honest list of what we didn't manage to check.
+Kate: Let's go. PRESSURE. Published in JAMA, first author Inwald.
+Tom: Strictly that went online on the twenty-eighth of September, so it's a couple of days before our window.
+Kate: It is. But it's C C R's lead this week, they've done a full summary and critique, and it's the most important thing on the list. So we're having it.
+Tom: Fair enough. Go on then.
+Kate: So, a U K-led, N I H R-funded pragmatic trial. Twenty-three paediatric intensive care units across three countries. About nineteen hundred children, all invasively ventilated, all on vasoactive drugs.
+Tom: That's a big paediatric trial.
+Kate: It's huge for paediatrics. Unblinded, obviously, you can't really blind a blood pressure target. They were randomised to a permissive mean arterial pressure target, age-adjusted, set around the fifth centile for age. Or to usual care, where the clinician picks the target.
+Tom: And the primary outcome?
+Kate: A thirty-day composite of mortality and duration of ventilation. Analysed as a probabilistic index.
+Tom: Which, for anyone who hasn't met one, is basically the chance that a random child in one arm does better than a random child in the other.
+Kate: Exactly. So nought point five is a coin toss. And it came out at nought point five two. Confidence interval nought point four nine to nought point five four. P of nought point two three.
+Tom: So, a coin toss.
+Kate: A coin toss. No difference in the primary outcome.
+Tom: But.
+Kate: But. The median total noradrenaline-equivalent dose was about thirty-seven and a half percent lower in the permissive arm.
+Tom: So roughly a third less drug, same outcome.
+Kate: Same primary outcome. And according to C C R, no difference in adverse events or in kidney replacement therapy.
+Tom: Okay, so let me push on that. That's a superiority trial that didn't show superiority. It's not a non-inferiority trial. You can't read "no difference in harm" as "proven safe".
+Kate: No, and C C R make exactly that point. It's not proof of equivalent safety.
+Tom: And who was left out?
+Kate: Children with acute brain injury, and post-cardiotomy patients.
+Tom: Which are precisely the two groups where I'd be nervous about letting the pressure drift.
+Kate: Mm. So it doesn't tell you anything about them.
+Tom: Right. So why are we talking about a paediatric trial to an adult audience?
+Kate: Because it rhymes with the sixty-five trial. Older adults on vasopressors, permissive target, less vasopressor exposure, and no significant difference in mortality.
+Tom: Yeah. And there's a pattern now, isn't there. You take the pressure target down, you give less drug, and nothing obviously bad happens. But nothing obviously good happens either.
+Kate: Which is a useful result. If the drug isn't buying you anything, why give more of it?
+Tom: I'd say the counter-argument is that "nothing obviously good" might be because the composite outcome is quite blunt. Mortality plus ventilator days.
+Kate: That's fair. It might be missing a kidney or a gut signal in either direction.
+Tom: So what would you do differently on Monday?
+Kate: Honestly, for adults, nothing new. But it's one more reason to question a mean arterial pressure target of seventy-five written on the chart for no particular reason.
+Tom: I'd put it the way C C R did. It supports challenging unnecessarily high targets. It doesn't give you licence to accept hypotension across the board.
+Kate: Agreed. Good. Next one.
+Tom: SAFER. This one's in the American Journal of Respiratory and Critical Care Medicine, online on the thirtieth of September, so it is inside our week.
+Kate: Acute exacerbation of I P F.
+Tom: Yeah. Which, let's be honest, is one of the referrals that makes the I C U registrar's heart sink a little.
+Kate: Mm. Very poor prognosis, and very little evidence for anything.
+Tom: So. Open-label trial, eight hospitals in South Korea, one hundred adults. Everyone got steroids. The question was pulse dosing versus not.
+Kate: What were the doses?
+Tom: Pulse arm was methylprednisolone ten milligrams per kilo for three days. The other arm was one milligram per kilo for seven days. Both then had a protocolised taper.
+Kate: Okay. And?
+Tom: Twenty-eight-day mortality, in C C R's summary, was ten percent versus about fifteen percent. Pulse arm first. Risk difference about minus four and a half percentage points.
+Kate: And the confidence interval on that?
+Tom: That's the problem. Minus nineteen to plus nine.
+Kate: So anything from a big benefit to real harm.
+Tom: Exactly. Ninety-day mortality roughly a quarter versus thirty percent. Again not significant.
+Kate: A hundred patients. You were never going to answer it with a hundred patients.
+Tom: No. And because both arms got steroids, it tells you nothing about whether steroids work at all in an exacerbation.
+Kate: Which is the question people actually want answered.
+Tom: It is. In the same issue there's an international working group report on acute exacerbation in fibrotic interstitial lung disease. We couldn't read it, so I'm not going to tell you what it says.
+Kate: Good. So, Monday?
+Tom: Nothing changes. If your respiratory colleagues are giving pulse methylpred, this doesn't show it's better. If they aren't, it doesn't show they should be.
+Kate: And the big decisions with these patients are still about ceilings of care, really. Not the steroid dose.
+Tom: Yeah. That conversation matters a lot more than the milligrams.
+Kate: Right. Anaesthesia. And I'll admit this strand is thin this week, because we couldn't get into B J A or Anaesthesia at all.
+Tom: So what have we got?
+Kate: The twenty-twenty-six American perioperative cardiovascular guideline for noncardiac surgery. A H A, A C C, and about seven other societies. Published in the Journal of the American College of Cardiology.
+Tom: A new guideline, or?
+Kate: That's the key thing. It's a reaffirmation. They did an evidence surveillance this year, and it didn't change the twenty-twenty-four recommendations.
+Tom: So nothing new.
+Kate: Nothing new, but a nudge on a few points. A stepwise assessment, surgical risk, cardiovascular disease, functional capacity. No routine stress testing in low-risk patients, or in people with adequate functional capacity.
+Tom: Which our pre-op clinics would broadly agree with anyway.
+Kate: I think so. Testing should have a clear purpose. Not "they're having surgery, so let's do an echo".
+Tom: And the drug bit?
+Kate: S G L T two inhibitors. They say withhold them three to four days before planned surgery where that's feasible, because of the ketoacidosis risk.
+Tom: Now, that's the one I'd flag for a U K listener. Our local and national perioperative diabetes guidance may not say exactly the same thing.
+Kate: Yeah. So don't change your pre-op instructions off an American guideline. Check it against what your trust and the U K guidance say.
+Tom: And if you're on call and someone turns up euglycaemic and acidotic after surgery, ask about the S G L T two.
+Kate: Always. That's the practical message, really.
+Tom: Anything else on the anaesthesia side?
+Kate: Not that we could verify this week. There's a randomised trial in Anaesthesia on internal jugular compression to reduce malposition during infraclavicular subclavian lines. But that went online on the twenty-fourth of September, so it's outside our week, and we haven't read it.
+Tom: Next week, maybe.
+Kate: Maybe. Medicolegal.
+Tom: Yeah. I'll be blunt. We couldn't open the Court of Protection judgments, the coroners' prevention of future deaths reports, the Mental Capacity Law and Policy blog, or H S S I B.
+Kate: So we're not going to guess. As far as we could tell from search results, there was no new Court of Protection judgment on medical treatment this week.
+Tom: But there is one live case I think every consultant who does best-interests work should have on their radar. Townsend versus Epsom and St Helier.
+Kate: The dialysis case.
+Tom: The dialysis case. To recap, back in March the Court of Appeal said there's no carve-out for so-called clinical decisions. Any decision about treating an adult who lacks capacity, including withdrawing life-sustaining treatment, has to be made in their best interests under the Mental Capacity Act.
+Kate: Which unsettled a lot of people, because we'd all been brought up on "you can't be made to offer a treatment you think is clinically inappropriate".
+Tom: Right. And the update is that the Supreme Court gave permission to appeal in June. As far as we can tell from the court's case page, it's listed for January.
+Kate: And what's the actual question for the Supreme Court?
+Tom: Roughly this. When the family wants a treatment that the treating clinicians won't offer because they think it's clinically inappropriate, is there an obligation on the N H S body to take it to the Court of Protection?
+Kate: That's enormous for us. That's half the difficult conversations on the unit.
+Tom: It is. So until the Supreme Court rules, the Court of Appeal's position stands.
+Kate: So, practically?
+Tom: Practically, write your decision up as a best-interests decision, not just "not clinically indicated". Show you've considered the patient's wishes, feelings and values, and that you've consulted the family. If there's a genuine dispute that won't resolve, get your legal team in early, not on day ten.
+Kate: And get a second opinion and document it. That was good practice before this case anyway.
+Tom: Exactly. And we'll come back to it when the Supreme Court decides.
+Kate: Good.
+Tom: There is one other thing worth a look if you have time. The search results kept throwing up a recent prevention of future deaths report on sepsis-type deterioration during transport, with a delay in the emergency department accepting the patient.
+Kate: But we haven't read it.
+Tom: We haven't read it, so I'm not giving any details. It's in the show notes as something to check yourself.
+Kate: Good. And the same goes for M H R A device alerts. We couldn't check this week's field safety notices.
+Tom: Which, given ventilators and infusion pumps, is the one I'd actually go and look at.
+Kate: Yeah. Five minutes on the M H R A alerts page is worth more than anything we've said today.
+Tom: Ha. Probably true.
+Kate: Quick mention of a few things on C C R's list that are in our week, titles only, because we haven't read them.
+Tom: Go on.
+Kate: A small randomised pathophysiology study called Brain T T M, comparing temperature control guided by brain temperature versus systemic temperature in febrile brain-injured patients.
+Tom: Mm. Interesting idea.
+Kate: A prospective study on survival after liver transplant in acute-on-chronic liver failure, in the Journal of Hepatology.
+Tom: Which is relevant if you're one of the units that gets asked about A C L F patients for transplant.
+Kate: And a systematic review on mechanical circulatory support in post-infarction ventricular septal rupture with cardiogenic shock, in Critical Care.
+Tom: That's a small, grim population. I'd be surprised if a review can say much.
+Kate: Probably not. But there it is.
+Tom: Right. Wrap up?
+Kate: Go on, you do it.
+Tom: So. PRESSURE. In ventilated children on vasoactive drugs, a permissive target meant about a third less drug, with no difference in the primary outcome. It's one more reason to challenge a high pressure target that nobody chose on purpose. But it excluded brain injury, and it doesn't prove safety.
+Kate: And the guideline. Nothing new, but if a post-op patient turns up acidotic with a normal-ish glucose, think about their S G L T two inhibitor. And check your local pre-op advice rather than copying the Americans.
+Tom: And keep Townsend on your radar. Until the Supreme Court says otherwise, withholding life-sustaining treatment from someone who lacks capacity is a best-interests decision, and you should document it that way.
+Kate: And go and look at the M H R A alerts yourself this week, because we couldn't.
+Tom: Yes. Hopefully normal service next week.
+Kate: Fingers crossed. Thanks for listening.
+Tom: Bye for now.
