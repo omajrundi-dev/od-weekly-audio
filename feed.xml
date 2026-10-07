@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 17:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:11:49 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,37 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Withdrawing CANH in prolonged disorders of consciousness after Re Y</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-canh-withdrawal-after-re-y</guid>
+      <pubDate>Wed, 07 Oct 2026 17:11:49 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-canh-withdrawal-after-re-y.mp3" length="3341032" type="audio/mpeg"/>
+      <itunes:duration>557</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>In An NHS Trust v Y (2018) the Supreme Court held that withdrawing clinically assisted nutrition and hydration from a patient with a prolonged disorder of consciousness does not need a court order where the Mental Capacity Act and professional guidance are followed and there is agreement. Kate and Tom go through who the decision-maker is, the process in the BMA/RCP 2018 CANH guidance and the RCP 2020 PDOC guidelines, what the independent second opinion must involve, and when a case is finely balanced or disputed enough that it must go to the Court of Protection (including the 2020 Vice President's guidance). They look at how later judgments have applied this: criticism of years of drift in GU, AB and XR, a case where the court ordered CANH to continue against medical advice (YD, 2025), and a 2026 Mid Yorkshire case. They finish with what it means for early decisions on ICU.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Re Y removed the mandatory court application, not the scrutiny: with the MCA followed, the guidance observed and agreement reached, no court order is needed.</li>
+<li>A finely balanced decision, a difference of medical opinion or a lack of agreement means a prompt Court of Protection application.</li>
+<li>The safeguard the Supreme Court relied on is a genuinely independent second opinion with its own examination.</li>
+<li>Drift is the failure the courts keep criticising: continuing CANH by default is not neutral, and the giving has to be justified.</li>
+<li>Start and document the values conversation on ICU; it becomes core evidence later.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2018/46">An NHS Trust v Y [2018] UKSC 46</a></li>
+<li><a href="https://www.bma.org.uk/advice-and-support/ethics/adults-who-lack-capacity/clinically-assisted-nutrition-and-hydration">BMA/RCP CANH guidance (BMA page)</a></li>
+<li><a href="https://rcp.ac.uk/media/ptcoggi5/pdoc-guidelines_final_online_0_0.pdf">RCP PDOC national clinical guidelines 2020 (PDF)</a></li>
+<li><a href="https://www.rcp.ac.uk/resources/prolonged-disorders-of-consciousness-following-sudden-onset-brain-injury-national-clinical-guidelines/">RCP PDOC guidelines resource page</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2020/2">Serious Medical Treatment guidance [2020] EWCOP 2</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2024/62">NHS North West London ICB v AB [2024] EWCOP 62</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2024/66">NHS North Central London ICB v XR [2024] EWCOP 66</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2025/31">The Hillingdon Hospitals NHS FT v YD [2025] EWCOP 31</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/22">Mid Yorkshire Teaching NHS Trust v QM [2026] EWCOP 22</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2018/41">NHS Cumbria CCG v Rushton [2018] EWCOP 41</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: ARDS phenotypes and personalised ventilation</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-ards-phenotypes-personalised-ventilation</guid>
