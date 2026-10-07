@@ -1,124 +1,192 @@
 Kate: Hello, and welcome to the I C M and Anaesthesia Digest. It's the seventh of October. I'm Kate.
-Tom: And I'm Tom. Morning.
-Kate: So, a slightly odd week behind the scenes, and I think we should be upfront about it.
-Tom: Yeah. Our usual route into the journals was shut this week. We couldn't open the papers, the M H R A pages, the coroners' reports, any of it.
-Kate: So what we do have is Critical Care Reviews. The subscriber newsletter, number seven seven three, which came out on Sunday.
-Tom: Which is our lead source anyway. But it means every number you hear today is C C R's summary of the paper, not us reading the paper.
-Kate: Right. And we've left out anything we couldn't pin down. So it's a shorter one.
-Tom: Fewer things, a bit more chat. Which is fine.
-Kate: Three items. A big paediatric blood pressure trial that I think matters for adults too. A small steroid trial in acute exacerbation of I P F. And the American perioperative cardiovascular guideline, for the anaesthesia side.
-Tom: And then a short honest list of what we didn't manage to check.
-Kate: Let's go. PRESSURE. Published in JAMA, first author Inwald.
-Tom: Strictly that went online on the twenty-eighth of September, so it's a couple of days before our window.
-Kate: It is. But it's C C R's lead this week, they've done a full summary and critique, and it's the most important thing on the list. So we're having it.
-Tom: Fair enough. Go on then.
-Kate: So, a U K-led, N I H R-funded pragmatic trial. Twenty-three paediatric intensive care units across three countries. About nineteen hundred children, all invasively ventilated, all on vasoactive drugs.
-Tom: That's a big paediatric trial.
-Kate: It's huge for paediatrics. Unblinded, obviously, you can't really blind a blood pressure target. They were randomised to a permissive mean arterial pressure target, age-adjusted, set around the fifth centile for age. Or to usual care, where the clinician picks the target.
-Tom: And the primary outcome?
-Kate: A thirty-day composite of mortality and duration of ventilation. Analysed as a probabilistic index.
-Tom: Which, for anyone who hasn't met one, is basically the chance that a random child in one arm does better than a random child in the other.
-Kate: Exactly. So nought point five is a coin toss. And it came out at nought point five two. Confidence interval nought point four nine to nought point five four. P of nought point two three.
-Tom: So, a coin toss.
-Kate: A coin toss. No difference in the primary outcome.
-Tom: But.
-Kate: But. The median total noradrenaline-equivalent dose was about thirty-seven and a half percent lower in the permissive arm.
-Tom: So roughly a third less drug, same outcome.
-Kate: Same primary outcome. And according to C C R, no difference in adverse events or in kidney replacement therapy.
-Tom: Okay, so let me push on that. That's a superiority trial that didn't show superiority. It's not a non-inferiority trial. You can't read "no difference in harm" as "proven safe".
-Kate: No, and C C R make exactly that point. It's not proof of equivalent safety.
-Tom: And who was left out?
-Kate: Children with acute brain injury, and post-cardiotomy patients.
-Tom: Which are precisely the two groups where I'd be nervous about letting the pressure drift.
-Kate: Mm. So it doesn't tell you anything about them.
-Tom: Right. So why are we talking about a paediatric trial to an adult audience?
-Kate: Because it rhymes with the sixty-five trial. Older adults on vasopressors, permissive target, less vasopressor exposure, and no significant difference in mortality.
-Tom: Yeah. And there's a pattern now, isn't there. You take the pressure target down, you give less drug, and nothing obviously bad happens. But nothing obviously good happens either.
-Kate: Which is a useful result. If the drug isn't buying you anything, why give more of it?
-Tom: I'd say the counter-argument is that "nothing obviously good" might be because the composite outcome is quite blunt. Mortality plus ventilator days.
-Kate: That's fair. It might be missing a kidney or a gut signal in either direction.
-Tom: So what would you do differently on Monday?
-Kate: Honestly, for adults, nothing new. But it's one more reason to question a mean arterial pressure target of seventy-five written on the chart for no particular reason.
-Tom: I'd put it the way C C R did. It supports challenging unnecessarily high targets. It doesn't give you licence to accept hypotension across the board.
-Kate: Agreed. Good. Next one.
-Tom: SAFER. This one's in the American Journal of Respiratory and Critical Care Medicine, online on the thirtieth of September, so it is inside our week.
+Tom: And I'm Tom. Hello again.
+Kate: So, this is our second go at this week. The first version went out this morning on fairly thin sources.
+Tom: Yeah, we could only see summaries. This time we've actually read the abstracts, the judgments and the coroners' reports.
+Kate: Which makes a difference. It's a busy week for the courts, a fairly quiet one for safety alerts, and there are a couple of trials worth arguing about.
+Tom: Let's do the quick bit first. M H R A.
+Kate: Good news, really. No new national patient safety alerts this week, no device safety notices, and no Drug Safety Update.
+Tom: Nothing on ventilators or pumps?
+Kate: Nothing. One caveat: the weekly field safety notice list for the end of September hadn't been published when we checked. So that's a gap, and we'll pick it up next week.
+Tom: Anything at all?
+Kate: Two medicines notices, both low priority. A recall of a couple of batches of Movicol at pharmacy level, and a leaflet discrepancy on levetiracetam granules in sachets.
+Tom: That's the stuff we give down the nasogastric tube to neuro patients.
+Kate: Exactly. Supply's continuing, no clinical action needed. Just so you know if pharmacy mentions it.
+Tom: Right. PRESSURE.
+Kate: PRESSURE. JAMA, first author Inwald. Strictly it went online on the twenty-eighth of September, two days before our window. But it's the trial everyone's talking about, so it's in.
+Tom: Remind us of the design.
+Kate: U K-led, pragmatic, unblinded. Twenty-three paediatric intensive care units in three countries. Nineteen hundred children, all ventilated, all on vasoactive drugs for hypotension.
+Tom: And the two arms?
+Kate: A permissive target, mean arterial pressure above the fifth centile for age. Versus usual care, where the consultant sets the target.
+Tom: Primary outcome?
+Kate: A ranked composite of death and duration of ventilation at thirty days, reported as a probabilistic index. Nought point five two. Confidence interval nought point four nine to nought point five four.
+Tom: So essentially no difference.
+Kate: No difference. But the median total noradrenaline-equivalent dose was thirty-seven and a half percent lower in the permissive arm. No difference in kidney replacement therapy or adverse events.
+Tom: Now here's the bit that caught my eye. What was the actual blood pressure difference between the groups?
+Kate: Median mean arterial pressure on vasoactives was fifty-eight in the permissive arm and sixty-one with usual care.
+Tom: Three millimetres of mercury.
+Kate: Three.
+Tom: So they used a third less drug to get nearly the same pressure.
+Kate: Which is exactly the point Javier Amador-Castaneda makes on the I C C N Substack. He says PRESSURE "compared two weaning cultures", and that it's "mostly a trial of less vasoactive drug at roughly the same pressure".
+Tom: That's a good line. And honestly I think it's the right reading.
+Kate: He's also got a nice one on the result. He calls a probabilistic index of nought point five two "a coin flip with a slightly bent edge", and he says "the narrow interval is what makes it useful".
+Tom: Because it's a precise null, not a vague one.
+Kate: Yes.
+Tom: Okay, but let me be the sceptic. Three millimetres pooled across everyone from neonates to sixteen-year-olds. That could hide quite a lot.
+Kate: He raises that too. And that the usual-care arm may have drifted towards the permissive approach during the trial.
+Tom: Which is the classic problem with an unblinded strategy trial. Everyone in the unit learns from the intervention arm.
+Kate: Mm. And who was excluded matters. Acute brain injury and post-cardiac surgery, among others.
+Tom: So, the adult angle. This is the same trials unit as the sixty-five trial.
+Kate: Same group, and a similar message. In the sixty-five trial, older adults on a permissive target got less vasopressor, with no significant difference in mortality.
+Tom: And there's a line from the I C C N piece that sums up the whole field, I think.
+Kate: Go on.
+Tom: "None of these trials proves that less is better. Together they make a strong case that more is not obviously better."
+Kate: I like that. There's also an accompanying JAMA editorial by Horvat, but we couldn't get past the paywall, so we're not going to guess what it says.
+Tom: Fair. So, Monday?
+Kate: For children, a fifth-centile floor with active weaning looks safe in this population. For adults, nothing new, but it's one more reason to ask why the target on the chart is seventy-five.
+Tom: And not to accept hypotension in the excluded groups. Brain injury, especially.
+Kate: Agreed.
+Tom: Next. SAFER. American Journal of Respiratory and Critical Care Medicine, online on the thirtieth, so inside our week.
 Kate: Acute exacerbation of I P F.
-Tom: Yeah. Which, let's be honest, is one of the referrals that makes the I C U registrar's heart sink a little.
-Kate: Mm. Very poor prognosis, and very little evidence for anything.
-Tom: So. Open-label trial, eight hospitals in South Korea, one hundred adults. Everyone got steroids. The question was pulse dosing versus not.
-Kate: What were the doses?
-Tom: Pulse arm was methylprednisolone ten milligrams per kilo for three days. The other arm was one milligram per kilo for seven days. Both then had a protocolised taper.
-Kate: Okay. And?
-Tom: Twenty-eight-day mortality, in C C R's summary, was ten percent versus about fifteen percent. Pulse arm first. Risk difference about minus four and a half percentage points.
-Kate: And the confidence interval on that?
-Tom: That's the problem. Minus nineteen to plus nine.
-Kate: So anything from a big benefit to real harm.
-Tom: Exactly. Ninety-day mortality roughly a quarter versus thirty percent. Again not significant.
-Kate: A hundred patients. You were never going to answer it with a hundred patients.
-Tom: No. And because both arms got steroids, it tells you nothing about whether steroids work at all in an exacerbation.
-Kate: Which is the question people actually want answered.
-Tom: It is. In the same issue there's an international working group report on acute exacerbation in fibrotic interstitial lung disease. We couldn't read it, so I'm not going to tell you what it says.
-Kate: Good. So, Monday?
-Tom: Nothing changes. If your respiratory colleagues are giving pulse methylpred, this doesn't show it's better. If they aren't, it doesn't show they should be.
-Kate: And the big decisions with these patients are still about ceilings of care, really. Not the steroid dose.
-Tom: Yeah. That conversation matters a lot more than the milligrams.
-Kate: Right. Anaesthesia. And I'll admit this strand is thin this week, because we couldn't get into B J A or Anaesthesia at all.
-Tom: So what have we got?
-Kate: The twenty-twenty-six American perioperative cardiovascular guideline for noncardiac surgery. A H A, A C C, and about seven other societies. Published in the Journal of the American College of Cardiology.
-Tom: A new guideline, or?
-Kate: That's the key thing. It's a reaffirmation. They did an evidence surveillance this year, and it didn't change the twenty-twenty-four recommendations.
-Tom: So nothing new.
-Kate: Nothing new, but a nudge on a few points. A stepwise assessment, surgical risk, cardiovascular disease, functional capacity. No routine stress testing in low-risk patients, or in people with adequate functional capacity.
-Tom: Which our pre-op clinics would broadly agree with anyway.
-Kate: I think so. Testing should have a clear purpose. Not "they're having surgery, so let's do an echo".
-Tom: And the drug bit?
-Kate: S G L T two inhibitors. They say withhold them three to four days before planned surgery where that's feasible, because of the ketoacidosis risk.
-Tom: Now, that's the one I'd flag for a U K listener. Our local and national perioperative diabetes guidance may not say exactly the same thing.
-Kate: Yeah. So don't change your pre-op instructions off an American guideline. Check it against what your trust and the U K guidance say.
-Tom: And if you're on call and someone turns up euglycaemic and acidotic after surgery, ask about the S G L T two.
-Kate: Always. That's the practical message, really.
-Tom: Anything else on the anaesthesia side?
-Kate: Not that we could verify this week. There's a randomised trial in Anaesthesia on internal jugular compression to reduce malposition during infraclavicular subclavian lines. But that went online on the twenty-fourth of September, so it's outside our week, and we haven't read it.
-Tom: Next week, maybe.
-Kate: Maybe. Medicolegal.
-Tom: Yeah. I'll be blunt. We couldn't open the Court of Protection judgments, the coroners' prevention of future deaths reports, the Mental Capacity Law and Policy blog, or H S S I B.
-Kate: So we're not going to guess. As far as we could tell from search results, there was no new Court of Protection judgment on medical treatment this week.
-Tom: But there is one live case I think every consultant who does best-interests work should have on their radar. Townsend versus Epsom and St Helier.
-Kate: The dialysis case.
-Tom: The dialysis case. To recap, back in March the Court of Appeal said there's no carve-out for so-called clinical decisions. Any decision about treating an adult who lacks capacity, including withdrawing life-sustaining treatment, has to be made in their best interests under the Mental Capacity Act.
-Kate: Which unsettled a lot of people, because we'd all been brought up on "you can't be made to offer a treatment you think is clinically inappropriate".
-Tom: Right. And the update is that the Supreme Court gave permission to appeal in June. As far as we can tell from the court's case page, it's listed for January.
-Kate: And what's the actual question for the Supreme Court?
-Tom: Roughly this. When the family wants a treatment that the treating clinicians won't offer because they think it's clinically inappropriate, is there an obligation on the N H S body to take it to the Court of Protection?
-Kate: That's enormous for us. That's half the difficult conversations on the unit.
-Tom: It is. So until the Supreme Court rules, the Court of Appeal's position stands.
-Kate: So, practically?
-Tom: Practically, write your decision up as a best-interests decision, not just "not clinically indicated". Show you've considered the patient's wishes, feelings and values, and that you've consulted the family. If there's a genuine dispute that won't resolve, get your legal team in early, not on day ten.
-Kate: And get a second opinion and document it. That was good practice before this case anyway.
-Tom: Exactly. And we'll come back to it when the Supreme Court decides.
-Kate: Good.
-Tom: There is one other thing worth a look if you have time. The search results kept throwing up a recent prevention of future deaths report on sepsis-type deterioration during transport, with a delay in the emergency department accepting the patient.
-Kate: But we haven't read it.
-Tom: We haven't read it, so I'm not giving any details. It's in the show notes as something to check yourself.
-Kate: Good. And the same goes for M H R A device alerts. We couldn't check this week's field safety notices.
-Tom: Which, given ventilators and infusion pumps, is the one I'd actually go and look at.
-Kate: Yeah. Five minutes on the M H R A alerts page is worth more than anything we've said today.
-Tom: Ha. Probably true.
-Kate: Quick mention of a few things on C C R's list that are in our week, titles only, because we haven't read them.
-Tom: Go on.
-Kate: A small randomised pathophysiology study called Brain T T M, comparing temperature control guided by brain temperature versus systemic temperature in febrile brain-injured patients.
-Tom: Mm. Interesting idea.
-Kate: A prospective study on survival after liver transplant in acute-on-chronic liver failure, in the Journal of Hepatology.
-Tom: Which is relevant if you're one of the units that gets asked about A C L F patients for transplant.
-Kate: And a systematic review on mechanical circulatory support in post-infarction ventricular septal rupture with cardiogenic shock, in Critical Care.
-Tom: That's a small, grim population. I'd be surprised if a review can say much.
-Kate: Probably not. But there it is.
-Tom: Right. Wrap up?
-Kate: Go on, you do it.
-Tom: So. PRESSURE. In ventilated children on vasoactive drugs, a permissive target meant about a third less drug, with no difference in the primary outcome. It's one more reason to challenge a high pressure target that nobody chose on purpose. But it excluded brain injury, and it doesn't prove safety.
-Kate: And the guideline. Nothing new, but if a post-op patient turns up acidotic with a normal-ish glucose, think about their S G L T two inhibitor. And check your local pre-op advice rather than copying the Americans.
-Tom: And keep Townsend on your radar. Until the Supreme Court says otherwise, withholding life-sustaining treatment from someone who lacks capacity is a best-interests decision, and you should document it that way.
-Kate: And go and look at the M H R A alerts yourself this week, because we couldn't.
-Tom: Yes. Hopefully normal service next week.
-Kate: Fingers crossed. Thanks for listening.
+Tom: Yeah. Eight hospitals in South Korea, open-label, a hundred patients. Methylprednisolone ten milligrams per kilo for three days, versus one milligram per kilo for seven days. Both tapered afterwards.
+Kate: And?
+Tom: Twenty-eight-day mortality ten percent with pulse dosing, about fifteen percent without. Risk difference minus four point six percentage points, but the confidence interval runs from minus nineteen to plus nine.
+Kate: So it's compatible with almost anything.
+Tom: Exactly. Ninety-day mortality about a quarter versus thirty percent. Not significant either. And no difference in I C U admission, ventilation or E C M O.
+Kate: It's a hundred patients. It was never going to settle it.
+Tom: No. But it fits with something Josh Farkas wrote on PulmCrit a couple of weeks before this came out. He argues "there doesn't appear to be any robust evidence that pulse-dose steroids are more effective than one to two milligrams per kilo per day of prednisone" for non-neurological indications.
+Kate: To be clear, that's his view, and he wasn't writing about this trial.
+Tom: No, it predates it. But SAFER doesn't contradict him.
+Kate: And there's a placebo-controlled trial of steroids in these exacerbations registered, which is the question people actually want answered.
+Tom: So, Monday. No reason to reach for pulse dosing by reflex. And the conversation about ceilings of care still matters more than the milligrams.
+Kate: Good. Now one that sits between our two strands. A secondary analysis of A2B in Anaesthesia, online on the sixth of October.
+Tom: The U K sedation trial. Dexmedetomidine versus clonidine versus propofol.
+Kate: That's the one. The main trial found no difference in time to extubation, with more agitation and more bradycardia in the alpha-two arms.
+Tom: And this paper is about what patients remember?
+Kate: Patient-reported experience at ninety days, using the intensive care experience questionnaire. Here's the catch. About a thousand patients were alive at ninety days, and only two hundred and eighty-nine filled it in.
+Tom: So under thirty percent.
+Kate: Under thirty percent. So big responder bias. With that caveat, dexmedetomidine was associated with slightly higher remembered awareness of surroundings. Adjusted difference three point six points, confidence interval one to six point two.
+Tom: Is that good or bad? Being more aware?
+Kate: Ha, fair question. It's arguably good. But there was no difference in frightening experiences, recall or satisfaction.
+Tom: So no real story.
+Kate: The authors say it themselves. The findings "do not support the use of dexmedetomidine over propofol based on patient-reported experience".
+Tom: Right. So keep doing what you're doing. Light sedation, individualised.
+Kate: Yep. Anaesthesia proper now. And the most practical item this week is a B J A editorial, online on the second of October, about the aerosol-generating procedure list.
+Tom: Ah. The A G P list.
+Kate: So, background. In August, Scotland rewrote its infection control guidance. It dropped the split between droplet and airborne transmission, and talks simply about air transmission. And it removed the A G P list entirely.
+Tom: Entirely?
+Kate: Entirely. Instead there are respiratory categories, R one to R three, and the choice of mask or respirator depends on the likely pathogen, the patient, the exposure and the environment.
+Tom: And the editorial argues?
+Kate: That this is right, and it's what the COVID-era aerosol studies showed. In their words, many procedures on the old lists, "such as tracheal intubation, generate little or no respiratory aerosol, substantially less than talking or coughing".
+Tom: Which those of us who spent 2020 in full kit for every intubation might find slightly painful to hear.
+Kate: Ha. Yes. And they're careful to say "removing the A G P list does not mean less protection". It means protection based on risk, not on the procedure.
+Tom: Now, conflicts.
+Kate: Yes, and it's important. Almost all the authors were on the aerosol study group, and they sat on the expert panels for both the Scottish and English revisions. That's declared, but it's worth knowing. This is opinion, not new data.
+Tom: And England?
+Kate: England has removed some procedures from its list but hasn't dropped it. According to the Bristol press release, Wales has gone the Scottish way.
+Tom: So Monday depends on which side of the border you're on.
+Kate: Exactly. If you work in Scotland, check your theatre and I C U policies have caught up. In England, the A G P list still applies, for now.
+Tom: Next, the videolaryngoscopy paper. Anaesthesia, online on the second.
+Kate: A big Spanish observational study. Forty-four hospitals, over five thousand three hundred videolaryngoscopic intubations. Each one rated by the operator and by an observer, for blade, view and how easily the tube went in.
+Tom: And the headline?
+Kate: That a good view doesn't guarantee a good intubation. Even with an excellent view, glottis more than three-quarters visible, the first attempt was rated difficult or failed in about six percent.
+Tom: I mean, anyone who's used a hyperangulated blade knows that. You can see the cords beautifully and still not get the tube round the corner.
+Kate: Right. And the other way round, about a quarter of intubations with a poor view were still rated easy.
+Tom: How reliable are the ratings?
+Kate: Agreement between operator and observer was good, Krippendorff's alpha of nought point eight six. But "difficult" is still subjective, and the operator was rating their own intubation.
+Tom: There was an earlier commentary on the protocol that questioned whether you can estimate the percentage of glottic opening in real time.
+Kate: Yes. Reproducible classification, but no outcome data.
+Tom: Monday?
+Kate: When you document a videolaryngoscopic intubation, or write an airway alert, record the blade, the view and how the tube went in. Not just "grade one view".
+Tom: Because the next person needs to know it was a hard tube delivery, not an easy airway.
+Kate: Exactly.
+Tom: And last on anaesthesia, the S G L T two point from the American perioperative guideline.
+Kate: Quick update. Strictly it went online on the twenty-eighth of September, so it's recent context. As C C R pointed out, it reaffirms the 2024 recommendations rather than changing anything.
+Tom: And the American advice is stop S G L T two inhibitors three to four days before surgery.
+Kate: Whereas the U K C P O C diabetes guideline says omit them the day before and the day of surgery. Longer if there's bowel prep or a low-calorie diet. And check ketones.
+Tom: So, follow the U K guidance, and think euglycaemic ketoacidosis in anyone acidotic after surgery.
+Kate: That's it. Right. Medicolegal. And there's a lot.
+Tom: There is. Three Court of Protection judgments and two coroners' reports worth talking about. I'll start with the one that's most directly ours.
+Kate: Go on.
+Tom: A Hospital Trust versus M B. Twenty twenty-six E W C O P thirty-two, Mr Justice Cusworth. The judgment's from July, but it only appeared on the National Archives this week.
+Kate: So, newly available rather than new.
+Tom: Exactly. A man in his fifties after a cardiac arrest, with twenty to twenty-five minutes of no flow. Four weeks on I C U, Glasgow Coma Score of three off sedation.
+Kate: And the family?
+Tom: Devout Catholics, and opposed to withdrawal. The trust applied for a declaration that withdrawing ventilation was in his best interests. The Official Solicitor supported it, after cross-examining the doctors.
+Kate: How was the prognosis presented?
+Tom: This is the bit I'd want every consultant writing a witness statement to read. The evidence was framed around the twenty twenty-five European resuscitation and intensive care guidelines. The judge said poor outcome is likely with at least two of six unfavourable signs, and he found M B had "four and probably five of the six".
+Kate: Which were?
+Tom: Suppressed E E G, raised neuron-specific enolase, diffuse hypoxic injury on M R I, absent pupillary reflexes. Somatosensory evoked potentials weren't done, and the judgment records why.
+Kate: That's important. The missing test was explained, not just left out.
+Tom: Right. And the Official Solicitor made a lovely point about timing. The judge records it: "The algorithms work on the basis of recovery not probably happening after seventy-two hours, not twenty-nine days, so any element of doubt has now very sadly long gone."
+Kate: And the faith question?
+Tom: He dealt with it really carefully. Paragraph thirty-seven: "if there is to be a miracle, it is just as likely to come after the ending of M B's ventilation, as whilst that process continues."
+Kate: That's quite a humane way to put it.
+Tom: It is. And paragraph thirty-eight frames the real choice: "little more than the manner of his death". An uncontrolled death a few weeks later, after weeks of ventilation, or a planned one with proper palliative care.
+Kate: What else stood out?
+Tom: Two things. The trust got a Catholic priest to see the family, and the priest told them the Church would support the medical opinion. And the family actually wanted the court to carry the weight of the decision for them.
+Kate: That's something I see a lot. Some families can't say yes, but they don't want to fight either. Going to court isn't a failure in that situation.
+Tom: Agreed. And while the application was pending, they agreed a ceiling of care and a D N A C P R with the family.
+Kate: So, the lessons. Build the statement around the multimodal criteria, say when each test was done, and explain anything you didn't do.
+Tom: Offer chaplaincy from the family's own faith early. And describe the realistic alternative to withdrawal, not just the bad prognosis.
+Kate: Good. Second judgment?
+Tom: Cardiff and Vale University Health Board versus S T. Twenty twenty-six E W C O P forty-four, Mrs Justice Morgan. Delivered in May, published on the thirtieth of September, so in our week.
+Kate: The facts?
+Tom: A woman in her late nineties after a stroke, on nasogastric feeding. A P E G was judged inappropriate. Her son and the family's Catholic faith pressed for feeding to continue.
+Kate: And she kept pulling the tube out.
+Tom: Ten or eleven times, with a mitten on. And the judge took that seriously. Paragraph eighty-four: "for a person whose movement is impaired, so focussed and repeated an action to dislodge the N G tube carries meaning."
+Kate: That's useful. Behaviour as evidence of wishes.
+Tom: And she was clear that it wasn't futility. The feeding "is not futile, it is delivering nutrition that is keeping her alive", but it wasn't treating the underlying brain injury.
+Kate: So how did her faith factor in?
+Tom: Very significant weight, the judge said. Her wish to prolong life was important, but capable of being displaced, and there's no hierarchy among the factors. Removing the tube and going home for end-of-life care was in her best interests.
+Kate: And there was a time element too.
+Tom: Yes, the window for getting her home safely was closing. One more detail. The judgment mentions a D N R notice that had been wrongly added, which she tore up.
+Kate: Ouch. That's the kind of thing that ends up in a published judgment and does real damage to trust.
+Tom: Exactly. Get the D N A C P R right and discussed, every time.
+Kate: Third one's the anaesthesia case.
+Tom: Royal Berkshire versus B M. Twenty twenty-six E W C O P fifty, Mrs Justice Henke. Released this week.
+Kate: A woman in her mid-eighties with dementia, needing a mastectomy under general anaesthesia.
+Tom: And the consultant anaesthetist gave oral evidence. Risks were quantified, about one point two percent mortality and around fifteen percent serious complications, including possible permanent cognitive decline.
+Kate: And the judge counted that cognitive risk as a real burden in the best-interests balance.
+Tom: She did. What's interesting is the care plan. Family present until induction, observations and gown delayed until she's asleep, first on the list, oral anxiolytic if needed. Then, only as a last resort, holding her hands and legs to place a cannula or give an intramuscular drug.
+Kate: The judge called that "a well-thought-out and sensitive plan".
+Tom: She did. But there's a detail I want to flag. The plan also included telling her she was in hospital for a C T scan, not for cancer surgery. And the court approved the plan without separately analysing that.
+Kate: Hmm. I'm uneasy about that.
+Tom: Me too. That's our opinion, not the court's. But if you're ever planning anything like that, I'd want the reasoning written down.
+Kate: Agreed. And the broader lesson for anaesthetists: put a written, stepwise induction and restraint plan before the court in advance. They'll scrutinise it.
+Tom: Right. The coroners.
+Kate: The first is a prevention of future deaths report from South Wales Central, published on the thirtieth of September, addressed to the Welsh Government and Cardiff and Vale.
+Tom: The facts?
+Kate: A dialysis patient with an empyema spent about eight and a half hours in the emergency department. Intravenous antibiotics were prescribed and never given. A planned E C G wasn't done. He arrested on dialysis.
+Tom: And causation?
+Kate: Not established on the balance of probabilities. But the coroner's concerns are stark. A department staffed for sixty to seventy patients had a hundred and eighty-seven in it. She says overcapacity, under-establishment and exit block haven't materially changed. And she talks about a "culture of acceptance which precludes radical changes".
+Tom: That phrase will land with a lot of people.
+Kate: It should. For us, it's a nudge. When outreach sees a patient boarded in E D, check that the time-critical drugs have actually been given, not just prescribed.
+Tom: And the second report is older, from Essex. Published on the seventeenth of September, so recent context, but I think it's the most important one for I C U this month.
+Kate: Go on.
+Tom: A young adult with a sepsis-like illness, never transferred to critical care. The coroner found that was "in part due to a conflict between the hospital departments as to whether this very unwell patient met the criteria to be in C C U".
+Kate: Oh dear.
+Tom: And failing to transfer her within about an hour of arrival was described as "a serious failure". On the balance of probabilities, she'd have survived.
+Kate: What did the trust do?
+Tom: More E D staff, a deteriorating-patient nurse role, and weekly audits of referral-to-transfer times from E D to critical care. The coroner also raised whether consultants in receiving departments had the right registration standard. The trust replied that one of the critical care consultants involved was a locum with the European diploma and fellowship of the faculty, but not on the specialist register.
+Kate: That's going to make a few people sit up.
+Tom: It is. So two lessons. A disagreement about whether someone "meets criteria" should never delay review or transfer. Have a fast senior-to-senior route to settle it, and audit it.
+Kate: And when you write a coroner's statement, be ready for questions about capacity at the time, and about your own registration.
+Tom: Last legal bit, very quickly. Townsend versus Epsom and St Helier, the case about whether a so-called clinical decision has to be a best-interests decision. The Supreme Court hearing is now confirmed for the twelfth and thirteenth of January.
+Kate: Until then, the Court of Appeal's position stands. Document withholding life-sustaining treatment as a best-interests decision.
+Tom: Exactly.
+Kate: Two quick ones before we finish. In the Journal of Hepatology, online on the thirtieth, a big prospective cohort of liver transplantation in acute-on-chronic liver failure. Sixty-three centres.
+Tom: Numbers?
+Kate: Among patients with grade three A C L F who were transplanted, about one in five died within a year. That rose to over forty percent with five or six organ failures. Of those declined for transplant with grade three, eighty-eight percent died within a year.
+Tom: Heavily confounded, obviously. Those declined were sicker.
+Kate: Obviously. But it's a reason to have the transplant conversation early in severe A C L F, rather than assume it's hopeless.
+Tom: And Brain T T M?
+Kate: Tiny pathophysiology trial, thirty-four patients. Targeting brain temperature with an intracranial probe was no better than targeting bladder temperature. The brain ran about a third of a degree warmer during maintenance.
+Tom: So keep using the bladder probe.
+Kate: Keep using the bladder probe. Right, wrap up?
+Tom: Go on, you start.
+Kate: PRESSURE. In ventilated children, a fifth-centile pressure floor meant a third less vasoactive drug for a three-millimetre difference in pressure, with no difference in outcome. Less isn't proven better, but more isn't obviously better.
+Tom: From the courts, if you write neuroprognostic evidence after cardiac arrest, read Re M B. Build it around the multimodal criteria, timed, and explain what you didn't do.
+Kate: And from the coroners, don't let an argument about admission criteria delay a sick patient getting to critical care. Audit your referral-to-transfer times.
+Tom: And if you're in Scotland, the A G P list has gone. Check your local policies.
+Kate: Lovely. Thanks for listening.
 Tom: Bye for now.

@@ -13,6 +13,9 @@ import base64, json, os, subprocess, sys, time, urllib.error, urllib.request
 MODEL = "gemini-3.8-flash-tts"
 VOICES = {"Kate": "Kore", "Tom": "Charon"}
 SEGMENT_CHARS = 2500
+# Normal delivery is about 160 words a minute. Audio much shorter than this
+# floor means Gemini silently dropped lines, so the segment is re-rendered.
+MIN_SECONDS_PER_WORD = 60 / 210
 NOTE = ("A relaxed, natural conversation between two British intensive care doctors who know each other well, "
         "recorded for a weekly podcast. Both speak with educated Southern English accents. Conversational pace, "
         "with natural pauses, small reactions and the occasional laugh where it fits. Not a news-reader delivery.")
@@ -52,27 +55,46 @@ def request(seg):
         return json.load(r)
 
 
+def render(seg, label):
+    """Return PCM for seg, or None. Splits in half and retries if audio is truncated."""
+    for attempt in range(5):
+        try:
+            cand = request(seg)["candidates"][0]
+            if cand.get("finishReason") == "PROHIBITED_CONTENT":
+                print(f"segment {label}: PROHIBITED_CONTENT; soften the wording and re-run", flush=True)
+                return None
+            pcm = base64.b64decode(cand["content"]["parts"][0]["inlineData"]["data"])
+            break
+        except urllib.error.HTTPError as e:
+            print(f"segment {label}: HTTP {e.code} {e.read()[:300]!r}", flush=True)
+            if e.code not in (429, 500, 503):
+                return None
+        except Exception as e:
+            print(f"segment {label}: {e!r}", flush=True)
+        time.sleep(min(2 ** (attempt + 2), 60))
+    else:
+        return None
+    words = sum(len(l.split()) for l in seg)
+    seconds = len(pcm) / 48000
+    if seconds < words * MIN_SECONDS_PER_WORD:
+        if len(seg) < 2:
+            print(f"segment {label}: {seconds:.0f}s for {words} words, looks truncated", flush=True)
+            return None
+        print(f"segment {label}: {seconds:.0f}s for {words} words, looks truncated; splitting", flush=True)
+        half = len(seg) // 2
+        a, b = render(seg[:half], f"{label}a"), render(seg[half:], f"{label}b")
+        if a is None or b is None:
+            return None
+        return a + b"\0" * int(48000 * 0.25) + b
+    return pcm
+
+
 wavs, failed = [], []
 for i, seg in enumerate(segments):
     raw = os.path.join(work, f"s{i:02d}.pcm")
     wav = os.path.join(work, f"s{i:02d}.wav")
     if not os.path.exists(raw):
-        pcm = None
-        for attempt in range(5):
-            try:
-                cand = request(seg)["candidates"][0]
-                if cand.get("finishReason") == "PROHIBITED_CONTENT":
-                    print(f"segment {i}: PROHIBITED_CONTENT; soften the wording and re-run", flush=True)
-                    break
-                pcm = base64.b64decode(cand["content"]["parts"][0]["inlineData"]["data"])
-                break
-            except urllib.error.HTTPError as e:
-                print(f"segment {i}: HTTP {e.code} {e.read()[:300]!r}", flush=True)
-                if e.code not in (429, 500, 503):
-                    break
-            except Exception as e:
-                print(f"segment {i}: {e!r}", flush=True)
-            time.sleep(min(2 ** (attempt + 2), 60))
+        pcm = render(seg, str(i))
         if pcm is None:
             failed.append(i)
             continue

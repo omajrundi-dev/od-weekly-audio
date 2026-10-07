@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -27,20 +27,29 @@
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
     <item>
-      <title>7 October 2026: PRESSURE permissive BP targets; Townsend heads to the Supreme Court</title>
-      <guid isPermaLink="false">od-digest-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-07.mp3" length="4854312" type="audio/mpeg"/>
-      <itunes:duration>809</itunes:duration>
+      <title>7 October 2026 (full edition): PRESSURE, neuroprognosis in the Court of Protection, and an ICU-referral PFD</title>
+      <guid isPermaLink="false">od-digest-2026-10-07-full</guid>
+      <pubDate>Wed, 07 Oct 2026 14:30:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-07.mp3" length="8460621" type="audio/mpeg"/>
+      <itunes:duration>1410</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <description><![CDATA[<p><strong>Covers 30 September to 7 October 2026.</strong> A shorter edition, because the primary sources were blocked this week. Findings are taken from the Critical Care Reviews subscriber newsletter 773 (4 October), and the papers themselves were not read.</p>
+      <description><![CDATA[<p><strong>Covers 30 September to 7 October 2026.</strong> This replaces the shorter edition published earlier today. Items first published before 30 September are marked as recent context.</p>
 <ul>
-<li><strong>PRESSURE</strong> (JAMA, online 28 Sep; recent context, CCR's lead). In about 1,900 ventilated children on vasoactive drugs, a permissive MAP target near the 5th centile showed no difference in the 30-day mortality and ventilation composite, with about 37.5% less vasoactive drug. Brain injury and post-cardiotomy patients were excluded. Takeaway: it supports challenging unnecessarily high MAP targets, but it is not proof of safety. <a href="https://doi.org/10.1001/jama.2026.19747">JAMA</a></li>
-<li><strong>SAFER</strong> (AJRCCM, online 30 Sep). An open-label RCT in 100 patients with acute exacerbation of IPF compared pulse methylprednisolone with non-pulse dosing. There was no significant mortality difference and the confidence intervals were very wide. Takeaway: no change to practice. <a href="https://www.atsjournals.org/journal/ajrccm">AJRCCM</a></li>
-<li><strong>2026 AHA/ACC perioperative cardiovascular guideline</strong> (JACC). This reaffirms the 2024 recommendations: no routine stress testing in low-risk patients, and withhold SGLT2 inhibitors 3 to 4 days before surgery where feasible. Takeaway: check this against local and UK guidance before changing pre-op advice. <a href="https://www.jacc.org/">JACC</a></li>
-<li><strong>Medicolegal: Townsend v Epsom and St Helier</strong> (recent context). The Court of Appeal held in March that there is no "clinical decision" carve-out from best interests. The Supreme Court granted permission in June, and the case page lists a hearing for January 2027. Takeaway: document withholding of life-sustaining treatment as a best-interests decision. <a href="https://supremecourt.uk/cases/uksc-2026-0050">UKSC case page</a></li>
+<li><strong>MHRA:</strong> no new National Patient Safety Alerts, device safety notices or Drug Safety Update this week. The field safety notice list for 28 Sep to 2 Oct was not yet published. There was a minor leaflet defect for levetiracetam granules (EL(26)A/40). <a href="https://www.gov.uk/drug-device-alerts">MHRA alerts</a></li>
+<li><strong>PRESSURE</strong> (JAMA, 28 Sep; recent context). 1,900 ventilated children in 23 paediatric ICUs: a permissive MAP target above the 5th centile meant 37.5% less vasoactive drug for a 3 mmHg difference in pressure. Primary outcome: probabilistic index 0.52 (0.49 to 0.54). Takeaway: less is not proven better, but more is not obviously better. <a href="https://doi.org/10.1001/jama.2026.19747">Paper</a> · <a href="https://iccn.substack.com/p/the-pressure-barely-moved-the-dose">ICCN commentary</a></li>
+<li><strong>SAFER</strong> (AJRCCM, 30 Sep). Pulse vs non-pulse methylprednisolone in acute exacerbation of IPF, n=100: no significant mortality difference, with very wide confidence intervals. <a href="https://doi.org/10.1093/ajrccm/aamag529">Paper</a> · <a href="https://emcrit.org/pulmcrit/pulse/">PulmCrit on pulse steroids</a></li>
+<li><strong>A2B secondary analysis</strong> (Anaesthesia, 6 Oct). Patient-reported ICU experience was no better with alpha-2 agonist sedation than with propofol; only 29% of survivors responded. <a href="https://doi.org/10.1111/anae.70437">Paper</a></li>
+<li><strong>BJA editorial on the AGP list</strong> (2 Oct). Scotland has dropped its aerosol-generating procedure list and moved to risk-based "air transmission" categories. England still has the list. The authors sat on the guidance panels. <a href="https://doi.org/10.1016/j.bja.2026.09.003">Editorial</a></li>
+<li><strong>Videolaryngoscopy, VCISpain</strong> (Anaesthesia, 2 Oct). 5,302 intubations: even with an excellent view, about 6% of first attempts were difficult or failed. Document the blade, the view and how the tube was delivered. <a href="https://doi.org/10.1111/anae.70417">Paper</a></li>
+<li><strong>SGLT2 inhibitors before surgery.</strong> The 2026 AHA/ACC guideline reaffirms its 2024 advice to stop 3 to 4 days before. UK CPOC/JBDS guidance: omit them the day before and the day of surgery, longer with bowel prep, and check ketones. <a href="https://abcd.care/sites/default/files/site_uploads/JBDS_Guidelines_Current/JBDS_03_CPOC_Diabetes_Surgery_Guideline_Updated_2022.pdf">CPOC/JBDS</a></li>
+<li><strong>A Hospital Trust v MB [2026] EWCOP 32</strong> (newly available). Withdrawal of ventilation after cardiac arrest. The evidence was framed on ERC/ESICM 2025 multimodal criteria, and the judgment explains why SSEP was not done. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/32">Judgment</a></li>
+<li><strong>Cardiff and Vale UHB v ST [2026] EWCOP 44</strong> (30 Sep). NG feeding withdrawn despite the family's faith-based objection. Repeated tube removal was treated as evidence of her wishes. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/44">Judgment</a></li>
+<li><strong>Royal Berkshire NHS FT v BM [2026] EWCOP 50</strong> (released 6 Oct). Surgery under GA was approved with a stepwise, last-resort restraint plan. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/50">Judgment</a></li>
+<li><strong>Prevention of Future Deaths reports.</strong> Ref 2026-0390 (South Wales Central, 30 Sep): ED overcrowding, and prescribed antibiotics never given. Ref 2026-0353 (Essex, 17 Sep; recent context): a dispute over ICU admission criteria delayed transfer. <a href="https://www.judiciary.uk/prevention-of-future-death-reports/">PFD reports</a></li>
+<li><strong>Townsend v Epsom and St Helier.</strong> The Supreme Court hearing is confirmed for 12 to 13 January 2027. <a href="https://supremecourt.uk/cases/uksc-2026-0050">UKSC</a></li>
+<li>Also mentioned: liver transplant in ACLF (<a href="https://doi.org/10.1016/j.jhep.2026.09.015">J Hepatol</a>) and Brain-TTM (<a href="https://doi.org/10.1177/0271678X261496659">JCBFM</a>).</li>
 </ul>
-<p><strong>Unchecked this week (blocked):</strong> all journal sites (NEJM, Lancet, JAMA, BJA, Anaesthesia, ICM, AJRCCM, Chest, Crit Care, CCM, Resuscitation), PubMed, MHRA alerts and Drug Safety Update, NICE, RCoA, Association of Anaesthetists, ICS, FICM, NCEPOD, HSSIB, judiciary.uk PFD reports, Find Case Law, Mental Capacity Law and Policy, 39 Essex, and FOAMed sites. Please check the MHRA field safety notices yourself.</p>]]></description>
+<p><strong>Unchecked this week:</strong> full texts behind Cloudflare (JAMA, BJA, Wiley, JACC, BMC Critical Care, Springer ICM), so numbers come from abstracts. Also unchecked: the Critical Care Reviews site, 39 Essex, RCoA, FICM and CPOC. The JAMA editorial on PRESSURE was not read.</p>]]></description>
     </item>
   </channel>
 </rss>
