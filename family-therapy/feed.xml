@@ -26,5 +26,26 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>7 October 2026: Open Dialogue's ODDESSI trial, and circular questioning</title>
+      <guid isPermaLink="false">ft-digest-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/episodes/2026-10-07.mp3" length="11882441" type="audio/mpeg"/>
+      <itunes:duration>1980</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Covers 30 September to 7 October 2026. A quiet week for new family therapy research, so Hannah and Ben spend longer on the ODDESSI trial of Open Dialogue (published online in late August, in the October print issue, so context rather than news) and on a concept corner on circular questioning.</p>
+<p><strong>Items</strong></p>
+<ul>
+<li>ODDESSI, Open Dialogue versus treatment as usual, cluster-randomised trial, 494 adults in crisis: no difference in time to first relapse; lower inpatient admission and better self-rated recovery and satisfaction as secondary outcomes. <a href="https://doi.org/10.1016/S2215-0366(26)00229-4">Lancet Psychiatry 2026;13(10):841-851</a>. Discussed from the abstract and press coverage; full text not read.</li>
+<li>Parallel parent-child mindfulness RCT with 116 migrant dyads in Hong Kong: benefits mostly for parents, little for children. <a href="https://doi.org/10.1111/famp.70200">Family Process, online 2 Oct</a>. Abstract only.</li>
+<li>Conversation analysis of how therapists open collaborative-dialogic meetings (10 meetings, Western Sydney). <a href="https://doi.org/10.1007/s10591-026-09798-8">Contemporary Family Therapy, online 1 Oct</a>. Qualitative, very small corpus.</li>
+<li>Growing Up in the 2020s first-year findings: a quarter of Year 8 pupils in England with a probable mental health condition. <a href="https://www.annafreud.org/news/1-in-4-year-8s-in-england-likely-to-have-a-mental-health-condition">Anna Freud, 1 Oct</a>. Also, as context, the <a href="https://www.annafreud.org/news/one-million-children-could-miss-out-on-mental-health-treatment">Future Minds report card, 28 Sep</a>.</li>
+<li>Diary: AFT conference, Glasgow, 15-16 October.</li>
+</ul>
+<p><strong>Concept corner: circular questioning.</strong> Further reading: Cecchin (1987), Hypothesizing, circularity, and neutrality revisited: an invitation to curiosity, Family Process 26; Tomm (1987-1988), Interventive interviewing, Family Process.</p>
+<p><strong>From the training room:</strong> the first session with a family who do not want to be there.</p>
+<p><strong>Unchecked this week:</strong> publisher sites for Journal of Family Therapy and ANZ Journal of Family Therapy (database checks found nothing); Lancet page (blocked); AFT news and Context, NICE in-development pages, NHS England, Children's Commissioner, Tavistock and Portman, Institute of Family Therapy; domestic abuse, neurodiversity and workforce policy; the two ODDESSI commentaries were not read.</p>
+<p>AI-generated summary; check the sources before relying on them in practice.</p>]]></description>
+    </item>
   </channel>
 </rss>
