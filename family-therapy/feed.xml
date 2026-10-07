@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Family Therapy Digest</title>
+    <link>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/</link>
+    <atom:link href="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private weekly audio digest on family therapy and systemic practice. Not for public listing.</description>
+    <language>en-gb</language>
+    <copyright>Personal use only</copyright>
+    <lastBuildDate>Wed, 07 Oct 2026 21:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png</url>
+      <title>Family Therapy Digest</title>
+      <link>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/</link>
+    </image>
+    <itunes:image href="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png"/>
+    <itunes:author>Family Therapy Digest</itunes:author>
+    <itunes:summary>A private weekly audio digest on family therapy and systemic practice.</itunes:summary>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+  </channel>
+</rss>
