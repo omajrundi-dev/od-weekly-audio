@@ -23,3 +23,8 @@ These override the generic steps in the scheduled prompt where they differ.
 - Render with `python3 tools/render.py script.txt <out.mp3> "<D Month YYYY>"`.
 - Use only `gemini-3.8-flash-tts`, with Kate as Kore and Tom as Charon. Never switch models partway through an episode: the accents change, and Omar finds that distracting. The script exits non-zero rather than mixing models.
 - The Gemini key is meant to be on a paid tier. If you get 429 quota errors that mention the free tier, billing has lapsed. Re-run later (finished segments are cached), or fall back to Kokoro for the whole episode and say so in the email.
+
+## Length and depth (Omar, 7 Oct 2026)
+- Omar prefers longer, more in-depth episodes. This overrides the scheduled prompt's 4,000-4,500 words and 30-minute cap.
+- On a full week, aim for about 5,500-7,000 words (roughly 35-45 minutes). Hard cap: 50 minutes.
+- Spend the extra time on depth, not more items. Go further into methods, the trial's place in prior evidence, discourse and disagreement, and practical implications. A quiet week is still shorter: never pad.
