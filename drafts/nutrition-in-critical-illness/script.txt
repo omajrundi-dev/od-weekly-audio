@@ -1,0 +1,67 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is nutrition in critical illness.
+Kate: Which we all prescribe on autopilot. But recent trials have taken apart the idea that more is better, and the guidelines haven't fully caught up.
+Tom: Start with calories. The old teaching was hit your target early, because calorie debt kills.
+Kate: Mostly from observational data. Then EDEN, JAMA twenty twelve. A thousand ventilated patients with acute lung injury, trophic versus full enteral feeding for six days. About four hundred kilocalories a day against thirteen hundred. No difference in ventilator-free days or sixty-day mortality, and less vomiting with trophic.
+Tom: Then PermiT.
+Kate: NEJM twenty fifteen, Arabi. Nearly nine hundred patients. Permissive underfeeding, forty to sixty percent of calculated needs, against seventy to a hundred percent, with protein kept the same in both arms. Ninety-day mortality twenty-seven percent against twenty-nine. No difference.
+Tom: And the big one is NUTRIREA three.
+Kate: Lancet Respiratory Medicine, twenty twenty-three. Just over three thousand ventilated adults in shock. For the first week, six kilocalories per kilo with nought point two to nought point four grams of protein, against twenty-five kilocalories and one to one point three grams.
+Tom: That's barely feeding at all.
+Kate: Barely. Ninety-day mortality was forty-one percent against forty-three, not significant. But the low group were ready for I C U discharge about a day sooner, with less vomiting, less diarrhoea, less bowel ischaemia and less liver dysfunction.
+Tom: And a post hoc analysis this year in Intensive Care Medicine found no excess kidney injury with the low arm, even in people with pre-existing renal dysfunction.
+Kate: So fewer calories in week one hasn't harmed anyone, and in shock it may help.
+Tom: Parenteral timing is the older story. EPaNIC, NEJM twenty eleven.
+Kate: Four and a half thousand patients. Supplemental parenteral nutrition within forty-eight hours, against not before day eight.
+Tom: And late won.
+Kate: Late won. Slightly faster discharge alive from I C U and hospital, fewer I C U infections, twenty-three percent against twenty-six, less cholestasis, and three fewer days of R R T. Mortality the same.
+Tom: And route on its own doesn't seem to matter. CALORIES in the U K and NUTRIREA two found no mortality difference between vein and gut.
+Kate: Which suggests the problem is dose, not route.
+Tom: Protein. This is where it's really moved.
+Kate: The physiology said more protein, less muscle wasting.
+Tom: And the trials?
+Kate: EFFORT Protein, Lancet twenty twenty-three. Thirteen hundred high-risk ventilated patients, at least two point two grams per kilo against no more than one point two. No difference in time to discharge alive. Sixty-day mortality thirty-five percent against thirty-two. And a subgroup signal of harm in patients with A K I and higher SOFA scores.
+Tom: Though delivered doses were lower, about one point six against nought point nine.
+Kate: Fair. Then PRECISe, Lancet twenty twenty-four. Dutch and Belgian, double-blind, nine hundred and thirty-five patients. Two grams against one point three, in isocaloric feeds.
+Tom: Primary outcome was quality of life, wasn't it?
+Kate: EQ five D health utility over six months. And it was worse with high protein, a mean difference of minus nought point nought five. More G I intolerance too. Mortality wasn't significantly different.
+Tom: Then TARGET Protein.
+Kate: JAMA twenty twenty-five. A cluster crossover trial in eight Australian and New Zealand units, nearly three and a half thousand patients. A hundred grams of protein per litre against sixty-three, same calories. No difference in days alive and out of hospital at day ninety. Ninety-day survival seventy-three against seventy-four percent.
+Tom: And there's a meta-analysis pulling these together.
+Kate: Summers and colleagues, Clinical Nutrition, twenty twenty-six. Fourteen trials, about sixty-five hundred patients. More protein had no effect on mortality. In A K I, across three trials, mortality was higher with more protein, a risk ratio of one point two nine, though the trials defined A K I differently.
+Tom: Still to report is REPLENISH, from Saudi Arabia and Kuwait. Extra enteral protein from day five, about twenty-five hundred patients, ninety-day mortality.
+Kate: So, guidelines. ESPEN twenty twenty-three is the closest to the trials. In the early phase, give hypocaloric nutrition, no more than seventy percent of energy expenditure. After day three you can go up to eighty to a hundred percent of measured expenditure. Protein is one point three grams per kilo, built up progressively. They say outright there's no support for going higher.
+Tom: And they push indirect calorimetry.
+Kate: They recommend it in ventilated patients. If you haven't got it, ventilator V C O two times eight point one nine beats the predictive equations.
+Tom: Does calorimetry change outcomes, though?
+Kate: Not proven. EAT-ICU, calorimetry-guided full feeding from day one, was neutral. A twenty twenty-four meta-analysis of nine trials leaned towards benefit, but the confidence interval crossed one.
+Tom: And ASPEN?
+Kate: ASPEN twenty twenty-two says twelve to twenty-five kilocalories per kilo for the first seven to ten days, protein one point two to two grams, and no supplemental parenteral nutrition before day seven. That came out before EFFORT, PRECISe and TARGET Protein, so its upper protein range now looks too high.
+Tom: And the U K?
+Kate: NICE C G thirty-two, last updated in twenty seventeen. It isn't written for I C U, but its refeeding criteria are still what we all use.
+Tom: Refeeding, then. Doig, Lancet Respiratory Medicine twenty fifteen. Three hundred and thirty-nine I C U patients who developed refeeding hypophosphataemia within seventy-two hours of starting feed. Protocolised caloric restriction against carrying on as normal.
+Kate: Primary outcome?
+Tom: Days alive after I C U discharge. Negative. But sixty-day survival was ninety-one percent with restriction, against seventy-eight with normal feeding. That's a secondary outcome, so it's suggestive, not definitive. ESPEN now recommends restricting energy for forty-eight hours, then building back up.
+Kate: And NICE's high-risk group: start at ten kilocalories per kilo, or five in extreme cases.
+Tom: So, Monday practice. What do you actually do?
+Kate: My own approach. Start enteral feeding low, within forty-eight hours, once shock's controlled. I'm comfortable well under target for the first few days, then build up from about day three or four.
+Tom: Protein?
+Kate: About one point two to one point three grams per kilo. Higher only for a clear reason like burns. And I'd be cautious with high protein in A K I.
+Tom: Parenteral nutrition?
+Kate: Not as a top-up in week one in someone who was previously well-nourished. If the gut's unusable, ESPEN says start within three to seven days. Sooner if they're severely malnourished, but low dose and with refeeding precautions.
+Tom: And phosphate.
+Kate: Check it daily in the first week. If it drops after feeding starts, cut calories for forty-eight hours.
+Tom: Outcomes, briefly. None of these trials moved mortality. The effects were on recovery, gut complications and quality of life.
+Kate: Which brings us to after I C U. On the ward, intake often falls off a cliff. A twenty twenty-five systematic review found protein delivery on the ward consistently below target, and feeding tube removal was the main barrier.
+Tom: Is there trial evidence for doing better?
+Kate: Only early-phase. INTENT, a phase two trial from Australia and New Zealand, continued tailored nutrition to hospital discharge. About two hundred and seventy more kilocalories a day, but no difference in clinical outcomes, which it wasn't powered for.
+Tom: Grey zones?
+Kate: Long-stay patients. Obesity. And whether protein given late, with exercise, helps when early protein doesn't. ESPEN flags that one too.
+Tom: Take-homes.
+Kate: One. Less is fine early. Underfeeding in the first week hasn't caused harm in EDEN, PermiT or NUTRIREA three, and in shock it means fewer gut complications.
+Tom: Two. High protein hasn't helped, and it may harm, especially in A K I. Aim for about one point three grams per kilo.
+Kate: Three. Don't start supplemental parenteral nutrition in week one in a well-nourished patient.
+Tom: Four. Watch phosphate. If refeeding hypophosphataemia develops, restrict calories for forty-eight hours.
+Kate: Five. Make sure nutrition carries on after I C U, and don't let the tube come out before they're actually eating.
+Tom: Thanks for listening.
+Kate: Bye for now.

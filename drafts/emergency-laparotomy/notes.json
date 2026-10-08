@@ -1,0 +1,105 @@
+{
+  "title_topic": "Emergency laparotomy: perioperative care and who needs ICU",
+  "summary": "A consultant-level look at emergency laparotomy for anaesthetists and intensivists. The NELA tenth report (October 2025; April 2023 to April 2024, 23,560 patients) gave 30-day mortality of 8.1 percent, down from 11.7 percent in year 1. Consultant presence for high-risk cases is now high (surgeon 96.4 percent, anaesthetist 92.3 percent), and 77.6 percent of high-risk patients went directly to critical care. Timeliness is still poor: 8.4 percent of RCS-Immediate patients reached theatre within 6 hours, and about 15 percent of patients with suspected sepsis received antibiotics within 1 hour. The rebuilt 13-variable NELA parsimonious score (concordance 0.86) discriminates about as well as P-POSSUM in external cohorts, but calibration varies by setting. In NELA patients at extreme risk (predicted mortality of 50 percent or more), some were still alive at 90 days. EPOCH (Lancet 2019), a stepped-wedge quality improvement trial, was neutral. OPTIMISE II (BMJ 2024, elective surgery) found no benefit from cardiac output-guided therapy and more early arrhythmias. FLO-ELA (3,140 patients, recruitment closed November 2024, primary outcome changed to days alive and out of hospital at 90 days) had not published results as of 8 October 2026. Postoperative geriatric review is strongly associated with lower mortality (observational, likely confounded), but only about a third of eligible patients receive it. The first NoLap report (May 2026) found 80 percent 30-day mortality among patients not operated on, and the ELF2 cohort showed that about a fifth survive to 90 days. RCS 2018 standards ask for an in-person three-consultant assessment above 25 percent predicted mortality and direct critical care admission above 5 percent at the end of surgery. A 2026 Australian cohort found the NELA score predicted death but not the need for ICU therapies. Montgomery and McCulloch frame how not operating should be offered and discussed.",
+  "takeaways": [
+    "NELA 30-day mortality is now 8.1 percent, but time to theatre and time to antibiotics remain the weak links.",
+    "The NELA score is a population estimate: present it as a range, and treat frailty (CFS 5 or more) and missing risk assessments as high risk.",
+    "Cardiac output-guided fluid has no supporting trial evidence in emergency laparotomy yet: OPTIMISE II was neutral and FLO-ELA has not reported.",
+    "Involve a geriatrician early: postoperative geriatric review is the strongest (observational) association with survival, yet only about a third of eligible patients get it.",
+    "Above 25 percent predicted mortality, make the decision jointly at consultant level, offer not operating as a real option, and tell families that some patients survive without surgery."
+  ],
+  "sources": [
+    {
+      "label": "NELA Tenth Patient Report (RCoA/HQIP, October 2025)",
+      "url": "https://www.hqip.org.uk/wp-content/uploads/2026/04/Ref.-605-NELA-Tenth-Patient-Report-2025.pdf"
+    },
+    {
+      "label": "NELA NoLap Year 1 Report (May 2026)",
+      "url": "https://www.nela.org.uk/s/NoLap-Report2025_11-June-2026.pdf"
+    },
+    {
+      "label": "Eugene et al. NELA parsimonious prognostic model, Anaesthesia 2023",
+      "url": "https://doi.org/10.1111/anae.16096"
+    },
+    {
+      "label": "Eugene et al. NELA risk model development, BJA 2018",
+      "url": "https://doi.org/10.1016/j.bja.2018.06.026"
+    },
+    {
+      "label": "Lai et al. P-POSSUM vs NELA in Singapore, World J Surg 2021",
+      "url": "https://doi.org/10.1007/s00268-021-06120-5"
+    },
+    {
+      "label": "Barghash et al. NELA vs P-POSSUM, Cureus 2022",
+      "url": "https://doi.org/10.7759/cureus.32859"
+    },
+    {
+      "label": "Javanmard-Emamghissi et al. Extreme-risk patients in NELA, Anaesthesia 2023",
+      "url": "https://doi.org/10.1111/anae.16130"
+    },
+    {
+      "label": "EPOCH trial, Peden et al. Lancet 2019",
+      "url": "https://doi.org/10.1016/S0140-6736(18)32521-2"
+    },
+    {
+      "label": "Emergency Laparotomy Collaborative, Aggarwal et al. JAMA Surg 2019",
+      "url": "https://doi.org/10.1001/jamasurg.2019.0145"
+    },
+    {
+      "label": "OPTIMISE II trial, BMJ 2024",
+      "url": "https://doi.org/10.1136/bmj-2024-080439"
+    },
+    {
+      "label": "FLO-ELA protocol, Trials 2023",
+      "url": "https://doi.org/10.1186/s13063-023-07275-3"
+    },
+    {
+      "label": "FLO-ELA statistical analysis plan, Trials 2026",
+      "url": "https://doi.org/10.1186/s13063-026-09552-3"
+    },
+    {
+      "label": "FLO-ELA ISRCTN14729158 registry",
+      "url": "https://www.isrctn.com/ISRCTN14729158"
+    },
+    {
+      "label": "Oliver et al. Organisational factors and mortality after emergency laparotomy, BJA 2018",
+      "url": "https://doi.org/10.1016/j.bja.2018.07.040"
+    },
+    {
+      "label": "Park et al. Clinical Frailty Scale and outcomes after emergency laparotomy: meta-analysis, BJS Open 2024",
+      "url": "https://doi.org/10.1093/bjsopen/zrae078"
+    },
+    {
+      "label": "ELF2: Price et al. Older patients who require but do not undergo emergency laparotomy, BJA 2024",
+      "url": "https://doi.org/10.1016/j.bja.2024.07.009"
+    },
+    {
+      "label": "ELF2 decision-making: Price et al. BJA 2026",
+      "url": "https://doi.org/10.1016/j.bja.2026.03.059"
+    },
+    {
+      "label": "RCS England. The High-Risk General Surgical Patient: Raising the Standard (2018)",
+      "url": "https://www.rcseng.ac.uk/-/media/Files/RCS/News-and-events/Media-centre/2018-press-releases-documents/RCS-Report-The-HighRisk-General-Surgical-Patient--Raising-the-Standard--December-2018.pdf"
+    },
+    {
+      "label": "Punch et al. NELA score and need for ICU admission, Anaesth Intensive Care 2026",
+      "url": "https://doi.org/10.1177/0310057X251377313"
+    },
+    {
+      "label": "Montgomery v Lanarkshire Health Board [2015] UKSC 11",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2015/11"
+    },
+    {
+      "label": "McCulloch v Forth Valley Health Board [2023] UKSC 26",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2023/26"
+    },
+    {
+      "label": "CPOC/BGS guideline: perioperative care for people living with frailty (2021)",
+      "url": "https://cpoc.org.uk/guidelines-resources-guidelines/perioperative-care-people-living-frailty"
+    },
+    {
+      "label": "CPOC/FICM Enhanced Perioperative Care guidance (2020)",
+      "url": "https://cpoc.org.uk/guidance-establishing-and-delivering-enhanced-perioperative-care-services"
+    }
+  ]
+}

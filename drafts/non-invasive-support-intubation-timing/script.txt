@@ -1,0 +1,68 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is non-invasive respiratory support and the timing of intubation.
+Kate: It's the decision we make most nights. Pneumonia, sixty litres of high flow, breathing at thirty-five. Tube now, or wait?
+Tom: And this year brought a big New England trial and a new American guideline, so it's worth a fresh look.
+Kate: Start with FLORALI.
+Tom: New England Journal, twenty fifteen. Three hundred and ten non-hypercapnic patients, P F ratio three hundred or less. High flow, standard oxygen, or face-mask N I V.
+Kate: Primary outcome?
+Tom: Intubation at day twenty-eight. Thirty-eight percent with high flow, forty-seven with standard oxygen, fifty with N I V. Not significant.
+Kate: But everyone remembers the mortality.
+Tom: Right. Ninety-day hazard ratios of about two for standard oxygen and two and a half for N I V, both against high flow. A secondary outcome in a small trial, but it made high flow the default.
+Kate: Then the helmet.
+Tom: Patel, JAMA twenty sixteen. Eighty-three patients with A R D S in one Chicago unit, stopped early for efficacy. Intubation eighteen percent with the helmet, sixty-two with the mask.
+Kate: Tiny and stopped early. Effects like that usually shrink.
+Tom: They did. HENIVOT, JAMA twenty twenty-one. A hundred and nine COVID patients in Italy. Helmet N I V against high flow. Days free of respiratory support, twenty versus eighteen. Not significant.
+Kate: Intubation?
+Tom: Thirty percent versus fifty-one, but that was a secondary outcome, and mortality was the same.
+Kate: Then the U K trial.
+Tom: RECOVERY-RS, JAMA twenty twenty-two. Twelve hundred and seventy-three COVID patients in forty-eight hospitals. Intubation or death by thirty days, thirty-six percent with C P A P against forty-four with conventional oxygen. High flow, forty-four against forty-five. Nothing.
+Kate: Caveats. Stopped early, lots of crossover, and it's COVID.
+Tom: Then RENOVATE, JAMA twenty twenty-five. Eighteen hundred patients in Brazil, high flow versus N I V across five patient groups, a Bayesian non-inferiority design on intubation or death at seven days.
+Kate: And?
+Tom: Thirty-nine percent versus thirty-eight overall. High flow met non-inferiority in four of the five groups. The immunocompromised group was stopped for futility.
+Kate: The C O P D and cardiogenic oedema groups were small, and the authors say those results changed with the analysis model. I wouldn't lean on them.
+Tom: Fair. Then this year, SOHO. New England Journal, twenty twenty-six. Eleven hundred and ten patients, P F two hundred or less. High flow versus standard oxygen, with death at day twenty-eight as the primary outcome.
+Kate: So the FLORALI mortality signal, finally tested properly.
+Tom: And it vanished. Fourteen point six percent in both arms. Intubation was lower with high flow, forty-two versus forty-eight percent, but the confidence interval only just cleared zero.
+Kate: Saves some tubes, not lives.
+Tom: That's how I'd read it. And slightly more cardiac arrests or pneumothoraces during spontaneous breathing with high flow, thirteen patients against six.
+Kate: Meta-analyses?
+Tom: Ferreyro, JAMA twenty twenty, and Pitre, Chest twenty twenty-three, both suggest helmet support may reduce mortality. But certainty is low to moderate, and both lean on small helmet trials.
+Kate: Guidelines.
+Tom: E R S and A T S, twenty seventeen, couldn't recommend for or against N I V in de novo hypoxaemic failure. The E R S high-flow guideline, twenty twenty-two, conditionally suggests high flow over both standard oxygen and N I V.
+Kate: E S I C M, twenty twenty-three?
+Tom: A strong recommendation for high flow over conventional oxygen to cut intubation, nothing on mortality. Outside COVID, no recommendation on C P A P or N I V versus high flow, and none on helmet versus mask.
+Kate: And the American Thoracic Society, this summer.
+Tom: Strong recommendation for high flow and a conditional one for N I V or C P A P in hypoxaemic failure, with close monitoring for escalation. That rests mainly on intubation.
+Kate: And the U K?
+Tom: Thin. The B T S N I V guideline is about hypercapnic failure. B T S says a clinical statement on high flow is due in twenty twenty-six. It wasn't out when we checked.
+Kate: Physiology now. Pee-silly.
+Tom: Patient self-inflicted lung injury. Brochard, Slutsky and Pesenti, twenty seventeen. Big inspiratory efforts make big transpulmonary pressure swings and tidal volumes in an injured lung, and the injury feeds on itself.
+Kate: Evidence?
+Tom: Mostly animal and physiological. Carteaux, twenty sixteen: on face-mask N I V, expired tidal volumes above nine and a half mils per kilo predicted failure in moderate to severe hypoxaemia. Tonelli, twenty twenty, thirty patients with oesophageal manometry. A fall in the oesophageal pressure swing of ten centimetres of water or more within two hours predicted N I V success.
+Kate: That's association. It doesn't show the effort caused the injury.
+Tom: Exactly. Martin Tobin argued in twenty twenty that pee-silly is not justification for intubating COVID patients, and a review this year by Jubran calls the evidence circumstantial. I'd call it a plausible hypothesis, not a proven entity.
+Kate: Bedside markers, then.
+Tom: The ROX index. Sats over F I O two, divided by respiratory rate. Roca, twenty nineteen, pneumonia on high flow. Four point eight eight or more at two, six or twelve hours went with success. Below two point eight five at two hours, three point four seven at six, or three point eight five at twelve predicted failure.
+Kate: Discrimination's only modest, though.
+Tom: Area under the curve nought point six eight at two hours, about nought point seven six at twelve. For N I V there's HACOR: heart rate, acidosis, consciousness, oxygenation, respiratory rate. Above five at one hour predicted failure.
+Kate: But does delay actually harm?
+Tom: The classic data are observational. Kang, twenty fifteen. High-flow failures intubated after forty-eight hours had an I C U mortality of sixty-seven percent, against thirty-nine for earlier intubation. LUNG SAFE linked N I V with higher I C U mortality when the P F ratio was under a hundred and fifty.
+Kate: Both badly confounded. Sicker patients fail later.
+Tom: Hence the target trial emulations. Mellado-Artigas, twenty twenty-four, American I C U data: immediate intubation was associated with lower one-year mortality, hazard ratio nought point eight one. But a French COVID emulation this year concluded that late intubation probably marks progressive disease, not harm from the timing itself.
+Kate: And a COVID meta-analysis found no detectable difference with early versus late intubation.
+Tom: So there's still no randomised trial of timing.
+Kate: Practically, then. I'd start high flow for most de novo hypoxaemia and set a reassessment time at one to two hours, with named criteria.
+Tom: If they're still working hard, try helmet or C P A P where your unit has the skills. Watch the ROX trend, not one number, and look at the patient.
+Kate: And agree the ceiling of treatment early.
+Tom: Prognosis is mostly about who fails. In LUNG SAFE, hospital mortality was sixteen percent when N I V succeeded and forty-five when it failed.
+Kate: Grey zones. The immunocompromised. HIGH, in twenty eighteen, found no mortality benefit from high flow over standard oxygen.
+Tom: And helmets. HENIVOT two, a twelve-hundred-patient Italian trial of helmet N I V, helmet C P A P and high flow, is still listed as recruiting.
+Kate: Take-homes for Monday.
+Tom: One. High flow reduces intubation compared with standard oxygen. SOHO shows it doesn't reduce mortality.
+Kate: Two. C P A P or helmet N I V are reasonable escalation steps, but guideline support is conditional and the data are mostly COVID.
+Tom: Three. Pee-silly is plausible but unproven. A reason to watch effort, not a reason to intubate.
+Kate: Four. ROX and HACOR help, but follow the trend and set a time to reassess.
+Tom: Five. Harm from delayed intubation isn't proven, but patients who fail do badly. Decide early, and write the plan down.
+Kate: Thanks for listening. Bye.
+Tom: Bye.

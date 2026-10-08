@@ -1,0 +1,62 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is pulmonary embolism with right ventricular failure.
+Kate: Why now?
+Tom: Because twenty twenty-six moved the ground. There's a new American guideline, and HI-PEITHO in the New England Journal is the first randomised trial to show a catheter treatment beating anticoagulation alone on a clinical outcome. Our own NICE guidance hasn't caught up.
+Kate: So, the story. Start with PEITHO.
+Tom: New England Journal, twenty fourteen. A thousand and five normotensive patients with R V dysfunction and a positive troponin. Full-dose tenecteplase or placebo, both on heparin.
+Kate: And it worked.
+Tom: On its primary outcome, yes. Death or haemodynamic decompensation at seven days went from five point six to two point six percent. But mortality didn't differ. Extracranial bleeding went from about one percent to six percent, and stroke was two point four percent against nought point two, almost all haemorrhagic.
+Kate: And long term?
+Tom: The follow-up at about three years found no difference in mortality, persistent breathlessness or chronic thromboembolic pulmonary hypertension.
+Kate: So for a decade the message was anticoagulate, watch closely, and lyse if they crash.
+Tom: That's E S C twenty nineteen. Systemic lysis for high-risk P E, class one. Routine lysis isn't recommended in intermediate risk, but rescue lysis is class one if they deteriorate. Surgery or catheter treatment are the alternatives if lysis fails or is contraindicated.
+Kate: What about reduced-dose lysis? Lots of us already do it.
+Tom: We do. ERUPT, a U K audit across twenty-six centres, found about one in five non-arrest patients got a reduced dose, and about four in ten lysed patients weren't high risk.
+Kate: But no outcome trial.
+Tom: Not yet. PEITHO-three is testing alteplase nought point six milligrams per kilo, capped at fifty, over fifteen minutes, against placebo. It's blinded, primary completion was April this year, and we haven't seen results. So reduced-dose systemic lysis is still physiology and small studies.
+Kate: Which brings us to catheters. HI-PEITHO.
+Tom: Five hundred and forty-four patients. R V to L V ratio of one or more, raised troponin, and at least two of: systolic one-ten or below, heart rate a hundred or more, respiratory rate over twenty.
+Kate: So the sick end of intermediate-high.
+Tom: Yes. Ultrasound-facilitated catheter lysis, mean alteplase about seventeen milligrams over seven hours, against anticoagulation. The seven-day composite was four percent versus ten point three. Relative risk nought point three nine.
+Kate: Bleeding?
+Tom: Major bleeding at thirty days, four point one versus three percent, not significant. No intracranial haemorrhage in either arm.
+Kate: Here's my pushback. It's open-label, and Boston Scientific funded it. What drove the composite?
+Tom: Decompensation. And that included a National Early Warning Score of nine or more on two readings. That score was the only criterion met in fifteen patients: one with the catheter, fourteen with anticoagulation.
+Kate: So half the control events were a NEWS score, in an unblinded trial.
+Tom: Exactly. And thirty-day deaths were six versus three, P E-related three versus one. Tiny numbers, but no mortality signal.
+Kate: The E S C working group's commentary says it shouldn't justify routine catheter intervention.
+Tom: Fair. The other trials are mostly surrogate. CANARY stopped early at ninety-four patients. STORM-PE, a hundred patients, showed faster R V to L V improvement with aspiration thrombectomy. PEERLESS put five hundred and fifty patients into large-bore thrombectomy versus catheter lysis. Its win ratio favoured thrombectomy, but mainly through less I C U use. Without that, no difference.
+Kate: And high-risk P E?
+Tom: Still no completed randomised trial of catheters there. PERSEVERE, thrombectomy versus standard care, is recruiting.
+Kate: Guidelines, then.
+Tom: The twenty twenty-six A H A slash A C C guideline swaps high and intermediate risk for categories A to E. D is incipient failure, including normotensive shock with rising lactate. E one is persistent hypotension with shock, E two refractory shock or arrest.
+Kate: And treatment?
+Tom: In E one, systemic lysis, catheter lysis, thrombectomy or surgery are all reasonable. Lysis no longer comes first. In D, they may be considered. A P E response team is class one.
+Kate: Did that include HI-PEITHO?
+Tom: No. The literature search predates it.
+Kate: And NICE?
+Tom: N G one five eight, last updated twenty twenty-three. Consider systemic lysis if unstable. Don't offer it to stable patients, with or without R V dysfunction. Catheter therapy only gets a pointer to older procedures guidance.
+Kate: So, practical management. The failing R V.
+Tom: Small, cautious fluid at most, and only with a reason to think they're underfilled. A dilated R V pushing the septum across won't thank you for a litre.
+Kate: Noradrenaline first, to hold coronary perfusion pressure to the R V. Dobutamine if output's low.
+Tom: High-flow oxygen rather than racing to intubate. The A H A guideline says avoid deep sedation and ventilation where you can.
+Kate: And if you must?
+Tom: Everything ready: pressor running, push-dose ready, haemodynamically gentle induction, modest pressures, and ideally reperfusion or E C M O to hand. Positive pressure can tip a marginal R V into arrest.
+Kate: E C M O?
+Tom: V A E C M O is a bridge, not a cure. E S C gives it two-b. A twenty twenty-three meta-analysis of thirty-nine observational studies put pooled mortality at about forty-three percent. It was lower when E C M O was paired with catheter therapy than with systemic lysis, but that's confounded.
+Kate: And surgery?
+Tom: Rare in the U K. Two hundred and fifty-six embolectomies in twenty-two years nationally, with in-hospital mortality of one in four. Preoperative ventilation and shock predicted death. A Japanese database study suggested lower mortality than lysis, but it's observational.
+Kate: Prognosis?
+Tom: Shock and arrest carry the mortality. Intermediate-high patients mostly survive. In HI-PEITHO, seven-day mortality was about one percent. Many survivors stay breathless, so follow-up matters.
+Kate: Grey zones.
+Tom: The normotensive patient in HI-PEITHO territory with a centre that offers catheters. Then the elderly: only one in ten HI-PEITHO patients was over seventy-five, and PEITHO's bleeding fell hardest on older patients. And whether reduced-dose lysis is a fair substitute where there's no cath lab.
+Kate: My opinion: for the sick intermediate-high patient, I'd now ask the P E response team about catheter therapy early rather than waiting for hypotension. I'd still be honest that the benefit is preventing deterioration, not proven lives saved.
+Tom: I'd agree, and in a district hospital, rescue lysis is still the reliable option.
+Kate: Take-homes for Monday.
+Tom: One. Full-dose lysis prevents collapse in intermediate-risk P E but costs strokes and doesn't save lives. Keep it for shock or deterioration.
+Kate: Two. HI-PEITHO supports catheter lysis for intermediate-high patients with tachycardia, tachypnoea or borderline pressure. But the benefit is fewer decompensations, partly a NEWS score, not deaths.
+Tom: Three. For the failing R V, go easy on fluid, use noradrenaline early, and treat intubation as a peri-arrest procedure.
+Kate: Four. Know your pathway: who does catheters, surgery and E C M O, and how to reach them out of hours.
+Tom: Five. Watch for PEITHO-three, PEERLESS two and PERSEVERE.
+Kate: Thanks for listening.
+Tom: Bye for now.

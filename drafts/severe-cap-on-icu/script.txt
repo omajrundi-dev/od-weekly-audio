@@ -1,0 +1,66 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is severe community-acquired pneumonia on I C U.
+Kate: Why now? Because the ground's moved this year. NICE replaced its pneumonia guidance last September. The Americans published an update their own infectious diseases society refused to endorse. And in June, REMAP-CAP reported that oseltamivir may harm critically ill patients with flu.
+Tom: That'll dominate the winter. But first, which guideline are we following?
+Kate: For I C U, the most specific is the twenty twenty-three European one, from the E R S, E S I C M, E S C M I D and the Latin American Thoracic Association. It's the first guideline written just for severe C A P, which it defines pragmatically as C A P needing I C U.
+Tom: Eight questions, GRADE, and almost everything conditional on very low quality evidence.
+Kate: Which is honest. Then A T S and I D S A from twenty nineteen, partly updated by the A T S alone in twenty twenty-five. In the U K, NICE N G two-fifty, September twenty twenty-five. B T S is still twenty oh nine, with a twenty fifteen annotated update.
+Tom: Right. Atypicals and macrolides.
+Kate: All three agree on a beta-lactam plus a macrolide for severe disease. The Europeans went further: they suggest a macrolide, not a fluoroquinolone, as the partner.
+Tom: On what evidence?
+Kate: Seventeen observational studies, no head-to-head trials. Pooled mortality was about nineteen percent with a macrolide against about twenty-seven with a fluoroquinolone. They also say three to five days of macrolide is reasonable.
+Tom: And the Americans?
+Kate: Twenty nineteen allows either partner. They leaned on a meta-analysis of nearly ten thousand critically ill patients, where macrolide-containing regimens were associated with an eighteen percent relative, three percent absolute, reduction in mortality.
+Tom: Observational, and confounded by indication. Is there anything randomised?
+Kate: ACCESS. Lancet Respiratory Medicine, twenty twenty-four. A Greek, double-blind trial in two hundred and seventy-eight ward patients with a SOFA of two or more and a raised procalcitonin. Oral clarithromycin or placebo on top of a beta-lactam.
+Tom: Result?
+Kate: The primary composite, early clinical response plus a falling SOFA or procalcitonin at seventy-two hours, was met in sixty-eight percent versus thirty-eight.
+Tom: A surrogate, though. Part-funded by Abbott, who make clarithromycin. And not I C U patients.
+Kate: Fair. It supports the immunomodulation story. It doesn't prove a mortality benefit in ventilated patients.
+Tom: And NICE?
+Kate: High severity: co-amoxiclav plus clarithromycin, five days. Levofloxacin for penicillin allergy, with the M H R A fluoroquinolone warning, which includes avoiding co-prescribing with a steroid.
+Tom: That matters now we're giving steroids. Worth adding: a twenty twenty-five network meta-analysis of a hundred and forty-three trials found no regimen convincingly better than any other for moderate to severe C A P.
+Kate: Next, M R S A and Pseudomonas.
+Tom: Here the guidelines converge.
+Kate: The A T S says cover only with locally validated risk factors. In severe C A P, the triggers are prior respiratory isolation of either organism, or a hospital admission with I V antibiotics in the last ninety days. Then cover, culture, and de-escalate.
+Tom: And the Europeans?
+Kate: Use risk factors or scores, built on local epidemiology and prior colonisation. They point out these scores are sensitive but not specific, with negative predictive values mostly above ninety percent.
+Tom: How common are these bugs?
+Kate: In the multinational GLIMP cohort, M R S A was about three percent, Pseudomonas about four.
+Tom: So most patients don't need vancomycin or tazocin. My tool of choice is the M R S A nasal P C R. A twenty twenty-six meta-analysis found pharmacist-driven protocols using it cut anti-M R S A therapy by about a day and a half.
+Kate: Which brings us to rapid diagnostics.
+Tom: The Europeans suggest a lower respiratory multiplex P C R whenever you're prescribing or considering non-standard antibiotics. Very low quality evidence again.
+Kate: Trials?
+Tom: The best is a Mayo Clinic trial, Lancet Microbe, twenty twenty-four, about eleven hundred patients. Time to first antibiotic change wasn't significantly different. Escalation was faster. Overall de-escalation wasn't.
+Kate: So the panel catches what you've missed, but it won't narrow therapy unless somebody acts on it.
+Tom: Exactly. NICE doesn't mention multiplex panels. It's cultures, pneumococcal antigen to support de-escalation, and Legionella antigen if there are risk factors.
+Kate: Steroids, briefly, because there's a separate episode.
+Tom: CAPE COD halved twenty-eight-day mortality with hydrocortisone, roughly twelve percent down to six. REMAP-CAP's hydrocortisone domain stopped for futility. NICE now says consider a steroid in high-severity C A P for four to seven days, hydrocortisone first. The A T S suggests steroids in severe C A P but not in influenza. The Europeans, back in twenty twenty-three, only with shock.
+Kate: Now the big one. Influenza.
+Tom: Every guideline told us to give oseltamivir. The A T S strongly, whatever the symptom duration. The Europeans conditionally, and empirically in flu season. The W H O, in twenty twenty-four, conditionally for severe flu.
+Kate: All on observational data. There'd never been an I C U trial.
+Tom: Until REMAP-CAP. Four hundred and forty-two patients aged twelve and over, confirmed flu, on respiratory or vasopressor support. Five days of oseltamivir, ten days, or no antiviral.
+Kate: And?
+Tom: Ninety-day mortality about twenty percent in both oseltamivir arms, against about fourteen with none. Adjusted odds ratios of around two, and roughly a ninety-eight percent probability of harm. Both arms stopped for inferiority.
+Kate: Caveats, though. It's a preprint, not yet peer reviewed. It's open-label. Median symptom duration before randomisation was five days. And the raw difference is less dramatic than an odds ratio of two sounds.
+Tom: All true. The investigators now advise against oseltamivir in critically ill patients with flu, while saying it doesn't apply to less sick patients.
+Kate: So not dead, but no longer automatic. Baloxavir's still being tested in the platform.
+Tom: And bacterial co-infection?
+Kate: The twenty twenty-five A T S update says give antibiotics to inpatients with pneumonia who test positive for a virus. The I D S A wouldn't endorse that, but their objection was about non-severe patients. On I C U, everyone starts antibiotics. The question is when you stop, and procalcitonin can help.
+Tom: Which is duration.
+Kate: NICE says stop at five days unless the microbiology or ongoing instability says otherwise. The A T S suggests five or more days in severe C A P. The Europeans suggest procalcitonin to shorten courses, though it adds little once you're stable at five to seven days.
+Tom: The three-day data, the P T C trial, was ward patients only.
+Kate: And BALANCE showed seven days was non-inferior to fourteen in bacteraemia, with over half the patients on I C U. It excluded Staph aureus, though.
+Tom: Outcomes?
+Kate: The European guideline cites a German cohort where mortality was seventeen percent if severe on admission, but forty-eight percent in those who became severe on days four to seven.
+Tom: So watch the ward patient who isn't settling.
+Kate: Grey zones?
+Tom: Whether macrolide immunomodulation helps ventilated patients. The W H O actually advises against macrolides as an add-on in severe flu. Whether oseltamivir helps if it's started very early. And personally, I'd want the full REMAP-CAP paper before I stopped it in every case.
+Kate: I'd agree. Take-homes for Monday.
+Tom: One. Beta-lactam plus macrolide is the default in severe C A P. Keep levofloxacin for true penicillin allergy, and be careful combining it with steroids.
+Kate: Two. Only cover M R S A or Pseudomonas with prior isolation or recent admission with I V antibiotics, and use nasal P C R and cultures to de-escalate fast.
+Tom: Three. Rapid molecular panels only help if someone acts on the result the same day.
+Kate: Four. Oseltamivir is no longer an automatic yes in ventilated or shocked flu. Talk to microbiology, and recruit to trials where you can.
+Tom: Five. Five to seven days for most patients, guided by clinical stability and procalcitonin.
+Kate: That's it from us. Thanks for listening.
+Tom: Bye for now.

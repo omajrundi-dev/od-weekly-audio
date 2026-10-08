@@ -1,0 +1,76 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom.
+Kate: Today's deep dive is antimicrobial stewardship on I C U. We're skipping the principles and sticking to decisions with real trial evidence.
+Tom: And there's plenty. A U K biomarker trial, BALANCE, BLING three, and a new Surviving Sepsis guideline from March.
+Kate: Start with stopping. Procalcitonin.
+Tom: Go on.
+Kate: The old story is PRORATA, Lancet twenty ten. About six hundred French I C U patients. Procalcitonin guidance gave nearly three extra antibiotic-free days, and twenty-eight day mortality looked non-inferior.
+Tom: Then the Dutch SAPS trial, twenty sixteen. About fifteen hundred patients. Median duration five days versus seven, and mortality was actually lower, twenty percent versus twenty-five.
+Kate: Open label, though, and few believed the mortality effect.
+Tom: So, ADAPT-Sepsis.
+Kate: JAMA, February twenty twenty-five. Twenty-seven hundred and sixty adults in forty-one N H S I C Us. Three arms: daily procalcitonin, daily C R P, or standard care. And the clever bit was intervention concealment. Clinicians got protocol advice without knowing which biomarker was behind it.
+Tom: Result?
+Kate: Procalcitonin cut antibiotic duration from ten point seven to nine point eight days. Just under one day. Twenty-eight day mortality was twenty point nine percent versus nineteen point four, which met a non-inferiority margin of five point four percent.
+Tom: Five point four is a generous margin for a day of antibiotics.
+Kate: It is. And C R P didn't shorten duration, and its mortality result was inconclusive.
+Tom: That's the bit I'd underline. Most U K units stop on a falling C R P all the time.
+Kate: A commentary in Clinical Infectious Diseases makes the wider point. Adherence to the algorithm was imperfect, the gain was about a day, and as fixed short courses become standard, procalcitonin's added value may shrink.
+Tom: Which brings us to duration. BALANCE.
+Kate: New England, published online November twenty twenty-four. Thirty-six hundred patients with bloodstream infection, seventy-four hospitals, seven countries. Fifty-five percent were in I C U at enrolment. Seven days versus fourteen.
+Tom: And exclusions matter here.
+Kate: No Staph aureus, no severe immunosuppression, no foci needing long treatment. Mostly urinary, then abdominal and lung sources.
+Tom: Numbers?
+Kate: Ninety-day mortality fourteen point five percent with seven days, sixteen point one with fourteen. Non-inferior, margin four points.
+Tom: But nearly a quarter of the seven-day group got more than seven days.
+Kate: Twenty-three percent, yes. And the per-protocol analysis still showed non-inferiority.
+Tom: What about Pseudomonas? That's where people get twitchy.
+Kate: A post hoc analysis this year had only a hundred and fifty-seven patients. Crude mortality was higher with seven days, about thirty percent versus twenty, but the confidence interval is huge and it wasn't significant. It settles nothing.
+Tom: And V A P?
+Kate: Chastre, JAMA twenty oh three. Eight versus fifteen days in about four hundred patients. No mortality difference, but more recurrence with non-fermenting Gram negatives, about forty percent versus twenty-five.
+Tom: That's where the Pseudomonas anxiety came from.
+Kate: Then REGARD-V A P, Lancet Respiratory Medicine twenty twenty-four. Four hundred and sixty-one patients in Nepal, Singapore and Thailand, lots of resistant Gram negatives. Once patients were afebrile and haemodynamically stable for forty-eight hours, they stopped. Median six days versus fourteen. The composite of death or recurrence was forty-one versus forty-four percent, and antibiotic side effects fell from thirty-eight percent to eight.
+Tom: Caveat: a twelve percent non-inferiority margin.
+Kate: Wide, yes. But it's how we actually practise.
+Tom: Now how we give the drug. BLING three.
+Kate: JAMA, August twenty twenty-four. Just over seven thousand patients on pip-taz or meropenem, a hundred and four I C Us, and the U K recruited about twenty-nine hundred of them. Continuous versus intermittent infusion.
+Tom: And it missed.
+Kate: Ninety-day mortality twenty-four point nine percent versus twenty-six point eight. Odds ratio nought point nine one, confidence interval nought point eight one to one point nought one. Clinical cure was higher, fifty-six versus fifty percent.
+Tom: But the meta-analysis published alongside it went further.
+Kate: Eighteen trials, about nine thousand patients. Risk ratio for ninety-day mortality nought point eight six, with a ninety-nine percent posterior probability of benefit.
+Tom: And that's moved the guideline.
+Kate: Surviving Sepsis twenty twenty-six now makes prolonged beta-lactam infusion a strong recommendation, after a loading dose.
+Tom: The bit units forget. Start an infusion cold and you're under target for hours.
+Kate: Then T D M. A twenty twenty E S I C M-endorsed position paper recommends routine beta-lactam monitoring.
+Tom: But the trials are disappointing.
+Kate: TARGET, twenty twenty-two. About two hundred and fifty patients on continuous pip-taz. Daily monitoring more than doubled target attainment, but there was no difference in mean SOFA score. The Dutch DOLPHIN trial, model-informed dosing in about three hundred and ninety patients, showed no change in I C U length of stay.
+Tom: So T D M fixes a number, not yet an outcome.
+Kate: And Surviving Sepsis now suggests it case by case, in selected patients.
+Tom: De-escalation?
+Kate: Thin. The one R C T, Leone, twenty fourteen, a hundred and sixteen French patients. De-escalation didn't shorten I C U stay, and superinfection was more common, twenty-seven percent versus eleven. Small and open label.
+Tom: Yet Surviving Sepsis upgraded it to strong when there's a confirmed microbiological diagnosis.
+Kate: On very low certainty evidence. It's a values judgement about resistance.
+Tom: And rapid diagnostics. INHALE.
+Kate: The U K trial, reported in full by the N I H R in June. Five hundred and forty-five patients with hospital or ventilator pneumonia in fourteen I C Us, randomised to a bedside multiplex P C R pneumonia panel with a prescribing algorithm, or usual care.
+Tom: Did it work?
+Kate: More patients were on active and proportionate antibiotics at twenty-four hours, seventy-six versus fifty-six percent. But clinical cure at fourteen days was fifty-six versus sixty-five percent, and non-inferiority wasn't shown.
+Tom: That's sobering.
+Kate: The authors say it could be chance, or that early pneumonia is mixed and narrowing too fast hurts. And clinicians often didn't act on the result anyway.
+Tom: Guidelines, then. U K first.
+Kate: NICE's adult sepsis guideline, N G two five three, came out in November twenty twenty-five. It doesn't recommend procalcitonin yet, but NICE has prioritised a procalcitonin update and a draft went out for consultation in June. Check for the final version.
+Tom: And U K H S A's Start Smart Then Focus, twenty twenty-three. A documented review at forty-eight to seventy-two hours, using CARES: cease, amend, refer to outpatient or virtual ward services, extend with a stop date, or switch to oral.
+Kate: Surviving Sepsis twenty twenty-six suggests procalcitonin plus clinical judgement for stopping, a conditional recommendation, and shorter courses when source control is adequate. Rapid pathogen tests are case by case.
+Tom: So where they part company is procalcitonin. Surviving Sepsis supports it for stopping. NICE hasn't caught up yet.
+Kate: And C R P has no trial support for stopping at all.
+Tom: Outcomes in one line?
+Kate: Shorter, guided courses haven't cost lives in these trials, and they cut side effects and exposure. Continuous infusion probably saves a few lives.
+Tom: Grey zones?
+Kate: Staph aureus and the immunosuppressed, who BALANCE excluded. Pseudomonas and non-fermenters. Inadequate source control. And whether procalcitonin adds much once your default is seven days.
+Tom: Personally, I'd still be wary of narrowing hard on a P C R panel alone in early ventilator pneumonia.
+Kate: Fair. Take-homes for Monday.
+Tom: One. For uncomplicated Gram-negative bacteraemia with source control, seven days is the default. BALANCE supports it.
+Kate: Two. Procalcitonin-guided stopping is safe but saves about a day. Don't stop on C R P alone thinking it's evidence based.
+Tom: Three. Give pip-taz and meropenem as prolonged or continuous infusions, always after a loading dose.
+Kate: Four. For V A P, stop once the patient's been stable for forty-eight hours, often by day seven or earlier. Be more careful with non-fermenters.
+Tom: Five. T D M and rapid P C R improve the numbers, but neither has improved outcomes yet. Use them case by case.
+Kate: That's it. Thanks for listening.
+Tom: Bye for now.

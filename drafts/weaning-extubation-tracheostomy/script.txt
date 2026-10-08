@@ -1,0 +1,77 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is weaning, extubation and tracheostomy.
+Kate: Bread and butter for us, and the trials should shape every morning ward round.
+Tom: And a fair bit of habit that it doesn't support. Start with the breathing trial?
+Kate: Yes. For years the purist test was two hours on a T-piece. If you could manage that, you could manage without the tube.
+Tom: Then Subirà, JAMA, twenty nineteen.
+Kate: Eleven hundred and fifty-three Spanish patients. Thirty minutes of pressure support at eight, against two hours of T-piece. Successful extubation, off the ventilator at seventy-two hours, was about eighty-two percent versus seventy-four percent.
+Tom: And reintubation?
+Kate: Same in both arms, about eleven or twelve percent. The easier test didn't let failures through.
+Tom: But the French went after the higher-risk group.
+Kate: TIP-EX, New England Journal, twenty twenty-two. Nine hundred and sixty-nine patients, over sixty-five or with chronic heart or lung disease. Pressure support at eight with zero PEEP against T-piece. Primary outcome, ventilator-free days at day twenty-eight: median twenty-seven in both arms.
+Tom: So no difference where it counted.
+Kate: No, though more were extubated within a day with pressure support, and reintubation was about fifteen versus fourteen percent. Not significant.
+Tom: And the meta-analyses?
+Kate: Two in twenty twenty-four, both pooling forty trials, nearly sixty-seven hundred patients. Pressure support S B Ts mean more successful extubations, a risk ratio around one point oh seven, with no clear rise in reintubation.
+Tom: My take: short pressure support for most. If I'm worried about heart failure, I'll still use a T-piece, because it unmasks a load the tube was hiding.
+Kate: That's opinion, though, not trial evidence.
+Tom: Fair. Then what do they go on to?
+Kate: For the low-risk patient, Hernández, JAMA twenty sixteen. High-flow against conventional oxygen. Reintubation at seventy-two hours about five percent versus twelve.
+Tom: And the high-risk patient?
+Kate: Same group, same year. High-flow was non-inferior to N I V. Reintubation about twenty-three versus nineteen percent, and high-flow was far better tolerated.
+Tom: Then HIGH-WEAN changed my practice.
+Kate: Thille, JAMA twenty nineteen. Six hundred and forty-one patients across thirty French units, same high-risk definition. High-flow alternating with N I V, against high-flow alone. Reintubation by day seven, about twelve percent versus eighteen.
+Tom: And for the really frail ones?
+Kate: Hernández again, Intensive Care Medicine twenty twenty-two. Patients with four or more risk factors, only a hundred and eighty-two of them in two Spanish units. Humidified N I V for forty-eight hours cut reintubation from about thirty-nine percent to twenty-three.
+Tom: Small, but it's the same direction as HIGH-WEAN.
+Kate: Now the stridor.
+Tom: François, Lancet twenty oh seven. Seven hundred and sixty-one patients ventilated more than thirty-six hours. Twenty milligrams of methylprednisolone twelve hours before extubation, then every four hours until the tube's out.
+Kate: Result?
+Tom: Laryngeal oedema fell from twenty-two percent to three, and reintubation halved, eight to four.
+Kate: Unselected patients, though.
+Tom: Yes. The twenty seventeen Chest meta-analysis found the benefit sat in people who were high risk, mostly a failed cuff leak test. Pooling trials of unselected patients, there was no clear benefit.
+Kate: And the cuff leak test isn't great.
+Tom: A twenty twenty meta-analysis put sensitivity at about sixty percent and specificity nearly ninety. So a failed leak should make you act, but a good leak doesn't promise a safe airway.
+Kate: Guidelines, then.
+Tom: The A T S and Chest liberation guideline, twenty seventeen. Use inspiratory pressure augmentation for the first S B T. Use preventive N I V straight after extubation in high-risk patients, and that one's strong. Do a cuff leak test in high-risk patients and, if it fails, give steroids at least four hours before.
+Kate: And the E R S high-flow guideline, twenty twenty-two, suggests N I V over high-flow when extubation failure risk is high, unless N I V is contraindicated. High-flow over standard oxygen for the low risk.
+Tom: Which is in tension with the Hernández non-inferiority result.
+Kate: It is. Practically, I'd use N I V alternating with high-flow for the hypercapnic, the obese and the cardiac patient, and high-flow alone for everyone else who's high risk.
+Tom: And where's the U K?
+Kate: No U K weaning guideline that we could find. The U K's big contribution is on tracheostomy.
+Tom: TracMan.
+Kate: Young, JAMA twenty thirteen. Seventy-two U K units, nine hundred and nine patients. Tracheostomy within four days against after ten. Thirty-day mortality about thirty-one percent in both arms.
+Tom: And the line everyone forgets.
+Kate: Only about forty-five percent of the late arm ever got a trache. We can't predict who'll need one.
+Tom: But the Cochrane review in twenty fifteen leaned towards early.
+Kate: Eight trials, nearly two thousand patients. Mortality risk ratio nought point eight three, moderate certainty, but the authors themselves called it no more than suggestive.
+Tom: And brain injury, where everyone argues for early?
+Kate: SETPOINT two, JAMA twenty twenty-two. Three hundred and eighty-two severe stroke patients, trache by day five against from day ten. No difference in survival without severe disability at six months, but wide confidence intervals.
+Tom: Percutaneous or surgical?
+Kate: Cochrane twenty sixteen, twenty trials. No difference in procedural deaths or serious complications. Percutaneous cut wound infection by about three-quarters. Low quality, mostly old trials.
+Tom: The U K safety story is really about what happens after insertion.
+Kate: NAP four, twenty eleven. Failure to use capnography contributed to nearly three-quarters of the I C U airway deaths and brain injuries.
+Tom: Which led to the National Tracheostomy Safety Project. Bedhead signs, emergency algorithms, and capnography for anyone ventilated. The current guidance is from twenty twenty, written for the Intensive Care Society and endorsed by F I C M.
+Kate: And the improvement programme in twenty U K hospitals, B J A twenty twenty, cut I C U and tracheostomy days and cut anxiety and depression by roughly half. Before-and-after data, mind.
+Tom: Prolonged weaning, then. How big a group?
+Kate: The WIND study, twenty seventeen. About nine percent had weaning lasting a week or more, and their mortality was about twenty-nine percent.
+Tom: And specialist weaning units?
+Kate: Some U K centres have them, but there are no randomised trials. Germany has a dedicated prolonged weaning guideline. We don't.
+Tom: Then the diaphragm.
+Kate: Goligher, A J R C C M twenty eighteen. Ultrasound every day. Diaphragm thickness fell by more than a tenth in about two in five patients by day four, and the more it thinned, the longer they were ventilated.
+Tom: Too much effort was bad too.
+Kate: Yes, thickening also predicted prolonged ventilation. The shortest ventilation was in people with a thickening fraction of fifteen to thirty percent. That's the basis for diaphragm-protective ventilation, still a hypothesis.
+Tom: Anything new?
+Kate: RESCUE three, A J R C C M, published this year. Transvenous phrenic stimulation in patients who'd failed at least two weaning attempts. Stopped early at two hundred and sixteen patients. Weaned by day thirty, seventy versus sixty-one percent on a Bayesian analysis. But serious adverse events were thirty-six versus twenty-four percent.
+Tom: Interesting, not ready.
+Kate: Agreed. And remember the WIND finding: the longer weaning drags on, the worse they do.
+Tom: Grey zones?
+Kate: How to define high risk. Whether the T-piece still has a role for cardiac patients. Early trache in brain injury. And whether ultrasound should guide weaning, or just describe it.
+Tom: Take-homes for Monday.
+Kate: One. A short pressure support S B T is fine for most patients. It doesn't increase reintubation.
+Tom: Two. High-risk patients go on to high-flow alternating with N I V. Low-risk ones get high-flow.
+Kate: Three. Do a cuff leak test in high-risk patients. If it fails, start steroids at least four hours ahead, ideally twelve.
+Tom: Four. In TracMan, early tracheostomy didn't save lives. Decide case by case, and remember how badly we predict who'll need one.
+Kate: Five. Use N T S P bedhead signs, algorithms and capnography for every trache, every time.
+Tom: That's it. Thanks for listening.
+Kate: Bye for now.

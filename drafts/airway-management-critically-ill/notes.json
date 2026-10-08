@@ -1,0 +1,81 @@
+{
+  "title_topic": "Airway management in the critically ill",
+  "summary": "A consultant-level look at the trials that have reshaped peri-intubation care in ICU. INTUBE (JAMA 2021, 2,964 patients, 29 countries) found major adverse peri-intubation events in 45.2% of intubations, mostly cardiovascular instability (42.6%), with cardiac arrest in 3.1%. DEVICE (NEJM 2023) improved first-pass success with videolaryngoscopy (85.1% vs 70.8%) without changing severe complications, though more than 90% of operators were trainees. BOUGIE (JAMA 2021) found no first-pass advantage for bougie over stylet (80.4% vs 83.0%). PREOXI (NEJM 2024) halved peri-intubation hypoxaemia with NIV preoxygenation (9.1% vs 18.5%) without more aspiration, and a 2025 network meta-analysis ranked NIV above HFNO above face mask. In the RSI trial (NEJM, online Dec 2025, 2,365 patients), ketamine did not reduce 28-day mortality compared with etomidate (28.1% vs 29.1%) and caused more cardiovascular collapse (22.1% vs 17.0%), which 2026 network meta-analyses support. PrePARE and PREPARE II found no benefit from a routine 500 mL fluid bolus. Trials of prophylactic vasopressors in ICU have not reported (PREVENTION, NCT05014581, registered as recruiting). The UK critical care guideline is still the 2018 DAS/ICS/FICM/RCoA guideline (BJA, online 2017). DAS published its 2025 guideline for unanticipated difficult intubation in adults, which adds a physiologically difficult airway section and keeps a linear Plan A to D, where the ICU guideline combines Plans B and C. We found no 2025 ICS/DAS critical care update.",
+  "takeaways": [
+    "Use a videolaryngoscope first for ICU intubation: DEVICE showed better first-pass success, mainly with less experienced operators, but no fewer severe complications.",
+    "A stylet is a reasonable default: BOUGIE found no first-pass advantage for bougie-first.",
+    "Preoxygenate with NIV: PREOXI halved hypoxaemia without increasing aspiration.",
+    "Ketamine is not the haemodynamically safer choice: in the RSI trial it caused more cardiovascular collapse than etomidate with no mortality difference. Pick the dose carefully and have a vasopressor ready.",
+    "Don't give a routine fluid bolus to prevent collapse: PrePARE and PREPARE II were both negative."
+  ],
+  "sources": [
+    {
+      "label": "INTUBE: Russotto et al, JAMA 2021",
+      "url": "https://doi.org/10.1001/jama.2021.1727"
+    },
+    {
+      "label": "DEVICE: Prekker et al, NEJM 2023",
+      "url": "https://doi.org/10.1056/NEJMoa2301601"
+    },
+    {
+      "label": "BOUGIE: Driver et al, JAMA 2021",
+      "url": "https://doi.org/10.1001/jama.2021.22002"
+    },
+    {
+      "label": "PREOXI: Gibbs et al, NEJM 2024",
+      "url": "https://doi.org/10.1056/NEJMoa2313680"
+    },
+    {
+      "label": "Preoxygenation network meta-analysis: Pitre et al, Lancet Respir Med 2025",
+      "url": "https://doi.org/10.1016/S2213-2600(25)00029-3"
+    },
+    {
+      "label": "Jabre et al, etomidate vs ketamine, Lancet 2009",
+      "url": "https://doi.org/10.1016/S0140-6736(09)60949-1"
+    },
+    {
+      "label": "Matchett et al, etomidate vs ketamine, Intensive Care Med 2022",
+      "url": "https://doi.org/10.1007/s00134-021-06577-x"
+    },
+    {
+      "label": "RSI trial: ketamine or etomidate, NEJM 2026 (online Dec 2025)",
+      "url": "https://doi.org/10.1056/NEJMoa2511420"
+    },
+    {
+      "label": "Induction agents network meta-analysis, Crit Care 2026",
+      "url": "https://doi.org/10.1186/s13054-026-06067-w"
+    },
+    {
+      "label": "Induction agents network meta-analysis, Chest 2026 (online ahead of print)",
+      "url": "https://doi.org/10.1016/j.chest.2026.07.5239"
+    },
+    {
+      "label": "Brazilian Airway Registry target trial emulation, JAMA Netw Open 2025 (observational)",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2025.48060"
+    },
+    {
+      "label": "PrePARE: Janz et al, Lancet Respir Med 2019",
+      "url": "https://doi.org/10.1016/S2213-2600(19)30246-2"
+    },
+    {
+      "label": "PREPARE II: Russell et al, JAMA 2022",
+      "url": "https://doi.org/10.1001/jama.2022.9792"
+    },
+    {
+      "label": "PREVENTION trial registration (NCT05014581)",
+      "url": "https://clinicaltrials.gov/study/NCT05014581"
+    },
+    {
+      "label": "DAS/ICS/FICM/RCoA guidelines for tracheal intubation in critically ill adults: Higgs et al, BJA 2018",
+      "url": "https://doi.org/10.1016/j.bja.2017.10.021"
+    },
+    {
+      "label": "DAS 2025 guidelines for unanticipated difficult tracheal intubation in adults: Ahmad et al, BJA 2026",
+      "url": "https://doi.org/10.1016/j.bja.2025.10.006"
+    },
+    {
+      "label": "Physiologically difficult airway international Delphi (consensus): Karamchandani et al, Intensive Care Med 2024",
+      "url": "https://doi.org/10.1007/s00134-024-07578-2"
+    }
+  ]
+}

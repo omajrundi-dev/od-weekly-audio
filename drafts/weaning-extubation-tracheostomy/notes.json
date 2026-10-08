@@ -1,0 +1,38 @@
+{
+  "title_topic": "Weaning, extubation and tracheostomy",
+  "summary": "A consultant-level tour of liberation from ventilation. Short pressure-support breathing trials (Subira 2019) increase successful extubation without raising reintubation, though TIP-EX (2022) found no ventilator-free-day benefit in high-risk patients; 2024 meta-analyses favour pressure augmentation. After extubation, high-flow beats standard oxygen in low-risk patients, and in high-risk patients high-flow alternating with NIV (HIGH-WEAN) or humidified NIV in very high risk reduces reintubation; ATS/CHEST 2017 and ERS 2022 favour NIV for high risk. Prophylactic methylprednisolone works mainly in patients who fail a cuff leak test, a test with high specificity but modest sensitivity. TracMan showed no mortality benefit from tracheostomy within four days and showed how poorly clinicians predict prolonged ventilation; Cochrane 2015 hinted at benefit, and SETPOINT2 was neutral in stroke. Percutaneous and surgical techniques have similar serious complication rates, with fewer wound infections after percutaneous. UK safety work (NAP4, the NTSP 2020 guidance and the 20-hospital improvement programme) centres on care after insertion. Prolonged weaning (WIND) carries high mortality; diaphragm atrophy predicts prolonged ventilation; and RESCUE-3 phrenic stimulation (2026) is promising but stopped early, with more serious adverse events.",
+  "takeaways": [
+    "A short pressure support SBT is fine for most patients and doesn't increase reintubation.",
+    "High-risk patients go on to high-flow alternating with NIV after extubation; low-risk patients get high-flow.",
+    "Do a cuff leak test in high-risk patients; if it fails, give steroids at least four hours ahead, ideally twelve.",
+    "In TracMan, early tracheostomy didn't save lives: decide case by case and remember how badly we predict who will need one.",
+    "Use NTSP bedhead signs, emergency algorithms and capnography for every tracheostomy, every time."
+  ],
+  "sources": [
+    {"label": "Subira et al. Pressure support vs T-piece SBT. JAMA 2019", "url": "https://doi.org/10.1001/jama.2019.7234"},
+    {"label": "Thille et al. TIP-EX: SBT with PSV or T-piece in high-risk patients. NEJM 2022", "url": "https://doi.org/10.1056/NEJMoa2209041"},
+    {"label": "Burns et al. SBT techniques systematic review and meta-analysis. JAMA Netw Open 2024", "url": "https://doi.org/10.1001/jamanetworkopen.2023.56794"},
+    {"label": "Comparative effectiveness of SBT techniques: network meta-analysis. Crit Care 2024", "url": "https://doi.org/10.1186/s13054-024-04958-4"},
+    {"label": "Hernandez et al. High-flow vs conventional oxygen after extubation, low risk. JAMA 2016", "url": "https://doi.org/10.1001/jama.2016.2711"},
+    {"label": "Hernandez et al. High-flow vs NIV after extubation, high risk. JAMA 2016", "url": "https://doi.org/10.1001/jama.2016.14194"},
+    {"label": "Thille et al. HIGH-WEAN: high-flow plus NIV vs high-flow alone. JAMA 2019", "url": "https://doi.org/10.1001/jama.2019.14901"},
+    {"label": "Hernandez et al. Humidified NIV vs high-flow in very high risk. Intensive Care Med 2022", "url": "https://doi.org/10.1007/s00134-022-06919-3"},
+    {"label": "Francois et al. Methylprednisolone to prevent post-extubation laryngeal oedema. Lancet 2007", "url": "https://doi.org/10.1016/S0140-6736(07)60526-1"},
+    {"label": "Kuriyama et al. Prophylactic corticosteroids for post-extubation stridor: meta-analysis. Chest 2017", "url": "https://doi.org/10.1016/j.chest.2017.02.017"},
+    {"label": "Cuff leak test diagnostic accuracy meta-analysis. Crit Care 2020", "url": "https://doi.org/10.1186/s13054-020-03358-8"},
+    {"label": "ACCP/ATS liberation guideline: pressure augmentation, sedation protocols, preventive NIV. Chest 2017", "url": "https://doi.org/10.1016/j.chest.2016.10.036"},
+    {"label": "ATS/ACCP liberation guideline: rehabilitation, protocols, cuff leak tests. AJRCCM 2017", "url": "https://doi.org/10.1164/rccm.201610-2075ST"},
+    {"label": "Oczkowski et al. ERS clinical practice guidelines: high-flow nasal cannula in acute respiratory failure. Eur Respir J 2022", "url": "https://doi.org/10.1183/13993003.01574-2021"},
+    {"label": "Young et al. TracMan: early vs late tracheostomy. JAMA 2013", "url": "https://doi.org/10.1001/jama.2013.5154"},
+    {"label": "Andriolo et al. Early vs late tracheostomy. Cochrane 2015", "url": "https://doi.org/10.1002/14651858.CD007271.pub3"},
+    {"label": "Bosel et al. SETPOINT2: early tracheostomy in severe stroke. JAMA 2022", "url": "https://doi.org/10.1001/jama.2022.4798"},
+    {"label": "Brass et al. Percutaneous vs surgical tracheostomy. Cochrane 2016", "url": "https://doi.org/10.1002/14651858.CD008045.pub2"},
+    {"label": "Cook et al. NAP4 part 2: ICU and ED airway complications. BJA 2011", "url": "https://doi.org/10.1093/bja/aer059"},
+    {"label": "NTSP working party. Guidance for Tracheostomy Care (for ICS, endorsed by FICM), August 2020", "url": "https://www.ficm.ac.uk/sites/ficm/files/documents/2021-11/2020-08%20Tracheostomy_care_guidance_Final.pdf"},
+    {"label": "McGrath et al. Improving tracheostomy care in the UK: 20-hospital QI programme. BJA 2020", "url": "https://doi.org/10.1016/j.bja.2020.04.064"},
+    {"label": "Beduneau et al. WIND study: epidemiology of weaning outcome. AJRCCM 2017", "url": "https://doi.org/10.1164/rccm.201602-0320OC"},
+    {"label": "German Respiratory Society S2k guideline: prolonged weaning. Respiration 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/33302267/"},
+    {"label": "Goligher et al. Ventilation-induced diaphragm atrophy and outcomes. AJRCCM 2018", "url": "https://doi.org/10.1164/rccm.201703-0536OC"},
+    {"label": "RESCUE-3: transvenous diaphragm neurostimulation for weaning. AJRCCM 2026", "url": "https://doi.org/10.1164/rccm.202505-1056OC"}
+  ]
+}

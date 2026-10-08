@@ -1,0 +1,85 @@
+{
+  "title_topic": "Pulmonary embolism with right ventricular failure",
+  "summary": "A consultant-level look at intermediate-high and high-risk pulmonary embolism. PEITHO (NEJM 2014, 1,005 patients) found that full-dose tenecteplase cut death or haemodynamic decompensation at 7 days from 5.6% to 2.6%. It raised extracranial bleeding (6.3% vs 1.2%) and stroke (2.4% vs 0.2%), with no mortality benefit at 30 days or at about 3 years. ESC 2019 therefore reserved systemic lysis for high-risk PE and for rescue. Reduced-dose lysis is common in UK practice (ERUPT audit), but the outcome trial, PEITHO-3, has not yet reported. HI-PEITHO (NEJM 2026, 544 patients) is the first RCT in which a catheter therapy beat anticoagulation alone on a clinical composite: 4.0% vs 10.3% at 7 days, RR 0.39, with no intracranial haemorrhage. The benefit was driven by decompensation, though, and 14 of the 28 control-arm events met only the NEWS of 9 or more criterion. The trial was open-label and industry-funded, and 30-day deaths were 6 vs 3. PEERLESS, STORM-PE and CANARY measured mostly process or surrogate outcomes. The 2026 AHA/ACC guideline introduced categories A to E. It makes systemic lysis, catheter therapy and surgery all reasonable in category E1 and possible in category D, and gives PERT a class 1 recommendation, but its evidence review predates HI-PEITHO. NICE NG158 still says not to lyse stable patients. Supportive care means cautious fluid, early noradrenaline, high-flow oxygen and treating intubation as peri-arrest. VA-ECMO is a bridge, with observational pooled mortality of about 43%. UK surgical embolectomy is rare and carries about 25% in-hospital mortality.",
+  "takeaways": [
+    "Full-dose systemic lysis prevents collapse in intermediate-risk PE but increases bleeding and haemorrhagic stroke and doesn't reduce mortality: keep it for shock or deterioration.",
+    "HI-PEITHO supports catheter-directed lysis for intermediate-high-risk patients with tachycardia, tachypnoea or borderline blood pressure, but the benefit is fewer decompensations (half of control-arm events were a NEWS of 9 or more alone), not fewer deaths.",
+    "For the failing RV, be cautious with fluid, start noradrenaline early, prefer high-flow oxygen and treat intubation as a peri-arrest procedure.",
+    "Know your local pathway (PERT, catheter therapy, surgery and VA-ECMO) and how to reach it out of hours.",
+    "Watch for PEITHO-3 (reduced-dose alteplase), PEERLESS II and PERSEVERE (thrombectomy in high-risk PE)."
+  ],
+  "sources": [
+    {
+      "label": "PEITHO: Meyer et al, NEJM 2014",
+      "url": "https://doi.org/10.1056/NEJMoa1302097"
+    },
+    {
+      "label": "PEITHO long-term follow-up: Konstantinides et al, JACC 2017",
+      "url": "https://doi.org/10.1016/j.jacc.2016.12.039"
+    },
+    {
+      "label": "PEITHO-3 design paper: Thromb Haemost 2022",
+      "url": "https://doi.org/10.1055/a-1653-4699"
+    },
+    {
+      "label": "PEITHO-3 registry entry (NCT04430569)",
+      "url": "https://clinicaltrials.gov/study/NCT04430569"
+    },
+    {
+      "label": "ERUPT UK thrombolysis audit: ERJ Open Res 2025",
+      "url": "https://doi.org/10.1183/23120541.00935-2024"
+    },
+    {
+      "label": "HI-PEITHO: Rosenfield et al, NEJM 2026",
+      "url": "https://doi.org/10.1056/NEJMoa2516567"
+    },
+    {
+      "label": "ESC Working Group on Pulmonary Circulation commentary on HI-PEITHO",
+      "url": "https://www.escardio.org/communities/working-groups/pulmonary-circulation-right-ventricular-function/scientific-documents-and-publications/commented-articles/ultrasound-facilitated-catheter-directed-fibrinolysis-for-acute-pulmonary-embolism/"
+    },
+    {
+      "label": "CANARY: JAMA Cardiol 2022",
+      "url": "https://doi.org/10.1001/jamacardio.2022.3591"
+    },
+    {
+      "label": "STORM-PE: Circulation 2026",
+      "url": "https://doi.org/10.1161/CIRCULATIONAHA.125.077232"
+    },
+    {
+      "label": "PEERLESS: Jaber et al, Circulation 2025",
+      "url": "https://doi.org/10.1161/CIRCULATIONAHA.124.072364"
+    },
+    {
+      "label": "PEERLESS II registry entry (NCT06055920)",
+      "url": "https://clinicaltrials.gov/study/NCT06055920"
+    },
+    {
+      "label": "PERSEVERE registry entry (NCT06588634)",
+      "url": "https://clinicaltrials.gov/study/NCT06588634"
+    },
+    {
+      "label": "2026 AHA/ACC acute PE guideline: Creager et al, Circulation 2026",
+      "url": "https://doi.org/10.1161/CIR.0000000000001415"
+    },
+    {
+      "label": "2019 ESC/ERS acute PE guidelines: Konstantinides et al, Eur Heart J 2020",
+      "url": "https://doi.org/10.1093/eurheartj/ehz405"
+    },
+    {
+      "label": "NICE NG158 venous thromboembolic diseases (updated 2023)",
+      "url": "https://www.nice.org.uk/guidance/ng158"
+    },
+    {
+      "label": "ECMO for PE systematic review and meta-analysis: J Clin Med 2023",
+      "url": "https://doi.org/10.3390/jcm13010064"
+    },
+    {
+      "label": "UK surgical pulmonary embolectomy (NICOR, 1996 to 2018): Br J Surg 2024",
+      "url": "https://doi.org/10.1093/bjs/znae003"
+    },
+    {
+      "label": "Surgical embolectomy vs thrombolysis, Japanese nationwide database: J Thorac Cardiovasc Surg 2026",
+      "url": "https://doi.org/10.1016/j.jtcvs.2025.07.039"
+    }
+  ]
+}

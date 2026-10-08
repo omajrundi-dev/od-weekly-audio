@@ -1,0 +1,35 @@
+{
+  "title_topic": "Antimicrobial stewardship on ICU",
+  "summary": "A consultant-level look at the stewardship decisions that now have trial evidence. Procalcitonin-guided stopping (PRORATA, SAPS, and the UK ADAPT-Sepsis trial, JAMA 2025) safely shortens courses, but only by about a day, and CRP-guided stopping showed no benefit. Shorter fixed courses are supported by BALANCE (NEJM 2025: 7 vs 14 days for bloodstream infection, excluding S. aureus and severe immunosuppression) and, for VAP, by Chastre (2003) and REGARD-VAP (2024), with residual uncertainty for non-fermenting Gram-negatives and Pseudomonas. BLING III (JAMA 2024) narrowly missed its mortality endpoint for continuous beta-lactam infusion, but the accompanying meta-analysis favoured prolonged infusion, and the Surviving Sepsis Campaign 2026 guideline now recommends it strongly after a loading dose. Beta-lactam TDM (TARGET, DOLPHIN) improves target attainment but has not improved outcomes. The only de-escalation RCT (Leone 2014) was small and unfavourable. The UK INHALE trial of a multiplex PCR pneumonia panel improved early prescribing but failed to show non-inferior clinical cure. On guidance: NICE NG253 (Nov 2025) has a procalcitonin update in progress, UKHSA's Start Smart Then Focus (2023) sets the 48-72 hour CARES review, an ESICM-endorsed 2020 position paper supports routine beta-lactam TDM, and SSC 2026 makes conditional recommendations for procalcitonin-guided stopping, shorter courses, TDM and rapid diagnostics.",
+  "takeaways": [
+    "For uncomplicated Gram-negative bacteraemia with source control, seven days is the default; BALANCE supports it (it excluded S. aureus and severe immunosuppression).",
+    "Procalcitonin-guided stopping is safe but saves only about a day (ADAPT-Sepsis); CRP-guided stopping has no trial support.",
+    "Give piperacillin-tazobactam and meropenem as prolonged or continuous infusions, always after a loading dose (BLING III, the 2024 meta-analysis, SSC 2026 strong recommendation).",
+    "For VAP, stop once the patient has been stable for 48 hours, often by day seven or earlier (REGARD-VAP); take more care with non-fermenting Gram-negatives.",
+    "Beta-lactam TDM and rapid multiplex PCR improve process measures but have not yet improved outcomes (TARGET, DOLPHIN, INHALE); use them case by case."
+  ],
+  "sources": [
+    {"label": "ADAPT-Sepsis: Dark P et al. JAMA 2025", "url": "https://doi.org/10.1001/jama.2024.26458"},
+    {"label": "Gupta, Klompas, Rhee. Reassessing procalcitonin-guided therapy: lessons from ADAPT-Sepsis. Clin Infect Dis 2026", "url": "https://doi.org/10.1093/cid/ciaf336"},
+    {"label": "PRORATA: Bouadma L et al. Lancet 2010", "url": "https://doi.org/10.1016/S0140-6736(09)61879-1"},
+    {"label": "SAPS: de Jong E et al. Lancet Infect Dis 2016", "url": "https://doi.org/10.1016/S1473-3099(16)00053-0"},
+    {"label": "BALANCE: Daneman N et al. NEJM 2025", "url": "https://doi.org/10.1056/NEJMoa2404991"},
+    {"label": "BALANCE Pseudomonas post hoc analysis: Yahav D et al. Clin Infect Dis 2026", "url": "https://doi.org/10.1093/cid/ciag144"},
+    {"label": "PneumA: Chastre J et al. 8 vs 15 days for VAP. JAMA 2003", "url": "https://doi.org/10.1001/jama.290.19.2588"},
+    {"label": "REGARD-VAP: Mo Y et al. Lancet Respir Med 2024", "url": "https://doi.org/10.1016/S2213-2600(23)00418-6"},
+    {"label": "BLING III: Dulhunty JM et al. JAMA 2024", "url": "https://doi.org/10.1001/jama.2024.9779"},
+    {"label": "Best-Lane J et al. BLING III UK cohort. J Intensive Care Soc 2026", "url": "https://doi.org/10.1177/17511437251396871"},
+    {"label": "Abdul-Aziz MH et al. Prolonged vs intermittent beta-lactam infusion: systematic review and meta-analysis. JAMA 2024", "url": "https://doi.org/10.1001/jama.2024.9803"},
+    {"label": "TARGET: Hagel S et al. TDM-guided piperacillin-tazobactam. Intensive Care Med 2022", "url": "https://doi.org/10.1007/s00134-021-06609-6"},
+    {"label": "DOLPHIN: Ewoldt TMJ et al. Model-informed precision dosing. Intensive Care Med 2022", "url": "https://doi.org/10.1007/s00134-022-06921-9"},
+    {"label": "Abdul-Aziz MH et al. Antimicrobial TDM in critically ill adults: ESICM/ESCMID/IATDMCT/ISAC position paper. Intensive Care Med 2020", "url": "https://doi.org/10.1007/s00134-020-06050-1"},
+    {"label": "Leone M et al. De-escalation vs continuation in severe sepsis. Intensive Care Med 2014", "url": "https://doi.org/10.1007/s00134-014-3411-8"},
+    {"label": "Tabah A et al. Antimicrobial de-escalation: ESICM/ESCMID position statement. Intensive Care Med 2020", "url": "https://doi.org/10.1007/s00134-019-05866-w"},
+    {"label": "INHALE: Enne VI et al. NIHR Programme Grants for Applied Research 2026 (including RCT)", "url": "https://doi.org/10.3310/GJVG0801"},
+    {"label": "Surviving Sepsis Campaign: International Guidelines 2026 (Prescott H et al. Crit Care Med 2026)", "url": "https://doi.org/10.1097/CCM.0000000000007075"},
+    {"label": "SCCM summary page, SSC 2026 adult guidelines", "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026"},
+    {"label": "NICE NG253: Suspected sepsis in people aged 16 or over (Nov 2025)", "url": "https://www.nice.org.uk/guidance/ng253"},
+    {"label": "NICE HTG386 (formerly DG18): Procalcitonin testing for sepsis, under review", "url": "https://www.nice.org.uk/guidance/htg386"},
+    {"label": "UKHSA Start Smart Then Focus toolkit (2023)", "url": "https://www.gov.uk/government/publications/antimicrobial-stewardship-start-smart-then-focus/start-smart-then-focus-antimicrobial-stewardship-toolkit-for-inpatient-care-settings"}
+  ]
+}

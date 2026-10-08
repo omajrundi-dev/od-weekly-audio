@@ -1,0 +1,63 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Hello.
+Kate: Today's deep dive is invasive fungal infection on I C U. Tom, why now?
+Tom: Flu season's starting, and flu-associated aspergillosis is common and deadly. Candida auris is now notifiable. And there's a new global candida guideline.
+Kate: Let's start with candida. The old reflex: septic, colonised, not improving on antibiotics, so add an echinocandin.
+Tom: And EMPIRICUS tested exactly that patient.
+Kate: JAMA, twenty sixteen. Nineteen French I C Us. Two hundred and sixty non-neutropenic patients with I C U-acquired sepsis, candida at several sites, and multi-organ failure. Micafungin, a hundred milligrams daily, or placebo.
+Tom: And?
+Kate: Survival free of fungal infection at day twenty-eight was sixty-eight percent with micafungin and sixty with placebo. Hazard ratio one point three five, and the confidence interval crossed one.
+Tom: But it did prevent infections.
+Kate: New proven infection, three percent versus twelve. So it prevents some disease, but it doesn't change survival. The twenty sixteen Cochrane review agreed. Across nineteen trials of untargeted antifungals, the mortality risk ratio was nought point nine three, not significant.
+Tom: So where does beta-D-glucan come in?
+Kate: Starting treatment, and stopping it. Starting first. CandiSep, Intensive Care Medicine twenty twenty-two. Eighteen German I C Us, three hundred and thirty-nine septic patients at high risk. In one arm, antifungals started if glucan was eighty picograms per mil or more.
+Tom: Which certainly got drug in faster.
+Kate: A median of one day versus four point four. But twenty-eight-day mortality was thirty-four percent versus thirty-one. Relative risk one point one.
+Tom: And half the glucan arm got treated, when only one in seven actually had invasive candida.
+Kate: Forty-nine percent treated, fourteen percent infected. A secondary analysis this year found the manufacturer's cut-off performed poorly in these patients. And the FUNDICU research definitions in twenty twenty-four left glucan out of probable deep-seated candidiasis, because it isn't specific enough.
+Tom: So a positive result doesn't tell you much. What about a negative one?
+Kate: That's where it's useful. Two small single-centre trials. Rouzé, twenty seventeen, a hundred and ten patients: a biomarker algorithm stopped treatment before day seven in fifty-four percent, versus two percent. De Pascale, twenty twenty, a hundred and eight patients: stopping on a negative glucan cut median duration from ten days to two. Thirty-day mortality was about twenty-eight percent in both arms.
+Tom: Small, unblinded, and not powered for safety.
+Kate: Agreed. But consistent.
+Tom: Drug choice?
+Kate: An echinocandin first. Rezafungin is the new one, given once a week. ReSTORE, Lancet twenty twenty-three. A hundred and ninety-nine patients with candidaemia or invasive candidiasis, against caspofungin. It was non-inferior. Global cure at day fourteen, fifty-nine versus sixty-one percent. Thirty-day mortality, twenty-four versus twenty-one.
+Tom: On a twenty percent non-inferiority margin. That's generous.
+Kate: It is. And it wasn't an I C U population. The M H R A approved it in January twenty twenty-four, and the global guideline treats the echinocandins as interchangeable.
+Tom: My view: rezafungin's useful for getting people home on weekly doses. I wouldn't single it out for someone in shock.
+Kate: Now aspergillus, which is where practice has really moved.
+Tom: Because it isn't just a neutropenic disease any more.
+Kate: Schauwvlieghe, Lancet Respiratory Medicine twenty eighteen. Seven Belgian and Dutch I C Us, seven flu seasons, four hundred and thirty-two patients with severe influenza. Nineteen percent got invasive aspergillosis, a median of three days after admission. Influenza was an independent risk factor, with an adjusted odds ratio of about five. Ninety-day mortality was fifty-one percent, against twenty-eight.
+Tom: And a prospective cohort last November found it in about a quarter of flu patients who were tested, with I C U mortality of forty-four percent.
+Kate: COVID was similar, but later. The E C M M multinational study had five hundred and ninety-two patients. About fifteen percent had probable or proven disease, diagnosed a median of eight days in. Ninety-day I C U survival was twenty-nine percent, versus fifty-seven.
+Tom: So, prophylaxis?
+Kate: POSA-FLU, twenty twenty-one. Eighty-eight patients, posaconazole versus standard care. Inconclusive, because most cases were already there within forty-eight hours of admission.
+Tom: Which says test early, rather than prophylax.
+Kate: Yes. On diagnosis: Blot's AspICU algorithm, twenty twelve, was for patients with aspergillus in an endotracheal aspirate. Against histology, sensitivity was ninety-two percent and specificity sixty-one. Then came the twenty twenty expert flu definition, the E C M M and I S H A M COVID criteria, and FUNDICU. Those three share the same galactomannan thresholds: an index of one or more in lavage, or above nought point five in serum.
+Tom: And serum's insensitive when they aren't neutropenic.
+Kate: In the flu series, serum was positive in about two thirds of cases. Lavage was positive in nearly nine in ten. In early COVID series, serum was positive in only about one in five. So a negative serum test doesn't rule it out. You need a lavage.
+Tom: Treatment?
+Kate: Voriconazole or isavuconazole first, and liposomal amphotericin if azole resistance is a worry. That's the E S C M I D guideline with E C M M and the E R S from twenty seventeen, I D S A from twenty sixteen, the COVID consensus, and the new Swiss and German I C U guidelines from twenty twenty-five. The Swiss guideline favours isavuconazole with liver dysfunction, a long Q T or renal failure. Check voriconazole levels.
+Tom: How long for?
+Kate: There's no trial. The COVID panel suggested six to twelve weeks.
+Tom: Candida auris.
+Kate: Now renamed Candidozyma auris. In twenty twenty-five, U K H S A replaced its twenty seventeen guidance. Screen anyone who's had an overnight stay in a healthcare facility abroad in the past year, and anyone coming from an affected U K unit. Swab the axilla, groin and nose. Isolate or cohort until discharge, and again on readmission. Contacts can come out of isolation after three negative screens taken at least twenty-four hours apart.
+Tom: And treatment?
+Kate: Don't treat colonisation, and that includes respiratory, urine and wound isolates. Don't routinely decolonise. Use an echinocandin empirically for infection. After a new healthcare-associated case, screen everyone in critical care. And since the sixth of April twenty twenty-five, it's been notifiable for labs in England. U K H S A wants colonisations reported as well as infections.
+Tom: Back to candidaemia. Duration and step-down?
+Kate: Fourteen days after clearance. I D S A counts from the first negative culture, once symptoms have resolved. The global guideline counts from the first of persistently negative daily cultures. For step-down, I D S A says usually within five to seven days, if the patient's stable, the isolate's fluconazole-susceptible and repeat cultures are negative. The global guideline allows an oral azole after at least five days of echinocandin, once the source is controlled. Take the line out early.
+Tom: And empirical treatment that isn't working?
+Kate: I D S A suggests stopping at four to five days if there's no response and no evidence of candida.
+Tom: So where do the guidelines part company?
+Kate: Over empirical treatment. I D S A says consider it in critically ill patients with risk factors. The trials say it doesn't improve survival. And over glucan, which guidelines accept for diagnosis but research definitions won't count.
+Tom: Prognosis?
+Kate: EUCANDICU, twenty-three European I C Us. Crude thirty-day mortality after invasive candidiasis was forty-two percent.
+Tom: Grey zones?
+Kate: A positive glucan with nothing else. Patients too hypoxic for bronchoscopy. And whether anyone should get mould prophylaxis.
+Tom: Take-homes for Monday.
+Kate: One. Don't start empirical echinocandins for colonisation and sepsis alone. EMPIRICUS and CandiSep showed no survival benefit. Treat septic shock with a real candida risk, and reassess by day four or five.
+Tom: Two. Use beta-D-glucan to stop treatment, not to start it.
+Kate: Three. In severe flu, and in COVID, look for aspergillus early: lavage galactomannan, not just serum. Treat with voriconazole or isavuconazole.
+Tom: Four. Candida auris is notifiable. Screen anyone admitted after healthcare abroad, isolate, and don't treat colonisation.
+Kate: Five. Candidaemia: line out, fourteen days from clearance, and step down to fluconazole after about five days if they're stable.
+Tom: Thanks for listening.
+Kate: Bye.

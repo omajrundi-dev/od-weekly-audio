@@ -1,0 +1,63 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Hello.
+Kate: Today's deep dive is corticosteroids in septic shock and severe pneumonia.
+Tom: Which you'd think we'd have settled by now.
+Kate: You would. But in the last eighteen months the A T S, NICE and the Surviving Sepsis Campaign have all moved, and two big pneumonia trials point in opposite directions. So it's worth an update.
+Tom: Start with shock. ADRENAL and APROCCHSS, both N E J M, March twenty eighteen.
+Kate: ADRENAL first. Thirty-eight hundred ventilated patients in septic shock. Hydrocortisone two hundred milligrams a day by infusion for seven days, against placebo. Ninety-day mortality was twenty-eight percent in the hydrocortisone group and twenty-nine percent with placebo. No difference.
+Tom: But shock resolved faster.
+Kate: Median three days against four. And fewer transfusions. Mortality didn't move, though.
+Tom: Then APROCCHSS, from the French group.
+Kate: Twelve hundred and forty-one patients. Fifty milligrams of hydrocortisone every six hours, plus fifty micrograms of enteral fludrocortisone, for seven days with no taper. Ninety-day mortality was forty-three percent against forty-nine percent. Relative risk nought point eight eight.
+Tom: So the obvious question is whether it was the fludrocortisone.
+Kate: That's the argument. But they were different patients too. APROCCHSS patients were much sicker, the control-arm mortality was nearly half, and the trial started life as a factorial with activated protein C.
+Tom: What about the pooled data?
+Kate: The individual patient meta-analysis in N E J M Evidence in twenty twenty-three. Seventeen trials gave patient-level data. Overall, ninety-day mortality relative risk was nought point nine three, not significant. With fludrocortisone it was nought point eight six. Without, nought point nine six.
+Tom: That's not a randomised comparison, though.
+Kate: No. Then there's a U S target trial emulation, Bosch and colleagues in JAMA Internal Medicine. About eighty-eight thousand patients. Adding fludrocortisone was associated with about a three point seven percentage point lower risk of death or discharge to hospice. Observational, so residual confounding.
+Tom: And the Australian phase two dose-finding trial in twenty twenty-four?
+Kate: Hundred and fifty-three patients, three fludrocortisone doses. No difference in time to shock resolution, and absorption varied a lot between patients. So the fludrocortisone question is still open. The French RECORDS trial, about eighteen hundred patients and testing hydrocortisone plus fludrocortisone by biological profile, is still listed as recruiting.
+Tom: Now pneumonia. CAPE COD.
+Kate: N E J M, twenty twenty-three. Eight hundred patients in French I C Us with severe community-acquired pneumonia. Hydrocortisone two hundred milligrams a day for four or seven days depending on improvement, then a taper to eight or fourteen days in total. Started within twenty-four hours of the first severity criterion.
+Tom: And crucially, who was excluded?
+Kate: Anyone already on vasopressors for septic shock, and anyone flu positive. Twenty-eight-day mortality was six percent against twelve percent. Fewer intubations too: eighteen percent against nearly thirty in those not ventilated at baseline.
+Tom: The Bottom Line flagged the fragility, though. Only seventy-two deaths.
+Kate: Fair, and it stopped early. Then REMAP-CAP's corticosteroid domain, Intensive Care Medicine, twenty twenty-five. Six hundred and fifty-eight patients, open label, hydrocortisone fifty milligrams six-hourly for seven days. Stopped for futility. Ninety-day mortality fifteen percent with hydrocortisone, about ten with no steroid.
+Tom: That's the wrong direction.
+Kate: The credible intervals cross one, so harm isn't proven. But look at the design. About half had shock, which CAPE COD excluded. Allocation was lopsided, five hundred and thirty-six against a hundred and twenty-two, partly from a coding error. And nearly a quarter of controls got steroids anyway.
+Tom: And the American V A trial, ESCAPe?
+Kate: Methylprednisolone for twenty days, five hundred and eighty-six patients, well short of its target. Sixty-day mortality sixteen against eighteen percent. Not significant.
+Tom: So who actually benefits?
+Kate: The best clue's inflammation. The twenty twenty-five individual patient meta-analysis of eight pneumonia trials, in Lancet Respiratory Medicine. Overall, steroids cut thirty-day mortality, odds ratio nought point seven two. The model picked out C R P. Above two hundred and four milligrams per litre, the odds ratio was nought point four three. Below it, no effect.
+Tom: And the gene-expression work?
+Kate: Post hoc VANISH. Patients with the more immunocompetent S R S two transcriptomic profile did worse on hydrocortisone. Small numbers, wide intervals. A twenty twenty-five Nature Medicine consensus framework found a similar harm signal in one subtype. And this year a reanalysis of CAPE COD samples used a three-biomarker score, procalcitonin, soluble TREM one and I L six. Benefit was confined to the most dysregulated patients.
+Tom: None of which is a bedside test yet.
+Kate: No. Hypothesis-generating, all of it.
+Tom: Guidelines, then. Where do they part company?
+Kate: Surviving Sepsis twenty twenty-six suggests I V corticosteroids for septic shock. Conditional, low certainty. They've dropped the old wording about an ongoing vasopressor requirement. The twenty twenty-one remark was two hundred milligrams of hydrocortisone a day, started at noradrenaline nought point two five micrograms per kilo per minute for at least four hours.
+Tom: And the S C C M corticosteroid update?
+Kate: Twenty twenty-four. Conditional for septic shock, strong for severe community-acquired pneumonia, and against high-dose, short courses.
+Tom: Europe's more cautious.
+Kate: The E R S and E S I C M severe pneumonia guideline, twenty twenty-three, only suggests steroids if shock is present. Its reasonable option was methylprednisolone. And it didn't include CAPE COD.
+Tom: The Americans swung the other way.
+Kate: Twenty nineteen A T S and I D S A advised against routine steroids in severe pneumonia, except refractory shock. The twenty twenty-five update came from the A T S alone. A conditional yes for severe pneumonia, a strong no for non-severe, and not for influenza.
+Tom: And NICE?
+Kate: N G two five zero, September twenty twenty-five. Consider a steroid for high-severity pneumonia, four to seven days or until discharge, starting with I V hydrocortisone. They define high severity as CURB sixty-five of three to five plus clinical judgement. They'd seen REMAP-CAP and stayed cautious about it.
+Tom: So practically?
+Kate: For septic shock on escalating noradrenaline, hydrocortisone two hundred milligrams a day. Boluses or infusion both have trial support. I'd add fludrocortisone fifty micrograms enterally, but that's my opinion, not proven.
+Tom: And severe pneumonia without shock?
+Kate: That's CAPE COD's population. Early, within twenty-four hours, exclude flu, and copy its taper.
+Tom: Harms?
+Kate: Hyperglycaemia, especially in the pneumonia trials. In the septic shock meta-analysis, roughly double the hypernatraemia and more muscle weakness, both low certainty. No clear rise in superinfection or G I bleeding. In pneumonia, more readmissions.
+Tom: Outcomes?
+Kate: Steroids reliably shorten shock by about a day. Mortality benefit is modest at best, and the Cochrane review in twenty twenty-five found little or no effect on long-term mortality.
+Tom: Grey zones?
+Kate: Influenza, where nobody recommends them. Severe pneumonia with shock, where CAPE COD has no data and REMAP-CAP is worrying. Taper or stop. And whether fludrocortisone matters.
+Tom: Take-homes for Monday.
+Kate: One. In septic shock, hydrocortisone shortens shock. Any survival benefit is small and may depend on fludrocortisone.
+Tom: Two. In severe pneumonia without shock or flu, CAPE COD supports early hydrocortisone, and NICE and the A T S agree.
+Kate: Three. REMAP-CAP means you shouldn't assume the benefit carries over to shock or late starts.
+Tom: Four. High C R P is the best bedside hint of who benefits. Biomarker and gene-expression subtypes aren't ready yet.
+Kate: Five. Watch the glucose and sodium, and document why you started.
+Tom: Thanks for listening.
+Kate: Bye for now.

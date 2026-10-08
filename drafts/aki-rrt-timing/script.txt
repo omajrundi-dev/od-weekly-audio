@@ -1,0 +1,69 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is acute kidney injury and the timing of renal replacement therapy.
+Kate: Why now? Because KDIGO put its first rewrite since twenty twelve out for public review this spring, and LIBERATE-D, in JAMA in January, is the first decent trial on stopping dialysis rather than starting it.
+Tom: So: starting, modality, dose, anticoagulation, stopping, and the kidneys afterwards.
+Kate: Starting. The old instinct was "the creatinine's climbing, line in, get going."
+Tom: And ELAIN, JAMA twenty sixteen, seemed to back that up.
+Kate: Single centre, Münster. Two hundred and thirty-one patients at KDIGO stage two, with a raised plasma N GAL. Early R R T within eight hours, or delayed until stage three. Ninety-day mortality was about thirty-nine percent versus fifty-five. Hazard ratio nought point six six.
+Tom: Huge effect for one centre.
+Kate: Too huge. The same year, AKIKI in the New England Journal. Six hundred and twenty French patients, stage three, ventilated or on catecholamines. Immediate R R T versus waiting for a hard indication. Sixty-day mortality forty-eight and a half versus about fifty percent. No difference.
+Tom: But the striking bit was the delayed arm.
+Kate: Forty-nine percent of them never got dialysed at all. And line-related bloodstream infections doubled in the early arm, ten percent versus five.
+Tom: Then IDEAL-ICU, twenty eighteen, septic shock only.
+Kate: Four hundred and eighty-eight. Within twelve hours versus a forty-eight hour wait. Stopped early for futility. Ninety-day mortality fifty-eight versus fifty-four percent. Thirty-eight percent of the delayed group never needed R R T.
+Tom: And then the big one.
+Kate: STARRT-AKI, twenty twenty. Just over three thousand randomised. Accelerated, within twelve hours, versus standard, meaning wait for a conventional indication or seventy-two hours of persistent A K I. Ninety-day mortality forty-three point nine versus forty-three point seven percent. Relative risk one point nought nought.
+Tom: Can't get flatter than that.
+Kate: But two harms. Adverse events, twenty-three versus sixteen and a half percent. And among ninety-day survivors, still on dialysis: ten point four percent versus six. Relative risk one point seven four.
+Tom: I'd push on that. Isn't it just people who'd never have needed dialysis?
+Kate: A post hoc analysis in C J A S N last year looked at that. Restricted to patients who got six days or more of R R T, the relative risk fell to one point two one, and wasn't significant. So the harm may be mostly about starting at all, not starting a bit sooner.
+Tom: Which is still an argument for waiting.
+Kate: It is. And the Lancet individual patient data meta-analysis in twenty twenty, nine trials, about nineteen hundred patients, found day-twenty-eight mortality forty-four versus forty-three percent. No heterogeneity at all.
+Tom: So how long can you wait? That's AKIKI two.
+Kate: Lancet, twenty twenty-one. They only randomised once patients had seventy-two hours of oliguria or a urea of about forty millimoles. Start then, or keep waiting until a mandatory indication or a urea of about fifty.
+Tom: Result?
+Kate: R R T-free days, twelve versus ten. No difference. But in a multivariable analysis, sixty-day mortality was higher with the more-delayed strategy. Hazard ratio one point six five.
+Tom: Adjusted, secondary, two hundred and seventy-eight patients.
+Kate: Agreed, it's a signal, not proof. But it's why "wait and watch" doesn't mean wait forever.
+Tom: One more thing on the waiting arm. BICARICU-two, JAMA last December. Bicarbonate in severe acidaemia with moderate to severe A K I. No mortality difference, but R R T use was thirty-five versus fifty percent. That's a secondary outcome.
+Kate: So it might buy time, but it's not proven to change outcomes.
+Tom: Guidelines. KDIGO twenty twelve says start emergently for life-threatening fluid, electrolyte or acid-base derangement. Otherwise look at the broader context and trends, not single urea or creatinine thresholds. Both ungraded.
+Kate: NICE N G one four eight, twenty nineteen, last updated twenty twenty-four. Refer immediately if hyperkalaemia, acidosis, uraemic complications, fluid overload or pulmonary oedema aren't responding to medical management. Judge the whole patient, not an isolated value.
+Tom: And the joint Renal Association and Intensive Care Society guideline, twenty twenty, written for COVID, says starting without emergent indications doesn't help.
+Kate: So they actually agree. The gap is that KDIGO twenty twelve predates every one of these trials. The twenty twenty-six draft covers timing, modality, dose and discontinuation, but it's not final yet, so we won't quote it.
+Tom: Modality. C R R T versus intermittent.
+Kate: Hemodiafe, Lancet twenty oh six. Three hundred and sixty patients with multi-organ failure. Sixty-day survival thirty-two versus thirty-three percent.
+Tom: But there's the old worry about renal recovery.
+Kate: Yes. A twenty thirteen meta-analysis in Intensive Care Medicine. In the observational studies, starting on intermittent dialysis was linked to roughly double the dialysis dependence. In the randomised trials, no difference.
+Tom: Confounding by who gets which.
+Kate: Probably. KDIGO suggests C R R T if haemodynamically unstable or with raised intracranial pressure. Both grade two B. Otherwise they're complementary.
+Tom: Dose. ATN and RENAL settled this.
+Kate: ATN, twenty oh eight, eleven hundred patients. Thirty-five versus twenty mils per kilo per hour, no difference. RENAL, twenty oh nine, fifteen hundred patients. Forty versus twenty-five, ninety-day mortality forty-four point seven percent in both arms.
+Tom: Hence KDIGO's twenty to twenty-five delivered. Grade one A.
+Kate: Which usually means prescribing more, because of downtime. There's a twenty twenty-six meta-analysis hinting lower doses might be fine, but it's very low certainty, and below about thirteen mils per kilo it was associated with higher ninety-day mortality. LIMIT, in Japan, is testing twelve versus twenty-five.
+Tom: Anticoagulation. Citrate or heparin?
+Kate: RICH, JAMA twenty twenty. Twenty-six German centres, stopped early at five hundred and ninety-six patients. Median filter life forty-seven hours with citrate versus twenty-six with heparin. Bleeding five percent versus seventeen.
+Tom: Mortality?
+Kate: Fifty-one versus fifty-four percent. Not significant. And new infections were actually more common with citrate, sixty-eight versus fifty-five percent. Worth keeping an eye on.
+Tom: KDIGO suggests citrate for C R R T unless contraindicated. Two B.
+Kate: I'd say liver failure and severe lactic acidosis are where you watch the calcium ratio closely.
+Tom: Stopping. This is where it's newest.
+Kate: The classic signal is urine output. In the BEST Kidney observational data, urine output before stopping was the best predictor of success, and diuretics blunted it. KDIGO suggests not using diuretics to speed recovery.
+Tom: And LIBERATE-D.
+Kate: JAMA, January. Two hundred and twenty-one patients at four U S sites, already on intermittent dialysis and haemodynamically stable. Conservative strategy, dialyse only for a metabolic or clinical indication, versus conventional three times a week.
+Tom: And?
+Kate: Recovery at discharge, sixty-four versus fifty percent. Unadjusted odds ratio one point seven six. After prespecified adjustment, not significant. Fewer sessions, less dialysis hypotension.
+Tom: So, hypothesis-generating.
+Kate: The authors say so. It needs a bigger trial, and it isn't a C R R T in shock population.
+Tom: Outcomes. RENAL's four-year follow-up: about six in ten dead, but only around five percent of ninety-day survivors on maintenance dialysis. And roughly four in ten with albuminuria.
+Kate: So few stay on dialysis, but many go home with damaged kidneys. The KDIGO draft adds follow-up recommendations.
+Tom: Grey zones.
+Kate: Fluid overload as an indication, which none of these trials really answered. The patient drifting at day three with no hard trigger. And sepsis subgroups, where a twenty twenty-six meta-analysis leaned on retrospective cohorts and lost significance after correcting for publication bias.
+Tom: Take-homes for Monday?
+Kate: One. Without an emergent indication, early R R T doesn't save lives. Waiting means a third to a half never need it.
+Tom: Two. Don't wait indefinitely. AKIKI two gives a signal of harm from delaying beyond seventy-two hours of oliguria or a urea around forty, if nothing else has triggered you.
+Kate: Three. Deliver twenty to twenty-five mils per kilo per hour, and use citrate for C R R T unless there's a reason not to.
+Tom: Four. Pick modality on haemodynamics and brain, not on dogma.
+Kate: Five. Watch urine output, don't push diuretics to wean, and arrange kidney follow-up for survivors.
+Tom: Thanks for listening. Bye.
+Kate: Bye.

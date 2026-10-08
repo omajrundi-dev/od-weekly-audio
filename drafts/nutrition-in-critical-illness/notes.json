@@ -1,0 +1,93 @@
+{
+  "title_topic": "Nutrition in critical illness",
+  "summary": "A consultant-level look at what recent trials have changed in ICU nutrition. On calories, EDEN (JAMA 2012), PermiT (NEJM 2015) and NUTRIREA-3 (Lancet Respir Med 2023) all found that feeding less in the first week did not increase mortality. In NUTRIREA-3, a low-dose arm (6 kcal/kg/day, 0.2-0.4 g/kg protein) in ventilated patients with shock reached readiness for ICU discharge sooner and had fewer gut and liver complications, and a 2026 post hoc analysis found no excess kidney injury. EPaNIC (NEJM 2011) favoured delaying supplemental PN to day 8. CALORIES and NUTRIREA-2 found no mortality difference by route. On protein, EFFORT Protein (Lancet 2023), PRECISe (Lancet 2024, worse quality of life with 2.0 vs 1.3 g/kg/day) and TARGET Protein (JAMA 2025, no benefit across 3397 patients) were all neutral or harmful. A 2026 meta-analysis (Summers, Clin Nutr) found no mortality effect overall and higher mortality with more protein in AKI (RR 1.29, 3 trials). REPLENISH has not yet reported. ESPEN 2023 is closest to the trials: no more than 70% of energy expenditure early, 80-100% of measured expenditure after day 3, protein 1.3 g/kg/day built up progressively, indirect calorimetry in ventilated patients, and supplemental PN case by case. ASPEN 2022 (12-25 kcal/kg, protein 1.2-2.0 g/kg, no supplemental PN before day 7) predates the protein trials, so its upper protein range now looks too high. NICE CG32 (2006, updated 2017) is not ICU-specific but still supplies the UK refeeding-risk criteria. Doig's 2015 refeeding trial was negative on its primary outcome but found better 60-day survival with 48 hours of caloric restriction (a secondary outcome), and ESPEN has adopted that approach. After ICU, ward intake falls short. INTENT (phase II) increased energy delivery but was not powered for clinical outcomes.",
+  "takeaways": [
+    "Less is fine early: first-week underfeeding caused no harm in EDEN, PermiT or NUTRIREA-3, and in shock it meant fewer gut complications.",
+    "High protein has not helped and may harm, especially in AKI (EFFORT Protein, PRECISe, TARGET Protein, Summers 2026 meta-analysis). Aim for about 1.3 g/kg/day.",
+    "Don't start supplemental parenteral nutrition in week one in a previously well-nourished patient (EPaNIC; ASPEN 2022).",
+    "Check phosphate daily in the first week. If refeeding hypophosphataemia develops, restrict calories for 48 hours and then build back up (Doig 2015; ESPEN 2023).",
+    "Make sure nutrition carries on after ICU, and don't let the feeding tube come out before the patient is actually eating."
+  ],
+  "sources": [
+    {
+      "label": "EDEN trial, Rice et al, JAMA 2012",
+      "url": "https://doi.org/10.1001/jama.2012.137"
+    },
+    {
+      "label": "PermiT trial, Arabi et al, NEJM 2015",
+      "url": "https://doi.org/10.1056/NEJMoa1502826"
+    },
+    {
+      "label": "NUTRIREA-3, Reignier et al, Lancet Respir Med 2023",
+      "url": "https://doi.org/10.1016/S2213-2600(23)00092-9"
+    },
+    {
+      "label": "NUTRIREA-3 renal post hoc analysis, Schleef et al, Intensive Care Med 2026",
+      "url": "https://doi.org/10.1007/s00134-026-08369-7"
+    },
+    {
+      "label": "EPaNIC, Casaer et al, NEJM 2011",
+      "url": "https://doi.org/10.1056/NEJMoa1102662"
+    },
+    {
+      "label": "CALORIES, Harvey et al, Health Technol Assess 2016",
+      "url": "https://doi.org/10.3310/hta20280"
+    },
+    {
+      "label": "NUTRIREA-2, Reignier et al, Lancet 2018",
+      "url": "https://doi.org/10.1016/S0140-6736(17)32146-3"
+    },
+    {
+      "label": "EFFORT Protein, Heyland et al, Lancet 2023",
+      "url": "https://doi.org/10.1016/S0140-6736(22)02469-2"
+    },
+    {
+      "label": "PRECISe, Bels et al, Lancet 2024",
+      "url": "https://doi.org/10.1016/S0140-6736(24)01304-7"
+    },
+    {
+      "label": "TARGET Protein, Summers et al, JAMA 2025",
+      "url": "https://doi.org/10.1001/jama.2025.9110"
+    },
+    {
+      "label": "Summers et al, enteral protein meta-analysis, Clin Nutr 2026",
+      "url": "https://doi.org/10.1016/j.clnu.2026.106665"
+    },
+    {
+      "label": "REPLENISH trial registration (NCT04475666)",
+      "url": "https://clinicaltrials.gov/study/NCT04475666"
+    },
+    {
+      "label": "ESPEN practical and partially revised ICU guideline, Singer et al, Clin Nutr 2023",
+      "url": "https://doi.org/10.1016/j.clnu.2023.07.011"
+    },
+    {
+      "label": "ASPEN adult critical care nutrition guideline, Compher et al, JPEN 2022",
+      "url": "https://doi.org/10.1002/jpen.2267"
+    },
+    {
+      "label": "NICE CG32 Nutrition support for adults (2006, updated 2017)",
+      "url": "https://www.nice.org.uk/guidance/cg32"
+    },
+    {
+      "label": "EAT-ICU, Allingstrup et al, Intensive Care Med 2017",
+      "url": "https://doi.org/10.1007/s00134-017-4880-3"
+    },
+    {
+      "label": "Indirect calorimetry meta-analysis, Watanabe et al, Nutrients 2024",
+      "url": "https://doi.org/10.3390/nu16101452"
+    },
+    {
+      "label": "Refeeding Syndrome Trial, Doig et al, Lancet Respir Med 2015",
+      "url": "https://doi.org/10.1016/S2213-2600(15)00418-X"
+    },
+    {
+      "label": "Post-ICU ward nutrition adequacy systematic review, Rosseel et al, JPEN 2025",
+      "url": "https://doi.org/10.1002/jpen.2699"
+    },
+    {
+      "label": "INTENT phase II trial, Ridley et al, Crit Care 2025",
+      "url": "https://doi.org/10.1186/s13054-024-05189-3"
+    }
+  ]
+}

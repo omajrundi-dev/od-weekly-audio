@@ -1,0 +1,41 @@
+{
+  "title_topic": "Non-invasive respiratory support and timing of intubation",
+  "summary": "A consultant-level review of non-invasive support in acute hypoxaemic respiratory failure. FLORALI (NEJM 2015) found no difference in intubation between high-flow nasal oxygen, standard oxygen and face-mask NIV, but a secondary 90-day mortality signal favoured high flow. The larger SOHO trial (NEJM 2026, 1,110 patients) found identical 28-day mortality (14.6% in both arms) and only slightly less intubation with high flow (42.4% vs 48.4%). Helmet NIV looked dramatic in a small single-centre trial stopped early (Patel, JAMA 2016). HENIVOT (COVID, JAMA 2021) missed its primary outcome but intubated fewer patients, and HELMET-COVID found no mortality difference. In RECOVERY-RS (JAMA 2022), CPAP reduced intubation or death compared with conventional oxygen (36.3% vs 44.4%) and high flow did not. RENOVATE (JAMA 2025) found high flow non-inferior to NIV in four of five groups. Guidelines: ERS/ATS 2017 made no recommendation on NIV for de novo hypoxaemic failure. ERS 2022 conditionally prefers high flow over NIV. ESICM 2023 strongly recommends high flow over conventional oxygen to reduce intubation, but makes no recommendation on NIV or CPAP versus high flow, or on helmet versus mask. The new ATS 2026 guideline gives a strong recommendation for high flow and a conditional one for NIV or CPAP. The BTS high-flow clinical statement is still pending. Patient self-inflicted lung injury rests on physiological and animal data and is contested. ROX (Roca 2019) and HACOR (Duan 2017) predict failure with modest-to-good accuracy. Evidence that delayed intubation causes harm is observational and confounded, the target trial emulations conflict, and there is no randomised trial of timing.",
+  "takeaways": [
+    "Compared with standard oxygen, high flow reduces intubation, but SOHO (NEJM 2026) shows no mortality benefit.",
+    "CPAP or helmet NIV are reasonable escalation steps, but guideline support is only conditional and the trial data are mostly from COVID.",
+    "P-SILI is plausible but unproven: use it as a reason to watch inspiratory effort, not as a reason to intubate.",
+    "ROX and HACOR help, but follow the trend and set a time to reassess (one to two hours) with named criteria.",
+    "Harm from delayed intubation isn't proven, but patients who fail do badly: decide early and document the plan and ceiling of treatment."
+  ],
+  "sources": [
+    {"label": "FLORALI: Frat et al, NEJM 2015", "url": "https://doi.org/10.1056/NEJMoa1503326"},
+    {"label": "Helmet vs face mask NIV in ARDS: Patel et al, JAMA 2016", "url": "https://doi.org/10.1001/jama.2016.6338"},
+    {"label": "HENIVOT: Grieco et al, JAMA 2021", "url": "https://doi.org/10.1001/jama.2021.4682"},
+    {"label": "HELMET-COVID: Arabi et al, JAMA 2022", "url": "https://doi.org/10.1001/jama.2022.15599"},
+    {"label": "RECOVERY-RS: Perkins et al, JAMA 2022", "url": "https://doi.org/10.1001/jama.2022.0028"},
+    {"label": "RENOVATE: Maia et al, JAMA 2025", "url": "https://doi.org/10.1001/jama.2024.26244"},
+    {"label": "SOHO: Frat et al, NEJM 2026", "url": "https://doi.org/10.1056/NEJMoa2516087"},
+    {"label": "HIGH: Azoulay et al, JAMA 2018", "url": "https://doi.org/10.1001/jama.2018.14282"},
+    {"label": "Ferreyro et al, network meta-analysis, JAMA 2020", "url": "https://doi.org/10.1001/jama.2020.9524"},
+    {"label": "Pitre et al, network meta-analysis, Chest 2023", "url": "https://doi.org/10.1016/j.chest.2023.04.022"},
+    {"label": "ERS/ATS guideline: NIV for acute respiratory failure, Rochwerg et al, Eur Respir J 2017", "url": "https://doi.org/10.1183/13993003.02426-2016"},
+    {"label": "ERS guideline: high-flow nasal cannula in acute respiratory failure, Oczkowski et al, Eur Respir J 2022", "url": "https://doi.org/10.1183/13993003.01574-2021"},
+    {"label": "ESICM ARDS guidelines, Grasselli et al, Intensive Care Med 2023", "url": "https://doi.org/10.1007/s00134-023-07050-7"},
+    {"label": "ATS guideline: noninvasive respiratory support, Goel et al, AJRCCM 2026", "url": "https://doi.org/10.1093/ajrccm/aamag302"},
+    {"label": "BTS clinical statement on high flow nasal oxygen (in development)", "url": "https://www.brit-thoracic.org.uk/clinical-resources/clinical-statements/high-flow-nasal-oxygen"},
+    {"label": "P-SILI concept: Brochard, Slutsky, Pesenti, AJRCCM 2017", "url": "https://doi.org/10.1164/rccm.201605-1081CP"},
+    {"label": "Carteaux et al, tidal volume and NIV failure, Crit Care Med 2016", "url": "https://doi.org/10.1097/CCM.0000000000001379"},
+    {"label": "Tonelli et al, oesophageal pressure swings predict NIV outcome, AJRCCM 2020", "url": "https://doi.org/10.1164/rccm.201912-2512OC"},
+    {"label": "Tobin, P-SILI is not justification for intubation of COVID-19 patients, Ann Intensive Care 2020", "url": "https://doi.org/10.1186/s13613-020-00724-1"},
+    {"label": "Jubran, Patient self-inflicted lung injury: does it really exist? Curr Opin Crit Care 2026 (review)", "url": "https://doi.org/10.1097/MCC.0000000000001354"},
+    {"label": "ROX index: Roca et al, AJRCCM 2019", "url": "https://doi.org/10.1164/rccm.201803-0589OC"},
+    {"label": "HACOR score: Duan et al, Intensive Care Med 2017", "url": "https://doi.org/10.1007/s00134-016-4601-3"},
+    {"label": "Kang et al, HFNC failure and delayed intubation, Intensive Care Med 2015 (observational)", "url": "https://doi.org/10.1007/s00134-015-3693-5"},
+    {"label": "LUNG SAFE NIV substudy: Bellani et al, AJRCCM 2017 (observational)", "url": "https://doi.org/10.1164/rccm.201606-1306OC"},
+    {"label": "Mellado-Artigas et al, target trial emulation of immediate intubation, Crit Care 2024", "url": "https://doi.org/10.1186/s13054-024-04926-y"},
+    {"label": "Phillips-Houlbracq et al, delayed intubation in COVID-19, emulated target trial, Sci Rep 2026", "url": "https://doi.org/10.1038/s41598-026-47102-8"},
+    {"label": "Papoutsi et al, timing of intubation in COVID-19 meta-analysis (non-randomised studies), Crit Care 2021", "url": "https://doi.org/10.1186/s13054-021-03540-6"},
+    {"label": "HENIVOT2 (NCT05089695), ClinicalTrials.gov, listed as recruiting", "url": "https://clinicaltrials.gov/study/NCT05089695"}
+  ]
+}

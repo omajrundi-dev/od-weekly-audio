@@ -1,0 +1,93 @@
+{
+ "title_topic": "Severe community-acquired pneumonia on ICU",
+ "summary": "A consultant-level comparison of the 2023 ERS/ESICM/ESCMID/ALAT severe CAP guideline with the 2019 ATS/IDSA guideline, the 2025 ATS-only update (which IDSA declined to endorse) and NICE NG250 (September 2025, replacing NG138 and CG191; BTS remains 2009 with a 2015 annotated update). The European panel prefers a macrolide, not a fluoroquinolone, as the beta-lactam partner, based on observational data; ACCESS (2024) shows clarithromycin improves a surrogate early-response endpoint in ward patients, and a 2025 network meta-analysis finds no regimen convincingly superior. Guidelines converge on covering MRSA and Pseudomonas only when there are validated risk factors, using nasal MRSA PCR and cultures to de-escalate. Multiplex PCR speeds escalation but not de-escalation in the one large RCT. Steroids are covered briefly (CAPE COD positive, REMAP-CAP hydrocortisone stopped for futility; NICE 2025 now says consider a steroid). The main news is REMAP-CAP's influenza antiviral domain (preprint, 2026): in 442 critically ill patients, oseltamivir for 5 or 10 days was associated with higher 90-day mortality than no antiviral, which challenges every current guideline. Duration: 5 days per NICE, at least 5 per ATS 2025, with procalcitonin to shorten per ERS. BALANCE supports 7 rather than 14 days in bacteraemia.",
+ "takeaways": [
+  "Beta-lactam plus macrolide is the default in severe CAP; keep levofloxacin for true penicillin allergy and be careful combining it with steroids (MHRA).",
+  "Cover MRSA or Pseudomonas only with prior respiratory isolation or recent admission with IV antibiotics, and use nasal MRSA PCR and cultures to de-escalate quickly.",
+  "Rapid multiplex panels only help if someone acts on the result the same day: in the RCT they sped up escalation, not de-escalation.",
+  "Oseltamivir is no longer automatic in ventilated or shocked influenza after REMAP-CAP (preprint): discuss with microbiology and recruit to trials.",
+  "Five to seven days of antibiotics for most patients, guided by clinical stability and procalcitonin."
+ ],
+ "sources": [
+  {
+   "label": "ERS/ESICM/ESCMID/ALAT guidelines for the management of severe CAP (Martin-Loeches, Torres et al., Intensive Care Med 2023) (also source for GLIMP MRSA/Pseudomonas prevalence, CAPNETZ deterioration mortality and the macrolide vs fluoroquinolone pooled data)",
+   "url": "https://doi.org/10.1007/s00134-023-07033-8"
+  },
+  {
+   "label": "Same guideline, Eur Respir J 2023",
+   "url": "https://doi.org/10.1183/13993003.00735-2022"
+  },
+  {
+   "label": "ATS/IDSA CAP guideline (Metlay et al., Am J Respir Crit Care Med 2019) (also source for Sligl observational meta-analysis of macrolides in critically ill CAP)",
+   "url": "https://doi.org/10.1164/rccm.201908-1581ST"
+  },
+  {
+   "label": "ATS CAP guideline 2025 update (Jones et al., Am J Respir Crit Care Med 2026;212:24-44)",
+   "url": "https://doi.org/10.1164/rccm.202507-1692ST"
+  },
+  {
+   "label": "IDSA position statement: why IDSA did not endorse the 2025 CAP guideline (Klompas et al., Clin Infect Dis 2026)",
+   "url": "https://doi.org/10.1093/cid/ciaf625"
+  },
+  {
+   "label": "NICE NG250 Pneumonia: diagnosis and management (September 2025)",
+   "url": "https://www.nice.org.uk/guidance/ng250"
+  },
+  {
+   "label": "BTS CAP guideline 2009 update (with 2015 annotated update)",
+   "url": "https://brit-thoracic.org.uk/quality-improvement/guidelines/pneumonia-adults"
+  },
+  {
+   "label": "ACCESS: clarithromycin in CAP (Giamarellos-Bourboulis et al., Lancet Respir Med 2024)",
+   "url": "https://doi.org/10.1016/S2213-2600(23)00412-5"
+  },
+  {
+   "label": "Empiric antibiotics for moderate-to-severe CAP: network meta-analysis (Ghadimi et al., Clin Microbiol Infect 2025)",
+   "url": "https://doi.org/10.1016/j.cmi.2025.06.033"
+  },
+  {
+   "label": "MRSA nasal screening in LRTI: systematic review and network/Bayesian meta-analysis (Timbrook et al., Open Forum Infect Dis 2026)",
+   "url": "https://doi.org/10.1093/ofid/ofag178"
+  },
+  {
+   "label": "Rapid multiplex PCR pneumonia panel RCT (Virk et al., Lancet Microbe 2024)",
+   "url": "https://doi.org/10.1016/S2666-5247(24)00170-8"
+  },
+  {
+   "label": "CAPE COD: hydrocortisone in severe CAP (Dequin et al., N Engl J Med 2023)",
+   "url": "https://doi.org/10.1056/NEJMoa2215145"
+  },
+  {
+   "label": "REMAP-CAP corticosteroid domain (Intensive Care Med 2025)",
+   "url": "https://doi.org/10.1007/s00134-025-07861-w"
+  },
+  {
+   "label": "REMAP-CAP oseltamivir results for clinicians (preprint, not peer reviewed; trial announcement 10 June 2026)",
+   "url": "https://www.remapcap.eu/2026/06/10/remap-cap-results-oseltamivir-for-critically-ill-patients-with-influenza-infection/"
+  },
+  {
+   "label": "REMAP-CAP oseltamivir clinician FAQ",
+   "url": "https://www.remapcap.org/oseltamivir-clinician-faqs"
+  },
+  {
+   "label": "Oseltamivir for Critically Ill Patients with Influenza: A Randomised Trial (SSRN preprint, 2026)",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7172531"
+  },
+  {
+   "label": "Ecraid news: REMAP-CAP finds oseltamivir ineffective in critically ill influenza (19 Aug 2026)",
+   "url": "https://ecraid.eu/news/remap-cap-finds-oseltamivir-ineffective-critically-ill-influenza-patients"
+  },
+  {
+   "label": "Summary of WHO clinical practice guidelines for influenza (BMJ Rapid Recommendation 2026; WHO guideline Sept 2024)",
+   "url": "https://doi.org/10.1136/bmj-2025-087397"
+  },
+  {
+   "label": "PTC: stopping beta-lactam after 3 days in non-ICU CAP (Dinh et al., Lancet 2021)",
+   "url": "https://doi.org/10.1016/S0140-6736(21)00313-5"
+  },
+  {
+   "label": "BALANCE: 7 vs 14 days for bloodstream infection (N Engl J Med 2025)",
+   "url": "https://doi.org/10.1056/NEJMoa2404991"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom.
+Kate: Today's deep dive is emergency laparotomy: perioperative care, and who needs I C U.
+Tom: The two a m case. Anaesthetist in theatre, intensivist asked for a bed, often both at once.
+Kate: So let's start with the latest NELA numbers. The tenth report came out last October and covers about twenty-three and a half thousand patients from April twenty twenty-three.
+Tom: Headline?
+Kate: Thirty-day mortality was eight point one percent. That's the lowest in ten years of the audit. Year one was eleven point seven.
+Tom: Good news, then.
+Kate: Mostly. Just over half were high risk. For those patients, a consultant surgeon was in theatre ninety-six percent of the time and a consultant anaesthetist ninety-two percent. About three quarters of them went straight to critical care.
+Tom: And the bad news?
+Kate: Time. Patients with the most time-critical pathology were meant to reach theatre within six hours of arrival. Only about one in twelve did. A quarter of those with suspected sepsis waited nearly six hours for their first antibiotic.
+Tom: So we've fixed who's in the room, but not how fast the patient gets there.
+Kate: Pretty much.
+Tom: Risk prediction. I'm assuming you want to talk about NELA versus P POSSUM.
+Kate: Briefly. The NELA parsimonious score was rebuilt in twenty twenty-three. It uses thirteen preoperative variables and has a concordance of about nought point eight six. P POSSUM needs operative findings, so before knife-to-skin you're estimating half the inputs.
+Tom: In practice, though, studies outside the U K find the two discriminate about equally. Calibration is the problem. A Singapore cohort found both over-predicted death, and another cohort found both under-predicted it.
+Kate: So the number is local and it's a population number. I'd say it out loud as a range, not as a promise.
+Tom: And the five percent threshold?
+Kate: It's a resource threshold, not a biological one. The Royal College of Surgeons said as much in twenty eighteen. Anyone with a clinical frailty score of five or more, or with no risk assessment at all, counts as high risk whatever their score.
+Tom: What about the top end?
+Kate: An Anaesthesia paper from twenty twenty-three looked at patients with a NELA-predicted mortality of fifty percent or more. That's about three percent of the cohort. Ninety-day survival was forty-three percent at a predicted fifty to fifty-nine, and seventeen percent at eighty and above.
+Tom: So even at the extreme, some patients are alive at three months.
+Kate: Yes. And it's a big reason to talk about function, not just survival.
+Tom: The trials. EPOCH first.
+Kate: Lancet, twenty nineteen. A stepped-wedge cluster trial: ninety-three hospitals rolled out a quality improvement pathway, with nearly sixteen thousand patients. Ninety-day mortality was sixteen percent in both arms, with a hazard ratio of one point one one.
+Tom: Neutral.
+Kate: Completely. The authors felt teams lacked the time and resources to implement it. The smaller Emergency Laparotomy Collaborative, which was non-randomised, did report falling mortality.
+Tom: So the bundle probably works when it's actually delivered. EPOCH tested whether you can make a whole country deliver it.
+Kate: Fair. Now goal-directed fluids.
+Tom: This is where I'll push back on the old enthusiasm. OPTIMISE two, in the B M J in twenty twenty-four. Twenty-five hundred older patients having elective G I surgery were randomised to cardiac output-guided fluid plus low-dose inotrope, or usual care.
+Kate: Result?
+Tom: No difference in infection, twenty-three percent in both arms. And more cardiac events in the first twenty-four hours with the intervention, mostly arrhythmias.
+Kate: And FLO-ELA is the emergency version.
+Tom: Three thousand one hundred and forty patients aged fifty and over, sixty-three U K hospitals, recruitment finished November twenty twenty-four. The primary outcome switched from ninety-day mortality to days alive and out of hospital, because of COVID and fewer deaths than expected.
+Kate: And it showed?
+Tom: We don't know yet. The statistical analysis plan came out in April. When we checked for this episode, no results had been published or presented.
+Kate: So anyone quoting FLO-ELA results at you is ahead of the evidence.
+Tom: Exactly. And until it reports, OPTIMISE two is the closest signal, and it's neutral.
+Kate: Older patients now. This is where the data are strongest, even if they're observational.
+Tom: Go on.
+Kate: In a NELA analysis of forty thousand patients in the B J A in twenty eighteen, postoperative geriatric review in patients aged seventy and over was associated with an odds ratio for thirty-day death of nought point three five.
+Tom: That's huge. Too huge, honestly. Some of that has to be selection.
+Kate: Agreed. But the tenth report shows the same direction. And yet only about a third of eligible older or frail patients got specialist input.
+Tom: And the frailty data more broadly?
+Kate: A B J S Open meta-analysis from twenty twenty-four found frail older patients had nearly four times the odds of dying at thirty days.
+Tom: Right. The harder bit. When surgery isn't in the patient's interests.
+Kate: The NoLap audit now reports on that. Its first report came out in May. It covered nine hundred and forty-three patients with perforation or ischaemia who weren't operated on. Thirty-day mortality from admission was eighty percent.
+Tom: So one in five were alive.
+Kate: Yes, and the ELF two cohort showed the same. Seventy-nine percent ninety-day mortality, but most survivors went home, with more care.
+Tom: That's the bit families need to hear. Not operating doesn't always mean dying that week.
+Kate: The twenty eighteen R C S standard says that above twenty-five percent predicted mortality, the patient should be seen in person by a consultant surgeon, a consultant anaesthetist and a critical care consultant. Deciding someone is too high risk should be a multidisciplinary consultant decision.
+Tom: How often does that happen?
+Kate: In ELF two's decision-making paper, in the B J A this year, geriatricians were involved in under nine percent of no-operation decisions. Consultant input fell overnight and at weekends.
+Tom: And the law. Montgomery means we disclose material risks and reasonable alternatives. McCulloch, in the Supreme Court in twenty twenty-three, held that whether an alternative is reasonable is judged by the professional practice test.
+Kate: So you don't have to offer a laparotomy you and a responsible body of colleagues think is unreasonable.
+Tom: But once it is a reasonable option, comfort-focused care has to be on the table as a real alternative, with the trade-offs explained honestly.
+Kate: My own approach is to ask what they'd be willing to go through for a chance of what outcome. Then translate the score into days in I C U and the likelihood of going home.
+Tom: Finally, the I C U decision.
+Kate: R C S says to reassess at the end of surgery, and anyone at five percent or more goes direct to critical care. The tenth report found high-risk patients sent to the ward still had under five percent mortality.
+Tom: And a single-centre Australian study this year found the NELA score predicted death but not the need for I C U therapies. About a quarter of their I C U admissions received no specific organ support.
+Kate: That's the real tension. The score predicts dying. It doesn't predict who needs a ventilator.
+Tom: So I'd use enhanced care, where you have it, for the five to ten percent risk patient who's warm and well perfused with a lactate that's settling.
+Kate: Take-homes for Monday?
+Tom: One. NELA mortality is now eight percent, but time to theatre and time to antibiotics are still the weak links.
+Kate: Two. The NELA score is a population estimate. Use it as a range, and count frailty and missing assessments as high risk.
+Tom: Three. Cardiac output-guided fluid has no supporting trial evidence in this group yet. OPTIMISE two was neutral, and FLO-ELA hasn't reported.
+Kate: Four. Get a geriatrician involved early. It's the strongest association we have, even if it isn't randomised.
+Tom: Five. Above twenty-five percent, make the decision together as consultants. Offer not operating as a real option, and tell families some patients survive without surgery.
+Kate: That's it from us.
+Tom: Bye for now.

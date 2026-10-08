@@ -1,0 +1,117 @@
+{
+  "title_topic": "Invasive fungal infection on ICU",
+  "summary": "A consultant-level look at invasive fungal infection on ICU. In EMPIRICUS (JAMA 2016, 260 patients), empirical micafungin for ICU-acquired sepsis with multisite Candida colonisation and multi-organ failure did not improve fungal-infection-free survival at day 28 (68% vs 60.2%, HR 1.35, 95% CI 0.87 to 2.08), although it reduced new proven infection (3% vs 12%). The 2016 Cochrane review found no mortality benefit from untargeted antifungals (RR 0.93). In CandiSep (ICM 2022, 339 patients), starting antifungals on a beta-D-glucan of 80 pg/mL or more got treatment in faster but did not reduce 28-day mortality (33.7% vs 30.5%). FUNDICU 2024 left BDG out of its research definition of probable deep-seated candidiasis. Two small single-centre trials (Rouzé 2017, De Pascale 2020) suggest that stopping on a negative biomarker safely shortens empirical therapy. Echinocandins remain first line. In ReSTORE (Lancet 2023), weekly rezafungin was non-inferior to caspofungin; the MHRA approved it in January 2024. Influenza-associated aspergillosis affected 19% of patients with severe influenza on ICU (Schauwvlieghe 2018) and is linked to high mortality. CAPA affected about 15% of ICU COVID patients in the ECMM study. POSA-FLU's prophylaxis trial was inconclusive. Diagnosis rests on lavage galactomannan (index of 1.0 or more), because serum galactomannan is insensitive in non-neutropenic patients. Treatment is voriconazole or isavuconazole, per ESCMID-ECMM-ERS 2017, IDSA 2016, the CAPA consensus and the Swiss FUNGINOS and German AWMF ICU guidelines of 2025. UKHSA's 2025 Candidozyma auris guidance covers admission screening, isolation and contact de-isolation, and says not to treat colonisation and to use an echinocandin first line; C. auris has been notifiable in England since 6 April 2025. Candidaemia is treated for 14 days after clearance, with step-down to an oral azole after 5 to 7 days (IDSA 2016) or at least 5 days (global ECMM/ISHAM/ASM guideline 2025) in stable patients.",
+  "takeaways": [
+    "Don't start empirical echinocandins for colonisation and sepsis alone: EMPIRICUS and CandiSep showed no survival benefit. Treat septic shock with a real Candida risk, and reassess by day 4 to 5.",
+    "Use beta-D-glucan to stop antifungals rather than to start them: a negative result supports stopping, but a positive one is non-specific.",
+    "In severe influenza and COVID, look for aspergillus early with lavage galactomannan (serum is insensitive), and treat with voriconazole or isavuconazole.",
+    "Candida (Candidozyma) auris has been notifiable in England since April 2025. Screen patients admitted after healthcare abroad, isolate or cohort them, and don't treat colonisation. Use an echinocandin for infection.",
+    "For candidaemia, remove the line early, treat for 14 days from clearance, and step down to fluconazole after about 5 days in stable patients with susceptible isolates and negative repeat cultures."
+  ],
+  "sources": [
+    {
+      "label": "EMPIRICUS: Timsit et al, JAMA 2016",
+      "url": "https://doi.org/10.1001/jama.2016.14655"
+    },
+    {
+      "label": "Cochrane review: Cortegiani et al, Antifungal agents for preventing fungal infections in non-neutropenic critically ill patients, 2016",
+      "url": "https://doi.org/10.1002/14651858.CD004920.pub3"
+    },
+    {
+      "label": "CandiSep: Bloos et al, Intensive Care Med 2022",
+      "url": "https://doi.org/10.1007/s00134-022-06733-x"
+    },
+    {
+      "label": "CandiSep biomarker performance (secondary endpoint): J Clin Microbiol 2026",
+      "url": "https://doi.org/10.1128/jcm.01500-25"
+    },
+    {
+      "label": "Rouzé et al, biomarker-based discontinuation RCT, Intensive Care Med 2017",
+      "url": "https://doi.org/10.1007/s00134-017-4932-8"
+    },
+    {
+      "label": "De Pascale et al, BDG-based empirical antifungal interruption RCT, Crit Care 2020",
+      "url": "https://doi.org/10.1186/s13054-020-03265-y"
+    },
+    {
+      "label": "ReSTORE: Thompson et al, rezafungin vs caspofungin, Lancet 2023",
+      "url": "https://doi.org/10.1016/S0140-6736(22)02324-8"
+    },
+    {
+      "label": "MHRA approval of Rezzayo (rezafungin), January 2024",
+      "url": "https://www.gov.uk/government/news/rezzayo-approved-to-treat-adult-patients-with-invasive-candidiasis"
+    },
+    {
+      "label": "FUNDICU 2024 consensus definitions, Bassetti et al, Intensive Care Med 2024",
+      "url": "https://doi.org/10.1007/s00134-024-07341-7"
+    },
+    {
+      "label": "Global guideline for candidiasis (ECMM/ISHAM/ASM), Cornely et al, Lancet Infect Dis 2025",
+      "url": "https://doi.org/10.1016/S1473-3099(24)00749-7"
+    },
+    {
+      "label": "IDSA candidiasis guideline 2016 update, Pappas et al, Clin Infect Dis",
+      "url": "https://doi.org/10.1093/cid/civ933"
+    },
+    {
+      "label": "Schauwvlieghe et al, invasive aspergillosis in severe influenza, Lancet Respir Med 2018",
+      "url": "https://doi.org/10.1016/S2213-2600(18)30274-1"
+    },
+    {
+      "label": "Prospective IAPA cohort, Crit Care 2025",
+      "url": "https://doi.org/10.1186/s13054-025-05771-3"
+    },
+    {
+      "label": "ECMM CAPA multinational study, Prattes et al, Clin Microbiol Infect 2022",
+      "url": "https://doi.org/10.1016/j.cmi.2021.08.014"
+    },
+    {
+      "label": "POSA-FLU: Vanderbeke et al, Intensive Care Med 2021",
+      "url": "https://doi.org/10.1007/s00134-021-06431-0"
+    },
+    {
+      "label": "AspICU clinical algorithm: Blot et al, AJRCCM 2012",
+      "url": "https://doi.org/10.1164/rccm.201111-1978OC"
+    },
+    {
+      "label": "IAPA expert case definition (consensus): Verweij et al, Intensive Care Med 2020",
+      "url": "https://doi.org/10.1007/s00134-020-06091-6"
+    },
+    {
+      "label": "CAPA 2020 ECMM/ISHAM consensus criteria: Koehler et al, Lancet Infect Dis 2021",
+      "url": "https://doi.org/10.1016/S1473-3099(20)30847-1"
+    },
+    {
+      "label": "ESCMID-ECMM-ERS aspergillus guideline 2017, executive summary, Ullmann et al, Clin Microbiol Infect 2018",
+      "url": "https://doi.org/10.1016/j.cmi.2018.01.002"
+    },
+    {
+      "label": "IDSA aspergillosis guideline 2016 update, Patterson et al, Clin Infect Dis",
+      "url": "https://doi.org/10.1093/cid/ciw326"
+    },
+    {
+      "label": "FUNGINOS (Swiss) guideline on IPA in ICU, Mycoses 2025",
+      "url": "https://doi.org/10.1111/myc.70132"
+    },
+    {
+      "label": "German national guideline AWMF 113-005, IPA in ICU, executive summary, Infection 2025",
+      "url": "https://doi.org/10.1007/s15010-025-02572-2"
+    },
+    {
+      "label": "UKHSA Candidozyma auris guidance: summary of recommendations (updated 21 August 2025)",
+      "url": "https://www.gov.uk/government/publications/candida-auris-laboratory-investigation-management-and-infection-prevention-and-control/summary-of-recommendations"
+    },
+    {
+      "label": "UKHSA C. auris: notification, reporting and information sharing",
+      "url": "https://www.gov.uk/government/publications/candida-auris-laboratory-investigation-management-and-infection-prevention-and-control/notification-reporting-and-information-sharing"
+    },
+    {
+      "label": "Health Protection (Notification) (Amendment) Regulations 2025, SI 2025/291",
+      "url": "https://www.legislation.gov.uk/uksi/2025/291/made"
+    },
+    {
+      "label": "EUCANDICU: Bassetti et al, Crit Care 2019",
+      "url": "https://doi.org/10.1186/s13054-019-2497-3"
+    }
+  ]
+}

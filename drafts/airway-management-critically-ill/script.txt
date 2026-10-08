@@ -1,0 +1,70 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is airway management in the critically ill.
+Kate: And not the technique. We'll assume you can intubate. This is about the trials from the last five years that have changed the bundle around the tube.
+Tom: Because the tube isn't usually what kills them.
+Kate: No. Start with INTUBE. JAMA, twenty twenty-one. An observational study of nearly three thousand intubations at a hundred and ninety-seven sites in twenty-nine countries.
+Tom: And about forty-five percent had a major peri-intubation event.
+Kate: Mostly cardiovascular instability, in about forty-three percent. Severe hypoxaemia in about nine percent. Cardiac arrest in three percent.
+Tom: So one in thirty arrests. That's the number that sets the tone.
+Kate: And it's haemodynamics more than oxygen. Hold that thought, because it comes back with the drugs.
+Tom: Go on then. Device first.
+Kate: DEVICE. N E J M, twenty twenty-three. Seventeen U S emergency departments and I C Us, about fourteen hundred patients, video versus direct laryngoscopy. First-pass success was eighty-five percent with video against seventy-one with direct. That's fourteen percentage points, and the trial stopped early for efficacy.
+Tom: But who was holding the blade?
+Kate: That's the catch. Over nine in ten intubations were done by emergency medicine residents or critical care fellows.
+Tom: So, trainees. Does it apply to a consultant anaesthetist?
+Kate: Probably less dramatically. But your registrar does a lot of your night intubations. And severe complications were the same in both arms, about one in five.
+Tom: Better first pass, but no fewer complications.
+Kate: Right. Then BOUGIE. JAMA, twenty twenty-one, about eleven hundred patients. Bougie first versus a tube with a stylet.
+Tom: And the bougie lost.
+Kate: It didn't win. First pass was eighty percent with the bougie and eighty-three with the stylet. No significant difference, and severe hypoxaemia was numerically higher with the bougie.
+Tom: Which jars a bit with U K practice. Most of us were brought up with a bougie on the Mac.
+Kate: Most of us were. My reading is that bougie-first isn't a must. A stylet is a perfectly reasonable default, especially with a hyperangulated blade, where you'd want one anyway.
+Tom: Fair. Preoxygenation.
+Kate: PREOXI. N E J M, twenty twenty-four. Thirteen hundred patients, non-invasive ventilation versus a face mask. Hypoxaemia, meaning saturations below eighty-five, halved, from about eighteen and a half percent to just over nine.
+Tom: And arrests?
+Kate: One with N I V against seven with the mask. It's a secondary outcome, so treat it as a signal. But aspiration wasn't higher with N I V, about one percent in each arm.
+Tom: That's the worry people always raise.
+Kate: And it didn't show up. There's also a network meta-analysis in Lancet Respiratory Medicine in twenty twenty-five. Fifteen trials. N I V probably beats high-flow nasal oxygen for hypoxaemia, and both beat a face mask. No mortality effect for any of them.
+Tom: So N I V for anyone who's hypoxaemic, and high-flow alongside for apnoeic oxygenation if you like.
+Kate: That's a reasonable reading. Now, the drugs. Ketamine or etomidate.
+Tom: The old argument. Jabre, in the Lancet in two thousand and nine.
+Kate: Six hundred and fifty-five French patients. Etomidate caused more adrenal insufficiency, but there was no significant difference in organ failure scores. Then Matchett, in Intensive Care Medicine in twenty twenty-two. A single centre, about eight hundred patients. Survival at day seven was eighty-five percent with ketamine against seventy-seven with etomidate, but there was no significant difference by day twenty-eight.
+Tom: And then the big one.
+Kate: The R S I trial. N E J M, online December twenty twenty-five. About two thousand three hundred and sixty patients at fourteen U S sites. Death in hospital by day twenty-eight was twenty-eight percent with ketamine and twenty-nine with etomidate. No significant difference.
+Tom: And collapse?
+Kate: That went the other way. Cardiovascular collapse during intubation was twenty-two percent with ketamine against seventeen with etomidate.
+Tom: So ketamine, which we all reach for in the shocked patient, caused more collapse.
+Kate: In this trial, yes, about five percentage points more. Two network meta-analyses from twenty twenty-six, in Critical Care and in Chest, point the same way. Mortality is probably similar. Ketamine probably causes more peri-intubation instability.
+Tom: Isn't there a Brazilian registry that found the opposite on mortality?
+Kate: There is, in JAMA Network Open. It used target trial emulation and favoured ketamine. But it's observational, and the randomised data are what I'd weight.
+Tom: I'd add that the U K picture's different. Plenty of us use reduced-dose propofol. And the Critical Care network meta-analysis found only one randomised trial with propofol in this group.
+Kate: Fair point. The honest summary is that the dose and the operator probably matter more than the molecule.
+Tom: Fluids and pressors?
+Kate: PrePARE, then PREPARE two. Five hundred mils of crystalloid before induction against nothing. The second trial, in JAMA in twenty twenty-two, had about a thousand patients. Collapse was twenty-one percent with the bolus and eighteen without. No benefit.
+Tom: So the reflex bolus doesn't help.
+Kate: Not as a routine. A clearly fluid-responsive, dry patient is a different question.
+Tom: And vasopressors?
+Kate: No big I C U trial yet. PREVENTION, an Italian trial of a prophylactic noradrenaline infusion in about four hundred and twenty patients, is registered as recruiting, and we couldn't find results.
+Tom: So it's practice, not evidence.
+Kate: Yes. Personally, I'd have noradrenaline running, or drawn up and connected, in anyone shocked. And I'd be wary of bolus pressors mixed up at the bedside. Dosing errors are a recognised problem.
+Tom: Guidelines.
+Kate: The U K one is still the twenty eighteen D A S, I C S, F I C M and R C o A guideline for critically ill adults. It puts oxygenation first, uses a modified rapid sequence approach, recommends early videolaryngoscopy with a screen everyone can see, uses a second-generation supraglottic airway for rescue, and uses scalpel, bougie, tube for front of neck access.
+Tom: Any update?
+Kate: We couldn't find an updated I C U guideline. The D A S website still lists it, dated twenty seventeen, when it went online. What did come out is the D A S twenty twenty-five guideline for unanticipated difficult intubation in adults, in the B J A.
+Tom: That's the general one, though.
+Kate: Yes, but it now has a section on the physiologically difficult airway. It stresses continuous oxygenation, first-pass success and waveform capnography.
+Tom: Where do they part company?
+Kate: The structure. The critical care guideline merges plans B and C, a Vortex-style approach. The twenty twenty-five general guideline keeps a linear A to D. Internationally, there's a twenty twenty-four Delphi on the physiologically difficult airway. That's consensus, not a guideline. It backs routine first-attempt videolaryngoscopy and N I V preoxygenation.
+Tom: Outcomes?
+Kate: The I C U death rate in INTUBE was about one in three. That's mostly the underlying illness. The modifiable bit is the arrest, and the hypoxaemia and collapse that come before it.
+Tom: Grey zones?
+Kate: Induction agent in shock, despite R S I. Prophylactic pressors. Whether any of this changes mortality rather than surrogates. And the big trials are North American, with many intubations done by trainees. That isn't quite how we work.
+Tom: So the consultant's judgement in the room still matters most. That's my opinion, anyway.
+Kate: I share it. Take-homes for Monday.
+Tom: One. Videolaryngoscope first, every time in I C U. First pass is better, especially for less experienced hands.
+Kate: Two. A stylet is fine. Bougie-first isn't superior.
+Tom: Three. Preoxygenate the hypoxaemic patient with N I V. It halved hypoxaemia without more aspiration.
+Kate: Four. Ketamine isn't the haemodynamically safe choice we thought. Choose your dose, and have a pressor ready.
+Tom: Five. Don't give a routine fluid bolus to prevent collapse. Treat the patient in front of you.
+Kate: That's it from us. Thanks for listening.
+Tom: Bye.

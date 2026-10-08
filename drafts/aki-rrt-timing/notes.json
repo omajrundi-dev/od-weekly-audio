@@ -1,0 +1,105 @@
+{
+  "title_topic": "Acute kidney injury and timing of renal replacement therapy",
+  "summary": "A consultant-level review of renal replacement therapy (RRT) in ICU acute kidney injury. On timing: ELAIN (JAMA 2016, single centre, 231 patients) found lower 90-day mortality with early RRT. AKIKI (NEJM 2016, 620 patients), IDEAL-ICU (NEJM 2018, 488 patients with septic shock, stopped for futility) and STARRT-AKI (NEJM 2020, 3,019 randomised) found no mortality benefit. STARRT-AKI also found more adverse events with accelerated RRT and more RRT dependence at 90 days (10.4% vs 6.0%, RR 1.74). A 2025 post hoc analysis suggests this excess dependence comes mostly from starting RRT at all rather than starting it early. In the 2020 Lancet IPD meta-analysis, 28-day mortality was 44% vs 43%. Between about 38% and 49% of patients in the delayed arms never needed RRT. AKIKI2 (Lancet 2021) found no extra benefit from waiting beyond 72 hours of oliguria or a BUN of 112 mg/dL, and an adjusted secondary analysis showed a mortality signal (HR 1.65). BICARICU-2 (JAMA 2025) did not change mortality, though RRT use was lower with bicarbonate (a secondary outcome). On modality: Hemodiafe found no survival difference, and the excess dialysis dependence seen with intermittent RRT is an observational finding only. On dose: ATN and RENAL support delivering 20-25 mL/kg/h; LIMIT (12 vs 25 mL/kg/h) is ongoing. On anticoagulation: in RICH, citrate gave longer filter life and less bleeding than heparin, with no significant mortality difference and more new infections. On stopping: urine output without diuretics is the best predictor of success. LIBERATE-D (JAMA 2026, 221 stable patients on intermittent haemodialysis) found more recovery with a conservative dialysis strategy, but only in the unadjusted analysis. Long term, about 5% of RENAL day-90 survivors needed maintenance dialysis at four years, and albuminuria was common. On guidance: KDIGO 2012 is still current, and its 2026 AKI/AKD update completed public review in May 2026 and is awaiting publication. NICE NG148 (2019, updated 2024) and the 2020 joint Renal Association/BRS/ICS guideline both advise basing initiation on the whole patient.",
+  "takeaways": [
+    "Without an emergent indication, early RRT does not reduce mortality, and waiting means roughly a third to a half of patients never need it.",
+    "Don't wait indefinitely: AKIKI2 gives a signal of harm from delaying beyond 72 hours of oliguria or a urea of about 40 mmol/L when nothing else has prompted RRT.",
+    "Deliver 20 to 25 mL/kg/h, and use regional citrate for CRRT unless there is a contraindication.",
+    "Choose modality on haemodynamic stability and brain injury, not dogma.",
+    "Watch urine output, don't use diuretics to speed weaning, and arrange kidney follow-up for survivors."
+  ],
+  "sources": [
+    {
+      "label": "ELAIN trial, Zarbock et al., JAMA 2016",
+      "url": "https://doi.org/10.1001/jama.2016.5828"
+    },
+    {
+      "label": "AKIKI trial, Gaudry et al., NEJM 2016",
+      "url": "https://doi.org/10.1056/NEJMoa1603017"
+    },
+    {
+      "label": "IDEAL-ICU trial, Barbar et al., NEJM 2018",
+      "url": "https://doi.org/10.1056/NEJMoa1803213"
+    },
+    {
+      "label": "STARRT-AKI trial, NEJM 2020",
+      "url": "https://doi.org/10.1056/NEJMoa2000741"
+    },
+    {
+      "label": "STARRT-AKI post hoc: dialysis dependence, McCoy et al., CJASN 2025",
+      "url": "https://doi.org/10.2215/CJN.0000000672"
+    },
+    {
+      "label": "Delayed vs early RRT: systematic review and IPD meta-analysis, Gaudry et al., Lancet 2020",
+      "url": "https://doi.org/10.1016/S0140-6736(20)30531-6"
+    },
+    {
+      "label": "AKIKI2 trial, Gaudry et al., Lancet 2021",
+      "url": "https://doi.org/10.1016/S0140-6736(21)00350-0"
+    },
+    {
+      "label": "BICARICU-2 trial, JAMA 2025",
+      "url": "https://doi.org/10.1001/jama.2025.20231"
+    },
+    {
+      "label": "Timing of RRT in sepsis-associated AKI: meta-analysis, BMC Nephrol 2026",
+      "url": "https://doi.org/10.1186/s12882-026-05132-4"
+    },
+    {
+      "label": "Hemodiafe trial (CVVHDF vs IHD), Vinsonneau et al., Lancet 2006",
+      "url": "https://doi.org/10.1016/S0140-6736(06)69111-3"
+    },
+    {
+      "label": "RRT modality and dialysis dependence: meta-analysis, Schneider et al., Intensive Care Med 2013",
+      "url": "https://doi.org/10.1007/s00134-013-2864-5"
+    },
+    {
+      "label": "ATN trial (VA/NIH), Palevsky et al., NEJM 2008",
+      "url": "https://doi.org/10.1056/NEJMoa0802639"
+    },
+    {
+      "label": "RENAL trial, NEJM 2009",
+      "url": "https://doi.org/10.1056/NEJMoa0902413"
+    },
+    {
+      "label": "POST-RENAL long-term follow-up, Gallagher et al., PLoS Med 2014",
+      "url": "https://doi.org/10.1371/journal.pmed.1001601"
+    },
+    {
+      "label": "Lower vs standard CRRT dose-intensity: meta-analysis, Crit Care 2026",
+      "url": "https://doi.org/10.1186/s13054-026-05987-x"
+    },
+    {
+      "label": "LIMIT trial (12 vs 25 mL/kg/h CKRT), ongoing, NCT06014801",
+      "url": "https://clinicaltrials.gov/study/NCT06014801"
+    },
+    {
+      "label": "RICH trial (citrate vs heparin), Zarbock et al., JAMA 2020",
+      "url": "https://doi.org/10.1001/jama.2020.18618"
+    },
+    {
+      "label": "BEST Kidney: discontinuation of CRRT, Uchino et al., Crit Care Med 2009",
+      "url": "https://doi.org/10.1097/CCM.0b013e3181a38241"
+    },
+    {
+      "label": "LIBERATE-D trial, Liu et al., JAMA 2026",
+      "url": "https://doi.org/10.1001/jama.2025.21530"
+    },
+    {
+      "label": "KDIGO 2012 Clinical Practice Guideline for AKI",
+      "url": "https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf"
+    },
+    {
+      "label": "KDIGO 2026 AKI/AKD guideline draft (public review, March to May 2026)",
+      "url": "https://kdigo.org/kdigo-2026-aki-akd-guideline-draft-available-for-public-review/"
+    },
+    {
+      "label": "NICE NG148 Acute kidney injury (2019, updated 2024)",
+      "url": "https://www.nice.org.uk/guidance/ng148"
+    },
+    {
+      "label": "Renal Association, BRS and ICS: RRT for critically unwell adults, COVID-19 guideline (October 2020)",
+      "url": "https://ics.ac.uk/asset/B4903FE4-27A6-4B41-BE7125BAA0D9AF15"
+    }
+  ]
+}

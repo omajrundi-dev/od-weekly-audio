@@ -1,0 +1,109 @@
+{
+ "title_topic": "Corticosteroids in septic shock and severe pneumonia",
+ "summary": "In septic shock, ADRENAL (3,800 ventilated patients, hydrocortisone infusion) showed faster shock resolution but no 90-day mortality benefit, while APROCCHSS (1,241 sicker patients, hydrocortisone boluses plus enteral fludrocortisone) cut 90-day mortality from 49% to 43%. The 2023 individual-patient meta-analysis found no overall mortality effect, with a signal only for regimens that included fludrocortisone. Observational target-trial emulation supports adding fludrocortisone, but a 2024 phase II dose-finding trial did not, and RECORDS is still recruiting. In severe community-acquired pneumonia, CAPE COD (hydrocortisone, which excluded shock and influenza) halved 28-day mortality. REMAP-CAP's open-label 7-day hydrocortisone arm stopped for futility with a numerically worse result, and its population, allocation and control-arm contamination all differ from CAPE COD. ESCAPe (methylprednisolone) was neutral. On who benefits: in a 2025 individual-patient meta-analysis the benefit was confined to patients with CRP above 204 mg/L. Post hoc transcriptomic (SRS2, consensus subtype CTS2) and biomarker (CAPE COD reanalysis) work suggests immune-profile-dependent benefit or harm, but none of it is ready for the bedside. On guidelines: SSC 2026 gives a conditional suggestion for steroids in septic shock. SCCM 2024 is conditional for shock and strong for severe CAP. ERS/ESICM 2023 supports steroids in severe CAP only with shock and predates CAPE COD. ATS 2025 (without IDSA) reverses the 2019 ATS/IDSA advice with a conditional yes for severe CAP. NICE NG250 (2025) says consider them for high-severity CAP, IV hydrocortisone first, for 4 to 7 days.",
+ "takeaways": [
+  "In septic shock, hydrocortisone reliably shortens shock; any survival benefit is small and may depend on adding fludrocortisone.",
+  "In severe CAP without shock or influenza, CAPE COD supports early hydrocortisone, and NICE (2025) and the ATS (2025) now agree.",
+  "REMAP-CAP means you shouldn't assume the CAPE COD benefit carries over to patients with shock or to later starts.",
+  "High CRP is the best bedside hint of who benefits; biomarker and gene-expression subtypes aren't ready for clinical use.",
+  "Watch glucose and sodium, and document why you started."
+ ],
+ "sources": [
+  {
+   "label": "ADRENAL: Venkatesh et al, NEJM 2018",
+   "url": "https://doi.org/10.1056/NEJMoa1705835"
+  },
+  {
+   "label": "APROCCHSS: Annane et al, NEJM 2018",
+   "url": "https://doi.org/10.1056/NEJMoa1705716"
+  },
+  {
+   "label": "Patient-level meta-analysis of low-dose hydrocortisone in septic shock: Pirracchio et al, NEJM Evidence 2023",
+   "url": "https://doi.org/10.1056/EVIDoa2300034"
+  },
+  {
+   "label": "Fludrocortisone plus hydrocortisone vs hydrocortisone alone, target trial emulation (observational): Bosch et al, JAMA Intern Med 2023",
+   "url": "https://doi.org/10.1001/jamainternmed.2023.0258"
+  },
+  {
+   "label": "Fludrocortisone dose-response phase II RCT: Walsham et al, Intensive Care Med 2024",
+   "url": "https://doi.org/10.1007/s00134-024-07616-z"
+  },
+  {
+   "label": "RECORDS trial registry (NCT04280497), recruiting",
+   "url": "https://clinicaltrials.gov/study/NCT04280497"
+  },
+  {
+   "label": "CAPE COD: Dequin et al, NEJM 2023",
+   "url": "https://doi.org/10.1056/NEJMoa2215145"
+  },
+  {
+   "label": "CAPE COD registry record (eligibility criteria), NCT02517489",
+   "url": "https://clinicaltrials.gov/study/NCT02517489"
+  },
+  {
+   "label": "REMAP-CAP Corticosteroid Domain: REMAP-CAP Investigators, Intensive Care Med 2025",
+   "url": "https://doi.org/10.1007/s00134-025-07861-w"
+  },
+  {
+   "label": "ESCAPe (methylprednisolone, severe CAP): Meduri et al, Intensive Care Med 2022",
+   "url": "https://doi.org/10.1007/s00134-022-06684-3"
+  },
+  {
+   "label": "Predicting benefit from corticosteroids in CAP (IPD meta-analysis, CRP): Smit et al, Lancet Respir Med 2025",
+   "url": "https://doi.org/10.1016/S2213-2600(24)00405-3"
+  },
+  {
+   "label": "VANISH transcriptomic signatures and steroid response (post hoc): Antcliffe et al, AJRCCM 2019",
+   "url": "https://doi.org/10.1164/rccm.201807-1419OC"
+  },
+  {
+   "label": "Consensus blood transcriptomic framework for sepsis: Scicluna et al, Nature Medicine 2025",
+   "url": "https://doi.org/10.1038/s41591-025-03964-5"
+  },
+  {
+   "label": "Immune dysregulation score and CAPE COD reanalysis (post hoc): Michels et al, Lancet Respir Med 2026",
+   "url": "https://doi.org/10.1016/S2213-2600(25)00429-1"
+  },
+  {
+   "label": "Cochrane review: Corticosteroids for treating sepsis in children and adults, 2025",
+   "url": "https://doi.org/10.1002/14651858.CD002243.pub5"
+  },
+  {
+   "label": "Surviving Sepsis Campaign adult guidelines 2026: Prescott et al, Crit Care Med 2026",
+   "url": "https://doi.org/10.1097/CCM.0000000000007075"
+  },
+  {
+   "label": "Surviving Sepsis Campaign adult guidelines 2021: Evans et al, Intensive Care Med 2021",
+   "url": "https://doi.org/10.1007/s00134-021-06506-y"
+  },
+  {
+   "label": "SCCM 2024 focused update on corticosteroids in sepsis, ARDS and CAP: Chaudhuri et al, Crit Care Med 2024",
+   "url": "https://doi.org/10.1097/CCM.0000000000006172"
+  },
+  {
+   "label": "ERS/ESICM/ESCMID/ALAT severe CAP guidelines: Martin-Loeches et al, Intensive Care Med 2023",
+   "url": "https://doi.org/10.1007/s00134-023-07033-8"
+  },
+  {
+   "label": "ATS/IDSA CAP guideline 2019: Metlay et al, AJRCCM 2019",
+   "url": "https://doi.org/10.1164/rccm.201908-1581ST"
+  },
+  {
+   "label": "ATS CAP guideline 2025 update (AJRCCM)",
+   "url": "https://doi.org/10.1164/rccm.202507-1692ST"
+  },
+  {
+   "label": "NICE NG250 Pneumonia: diagnosis and management, recommendations 1.8.1 and 1.8.2 (Sept 2025)",
+   "url": "https://www.nice.org.uk/guidance/ng250/chapter/Recommendations"
+  },
+  {
+   "label": "The Bottom Line: CAPE COD summary",
+   "url": "https://www.thebottomline.org.uk/summaries/cape-cod/"
+  },
+  {
+   "label": "The Bottom Line: REMAP-CAP corticosteroids summary",
+   "url": "https://www.thebottomline.org.uk/summaries/icm/remap-cap-corticosteroids/"
+  }
+ ]
+}
