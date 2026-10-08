@@ -22,6 +22,8 @@ These override the generic steps in the scheduled prompt where they differ.
 ## Audio
 - Render with `python3 tools/render.py script.txt <out.mp3> "<D Month YYYY>"`.
 - Use only `gemini-3.8-flash-tts`, with Kate as Kore and Tom as Charon. Never switch models partway through an episode: the accents change, and Omar finds that distracting. The script exits non-zero rather than mixing models.
+- Each Gemini call re-samples the voices, so accents can shift at every segment join. render.py uses about 9,000-character segments: a 10-minute deep dive is one call and a weekly episode four or five. Don't shrink SEGMENT_CHARS, and don't set a low temperature (it makes the model babble). A seed is accepted but doesn't make the voices repeatable.
+- Gemini returns a WAV with a C2PA chunk after the audio, not bare PCM. render.py keeps only the WAV data chunk; treating the whole payload as PCM put a burst of white noise at every join (fixed 8 Oct 2026).
 - The Gemini key is meant to be on a paid tier. If you get 429 quota errors that mention the free tier, billing has lapsed. Re-run later (finished segments are cached), or fall back to Kokoro for the whole episode and say so in the email.
 
 ## Length and depth (Omar, 7 Oct 2026)

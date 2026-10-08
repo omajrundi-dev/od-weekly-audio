@@ -8,11 +8,14 @@ retries the script exits non-zero and writes no MP3; it never mixes models.
 Finished segments are cached in <out dir>/seg/, so re-running only renders
 the missing ones.
 """
-import base64, json, os, subprocess, sys, time, urllib.error, urllib.request
+import base64, json, os, struct, subprocess, sys, time, urllib.error, urllib.request
 
 MODEL = "gemini-3.8-flash-tts"
 VOICES = {"Kate": "Kore", "Tom": "Charon"}
-SEGMENT_CHARS = 2500
+# Every API call re-samples the voices, so accents drift between segments.
+# One call handles a whole 10-minute deep dive (about 9,000 characters), so
+# keep segments large: a deep dive is one call, a weekly episode four or five.
+SEGMENT_CHARS = 9000
 # Normal delivery is about 160 words a minute. Audio much shorter than this
 # floor means Gemini silently dropped lines, so the segment is re-rendered.
 MIN_SECONDS_PER_WORD = 60 / 210
@@ -55,6 +58,28 @@ def request(seg):
         return json.load(r)
 
 
+def pcm_samples(data):
+    """Return the raw samples from a Gemini audio payload.
+
+    gemini-3.8-flash-tts returns a WAV file, not bare PCM, with a C2PA
+    provenance chunk after the audio. Played as PCM, the header is a click and
+    the C2PA chunk is a burst of full-scale white noise, so keep only 'data'.
+    """
+    if data[:4] != b"RIFF" or data[8:12] != b"WAVE":
+        return data
+    i = 12
+    while i + 8 <= len(data):
+        cid, size = data[i:i + 4], struct.unpack("<I", data[i + 4:i + 8])[0]
+        if cid == b"fmt ":
+            fmt, ch, rate, _, _, bits = struct.unpack("<HHIIHH", data[i + 8:i + 24])
+            if (fmt, ch, rate, bits) != (1, 1, 24000, 16):
+                raise ValueError(f"unexpected audio format {fmt, ch, rate, bits}")
+        if cid == b"data":
+            return data[i + 8:i + 8 + size]
+        i += 8 + size + (size & 1)
+    raise ValueError("WAV payload has no data chunk")
+
+
 def render(seg, label):
     """Return PCM for seg, or None. Splits in half and retries if audio is truncated."""
     for attempt in range(5):
@@ -63,7 +88,7 @@ def render(seg, label):
             if cand.get("finishReason") == "PROHIBITED_CONTENT":
                 print(f"segment {label}: PROHIBITED_CONTENT; soften the wording and re-run", flush=True)
                 return None
-            pcm = base64.b64decode(cand["content"]["parts"][0]["inlineData"]["data"])
+            pcm = pcm_samples(base64.b64decode(cand["content"]["parts"][0]["inlineData"]["data"]))
             break
         except urllib.error.HTTPError as e:
             print(f"segment {label}: HTTP {e.code} {e.read()[:300]!r}", flush=True)
@@ -93,7 +118,12 @@ wavs, failed = [], []
 for i, seg in enumerate(segments):
     raw = os.path.join(work, f"s{i:02d}.pcm")
     wav = os.path.join(work, f"s{i:02d}.wav")
-    if not os.path.exists(raw):
+    if os.path.exists(raw):
+        # Segments cached before the WAV fix still carry the header and C2PA chunk.
+        cached = open(raw, "rb").read()
+        if cached[:4] == b"RIFF":
+            open(raw, "wb").write(pcm_samples(cached))
+    else:
         pcm = render(seg, str(i))
         if pcm is None:
             failed.append(i)
