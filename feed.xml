@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 05:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:11:33 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,754 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Delirium and sedation on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-delirium-and-sedation</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:32 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-delirium-and-sedation.mp3" length="3363249" type="audio/mpeg"/>
+      <itunes:duration>560</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level review of ICU sedation and delirium trials. For antipsychotics, MIND-USA (NEJM 2018) and AID-ICU (NEJM 2022) found that haloperidol does not shorten delirium or increase days alive out of hospital. AID-ICU&#x27;s secondary outcome of mortality was lower with haloperidol at 90 days (36.3 vs 43.3 percent) and at one year, which is a signal, not proof. Prophylactic haloperidol (REDUCE) did not help. For dexmedetomidine, SPICE III showed no overall mortality difference, but a post hoc Bayesian analysis suggested benefit over 65 and harm at 65 or under, which led to a 2022 safety letter agreed with the MHRA. MENDS2 found no difference from propofol in sepsis, and the UK A2B trial (JAMA 2025) found no faster extubation with dexmedetomidine or clonidine compared with propofol, with more agitation and bradycardia. NONSEDA found no advantage for no sedation over light sedation. Pro-MEDIC and the meta-analysis restricted to low risk-of-bias trials found no delirium benefit from melatonin. ABCDEF evidence is mostly observational. R2D2-ICU (JAMA 2026) found that avoiding routine wrist restraints did not increase self-extubation. BRAIN-ICU links longer delirium to lasting cognitive impairment. The 2025 PADIS focused update suggests dexmedetomidine over propofol and suggests melatonin, but it was published before A2B. UK guidance (NICE CG103 and GPICS V3, 2026) does not name a sedative, and UK practice remains propofol first. SESAR (JAMA 2025) found worse survival with sevoflurane than with propofol in ARDS.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Aim for light sedation with a daily look at a sedation hold; NONSEDA doesn&#x27;t justify deeper sedation or no sedation.</li>
+<li>Propofol remains a reasonable first-line sedative: A2B found no faster extubation with dexmedetomidine or clonidine, and more agitation and bradycardia.</li>
+<li>If using dexmedetomidine, consider age: the SPICE III signal and the 2022 safety letter point to caution in patients 65 or younger.</li>
+<li>Haloperidol doesn&#x27;t shorten delirium and shouldn&#x27;t be used as prophylaxis; short courses for distress are reasonable, and AID-ICU is reassuring on safety.</li>
+<li>Melatonin is cheap and probably harmless, but the best trials show no delirium benefit; put effort into the bundle (mobilisation, sleep, family, fewer restraints).</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1808217">MIND-USA: Girard et al, NEJM 2018 (haloperidol or ziprasidone vs placebo)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2211868">AID-ICU: Andersen-Ranberg et al, NEJM 2022 (haloperidol vs placebo)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-023-07024-9">AID-ICU pre-planned Bayesian secondary analysis, Intensive Care Med 2023</a></li>
+<li><a href="https://doi.org/10.1007/s00134-023-07282-7">AID-ICU one-year outcomes (pre-planned), Intensive Care Med 2024</a></li>
+<li><a href="https://doi.org/10.1001/jama.2018.0160">REDUCE: van den Boogaard et al, JAMA 2018 (prophylactic haloperidol)</a></li>
+<li><a href="https://doi.org/10.1186/s13054-023-04692-3">EuRIDICE: haloperidol vs placebo, Crit Care 2023 (stopped early for futility)</a></li>
+<li><a href="https://doi.org/10.1186/s13054-025-05342-6">Haloperidol Bayesian and frequentist meta-analyses, Crit Care 2025</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1904710">SPICE III: Shehabi et al, NEJM 2019 (early dexmedetomidine)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06356-8">SPICE III heterogeneity of treatment effect by age (post hoc Bayesian), Intensive Care Med 2021</a></li>
+<li><a href="https://assets.publishing.service.gov.uk/media/62d6b1ff8fa8f50bfafb09c5/DEXDOR_II-35_-_DHPC_UK_-_16th_June_2022.pdf">Dexmedetomidine Dear Healthcare Professional letter (agreed with EMA and MHRA), 16 June 2022</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2024922">MENDS2: Hughes et al, NEJM 2021 (dexmedetomidine vs propofol in sepsis)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2025.7200">A2B: Walsh et al, JAMA 2025 (dexmedetomidine or clonidine vs propofol)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1906759">NONSEDA: Olsen et al, NEJM 2020 (no sedation vs light sedation)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-022-06638-9">Pro-MEDIC: Wibrow et al, Intensive Care Med 2022 (melatonin vs placebo)</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006767">Melatonin in the ICU systematic review and meta-analysis, Crit Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-08143-1">Melatonin and delirium in ICU systematic review and meta-analysis, Intensive Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000003482">ICU Liberation Collaborative ABCDEF bundle cohort: Pun et al, Crit Care Med 2019</a></li>
+<li><a href="https://doi.org/10.1001/jama.2026.2897">R2D2-ICU: restrictive vs liberal physical restraint, JAMA 2026</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1301372">BRAIN-ICU: Pandharipande et al, NEJM 2013 (long-term cognitive impairment)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2025.3169">SESAR: inhaled sevoflurane vs propofol in ARDS, JAMA 2025</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006574">SCCM PADIS focused update: Lewis et al, Crit Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000003299">SCCM PADIS guideline: Devlin et al, Crit Care Med 2018</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg103">NICE CG103 Delirium (2010, last updated January 2023)</a></li>
+<li><a href="https://ics.ac.uk/guidance/gpics.html">FICM/ICS Guidelines for the Provision of Intensive Care Services (GPICS) Version 3, January 2026</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Post-intensive care syndrome and recovery after ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-post-intensive-care-syndrome</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:31 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-post-intensive-care-syndrome.mp3" length="3338508" type="audio/mpeg"/>
+      <itunes:duration>556</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level review of what has been tested for recovery after critical illness. Nurse-led follow-up clinics (PRaCTICaL, BMJ 2009) and primary-care case management (SMOOTH, JAMA 2016) did not improve quality of life, and the 2018 Cochrane review found little or no effect. InS:PIRE (Thorax 2023) was positive but non-randomised. For in-ICU mobilisation, Schweickert (Lancet 2009) improved functional independence, but EPICC (Thorax 2018) and TEAM (NEJM 2022) were neutral, and TEAM showed more mobilisation-related adverse events (9.2% vs 4.1%) and a non-significant excess of deaths. Meta-analyses (Paton, Lancet Respir Med 2024; Crit Care Med 2025) found no mortality effect and less ICU-acquired weakness, and the SCCM PADIS 2025 focused update conditionally recommends enhanced mobilisation. CYCLE (NEJM Evid 2024) was neutral. On diaries, the positive RACHEL trial (2010) was followed by a neutral French trial (JAMA 2019), and a September 2026 meta-analysis found no PTSD effect after correcting for publication bias. Post-discharge rehabilitation trials have been neutral: Elliott 2011, RECOVER 2015 and the UK iRehab trial (JAMA, July 2026). A Brazilian stepped-wedge telehealth trial (JAMA, September 2026) improved quality of life overall but not among survivors, and the authors suggest lower mortality may explain this. Family interventions have either backfired (Carson, JAMA 2016) or been neutral (FICUS, ICM 2026). NICE CG83 (2009, reviewed 2018 with no update) asks for a reassessment at 2 to 3 months. GPICS V3 (January 2026) now makes a post-ICU recovery clinic a minimum standard, which is ahead of the trial evidence. NCEPOD&#x27;s Recovery Beyond Survival (June 2025) found poor delivery. Five-year mortality among hospital survivors in Scotland was 32% vs 23% in matched controls, and only about 55% of survivors were back at work at 12 months.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Keep mobilising, but don&#x27;t chase intensity: TEAM showed no benefit from more and more adverse events.</li>
+<li>Follow-up clinics are now a GPICS V3 minimum standard, though no trial shows they improve quality of life. Run yours as needs-finding and audit what you find.</li>
+<li>ICU diaries are cheap and humane but don&#x27;t reliably prevent PTSD.</li>
+<li>Families can be harmed by well-meant interventions. Watch for distress rather than assuming support helps.</li>
+<li>Ask about work, money and family at follow-up, because that&#x27;s where the long-term burden falls.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1136/bmj.b3723">PRaCTICaL: Cuthbertson et al, BMJ 2009</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD012701.pub2">Cochrane review: follow-up services for ICU survivors, 2018</a></li>
+<li><a href="https://doi.org/10.1001/jama.2016.7207">SMOOTH: Schmidt et al, JAMA 2016</a></li>
+<li><a href="https://doi.org/10.1136/thoraxjnl-2021-218428">InS:PIRE evaluation (non-randomised), Thorax 2023</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(09)60658-9">Schweickert et al, Lancet 2009</a></li>
+<li><a href="https://doi.org/10.1136/thoraxjnl-2016-209858">EPICC: Wright et al, Thorax 2018</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2209083">TEAM: Hodgson et al, NEJM 2022</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-08217-0">TEAM individualised treatment effects (post hoc, machine learning), Intensive Care Med 2026</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(24)00011-0">Paton et al, mobilisation adverse events and mortality meta-analysis, Lancet Respir Med 2024</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006840">Enhanced vs usual mobilisation meta-analysis, Crit Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006574">SCCM PADIS focused update, Crit Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1056/EVIDoa2400137">CYCLE trial, NEJM Evidence 2024</a></li>
+<li><a href="https://doi.org/10.1186/cc9260">RACHEL ICU diary trial: Jones et al, Crit Care 2010</a></li>
+<li><a href="https://doi.org/10.1001/jama.2019.9058">ICU diary trial: Garrouste-Orgeas et al, JAMA 2019</a></li>
+<li><a href="https://doi.org/10.1111/nicc.70675">ICU diaries meta-analysis, Nurs Crit Care 2026</a></li>
+<li><a href="https://doi.org/10.1186/cc10265">Home-based rehabilitation: Elliott et al, Crit Care 2011</a></li>
+<li><a href="https://doi.org/10.1001/jamainternmed.2015.0822">RECOVER: Walsh et al, JAMA Intern Med 2015</a></li>
+<li><a href="https://doi.org/10.1001/jama.2026.7401">iRehab: O&#x27;Neill et al, JAMA 2026</a></li>
+<li><a href="https://doi.org/10.1001/jama.2026.10617">Tele-Rehab stepped-wedge trial: Rosa et al, JAMA 2026</a></li>
+<li><a href="https://doi.org/10.1001/jama.2016.8474">Palliative care-led family meetings: Carson et al, JAMA 2016</a></li>
+<li><a href="https://doi.org/10.1007/s00134-026-08425-2">FICUS cluster RCT, Intensive Care Med 2026</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg83">NICE CG83 Rehabilitation after critical illness in adults (2009, reviewed 2018)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/qs158">NICE QS158 Rehabilitation after critical illness in adults (2017)</a></li>
+<li><a href="https://ics.ac.uk/guidance/gpics.html">GPICS Version 3 (FICM/ICS, January 2026)</a></li>
+<li><a href="https://www.ncepod.org.uk/2025icur.html">NCEPOD Recovery Beyond Survival (June 2025)</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201511-2234OC">Lone et al, five-year mortality after ICU, AJRCCM 2016</a></li>
+<li><a href="https://doi.org/10.1513/AnnalsATS.201903-248OC">McPeake et al, return to employment meta-analysis, Ann Am Thorac Soc 2019</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Organ donation after circulatory death</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-dcd-organ-donation</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:30 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-dcd-organ-donation.mp3" length="3241476" type="audio/mpeg"/>
+      <itunes:duration>540</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>DCD now makes up most UK deceased donation (792 of 1,428 deceased donors in 2025/26, NHSBT), while consent/authorisation fell to 57% overall and about 53% for DCD. Law: Wales (own Act, deemed consent from 1 Dec 2015), England (Organ Donation (Deemed Consent) Act 2019 amending HTA 2004 s3(6)(ba)/(6A)/(6B), from 20 May 2020), Scotland (Human Tissue (Authorisation) (Scotland) Act 2019, deemed authorisation from 26 Mar 2021) and Northern Ireland (2022 Act inserting HTA s3(6AA)/(9A); deemed consent in effect from 1 June 2023). In England consent is deemed unless a person in a qualifying relationship provides information that would lead a reasonable person to conclude the person would not have consented; HTA Code F says relatives have no legal right to revoke a valid decision but donation need not proceed where public confidence is at risk. Excepted adults include those who lacked capacity to understand deemed consent for a significant period before death (HTA guidance: 12 months), which captures many PDOC patients. Pre-mortem steps in England/Wales rest on MCA best interests per DH 2009 guidance (heparin, resuscitation, femoral cannulation unlikely ever to be in best interests; seek Court of Protection declaration); the 2021 UK NRP protocol says no pre-mortem interventions are currently allowed in controlled DCD. Scotland alone has a statutory pre-death procedures regime (Type A: SSI 2020/80; Type B incl. CT, MRI, bronchoscopy, needing two doctors independent of retrieval: SSI 2021/110); heparin is on neither list. The 2025 AoMRC Code leaves the five-minute observation unchanged (circulatory criteria not in its list of major changes) but specifies ventilator disconnection before the five minutes, start at mechanical asystole (arterial line or echo acceptable; ECG asystole not required), corneal reflexes recommended soon after arrest, independence from retrieval, and that post-mortem perfusion protocols must ensure no blood circulation to the brain. Dhanani NEJM 2021 (631 patients) found transient cardiac activity after pulselessness in 14% on waveform review, all within 4 min 20 s; a 2023 systematic review rated five minutes sufficient for controlled DCD (moderate certainty). A-NRP is being rolled out nationally by 2027 with NICE guidance due Nov 2026; TA-NRP remains contested (ACP 2021 call for a pause; UK-Canadian permanence proposal; retrospective data showing less severe PGD). Uncontrolled DCD is a Cambridge pilot only. The RCP 2020 PDOC guideline states donation is not possible after CANH withdrawal. Of 1,037 consented DCD patients in 2025/26, 266 did not donate, 52% of them because of prolonged time to asystole; length of process was the commonest family reason for declining DCD (20%).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Make the withdrawal decision first, on its own merits in the patient&#x27;s best interests, independently of donation, and document it.</li>
+<li>Under deemed consent the family&#x27;s role is to give information about the patient&#x27;s own view; check excepted-adult status (lack of capacity for a significant period, HTA guidance 12 months), which often applies in PDOC.</li>
+<li>Pre-mortem steps must be in the patient&#x27;s best interests and not cause harm or distress; under the current (2021) national NRP protocol there is no pre-mortem heparin or cannulation in UK controlled DCD, and Scotland has a statutory Type A/Type B list.</li>
+<li>Confirm death after five full minutes, off the ventilator, observed in person, by a clinician independent of the retrieval team, as the 2025 AoMRC Code sets out.</li>
+<li>Families most often decline DCD because the process takes too long; plan logistics early and be honest about timescales.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://www.legislation.gov.uk/ukpga/2004/30/section/3">Human Tissue Act 2004, section 3 (appropriate consent: adults, incl. deemed consent subsections 6A, 6AA, 6B, 9, 9A, 10)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2004/30/section/43">Human Tissue Act 2004, section 43 (preservation for transplantation)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2019/7/section/1">Organ Donation (Deemed Consent) Act 2019 (England), in force 20 May 2020</a></li>
+<li><a href="https://www.legislation.gov.uk/anaw/2013/5/section/4">Human Transplantation (Wales) Act 2013, sections 4-5 (deemed consent; excepted adults), in force 1 Dec 2015</a></li>
+<li><a href="https://www.legislation.gov.uk/asp/2019/11/section/23">Human Tissue (Authorisation) (Scotland) Act 2019, section 23 (pre-death procedures), in force 26 Mar 2021</a></li>
+<li><a href="https://www.legislation.gov.uk/ssi/2020/80/schedule">Human Tissue (Authorisation) (Specified Type A Procedures) (Scotland) Regulations 2020 (SSI 2020/80), schedule</a></li>
+<li><a href="https://www.legislation.gov.uk/ssi/2021/110">Human Tissue (Authorisation) (Specified Type B Procedures) (Scotland) Regulations 2021 (SSI 2021/110)</a></li>
+<li><a href="https://www.legislation.gov.uk/nia/2022/10/contents">Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022</a></li>
+<li><a href="https://www.organdonation.nhs.uk/news/dáithí-s-law-comes-into-effect-in-northern-ireland/">NHSBT: Daithi&#x27;s Law comes into effect in Northern Ireland (1 June 2023)</a></li>
+<li><a href="https://www.hta.gov.uk/sites/default/files/2025-12/Code%20F%20part%20two%20-%20Deceased%20organ%20and%20tissue%20donation.pdf">HTA Code of Practice F part two: deceased organ and tissue donation (significant period guidance, no legal right to revoke, best interests before death)</a></li>
+<li><a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/138313/dh_109864.pdf">Department of Health 2009: Legal issues relevant to non-heartbeating organ donation (England and Wales)</a></li>
+<li><a href="https://naccs.org.uk/wp-content/uploads/2024/11/Code_of_Practice_DC_of_Death_041124.pdf">AoMRC Code of Practice for the diagnosis and confirmation of death, 2025 update (Section 5 circulatory criteria; Appendix 1 summary of changes)</a></li>
+<li><a href="https://scts.org/_userfiles/pages/files/transplant/ukprotocolfornormothermicregionalperfusionversion13100421.pdf">NHSBT UK Protocol for NRP in controlled DCD, version 1.3, April 2021</a></li>
+<li><a href="https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/39080/section-1-summary-of-donor-and-transplant-activity.pdf">NHSBT Organ and Tissue Donation and Transplantation Activity Report 2025/26, section 1 summary</a></li>
+<li><a href="https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/39092/section-13-national-potential-donor-audit.pdf">NHSBT Activity Report 2025/26, section 13 National Potential Donor Audit (consent rates, overrides, refusal reasons, non-proceeding reasons)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2022713">Dhanani et al. Resumption of cardiac activity after withdrawal of life-sustaining measures, NEJM 2021 (prospective observational)</a></li>
+<li><a href="https://doi.org/10.1007/s12630-023-02411-8">Zorko et al. Autoresuscitation after circulatory arrest: updated systematic review, Can J Anaesth 2023</a></li>
+<li><a href="https://doi.org/10.1111/ajt.15775">Manara et al. Maintaining the permanence principle for death during in situ NRP: a UK and Canadian proposal, Am J Transplant 2020</a></li>
+<li><a href="https://www.acponline.org/acp-newsroom/the-american-college-of-physicians-says-organ-procurement-method-raises-significant-ethical-concerns">American College of Physicians statement of concern on NRP-cDCD, 14 June 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.jchf.2025.04.003">Louca et al. Outcomes after DCD heart transplantation, taNRP vs DPP, JACC Heart Fail 2025 (retrospective, 504 transplants)</a></li>
+<li><a href="https://doi.org/10.1016/j.eclinm.2023.102320">Louca et al. Getting out of the box: the future of the UK DCD heart programme, EClinicalMedicine 2023 (viewpoint)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/indevelopment/gid-htg10880">NICE GID-HTG10880: in-situ abdominal NRP for donor livers after controlled DCD (in development; draft consultation July 2026, publication expected 19 Nov 2026)</a></li>
+<li><a href="https://britishlivertrust.org.uk/potential-for-hundreds-more-liver-transplants-after-nice-recommends-new-life-saving-liver-procedure-for-nhs-use/">British Liver Trust news on NICE draft recommendation and NHSBT estimate of 150 extra liver transplants (8 July 2026)</a></li>
+<li><a href="https://www.eaaa.org.uk/?p=21992">East Anglian Air Ambulance: uncontrolled DCD (ODASICA) pilot led by Cambridge University Hospitals with NHSBT (NHSBT ref TF093)</a></li>
+<li><a href="https://www.rcp.ac.uk/media/ptcoggi5/pdoc-guidelines_final_online_0_0.pdf">Royal College of Physicians. Prolonged disorders of consciousness following sudden onset brain injury: national clinical guidelines 2020</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Assessing capacity on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-capacity-on-icu</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:29 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-capacity-on-icu.mp3" length="3368732" type="audio/mpeg"/>
+      <itunes:duration>561</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at the hard capacity cases on ICU. Clinicians tend to overestimate capacity in awake ICU patients (Bertrand 2019: physicians judged 45 percent capable against 17 percent by a structured score, which is not the legal test). The Supreme Court in A Local Authority v JB [2021] UKSC 52 sets the structure: s2(1) is the single test, approached functional question first and then the causative nexus (paras 65-79), with fluctuation as a qualification to the assessment (para 64). For delirium and fluctuating capacity the episode contrasts Hedley&#x27;s longitudinal approach to repeated decisions (Cheshire West v PWK) with one-off ICU decisions, uses the 2007 Code (paras 3.14, 4.26-4.27) and shows what all practicable steps looked like in Royal Free v RH [2026] EWCOP 17. On refusal: King&#x27;s College Hospital v C (unwise is not incapacity; choosing to give information no weight is not inability to use or weigh it) versus A NHS Trust v ST (not believing a well-founded prognosis held to be incapacity; contested). Advance decisions: s25 validity and applicability, s25(5)-(6) formalities, Barnsley v MSP (non-compliant document still weighty in best interests) and Re AB [2025] EWCOP 20 (Poole J&#x27;s lessons on ADRTs, prompt applications, s26(5)). LPAs: s9 registration, s11(7)-(8) and Option A on form LP1H. Court applications: NHS Trust v Y and the January 2020 Vice-President&#x27;s guidance (an application must be made where life-sustaining treatment is in issue and there is disagreement or the case is finely balanced; out-of-hours applications are exceptional). The 2007 Code remains current; no revised Code has been published.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Follow JB&#x27;s sequence and record it: identify the matter, the relevant information in its factual context, whether P is unable to decide, and only then whether that inability is because of an impairment or disturbance of the mind or brain (JB paras 67-79).</li>
+<li>With delirium, document the practicable steps (timing, sedation holds, repeat attempts with others present) and, for one-off decisions, wait for a lucid window if you safely can (s1(3), s4(3), Code paras 3.14 and 4.27; Royal Free v RH para 27).</li>
+<li>An unwise refusal of ventilation, dialysis or blood is not incapacity (King&#x27;s College Hospital v C paras 30 and 38); not believing a well-founded prognosis was held to be incapacity in ST, but that is contested ground.</li>
+<li>Get the actual advance decision or LPA document: check s25 validity and applicability, the s25(5)-(6) formalities for life-sustaining treatment, LPA registration and Option A for life-sustaining treatment (s11(8)).</li>
+<li>If there is doubt or dispute over life-sustaining treatment, apply to the Court of Protection promptly and keep treating meanwhile (s26(5), s6(7); 2020 guidance paras 8-9; Re AB para 53.7).</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2021/52">A Local Authority v JB [2021] UKSC 52 (Lord Stephens): s2(1) single test para 65; two questions in sequence paras 66-79; relevant information in factual context paras 68-70, 73; fluctuating capacity para 64</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/1">Mental Capacity Act 2005 s1 (principles)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/2">Mental Capacity Act 2005 s2 (people who lack capacity)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/3">Mental Capacity Act 2005 s3 (inability to make decisions)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/4">Mental Capacity Act 2005 s4 (best interests; s4(3) likelihood of regaining capacity; s4(10) life-sustaining treatment)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/6">Mental Capacity Act 2005 s6(7) (life-sustaining treatment while a decision is sought from the court, despite donee or deputy decision)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/9">Mental Capacity Act 2005 s9 (LPA must be registered, s9(2)(b))</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/10">Mental Capacity Act 2005 s10 (appointment of donees)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/11">Mental Capacity Act 2005 s11(7)-(8) (welfare LPA: life-sustaining treatment only with express provision)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/24">Mental Capacity Act 2005 s24 (advance decisions: general)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/25">Mental Capacity Act 2005 s25 (validity and applicability; s25(5)-(6) formalities for life-sustaining treatment)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/26">Mental Capacity Act 2005 s26 (effect of advance decisions; s26(5) treatment pending court decision)</a></li>
+<li><a href="https://assets.publishing.service.gov.uk/media/5f6cc6138fa8f541f6763295/Mental-capacity-act-code-of-practice.pdf">Mental Capacity Act 2005 Code of Practice (2007; GOV.UK page last updated October 2020, no revised Code published): paras 3.14, 4.26-4.27, 9.56, 9.60</a></li>
+<li><a href="https://www.localgovernmentlawyer.co.uk/adult-social-care/391-adult-care-news/49976-government-consults-on-revised-mca-code-of-practice-and-guidance-on-liberty-protection-safeguards">Local Government Lawyer: Government consults on revised MCA Code of Practice and LPS guidance (draft Code consultation, 2022)</a></li>
+<li><a href="https://www.gov.uk/government/news/improved-safeguarding-and-protections-for-vulnerable-people">GOV.UK press release 18 October 2025: LPS consultation planned for first half of 2026, responses to inform a final MCA Code of Practice</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000003550">Bertrand et al 2019, Crit Care Med: clinicians vs score on decision-making capacity in 206 ICU patients, 19 French ICUs (physicians 45 percent vs score 17 percent)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2019/57">Cheshire West and Chester Council v PWK [2019] EWCOP 57 (Sir Mark Hedley): isolated vs repeated decisions, longitudinal view, paras 16-19</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/17">Royal Free London Hospital NHS Foundation Trust v RH [2026] EWCOP 17 (T3) (Peel J): ICU delirium; further capacity assessment ordered paras 24-27; impairment from sedation and critical illness para 46; wishes paras 29, 51</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2015/80">Kings College Hospital NHS Foundation Trust v C [2015] EWCOP 80 (MacDonald J): refusal of dialysis; principles paras 25-39 (esp. 30, 38); unwise but capacitous paras 97-98</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2023/40">A NHS Trust v ST [2023] EWCOP 40 (Roberts J): belief subsumed in understanding/using/weighing paras 81-83; hope alone not incapacity para 94; impairment and Official Solicitor&#x27;s circularity argument paras 103-104</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2020/26">Barnsley Hospital NHS Foundation Trust v MSP [2020] EWCOP 26 (Hayden J): ventilated ICU patient; unwitnessed document not binding but clear expression of wishes paras 19, 41, 46</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2025/20">Re AB (ADRT: Validity and Applicability) [2025] EWCOP 20 (T3) (Poole J): valid and applicable subject to s25(6) para 49; s25(2)(c) analysis paras 41-43; lessons for clinicians para 53</a></li>
+<li><a href="https://www.judiciary.uk/judgments/pw-jehovahs-witness-validity-of-advance-decision/">Re PW (Jehovah&#x27;s Witness: Validity of Advance Decision) [2021] EWCOP 52 (Poole J, 22 September 2021): out-of-hours determination (as described in Re AB para 8; s25(2)(c) analysis quoted at Re AB para 41). Full text on BAILII, not opened directly</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2018/41">NHS Cumbria CCG v Rushton [2018] EWCOP 41 (Hayden J): a copy of the ADRT should follow the patient; a telephone summary is rarely sufficient, para 26</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2018/46">An NHS Trust v Y [2018] UKSC 46: no mandatory court application where MCA followed and agreement, paras 125-126</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2020/2">Serious Medical Treatment, Guidance [2020] EWCOP 2 (Vice-President, 17 January 2020): when to apply paras 6-13; life-sustaining treatment para 9; out-of-hours applications exceptional para 16</a></li>
+<li><a href="https://assets.publishing.service.gov.uk/media/68a83d5d3a052c9c504c8d8f/20250822-LP1H-create-and-register-your-lasting-power-of-attorney.pdf">OPG form LP1H (version 08.25), section 5: Option A / Option B on life-sustaining treatment</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Ceilings of care and treatment escalation plans</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-ceilings-of-care-escalation-plans</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:28 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-ceilings-of-care-escalation-plans.mp3" length="3274243" type="audio/mpeg"/>
+      <itunes:duration>546</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level, legally precise review of ceilings of care. Evidence: the Cambridge UFTO before-and-after study (PLoS One 2013) found fewer harms in patients not for CPR (rate difference 12.9 per 1000 patient-days; harms contributing to death 23/71 vs 4/44); a 2025 randomised vignette study showed a DNACPR decision reduced geriatricians&#x27; willingness to consider NIV (67.3% vs 83.6%) and ICU (10.9% vs 25.5%); the NIHR ReSPECT evaluation (2022) found ReSPECT in 40 of 186 acute hospitals by late 2019, patient/family involvement recorded on 73% of forms, similar harms with or without a form, and conversations ranging from open to &#x27;informing of a decision already made&#x27;; a Leeds analysis of 23,729 ReSPECT plans found DNACPR less often recorded for Asian and Black than White patients. Law: Burke [2005] EWCA Civ 1003 (no obligation to provide treatment not clinically indicated, paras 50 and 55, but para 53 on competent patients wanting ANH); Aintree v James [2013] UKSC 67 (court has no greater power than patient, para 18; question is whether giving treatment is in best interests, para 22; widest-sense welfare and consultation, para 39; patient&#x27;s own perspective, para 45; advance applications, para 47); N v ACCG [2017] UKSC 22 (choice only between available options, para 35); Tracey [2014] EWCA Civ 822 (Article 8 presumption of patient involvement in DNACPR, paras 53 to 55; common law the same, para 89); Winspear [2015] EWHC 3250 (QB) (s4(7) MCA duty to consult carer, paras 45, 50, 52, 59). The pivotal 2026 development is Townsend v Epsom and St Helier [2026] EWCA Civ 195: no carve-out for &#x27;clinical decisions&#x27; in incapacitated adults (para 69); unresolved disagreement about life-sustaining treatment must go to court via the commissioner and the hospital cannot pre-empt it by unilateral withholding or withdrawal (para 72); but the court can never compel treatment clinicians consider clinically inappropriate (paras 68(5), 74). The Supreme Court granted permission on 29 June 2026 with the hearing listed for 12 to 13 January 2027. Royal Free v RH [2026] EWCOP 17 (T3) shows trusts starting treatment pending court resolution after Townsend, and a court-approved, permissive ceiling of care. GMC end-of-life guidance (2010, updated 2022 and 2024) paras 16, 47 to 48, 134, 138, 143; joint BMA/RCUK/RCN CPR guidance (3rd edition, 1st revision 2016) is under review; the MCA Code of Practice has not been revised since 2007. Communication advice separates what medicine can achieve from what the patient would want, and avoids asking families to decide (GSTT v VA [2023] EWCOP 39, para 20).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>A ceiling of care for an incapacitated patient is a best interests decision under the Mental Capacity Act: after Townsend [2026] EWCA Civ 195 (para 69) there is no carve-out for &#x27;clinical decisions&#x27;.</li>
+<li>Nobody, including the Court of Protection, can compel you to give treatment you consider clinically inappropriate (Burke paras 50 and 55; Aintree para 18; N v ACCG para 35; Townsend paras 68(5) and 74).</li>
+<li>Consult before you record a DNACPR decision: the patient unless it is likely to cause harm (Tracey paras 53 to 55), and the family or carer of an incapacitated patient unless impracticable (Winspear, s4(7) MCA); record why if you do not.</li>
+<li>Use a TEP or ReSPECT plan to place DNACPR within a wider plan (it applies only to CPR, GMC para 143), and share second opinions with the family promptly.</li>
+<li>Unresolved disagreement about life-sustaining treatment should go to court via the commissioning body, early (Townsend para 72; Re Y para 125); watch for the Supreme Court hearing on 12 to 13 January 2027.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2005/1003">R (Burke) v General Medical Council [2005] EWCA Civ 1003 (CA, 28 July 2005), paras 31, 50, 53, 55</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2013/67">Aintree University Hospitals NHS Foundation Trust v James [2013] UKSC 67 (Lady Hale), paras 18, 22, 39, 45, 47</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2017/22">N v ACCG and others [2017] UKSC 22 (Lady Hale), paras 1, 35, 44</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2018/46">An NHS Trust v Y [2018] UKSC 46 (Lady Black), paras 125, 126</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2014/822">R (Tracey) v Cambridge University Hospitals NHS FT [2014] EWCA Civ 822 (CA, 17 June 2014), paras 32, 53 to 55, 63 to 65, 88, 89 (Longmore LJ), 93, 94</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/qb/2015/3250">Winspear v City Hospitals Sunderland NHS FT [2015] EWHC 3250 (QB) (Blake J, 13 Nov 2015), paras 45, 50, 52, 59</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/14">Townsend v Epsom and St Helier University Hospitals NHS Trust [2026] EWCOP 14 (T3) (Theis J, 17 Feb 2026, permission refused), paras 25 to 27</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/195">Townsend v Epsom and St Helier University Hospitals NHS Trust [2026] EWCA Civ 195 (Baker LJ, reasons 3 March 2026), paras 68, 69, 71, 72, 74, 79, 86, 87</a></li>
+<li><a href="https://supremecourt.uk/cases/uksc-2026-0044">UK Supreme Court case page UKSC/2026/0044 (permission granted 29 June 2026; hearing listed 12 to 13 January 2027); cross-appeal UKSC/2026/0050</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/17">Royal Free London Hospital NHS FT v RH [2026] EWCOP 17 (T3) (Peel J, 1 April 2026), paras 3, 22, 44, 50, 53, 56</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2023/39">Guy&#x27;s and St Thomas&#x27; NHS FT v VA [2023] EWCOP 39 (Hayden J), para 20</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2024/39">Re AA (Withdrawal of Life-Sustaining Treatment: No Best Interests Decision) [2024] EWCOP 39 (T3) (Henke J), disapproved in Townsend CA para 71 (not mentioned on air)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2024/3">GUP v EUP [2024] EWCOP 3 (Hayden J), discussed in Townsend CA para 63 (not mentioned on air)</a></li>
+<li><a href="https://doi.org/10.1371/journal.pone.0070977">Fritz Z et al 2013, PLoS One: UFTO as an alternative to DNACPR orders, mixed-methods before-and-after study</a></li>
+<li><a href="https://doi.org/10.1093/ageing/afaf223">Tham Y et al 2025, Age and Ageing: effect of a DNACPR decision on other care, vignette-based randomised study (110 respondents)</a></li>
+<li><a href="https://doi.org/10.3310/LFPE3627">Perkins GD et al 2022, NIHR Health and Social Care Delivery Research 10(40): ReSPECT mixed-methods study</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2022.06.020">Hawkes CA et al 2022, Resuscitation: implementation of ReSPECT in acute hospitals (context; not quoted on air)</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2024.110168">Anik E et al 2024, Resuscitation: trends in ReSPECT plans in a large UK trust (Leeds; 23,729 plans)</a></li>
+<li><a href="https://www.gmc-uk.org/professional-standards/the-professional-standards/treatment-and-care-towards-the-end-of-life">GMC, Treatment and care towards the end of life (in effect 2010; updated 15 March 2022 and 13 Dec 2024): paras 14, 16, 47 to 48, 134, 138, 141, 143</a></li>
+<li><a href="https://www.gmc-uk.org/professional-standards/the-professional-standards/decision-making-and-consent">GMC, Decision making and consent (in effect 9 Nov 2020; updated Dec 2024 and Aug 2026)</a></li>
+<li><a href="https://www.resus.org.uk/library/publications/publication-decisions-relating-cardiopulmonary">BMA, Resuscitation Council UK and RCN, Decisions relating to cardiopulmonary resuscitation (3rd edition, 1st revision, 2016; listed by RCUK as under review)</a></li>
+<li><a href="https://www.resus.org.uk/respect">Resuscitation Council UK, ReSPECT process (non-legally binding recommendations)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Frailty and the older surgical patient</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-frailty-older-surgical-patient</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:27 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-frailty-older-surgical-patient.mp3" length="3493976" type="audio/mpeg"/>
+      <itunes:duration>582</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at frailty in older surgical patients for anaesthetists and intensivists. SNAP-3 (BJA 2025; 7,129 UK patients aged 60 and over, 214 hospitals) found that about one in five were frail, and outcomes worsened from a Clinical Frailty Scale (CFS) score of 4 upwards. Frailty, more than multimorbidity, drove length of stay, delirium and mortality. The CFS is quick and about as accurate as a modified Fried index (adjusted odds ratio 2.51 for death or new disability at 90 days in a 702-patient Canadian cohort), but it is a baseline population risk marker, poorly validated in younger people or those with stable single-system disability, and it says nothing about the operation. Prehabilitation trials in frail patients (Carli, JAMA Surg 2020; McIsaac&#x27;s PREHAB, BJA 2022) were neutral. A supervised in-hospital programme in a non-frail colorectal cohort (PREHAB, JAMA Surg 2023) reduced severe complications (17.1 versus 29.7 percent). A 2025 BMJ network meta-analysis of 186 trials favoured exercise, but with very low certainty. Comprehensive geriatric assessment reduces discharge to a higher level of care (Cochrane 2018, mostly hip fracture). The CPOC/BGS 2021 guideline, still current, sets the UK standard: CFS for everyone over 65, CGA and cognitive assessment at CFS 5 or more, and daily 4AT screening. For delirium, regional versus general anaesthesia made no difference (REGAIN, RAGA). EEG guidance was neutral in ENGAGES, and Balanced found no mortality difference between BIS 50 and 35, yet ESAIC 2024 still weakly suggests EEG monitoring. B-Free (benzodiazepine restriction in cardiac surgery) was neutral. Shared decision-making should follow Montgomery and centre on function and going home. ANZICS registry data (BJA 2025) link frailty to shorter long-term survival after postoperative ICU admission (adjusted hazard ratio 2.33).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Document a CFS, but read it as a population risk marker: risk climbs from CFS 4, and the score says nothing about the operation.</li>
+<li>Prehabilitation is reasonable, but the trials in frail patients are neutral; supervised programmes with good adherence look best.</li>
+<li>Regional versus general anaesthesia doesn&#x27;t change delirium. Avoid delirium-provoking drugs and excessive depth, and use multicomponent prevention.</li>
+<li>Get a geriatrician involved early; the best evidence for comprehensive geriatric assessment is in hip fracture.</li>
+<li>Before surgery, talk about function and going home, and agree the ceiling of treatment, including ICU.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.bja.2025.04.026">SNAP-3: frailty and multimorbidity in older UK surgical patients (BJA 2025)</a></li>
+<li><a href="https://doi.org/10.1097/SLA.0000000000002967">McIsaac et al. Frailty as a predictor of death or new disability after surgery (Ann Surg 2020)</a></li>
+<li><a href="https://doi.org/10.1016/j.gerinurse.2024.08.013">CFS and postoperative mortality in older surgical patients: systematic review and meta-analysis (Geriatr Nurs 2024)</a></li>
+<li><a href="https://doi.org/10.5770/cgj.23.463">Rockwood and Theou. Using the Clinical Frailty Scale in allocating scarce health care resources (Can Geriatr J 2020)</a></li>
+<li><a href="https://doi.org/10.1001/jamasurg.2019.5474">Carli et al. Prehabilitation vs rehabilitation in frail colorectal cancer patients (JAMA Surg 2020)</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2022.04.006">McIsaac et al. PREHAB trial: home-based prehabilitation in frail older adults having cancer surgery (BJA 2022)</a></li>
+<li><a href="https://doi.org/10.1001/jamasurg.2023.0198">Molenaar et al. PREHAB trial: multimodal prehabilitation in colorectal cancer surgery (JAMA Surg 2023)</a></li>
+<li><a href="https://doi.org/10.1136/bmj-2024-081164">Network meta-analysis of prehabilitation interventions (BMJ 2025)</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD012485.pub2">Cochrane review: comprehensive geriatric assessment for older people admitted to a surgical service (2018)</a></li>
+<li><a href="https://www.bgs.org.uk/cpocfrailty">CPOC/BGS Guideline for perioperative care for people living with frailty undergoing elective and emergency surgery (September 2021)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2113514">REGAIN: spinal or general anaesthesia for hip surgery in older adults (NEJM 2021)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2021.22647">RAGA: regional vs general anaesthesia and delirium after hip fracture surgery (JAMA 2022)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2018.22005">ENGAGES: EEG-guided anaesthesia and postoperative delirium (JAMA 2019)</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(19)32315-3">Balanced: anaesthetic depth and complications after major surgery (Lancet 2019)</a></li>
+<li><a href="https://doi.org/10.1097/EJA.0000000000001876">ESAIC updated guideline on postoperative delirium in adults (Eur J Anaesthesiol 2024)</a></li>
+<li><a href="https://doi.org/10.1097/JS9.0000000000003046">Processed EEG-guided anaesthesia and postoperative delirium: updated meta-analysis (Int J Surg 2025)</a></li>
+<li><a href="https://doi.org/10.1001/jamasurg.2024.6602">B-Free: benzodiazepine-free cardiac anaesthesia, cluster randomised crossover trial (JAMA Surg 2025)</a></li>
+<li><a href="https://www.supremecourt.uk/cases/uksc-2013-0136">Montgomery v Lanarkshire Health Board [2015] UKSC 11</a></li>
+<li><a href="https://doi.org/10.1001/jamasurg.2016.5674">Best Case/Worst Case communication framework (JAMA Surg 2017)</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2025.03.002">Frailty and long-term survival after postoperative ICU admission, ANZICS cohort (BJA 2025)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Airway management in the critically ill</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-airway-management-critically-ill</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:26 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-airway-management-critically-ill.mp3" length="3310441" type="audio/mpeg"/>
+      <itunes:duration>552</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at the trials that have reshaped peri-intubation care in ICU. INTUBE (JAMA 2021, 2,964 patients, 29 countries) found major adverse peri-intubation events in 45.2% of intubations, mostly cardiovascular instability (42.6%), with cardiac arrest in 3.1%. DEVICE (NEJM 2023) improved first-pass success with videolaryngoscopy (85.1% vs 70.8%) without changing severe complications, though more than 90% of operators were trainees. BOUGIE (JAMA 2021) found no first-pass advantage for bougie over stylet (80.4% vs 83.0%). PREOXI (NEJM 2024) halved peri-intubation hypoxaemia with NIV preoxygenation (9.1% vs 18.5%) without more aspiration, and a 2025 network meta-analysis ranked NIV above HFNO above face mask. In the RSI trial (NEJM, online Dec 2025, 2,365 patients), ketamine did not reduce 28-day mortality compared with etomidate (28.1% vs 29.1%) and caused more cardiovascular collapse (22.1% vs 17.0%), which 2026 network meta-analyses support. PrePARE and PREPARE II found no benefit from a routine 500 mL fluid bolus. Trials of prophylactic vasopressors in ICU have not reported (PREVENTION, NCT05014581, registered as recruiting). The UK critical care guideline is still the 2018 DAS/ICS/FICM/RCoA guideline (BJA, online 2017). DAS published its 2025 guideline for unanticipated difficult intubation in adults, which adds a physiologically difficult airway section and keeps a linear Plan A to D, where the ICU guideline combines Plans B and C. We found no 2025 ICS/DAS critical care update.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Use a videolaryngoscope first for ICU intubation: DEVICE showed better first-pass success, mainly with less experienced operators, but no fewer severe complications.</li>
+<li>A stylet is a reasonable default: BOUGIE found no first-pass advantage for bougie-first.</li>
+<li>Preoxygenate with NIV: PREOXI halved hypoxaemia without increasing aspiration.</li>
+<li>Ketamine is not the haemodynamically safer choice: in the RSI trial it caused more cardiovascular collapse than etomidate with no mortality difference. Pick the dose carefully and have a vasopressor ready.</li>
+<li>Don&#x27;t give a routine fluid bolus to prevent collapse: PrePARE and PREPARE II were both negative.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jama.2021.1727">INTUBE: Russotto et al, JAMA 2021</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2301601">DEVICE: Prekker et al, NEJM 2023</a></li>
+<li><a href="https://doi.org/10.1001/jama.2021.22002">BOUGIE: Driver et al, JAMA 2021</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2313680">PREOXI: Gibbs et al, NEJM 2024</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(25)00029-3">Preoxygenation network meta-analysis: Pitre et al, Lancet Respir Med 2025</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(09)60949-1">Jabre et al, etomidate vs ketamine, Lancet 2009</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06577-x">Matchett et al, etomidate vs ketamine, Intensive Care Med 2022</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2511420">RSI trial: ketamine or etomidate, NEJM 2026 (online Dec 2025)</a></li>
+<li><a href="https://doi.org/10.1186/s13054-026-06067-w">Induction agents network meta-analysis, Crit Care 2026</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2026.07.5239">Induction agents network meta-analysis, Chest 2026 (online ahead of print)</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2025.48060">Brazilian Airway Registry target trial emulation, JAMA Netw Open 2025 (observational)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(19)30246-2">PrePARE: Janz et al, Lancet Respir Med 2019</a></li>
+<li><a href="https://doi.org/10.1001/jama.2022.9792">PREPARE II: Russell et al, JAMA 2022</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT05014581">PREVENTION trial registration (NCT05014581)</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2017.10.021">DAS/ICS/FICM/RCoA guidelines for tracheal intubation in critically ill adults: Higgs et al, BJA 2018</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2025.10.006">DAS 2025 guidelines for unanticipated difficult tracheal intubation in adults: Ahmad et al, BJA 2026</a></li>
+<li><a href="https://doi.org/10.1007/s00134-024-07578-2">Physiologically difficult airway international Delphi (consensus): Karamchandani et al, Intensive Care Med 2024</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Emergency laparotomy: perioperative care and who needs ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-emergency-laparotomy</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:25 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-emergency-laparotomy.mp3" length="3276448" type="audio/mpeg"/>
+      <itunes:duration>546</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at emergency laparotomy for anaesthetists and intensivists. The NELA tenth report (October 2025; April 2023 to April 2024, 23,560 patients) gave 30-day mortality of 8.1 percent, down from 11.7 percent in year 1. Consultant presence for high-risk cases is now high (surgeon 96.4 percent, anaesthetist 92.3 percent), and 77.6 percent of high-risk patients went directly to critical care. Timeliness is still poor: 8.4 percent of RCS-Immediate patients reached theatre within 6 hours, and about 15 percent of patients with suspected sepsis received antibiotics within 1 hour. The rebuilt 13-variable NELA parsimonious score (concordance 0.86) discriminates about as well as P-POSSUM in external cohorts, but calibration varies by setting. In NELA patients at extreme risk (predicted mortality of 50 percent or more), some were still alive at 90 days. EPOCH (Lancet 2019), a stepped-wedge quality improvement trial, was neutral. OPTIMISE II (BMJ 2024, elective surgery) found no benefit from cardiac output-guided therapy and more early arrhythmias. FLO-ELA (3,140 patients, recruitment closed November 2024, primary outcome changed to days alive and out of hospital at 90 days) had not published results as of 8 October 2026. Postoperative geriatric review is strongly associated with lower mortality (observational, likely confounded), but only about a third of eligible patients receive it. The first NoLap report (May 2026) found 80 percent 30-day mortality among patients not operated on, and the ELF2 cohort showed that about a fifth survive to 90 days. RCS 2018 standards ask for an in-person three-consultant assessment above 25 percent predicted mortality and direct critical care admission above 5 percent at the end of surgery. A 2026 Australian cohort found the NELA score predicted death but not the need for ICU therapies. Montgomery and McCulloch frame how not operating should be offered and discussed.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>NELA 30-day mortality is now 8.1 percent, but time to theatre and time to antibiotics remain the weak links.</li>
+<li>The NELA score is a population estimate: present it as a range, and treat frailty (CFS 5 or more) and missing risk assessments as high risk.</li>
+<li>Cardiac output-guided fluid has no supporting trial evidence in emergency laparotomy yet: OPTIMISE II was neutral and FLO-ELA has not reported.</li>
+<li>Involve a geriatrician early: postoperative geriatric review is the strongest (observational) association with survival, yet only about a third of eligible patients get it.</li>
+<li>Above 25 percent predicted mortality, make the decision jointly at consultant level, offer not operating as a real option, and tell families that some patients survive without surgery.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://www.hqip.org.uk/wp-content/uploads/2026/04/Ref.-605-NELA-Tenth-Patient-Report-2025.pdf">NELA Tenth Patient Report (RCoA/HQIP, October 2025)</a></li>
+<li><a href="https://www.nela.org.uk/s/NoLap-Report2025_11-June-2026.pdf">NELA NoLap Year 1 Report (May 2026)</a></li>
+<li><a href="https://doi.org/10.1111/anae.16096">Eugene et al. NELA parsimonious prognostic model, Anaesthesia 2023</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2018.06.026">Eugene et al. NELA risk model development, BJA 2018</a></li>
+<li><a href="https://doi.org/10.1007/s00268-021-06120-5">Lai et al. P-POSSUM vs NELA in Singapore, World J Surg 2021</a></li>
+<li><a href="https://doi.org/10.7759/cureus.32859">Barghash et al. NELA vs P-POSSUM, Cureus 2022</a></li>
+<li><a href="https://doi.org/10.1111/anae.16130">Javanmard-Emamghissi et al. Extreme-risk patients in NELA, Anaesthesia 2023</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(18)32521-2">EPOCH trial, Peden et al. Lancet 2019</a></li>
+<li><a href="https://doi.org/10.1001/jamasurg.2019.0145">Emergency Laparotomy Collaborative, Aggarwal et al. JAMA Surg 2019</a></li>
+<li><a href="https://doi.org/10.1136/bmj-2024-080439">OPTIMISE II trial, BMJ 2024</a></li>
+<li><a href="https://doi.org/10.1186/s13063-023-07275-3">FLO-ELA protocol, Trials 2023</a></li>
+<li><a href="https://doi.org/10.1186/s13063-026-09552-3">FLO-ELA statistical analysis plan, Trials 2026</a></li>
+<li><a href="https://www.isrctn.com/ISRCTN14729158">FLO-ELA ISRCTN14729158 registry</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2018.07.040">Oliver et al. Organisational factors and mortality after emergency laparotomy, BJA 2018</a></li>
+<li><a href="https://doi.org/10.1093/bjsopen/zrae078">Park et al. Clinical Frailty Scale and outcomes after emergency laparotomy: meta-analysis, BJS Open 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2024.07.009">ELF2: Price et al. Older patients who require but do not undergo emergency laparotomy, BJA 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2026.03.059">ELF2 decision-making: Price et al. BJA 2026</a></li>
+<li><a href="https://www.rcseng.ac.uk/-/media/Files/RCS/News-and-events/Media-centre/2018-press-releases-documents/RCS-Report-The-HighRisk-General-Surgical-Patient--Raising-the-Standard--December-2018.pdf">RCS England. The High-Risk General Surgical Patient: Raising the Standard (2018)</a></li>
+<li><a href="https://doi.org/10.1177/0310057X251377313">Punch et al. NELA score and need for ICU admission, Anaesth Intensive Care 2026</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2015/11">Montgomery v Lanarkshire Health Board [2015] UKSC 11</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2023/26">McCulloch v Forth Valley Health Board [2023] UKSC 26</a></li>
+<li><a href="https://cpoc.org.uk/guidelines-resources-guidelines/perioperative-care-people-living-frailty">CPOC/BGS guideline: perioperative care for people living with frailty (2021)</a></li>
+<li><a href="https://cpoc.org.uk/guidance-establishing-and-delivering-enhanced-perioperative-care-services">CPOC/FICM Enhanced Perioperative Care guidance (2020)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Invasive fungal infection on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-invasive-fungal-infection-icu</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:24 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-invasive-fungal-infection-icu.mp3" length="3549297" type="audio/mpeg"/>
+      <itunes:duration>591</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at invasive fungal infection on ICU. In EMPIRICUS (JAMA 2016, 260 patients), empirical micafungin for ICU-acquired sepsis with multisite Candida colonisation and multi-organ failure did not improve fungal-infection-free survival at day 28 (68% vs 60.2%, HR 1.35, 95% CI 0.87 to 2.08), although it reduced new proven infection (3% vs 12%). The 2016 Cochrane review found no mortality benefit from untargeted antifungals (RR 0.93). In CandiSep (ICM 2022, 339 patients), starting antifungals on a beta-D-glucan of 80 pg/mL or more got treatment in faster but did not reduce 28-day mortality (33.7% vs 30.5%). FUNDICU 2024 left BDG out of its research definition of probable deep-seated candidiasis. Two small single-centre trials (Rouzé 2017, De Pascale 2020) suggest that stopping on a negative biomarker safely shortens empirical therapy. Echinocandins remain first line. In ReSTORE (Lancet 2023), weekly rezafungin was non-inferior to caspofungin; the MHRA approved it in January 2024. Influenza-associated aspergillosis affected 19% of patients with severe influenza on ICU (Schauwvlieghe 2018) and is linked to high mortality. CAPA affected about 15% of ICU COVID patients in the ECMM study. POSA-FLU&#x27;s prophylaxis trial was inconclusive. Diagnosis rests on lavage galactomannan (index of 1.0 or more), because serum galactomannan is insensitive in non-neutropenic patients. Treatment is voriconazole or isavuconazole, per ESCMID-ECMM-ERS 2017, IDSA 2016, the CAPA consensus and the Swiss FUNGINOS and German AWMF ICU guidelines of 2025. UKHSA&#x27;s 2025 Candidozyma auris guidance covers admission screening, isolation and contact de-isolation, and says not to treat colonisation and to use an echinocandin first line; C. auris has been notifiable in England since 6 April 2025. Candidaemia is treated for 14 days after clearance, with step-down to an oral azole after 5 to 7 days (IDSA 2016) or at least 5 days (global ECMM/ISHAM/ASM guideline 2025) in stable patients.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Don&#x27;t start empirical echinocandins for colonisation and sepsis alone: EMPIRICUS and CandiSep showed no survival benefit. Treat septic shock with a real Candida risk, and reassess by day 4 to 5.</li>
+<li>Use beta-D-glucan to stop antifungals rather than to start them: a negative result supports stopping, but a positive one is non-specific.</li>
+<li>In severe influenza and COVID, look for aspergillus early with lavage galactomannan (serum is insensitive), and treat with voriconazole or isavuconazole.</li>
+<li>Candida (Candidozyma) auris has been notifiable in England since April 2025. Screen patients admitted after healthcare abroad, isolate or cohort them, and don&#x27;t treat colonisation. Use an echinocandin for infection.</li>
+<li>For candidaemia, remove the line early, treat for 14 days from clearance, and step down to fluconazole after about 5 days in stable patients with susceptible isolates and negative repeat cultures.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jama.2016.14655">EMPIRICUS: Timsit et al, JAMA 2016</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD004920.pub3">Cochrane review: Cortegiani et al, Antifungal agents for preventing fungal infections in non-neutropenic critically ill patients, 2016</a></li>
+<li><a href="https://doi.org/10.1007/s00134-022-06733-x">CandiSep: Bloos et al, Intensive Care Med 2022</a></li>
+<li><a href="https://doi.org/10.1128/jcm.01500-25">CandiSep biomarker performance (secondary endpoint): J Clin Microbiol 2026</a></li>
+<li><a href="https://doi.org/10.1007/s00134-017-4932-8">Rouzé et al, biomarker-based discontinuation RCT, Intensive Care Med 2017</a></li>
+<li><a href="https://doi.org/10.1186/s13054-020-03265-y">De Pascale et al, BDG-based empirical antifungal interruption RCT, Crit Care 2020</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(22)02324-8">ReSTORE: Thompson et al, rezafungin vs caspofungin, Lancet 2023</a></li>
+<li><a href="https://www.gov.uk/government/news/rezzayo-approved-to-treat-adult-patients-with-invasive-candidiasis">MHRA approval of Rezzayo (rezafungin), January 2024</a></li>
+<li><a href="https://doi.org/10.1007/s00134-024-07341-7">FUNDICU 2024 consensus definitions, Bassetti et al, Intensive Care Med 2024</a></li>
+<li><a href="https://doi.org/10.1016/S1473-3099(24)00749-7">Global guideline for candidiasis (ECMM/ISHAM/ASM), Cornely et al, Lancet Infect Dis 2025</a></li>
+<li><a href="https://doi.org/10.1093/cid/civ933">IDSA candidiasis guideline 2016 update, Pappas et al, Clin Infect Dis</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(18)30274-1">Schauwvlieghe et al, invasive aspergillosis in severe influenza, Lancet Respir Med 2018</a></li>
+<li><a href="https://doi.org/10.1186/s13054-025-05771-3">Prospective IAPA cohort, Crit Care 2025</a></li>
+<li><a href="https://doi.org/10.1016/j.cmi.2021.08.014">ECMM CAPA multinational study, Prattes et al, Clin Microbiol Infect 2022</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06431-0">POSA-FLU: Vanderbeke et al, Intensive Care Med 2021</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201111-1978OC">AspICU clinical algorithm: Blot et al, AJRCCM 2012</a></li>
+<li><a href="https://doi.org/10.1007/s00134-020-06091-6">IAPA expert case definition (consensus): Verweij et al, Intensive Care Med 2020</a></li>
+<li><a href="https://doi.org/10.1016/S1473-3099(20)30847-1">CAPA 2020 ECMM/ISHAM consensus criteria: Koehler et al, Lancet Infect Dis 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.cmi.2018.01.002">ESCMID-ECMM-ERS aspergillus guideline 2017, executive summary, Ullmann et al, Clin Microbiol Infect 2018</a></li>
+<li><a href="https://doi.org/10.1093/cid/ciw326">IDSA aspergillosis guideline 2016 update, Patterson et al, Clin Infect Dis</a></li>
+<li><a href="https://doi.org/10.1111/myc.70132">FUNGINOS (Swiss) guideline on IPA in ICU, Mycoses 2025</a></li>
+<li><a href="https://doi.org/10.1007/s15010-025-02572-2">German national guideline AWMF 113-005, IPA in ICU, executive summary, Infection 2025</a></li>
+<li><a href="https://www.gov.uk/government/publications/candida-auris-laboratory-investigation-management-and-infection-prevention-and-control/summary-of-recommendations">UKHSA Candidozyma auris guidance: summary of recommendations (updated 21 August 2025)</a></li>
+<li><a href="https://www.gov.uk/government/publications/candida-auris-laboratory-investigation-management-and-infection-prevention-and-control/notification-reporting-and-information-sharing">UKHSA C. auris: notification, reporting and information sharing</a></li>
+<li><a href="https://www.legislation.gov.uk/uksi/2025/291/made">Health Protection (Notification) (Amendment) Regulations 2025, SI 2025/291</a></li>
+<li><a href="https://doi.org/10.1186/s13054-019-2497-3">EUCANDICU: Bassetti et al, Crit Care 2019</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Antimicrobial stewardship on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-antimicrobial-stewardship-icu</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:23 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-antimicrobial-stewardship-icu.mp3" length="3501023" type="audio/mpeg"/>
+      <itunes:duration>583</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at the stewardship decisions that now have trial evidence. Procalcitonin-guided stopping (PRORATA, SAPS, and the UK ADAPT-Sepsis trial, JAMA 2025) safely shortens courses, but only by about a day, and CRP-guided stopping showed no benefit. Shorter fixed courses are supported by BALANCE (NEJM 2025: 7 vs 14 days for bloodstream infection, excluding S. aureus and severe immunosuppression) and, for VAP, by Chastre (2003) and REGARD-VAP (2024), with residual uncertainty for non-fermenting Gram-negatives and Pseudomonas. BLING III (JAMA 2024) narrowly missed its mortality endpoint for continuous beta-lactam infusion, but the accompanying meta-analysis favoured prolonged infusion, and the Surviving Sepsis Campaign 2026 guideline now recommends it strongly after a loading dose. Beta-lactam TDM (TARGET, DOLPHIN) improves target attainment but has not improved outcomes. The only de-escalation RCT (Leone 2014) was small and unfavourable. The UK INHALE trial of a multiplex PCR pneumonia panel improved early prescribing but failed to show non-inferior clinical cure. On guidance: NICE NG253 (Nov 2025) has a procalcitonin update in progress, UKHSA&#x27;s Start Smart Then Focus (2023) sets the 48-72 hour CARES review, an ESICM-endorsed 2020 position paper supports routine beta-lactam TDM, and SSC 2026 makes conditional recommendations for procalcitonin-guided stopping, shorter courses, TDM and rapid diagnostics.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>For uncomplicated Gram-negative bacteraemia with source control, seven days is the default; BALANCE supports it (it excluded S. aureus and severe immunosuppression).</li>
+<li>Procalcitonin-guided stopping is safe but saves only about a day (ADAPT-Sepsis); CRP-guided stopping has no trial support.</li>
+<li>Give piperacillin-tazobactam and meropenem as prolonged or continuous infusions, always after a loading dose (BLING III, the 2024 meta-analysis, SSC 2026 strong recommendation).</li>
+<li>For VAP, stop once the patient has been stable for 48 hours, often by day seven or earlier (REGARD-VAP); take more care with non-fermenting Gram-negatives.</li>
+<li>Beta-lactam TDM and rapid multiplex PCR improve process measures but have not yet improved outcomes (TARGET, DOLPHIN, INHALE); use them case by case.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jama.2024.26458">ADAPT-Sepsis: Dark P et al. JAMA 2025</a></li>
+<li><a href="https://doi.org/10.1093/cid/ciaf336">Gupta, Klompas, Rhee. Reassessing procalcitonin-guided therapy: lessons from ADAPT-Sepsis. Clin Infect Dis 2026</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(09)61879-1">PRORATA: Bouadma L et al. Lancet 2010</a></li>
+<li><a href="https://doi.org/10.1016/S1473-3099(16)00053-0">SAPS: de Jong E et al. Lancet Infect Dis 2016</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2404991">BALANCE: Daneman N et al. NEJM 2025</a></li>
+<li><a href="https://doi.org/10.1093/cid/ciag144">BALANCE Pseudomonas post hoc analysis: Yahav D et al. Clin Infect Dis 2026</a></li>
+<li><a href="https://doi.org/10.1001/jama.290.19.2588">PneumA: Chastre J et al. 8 vs 15 days for VAP. JAMA 2003</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(23)00418-6">REGARD-VAP: Mo Y et al. Lancet Respir Med 2024</a></li>
+<li><a href="https://doi.org/10.1001/jama.2024.9779">BLING III: Dulhunty JM et al. JAMA 2024</a></li>
+<li><a href="https://doi.org/10.1177/17511437251396871">Best-Lane J et al. BLING III UK cohort. J Intensive Care Soc 2026</a></li>
+<li><a href="https://doi.org/10.1001/jama.2024.9803">Abdul-Aziz MH et al. Prolonged vs intermittent beta-lactam infusion: systematic review and meta-analysis. JAMA 2024</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06609-6">TARGET: Hagel S et al. TDM-guided piperacillin-tazobactam. Intensive Care Med 2022</a></li>
+<li><a href="https://doi.org/10.1007/s00134-022-06921-9">DOLPHIN: Ewoldt TMJ et al. Model-informed precision dosing. Intensive Care Med 2022</a></li>
+<li><a href="https://doi.org/10.1007/s00134-020-06050-1">Abdul-Aziz MH et al. Antimicrobial TDM in critically ill adults: ESICM/ESCMID/IATDMCT/ISAC position paper. Intensive Care Med 2020</a></li>
+<li><a href="https://doi.org/10.1007/s00134-014-3411-8">Leone M et al. De-escalation vs continuation in severe sepsis. Intensive Care Med 2014</a></li>
+<li><a href="https://doi.org/10.1007/s00134-019-05866-w">Tabah A et al. Antimicrobial de-escalation: ESICM/ESCMID position statement. Intensive Care Med 2020</a></li>
+<li><a href="https://doi.org/10.3310/GJVG0801">INHALE: Enne VI et al. NIHR Programme Grants for Applied Research 2026 (including RCT)</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000007075">Surviving Sepsis Campaign: International Guidelines 2026 (Prescott H et al. Crit Care Med 2026)</a></li>
+<li><a href="https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026">SCCM summary page, SSC 2026 adult guidelines</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng253">NICE NG253: Suspected sepsis in people aged 16 or over (Nov 2025)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/htg386">NICE HTG386 (formerly DG18): Procalcitonin testing for sepsis, under review</a></li>
+<li><a href="https://www.gov.uk/government/publications/antimicrobial-stewardship-start-smart-then-focus/start-smart-then-focus-antimicrobial-stewardship-toolkit-for-inpatient-care-settings">UKHSA Start Smart Then Focus toolkit (2023)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Nutrition in critical illness</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-nutrition-in-critical-illness</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:22 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-nutrition-in-critical-illness.mp3" length="3479391" type="audio/mpeg"/>
+      <itunes:duration>580</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at what recent trials have changed in ICU nutrition. On calories, EDEN (JAMA 2012), PermiT (NEJM 2015) and NUTRIREA-3 (Lancet Respir Med 2023) all found that feeding less in the first week did not increase mortality. In NUTRIREA-3, a low-dose arm (6 kcal/kg/day, 0.2-0.4 g/kg protein) in ventilated patients with shock reached readiness for ICU discharge sooner and had fewer gut and liver complications, and a 2026 post hoc analysis found no excess kidney injury. EPaNIC (NEJM 2011) favoured delaying supplemental PN to day 8. CALORIES and NUTRIREA-2 found no mortality difference by route. On protein, EFFORT Protein (Lancet 2023), PRECISe (Lancet 2024, worse quality of life with 2.0 vs 1.3 g/kg/day) and TARGET Protein (JAMA 2025, no benefit across 3397 patients) were all neutral or harmful. A 2026 meta-analysis (Summers, Clin Nutr) found no mortality effect overall and higher mortality with more protein in AKI (RR 1.29, 3 trials). REPLENISH has not yet reported. ESPEN 2023 is closest to the trials: no more than 70% of energy expenditure early, 80-100% of measured expenditure after day 3, protein 1.3 g/kg/day built up progressively, indirect calorimetry in ventilated patients, and supplemental PN case by case. ASPEN 2022 (12-25 kcal/kg, protein 1.2-2.0 g/kg, no supplemental PN before day 7) predates the protein trials, so its upper protein range now looks too high. NICE CG32 (2006, updated 2017) is not ICU-specific but still supplies the UK refeeding-risk criteria. Doig&#x27;s 2015 refeeding trial was negative on its primary outcome but found better 60-day survival with 48 hours of caloric restriction (a secondary outcome), and ESPEN has adopted that approach. After ICU, ward intake falls short. INTENT (phase II) increased energy delivery but was not powered for clinical outcomes.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Less is fine early: first-week underfeeding caused no harm in EDEN, PermiT or NUTRIREA-3, and in shock it meant fewer gut complications.</li>
+<li>High protein has not helped and may harm, especially in AKI (EFFORT Protein, PRECISe, TARGET Protein, Summers 2026 meta-analysis). Aim for about 1.3 g/kg/day.</li>
+<li>Don&#x27;t start supplemental parenteral nutrition in week one in a previously well-nourished patient (EPaNIC; ASPEN 2022).</li>
+<li>Check phosphate daily in the first week. If refeeding hypophosphataemia develops, restrict calories for 48 hours and then build back up (Doig 2015; ESPEN 2023).</li>
+<li>Make sure nutrition carries on after ICU, and don&#x27;t let the feeding tube come out before the patient is actually eating.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jama.2012.137">EDEN trial, Rice et al, JAMA 2012</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1502826">PermiT trial, Arabi et al, NEJM 2015</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(23)00092-9">NUTRIREA-3, Reignier et al, Lancet Respir Med 2023</a></li>
+<li><a href="https://doi.org/10.1007/s00134-026-08369-7">NUTRIREA-3 renal post hoc analysis, Schleef et al, Intensive Care Med 2026</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1102662">EPaNIC, Casaer et al, NEJM 2011</a></li>
+<li><a href="https://doi.org/10.3310/hta20280">CALORIES, Harvey et al, Health Technol Assess 2016</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(17)32146-3">NUTRIREA-2, Reignier et al, Lancet 2018</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(22)02469-2">EFFORT Protein, Heyland et al, Lancet 2023</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(24)01304-7">PRECISe, Bels et al, Lancet 2024</a></li>
+<li><a href="https://doi.org/10.1001/jama.2025.9110">TARGET Protein, Summers et al, JAMA 2025</a></li>
+<li><a href="https://doi.org/10.1016/j.clnu.2026.106665">Summers et al, enteral protein meta-analysis, Clin Nutr 2026</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT04475666">REPLENISH trial registration (NCT04475666)</a></li>
+<li><a href="https://doi.org/10.1016/j.clnu.2023.07.011">ESPEN practical and partially revised ICU guideline, Singer et al, Clin Nutr 2023</a></li>
+<li><a href="https://doi.org/10.1002/jpen.2267">ASPEN adult critical care nutrition guideline, Compher et al, JPEN 2022</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg32">NICE CG32 Nutrition support for adults (2006, updated 2017)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-017-4880-3">EAT-ICU, Allingstrup et al, Intensive Care Med 2017</a></li>
+<li><a href="https://doi.org/10.3390/nu16101452">Indirect calorimetry meta-analysis, Watanabe et al, Nutrients 2024</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(15)00418-X">Refeeding Syndrome Trial, Doig et al, Lancet Respir Med 2015</a></li>
+<li><a href="https://doi.org/10.1002/jpen.2699">Post-ICU ward nutrition adequacy systematic review, Rosseel et al, JPEN 2025</a></li>
+<li><a href="https://doi.org/10.1186/s13054-024-05189-3">INTENT phase II trial, Ridley et al, Crit Care 2025</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Acute kidney injury and timing of renal replacement therapy</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-aki-rrt-timing</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:21 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-aki-rrt-timing.mp3" length="3747751" type="audio/mpeg"/>
+      <itunes:duration>625</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level review of renal replacement therapy (RRT) in ICU acute kidney injury. On timing: ELAIN (JAMA 2016, single centre, 231 patients) found lower 90-day mortality with early RRT. AKIKI (NEJM 2016, 620 patients), IDEAL-ICU (NEJM 2018, 488 patients with septic shock, stopped for futility) and STARRT-AKI (NEJM 2020, 3,019 randomised) found no mortality benefit. STARRT-AKI also found more adverse events with accelerated RRT and more RRT dependence at 90 days (10.4% vs 6.0%, RR 1.74). A 2025 post hoc analysis suggests this excess dependence comes mostly from starting RRT at all rather than starting it early. In the 2020 Lancet IPD meta-analysis, 28-day mortality was 44% vs 43%. Between about 38% and 49% of patients in the delayed arms never needed RRT. AKIKI2 (Lancet 2021) found no extra benefit from waiting beyond 72 hours of oliguria or a BUN of 112 mg/dL, and an adjusted secondary analysis showed a mortality signal (HR 1.65). BICARICU-2 (JAMA 2025) did not change mortality, though RRT use was lower with bicarbonate (a secondary outcome). On modality: Hemodiafe found no survival difference, and the excess dialysis dependence seen with intermittent RRT is an observational finding only. On dose: ATN and RENAL support delivering 20-25 mL/kg/h; LIMIT (12 vs 25 mL/kg/h) is ongoing. On anticoagulation: in RICH, citrate gave longer filter life and less bleeding than heparin, with no significant mortality difference and more new infections. On stopping: urine output without diuretics is the best predictor of success. LIBERATE-D (JAMA 2026, 221 stable patients on intermittent haemodialysis) found more recovery with a conservative dialysis strategy, but only in the unadjusted analysis. Long term, about 5% of RENAL day-90 survivors needed maintenance dialysis at four years, and albuminuria was common. On guidance: KDIGO 2012 is still current, and its 2026 AKI/AKD update completed public review in May 2026 and is awaiting publication. NICE NG148 (2019, updated 2024) and the 2020 joint Renal Association/BRS/ICS guideline both advise basing initiation on the whole patient.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Without an emergent indication, early RRT does not reduce mortality, and waiting means roughly a third to a half of patients never need it.</li>
+<li>Don&#x27;t wait indefinitely: AKIKI2 gives a signal of harm from delaying beyond 72 hours of oliguria or a urea of about 40 mmol/L when nothing else has prompted RRT.</li>
+<li>Deliver 20 to 25 mL/kg/h, and use regional citrate for CRRT unless there is a contraindication.</li>
+<li>Choose modality on haemodynamic stability and brain injury, not dogma.</li>
+<li>Watch urine output, don&#x27;t use diuretics to speed weaning, and arrange kidney follow-up for survivors.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jama.2016.5828">ELAIN trial, Zarbock et al., JAMA 2016</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1603017">AKIKI trial, Gaudry et al., NEJM 2016</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1803213">IDEAL-ICU trial, Barbar et al., NEJM 2018</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2000741">STARRT-AKI trial, NEJM 2020</a></li>
+<li><a href="https://doi.org/10.2215/CJN.0000000672">STARRT-AKI post hoc: dialysis dependence, McCoy et al., CJASN 2025</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(20)30531-6">Delayed vs early RRT: systematic review and IPD meta-analysis, Gaudry et al., Lancet 2020</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(21)00350-0">AKIKI2 trial, Gaudry et al., Lancet 2021</a></li>
+<li><a href="https://doi.org/10.1001/jama.2025.20231">BICARICU-2 trial, JAMA 2025</a></li>
+<li><a href="https://doi.org/10.1186/s12882-026-05132-4">Timing of RRT in sepsis-associated AKI: meta-analysis, BMC Nephrol 2026</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(06)69111-3">Hemodiafe trial (CVVHDF vs IHD), Vinsonneau et al., Lancet 2006</a></li>
+<li><a href="https://doi.org/10.1007/s00134-013-2864-5">RRT modality and dialysis dependence: meta-analysis, Schneider et al., Intensive Care Med 2013</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0802639">ATN trial (VA/NIH), Palevsky et al., NEJM 2008</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0902413">RENAL trial, NEJM 2009</a></li>
+<li><a href="https://doi.org/10.1371/journal.pmed.1001601">POST-RENAL long-term follow-up, Gallagher et al., PLoS Med 2014</a></li>
+<li><a href="https://doi.org/10.1186/s13054-026-05987-x">Lower vs standard CRRT dose-intensity: meta-analysis, Crit Care 2026</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT06014801">LIMIT trial (12 vs 25 mL/kg/h CKRT), ongoing, NCT06014801</a></li>
+<li><a href="https://doi.org/10.1001/jama.2020.18618">RICH trial (citrate vs heparin), Zarbock et al., JAMA 2020</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0b013e3181a38241">BEST Kidney: discontinuation of CRRT, Uchino et al., Crit Care Med 2009</a></li>
+<li><a href="https://doi.org/10.1001/jama.2025.21530">LIBERATE-D trial, Liu et al., JAMA 2026</a></li>
+<li><a href="https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf">KDIGO 2012 Clinical Practice Guideline for AKI</a></li>
+<li><a href="https://kdigo.org/kdigo-2026-aki-akd-guideline-draft-available-for-public-review/">KDIGO 2026 AKI/AKD guideline draft (public review, March to May 2026)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng148">NICE NG148 Acute kidney injury (2019, updated 2024)</a></li>
+<li><a href="https://ics.ac.uk/asset/B4903FE4-27A6-4B41-BE7125BAA0D9AF15">Renal Association, BRS and ICS: RRT for critically unwell adults, COVID-19 guideline (October 2020)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Weaning, extubation and tracheostomy</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-weaning-extubation-tracheostomy</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:20 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-weaning-extubation-tracheostomy.mp3" length="3430967" type="audio/mpeg"/>
+      <itunes:duration>572</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level tour of liberation from ventilation. Short pressure-support breathing trials (Subira 2019) increase successful extubation without raising reintubation, though TIP-EX (2022) found no ventilator-free-day benefit in high-risk patients; 2024 meta-analyses favour pressure augmentation. After extubation, high-flow beats standard oxygen in low-risk patients, and in high-risk patients high-flow alternating with NIV (HIGH-WEAN) or humidified NIV in very high risk reduces reintubation; ATS/CHEST 2017 and ERS 2022 favour NIV for high risk. Prophylactic methylprednisolone works mainly in patients who fail a cuff leak test, a test with high specificity but modest sensitivity. TracMan showed no mortality benefit from tracheostomy within four days and showed how poorly clinicians predict prolonged ventilation; Cochrane 2015 hinted at benefit, and SETPOINT2 was neutral in stroke. Percutaneous and surgical techniques have similar serious complication rates, with fewer wound infections after percutaneous. UK safety work (NAP4, the NTSP 2020 guidance and the 20-hospital improvement programme) centres on care after insertion. Prolonged weaning (WIND) carries high mortality; diaphragm atrophy predicts prolonged ventilation; and RESCUE-3 phrenic stimulation (2026) is promising but stopped early, with more serious adverse events.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>A short pressure support SBT is fine for most patients and doesn&#x27;t increase reintubation.</li>
+<li>High-risk patients go on to high-flow alternating with NIV after extubation; low-risk patients get high-flow.</li>
+<li>Do a cuff leak test in high-risk patients; if it fails, give steroids at least four hours ahead, ideally twelve.</li>
+<li>In TracMan, early tracheostomy didn&#x27;t save lives: decide case by case and remember how badly we predict who will need one.</li>
+<li>Use NTSP bedhead signs, emergency algorithms and capnography for every tracheostomy, every time.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jama.2019.7234">Subira et al. Pressure support vs T-piece SBT. JAMA 2019</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2209041">Thille et al. TIP-EX: SBT with PSV or T-piece in high-risk patients. NEJM 2022</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2023.56794">Burns et al. SBT techniques systematic review and meta-analysis. JAMA Netw Open 2024</a></li>
+<li><a href="https://doi.org/10.1186/s13054-024-04958-4">Comparative effectiveness of SBT techniques: network meta-analysis. Crit Care 2024</a></li>
+<li><a href="https://doi.org/10.1001/jama.2016.2711">Hernandez et al. High-flow vs conventional oxygen after extubation, low risk. JAMA 2016</a></li>
+<li><a href="https://doi.org/10.1001/jama.2016.14194">Hernandez et al. High-flow vs NIV after extubation, high risk. JAMA 2016</a></li>
+<li><a href="https://doi.org/10.1001/jama.2019.14901">Thille et al. HIGH-WEAN: high-flow plus NIV vs high-flow alone. JAMA 2019</a></li>
+<li><a href="https://doi.org/10.1007/s00134-022-06919-3">Hernandez et al. Humidified NIV vs high-flow in very high risk. Intensive Care Med 2022</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(07)60526-1">Francois et al. Methylprednisolone to prevent post-extubation laryngeal oedema. Lancet 2007</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2017.02.017">Kuriyama et al. Prophylactic corticosteroids for post-extubation stridor: meta-analysis. Chest 2017</a></li>
+<li><a href="https://doi.org/10.1186/s13054-020-03358-8">Cuff leak test diagnostic accuracy meta-analysis. Crit Care 2020</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2016.10.036">ACCP/ATS liberation guideline: pressure augmentation, sedation protocols, preventive NIV. Chest 2017</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201610-2075ST">ATS/ACCP liberation guideline: rehabilitation, protocols, cuff leak tests. AJRCCM 2017</a></li>
+<li><a href="https://doi.org/10.1183/13993003.01574-2021">Oczkowski et al. ERS clinical practice guidelines: high-flow nasal cannula in acute respiratory failure. Eur Respir J 2022</a></li>
+<li><a href="https://doi.org/10.1001/jama.2013.5154">Young et al. TracMan: early vs late tracheostomy. JAMA 2013</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD007271.pub3">Andriolo et al. Early vs late tracheostomy. Cochrane 2015</a></li>
+<li><a href="https://doi.org/10.1001/jama.2022.4798">Bosel et al. SETPOINT2: early tracheostomy in severe stroke. JAMA 2022</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD008045.pub2">Brass et al. Percutaneous vs surgical tracheostomy. Cochrane 2016</a></li>
+<li><a href="https://doi.org/10.1093/bja/aer059">Cook et al. NAP4 part 2: ICU and ED airway complications. BJA 2011</a></li>
+<li><a href="https://www.ficm.ac.uk/sites/ficm/files/documents/2021-11/2020-08%20Tracheostomy_care_guidance_Final.pdf">NTSP working party. Guidance for Tracheostomy Care (for ICS, endorsed by FICM), August 2020</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2020.04.064">McGrath et al. Improving tracheostomy care in the UK: 20-hospital QI programme. BJA 2020</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201602-0320OC">Beduneau et al. WIND study: epidemiology of weaning outcome. AJRCCM 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33302267/">German Respiratory Society S2k guideline: prolonged weaning. Respiration 2020</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201703-0536OC">Goligher et al. Ventilation-induced diaphragm atrophy and outcomes. AJRCCM 2018</a></li>
+<li><a href="https://doi.org/10.1164/rccm.202505-1056OC">RESCUE-3: transvenous diaphragm neurostimulation for weaning. AJRCCM 2026</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Severe community-acquired pneumonia on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-severe-cap-on-icu</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:19 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-severe-cap-on-icu.mp3" length="3377369" type="audio/mpeg"/>
+      <itunes:duration>563</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level comparison of the 2023 ERS/ESICM/ESCMID/ALAT severe CAP guideline with the 2019 ATS/IDSA guideline, the 2025 ATS-only update (which IDSA declined to endorse) and NICE NG250 (September 2025, replacing NG138 and CG191; BTS remains 2009 with a 2015 annotated update). The European panel prefers a macrolide, not a fluoroquinolone, as the beta-lactam partner, based on observational data; ACCESS (2024) shows clarithromycin improves a surrogate early-response endpoint in ward patients, and a 2025 network meta-analysis finds no regimen convincingly superior. Guidelines converge on covering MRSA and Pseudomonas only when there are validated risk factors, using nasal MRSA PCR and cultures to de-escalate. Multiplex PCR speeds escalation but not de-escalation in the one large RCT. Steroids are covered briefly (CAPE COD positive, REMAP-CAP hydrocortisone stopped for futility; NICE 2025 now says consider a steroid). The main news is REMAP-CAP&#x27;s influenza antiviral domain (preprint, 2026): in 442 critically ill patients, oseltamivir for 5 or 10 days was associated with higher 90-day mortality than no antiviral, which challenges every current guideline. Duration: 5 days per NICE, at least 5 per ATS 2025, with procalcitonin to shorten per ERS. BALANCE supports 7 rather than 14 days in bacteraemia.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Beta-lactam plus macrolide is the default in severe CAP; keep levofloxacin for true penicillin allergy and be careful combining it with steroids (MHRA).</li>
+<li>Cover MRSA or Pseudomonas only with prior respiratory isolation or recent admission with IV antibiotics, and use nasal MRSA PCR and cultures to de-escalate quickly.</li>
+<li>Rapid multiplex panels only help if someone acts on the result the same day: in the RCT they sped up escalation, not de-escalation.</li>
+<li>Oseltamivir is no longer automatic in ventilated or shocked influenza after REMAP-CAP (preprint): discuss with microbiology and recruit to trials.</li>
+<li>Five to seven days of antibiotics for most patients, guided by clinical stability and procalcitonin.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1007/s00134-023-07033-8">ERS/ESICM/ESCMID/ALAT guidelines for the management of severe CAP (Martin-Loeches, Torres et al., Intensive Care Med 2023) (also source for GLIMP MRSA/Pseudomonas prevalence, CAPNETZ deterioration mortality and the macrolide vs fluoroquinolone pooled data)</a></li>
+<li><a href="https://doi.org/10.1183/13993003.00735-2022">Same guideline, Eur Respir J 2023</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201908-1581ST">ATS/IDSA CAP guideline (Metlay et al., Am J Respir Crit Care Med 2019) (also source for Sligl observational meta-analysis of macrolides in critically ill CAP)</a></li>
+<li><a href="https://doi.org/10.1164/rccm.202507-1692ST">ATS CAP guideline 2025 update (Jones et al., Am J Respir Crit Care Med 2026;212:24-44)</a></li>
+<li><a href="https://doi.org/10.1093/cid/ciaf625">IDSA position statement: why IDSA did not endorse the 2025 CAP guideline (Klompas et al., Clin Infect Dis 2026)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng250">NICE NG250 Pneumonia: diagnosis and management (September 2025)</a></li>
+<li><a href="https://brit-thoracic.org.uk/quality-improvement/guidelines/pneumonia-adults">BTS CAP guideline 2009 update (with 2015 annotated update)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(23)00412-5">ACCESS: clarithromycin in CAP (Giamarellos-Bourboulis et al., Lancet Respir Med 2024)</a></li>
+<li><a href="https://doi.org/10.1016/j.cmi.2025.06.033">Empiric antibiotics for moderate-to-severe CAP: network meta-analysis (Ghadimi et al., Clin Microbiol Infect 2025)</a></li>
+<li><a href="https://doi.org/10.1093/ofid/ofag178">MRSA nasal screening in LRTI: systematic review and network/Bayesian meta-analysis (Timbrook et al., Open Forum Infect Dis 2026)</a></li>
+<li><a href="https://doi.org/10.1016/S2666-5247(24)00170-8">Rapid multiplex PCR pneumonia panel RCT (Virk et al., Lancet Microbe 2024)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2215145">CAPE COD: hydrocortisone in severe CAP (Dequin et al., N Engl J Med 2023)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-07861-w">REMAP-CAP corticosteroid domain (Intensive Care Med 2025)</a></li>
+<li><a href="https://www.remapcap.eu/2026/06/10/remap-cap-results-oseltamivir-for-critically-ill-patients-with-influenza-infection/">REMAP-CAP oseltamivir results for clinicians (preprint, not peer reviewed; trial announcement 10 June 2026)</a></li>
+<li><a href="https://www.remapcap.org/oseltamivir-clinician-faqs">REMAP-CAP oseltamivir clinician FAQ</a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7172531">Oseltamivir for Critically Ill Patients with Influenza: A Randomised Trial (SSRN preprint, 2026)</a></li>
+<li><a href="https://ecraid.eu/news/remap-cap-finds-oseltamivir-ineffective-critically-ill-influenza-patients">Ecraid news: REMAP-CAP finds oseltamivir ineffective in critically ill influenza (19 Aug 2026)</a></li>
+<li><a href="https://doi.org/10.1136/bmj-2025-087397">Summary of WHO clinical practice guidelines for influenza (BMJ Rapid Recommendation 2026; WHO guideline Sept 2024)</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(21)00313-5">PTC: stopping beta-lactam after 3 days in non-ICU CAP (Dinh et al., Lancet 2021)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2404991">BALANCE: 7 vs 14 days for bloodstream infection (N Engl J Med 2025)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Non-invasive respiratory support and timing of intubation</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-non-invasive-support-intubation-timing</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:18 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-non-invasive-support-intubation-timing.mp3" length="3354658" type="audio/mpeg"/>
+      <itunes:duration>559</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level review of non-invasive support in acute hypoxaemic respiratory failure. FLORALI (NEJM 2015) found no difference in intubation between high-flow nasal oxygen, standard oxygen and face-mask NIV, but a secondary 90-day mortality signal favoured high flow. The larger SOHO trial (NEJM 2026, 1,110 patients) found identical 28-day mortality (14.6% in both arms) and only slightly less intubation with high flow (42.4% vs 48.4%). Helmet NIV looked dramatic in a small single-centre trial stopped early (Patel, JAMA 2016). HENIVOT (COVID, JAMA 2021) missed its primary outcome but intubated fewer patients, and HELMET-COVID found no mortality difference. In RECOVERY-RS (JAMA 2022), CPAP reduced intubation or death compared with conventional oxygen (36.3% vs 44.4%) and high flow did not. RENOVATE (JAMA 2025) found high flow non-inferior to NIV in four of five groups. Guidelines: ERS/ATS 2017 made no recommendation on NIV for de novo hypoxaemic failure. ERS 2022 conditionally prefers high flow over NIV. ESICM 2023 strongly recommends high flow over conventional oxygen to reduce intubation, but makes no recommendation on NIV or CPAP versus high flow, or on helmet versus mask. The new ATS 2026 guideline gives a strong recommendation for high flow and a conditional one for NIV or CPAP. The BTS high-flow clinical statement is still pending. Patient self-inflicted lung injury rests on physiological and animal data and is contested. ROX (Roca 2019) and HACOR (Duan 2017) predict failure with modest-to-good accuracy. Evidence that delayed intubation causes harm is observational and confounded, the target trial emulations conflict, and there is no randomised trial of timing.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Compared with standard oxygen, high flow reduces intubation, but SOHO (NEJM 2026) shows no mortality benefit.</li>
+<li>CPAP or helmet NIV are reasonable escalation steps, but guideline support is only conditional and the trial data are mostly from COVID.</li>
+<li>P-SILI is plausible but unproven: use it as a reason to watch inspiratory effort, not as a reason to intubate.</li>
+<li>ROX and HACOR help, but follow the trend and set a time to reassess (one to two hours) with named criteria.</li>
+<li>Harm from delayed intubation isn&#x27;t proven, but patients who fail do badly: decide early and document the plan and ceiling of treatment.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1503326">FLORALI: Frat et al, NEJM 2015</a></li>
+<li><a href="https://doi.org/10.1001/jama.2016.6338">Helmet vs face mask NIV in ARDS: Patel et al, JAMA 2016</a></li>
+<li><a href="https://doi.org/10.1001/jama.2021.4682">HENIVOT: Grieco et al, JAMA 2021</a></li>
+<li><a href="https://doi.org/10.1001/jama.2022.15599">HELMET-COVID: Arabi et al, JAMA 2022</a></li>
+<li><a href="https://doi.org/10.1001/jama.2022.0028">RECOVERY-RS: Perkins et al, JAMA 2022</a></li>
+<li><a href="https://doi.org/10.1001/jama.2024.26244">RENOVATE: Maia et al, JAMA 2025</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2516087">SOHO: Frat et al, NEJM 2026</a></li>
+<li><a href="https://doi.org/10.1001/jama.2018.14282">HIGH: Azoulay et al, JAMA 2018</a></li>
+<li><a href="https://doi.org/10.1001/jama.2020.9524">Ferreyro et al, network meta-analysis, JAMA 2020</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2023.04.022">Pitre et al, network meta-analysis, Chest 2023</a></li>
+<li><a href="https://doi.org/10.1183/13993003.02426-2016">ERS/ATS guideline: NIV for acute respiratory failure, Rochwerg et al, Eur Respir J 2017</a></li>
+<li><a href="https://doi.org/10.1183/13993003.01574-2021">ERS guideline: high-flow nasal cannula in acute respiratory failure, Oczkowski et al, Eur Respir J 2022</a></li>
+<li><a href="https://doi.org/10.1007/s00134-023-07050-7">ESICM ARDS guidelines, Grasselli et al, Intensive Care Med 2023</a></li>
+<li><a href="https://doi.org/10.1093/ajrccm/aamag302">ATS guideline: noninvasive respiratory support, Goel et al, AJRCCM 2026</a></li>
+<li><a href="https://www.brit-thoracic.org.uk/clinical-resources/clinical-statements/high-flow-nasal-oxygen">BTS clinical statement on high flow nasal oxygen (in development)</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201605-1081CP">P-SILI concept: Brochard, Slutsky, Pesenti, AJRCCM 2017</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000001379">Carteaux et al, tidal volume and NIV failure, Crit Care Med 2016</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201912-2512OC">Tonelli et al, oesophageal pressure swings predict NIV outcome, AJRCCM 2020</a></li>
+<li><a href="https://doi.org/10.1186/s13613-020-00724-1">Tobin, P-SILI is not justification for intubation of COVID-19 patients, Ann Intensive Care 2020</a></li>
+<li><a href="https://doi.org/10.1097/MCC.0000000000001354">Jubran, Patient self-inflicted lung injury: does it really exist? Curr Opin Crit Care 2026 (review)</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201803-0589OC">ROX index: Roca et al, AJRCCM 2019</a></li>
+<li><a href="https://doi.org/10.1007/s00134-016-4601-3">HACOR score: Duan et al, Intensive Care Med 2017</a></li>
+<li><a href="https://doi.org/10.1007/s00134-015-3693-5">Kang et al, HFNC failure and delayed intubation, Intensive Care Med 2015 (observational)</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201606-1306OC">LUNG SAFE NIV substudy: Bellani et al, AJRCCM 2017 (observational)</a></li>
+<li><a href="https://doi.org/10.1186/s13054-024-04926-y">Mellado-Artigas et al, target trial emulation of immediate intubation, Crit Care 2024</a></li>
+<li><a href="https://doi.org/10.1038/s41598-026-47102-8">Phillips-Houlbracq et al, delayed intubation in COVID-19, emulated target trial, Sci Rep 2026</a></li>
+<li><a href="https://doi.org/10.1186/s13054-021-03540-6">Papoutsi et al, timing of intubation in COVID-19 meta-analysis (non-randomised studies), Crit Care 2021</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT05089695">HENIVOT2 (NCT05089695), ClinicalTrials.gov, listed as recruiting</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Pulmonary embolism with right ventricular failure</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-pe-with-rv-failure</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:17 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-pe-with-rv-failure.mp3" length="3028172" type="audio/mpeg"/>
+      <itunes:duration>505</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at intermediate-high and high-risk pulmonary embolism. PEITHO (NEJM 2014, 1,005 patients) found that full-dose tenecteplase cut death or haemodynamic decompensation at 7 days from 5.6% to 2.6%. It raised extracranial bleeding (6.3% vs 1.2%) and stroke (2.4% vs 0.2%), with no mortality benefit at 30 days or at about 3 years. ESC 2019 therefore reserved systemic lysis for high-risk PE and for rescue. Reduced-dose lysis is common in UK practice (ERUPT audit), but the outcome trial, PEITHO-3, has not yet reported. HI-PEITHO (NEJM 2026, 544 patients) is the first RCT in which a catheter therapy beat anticoagulation alone on a clinical composite: 4.0% vs 10.3% at 7 days, RR 0.39, with no intracranial haemorrhage. The benefit was driven by decompensation, though, and 14 of the 28 control-arm events met only the NEWS of 9 or more criterion. The trial was open-label and industry-funded, and 30-day deaths were 6 vs 3. PEERLESS, STORM-PE and CANARY measured mostly process or surrogate outcomes. The 2026 AHA/ACC guideline introduced categories A to E. It makes systemic lysis, catheter therapy and surgery all reasonable in category E1 and possible in category D, and gives PERT a class 1 recommendation, but its evidence review predates HI-PEITHO. NICE NG158 still says not to lyse stable patients. Supportive care means cautious fluid, early noradrenaline, high-flow oxygen and treating intubation as peri-arrest. VA-ECMO is a bridge, with observational pooled mortality of about 43%. UK surgical embolectomy is rare and carries about 25% in-hospital mortality.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Full-dose systemic lysis prevents collapse in intermediate-risk PE but increases bleeding and haemorrhagic stroke and doesn&#x27;t reduce mortality: keep it for shock or deterioration.</li>
+<li>HI-PEITHO supports catheter-directed lysis for intermediate-high-risk patients with tachycardia, tachypnoea or borderline blood pressure, but the benefit is fewer decompensations (half of control-arm events were a NEWS of 9 or more alone), not fewer deaths.</li>
+<li>For the failing RV, be cautious with fluid, start noradrenaline early, prefer high-flow oxygen and treat intubation as a peri-arrest procedure.</li>
+<li>Know your local pathway (PERT, catheter therapy, surgery and VA-ECMO) and how to reach it out of hours.</li>
+<li>Watch for PEITHO-3 (reduced-dose alteplase), PEERLESS II and PERSEVERE (thrombectomy in high-risk PE).</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1302097">PEITHO: Meyer et al, NEJM 2014</a></li>
+<li><a href="https://doi.org/10.1016/j.jacc.2016.12.039">PEITHO long-term follow-up: Konstantinides et al, JACC 2017</a></li>
+<li><a href="https://doi.org/10.1055/a-1653-4699">PEITHO-3 design paper: Thromb Haemost 2022</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT04430569">PEITHO-3 registry entry (NCT04430569)</a></li>
+<li><a href="https://doi.org/10.1183/23120541.00935-2024">ERUPT UK thrombolysis audit: ERJ Open Res 2025</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2516567">HI-PEITHO: Rosenfield et al, NEJM 2026</a></li>
+<li><a href="https://www.escardio.org/communities/working-groups/pulmonary-circulation-right-ventricular-function/scientific-documents-and-publications/commented-articles/ultrasound-facilitated-catheter-directed-fibrinolysis-for-acute-pulmonary-embolism/">ESC Working Group on Pulmonary Circulation commentary on HI-PEITHO</a></li>
+<li><a href="https://doi.org/10.1001/jamacardio.2022.3591">CANARY: JAMA Cardiol 2022</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.125.077232">STORM-PE: Circulation 2026</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.124.072364">PEERLESS: Jaber et al, Circulation 2025</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT06055920">PEERLESS II registry entry (NCT06055920)</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT06588634">PERSEVERE registry entry (NCT06588634)</a></li>
+<li><a href="https://doi.org/10.1161/CIR.0000000000001415">2026 AHA/ACC acute PE guideline: Creager et al, Circulation 2026</a></li>
+<li><a href="https://doi.org/10.1093/eurheartj/ehz405">2019 ESC/ERS acute PE guidelines: Konstantinides et al, Eur Heart J 2020</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng158">NICE NG158 venous thromboembolic diseases (updated 2023)</a></li>
+<li><a href="https://doi.org/10.3390/jcm13010064">ECMO for PE systematic review and meta-analysis: J Clin Med 2023</a></li>
+<li><a href="https://doi.org/10.1093/bjs/znae003">UK surgical pulmonary embolectomy (NICOR, 1996 to 2018): Br J Surg 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.jtcvs.2025.07.039">Surgical embolectomy vs thrombolysis, Japanese nationwide database: J Thorac Cardiovasc Surg 2026</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Corticosteroids in septic shock and severe pneumonia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-steroids-septic-shock-pneumonia</guid>
+      <pubDate>Thu, 08 Oct 2026 12:11:16 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-steroids-septic-shock-pneumonia.mp3" length="3341174" type="audio/mpeg"/>
+      <itunes:duration>557</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>In septic shock, ADRENAL (3,800 ventilated patients, hydrocortisone infusion) showed faster shock resolution but no 90-day mortality benefit, while APROCCHSS (1,241 sicker patients, hydrocortisone boluses plus enteral fludrocortisone) cut 90-day mortality from 49% to 43%. The 2023 individual-patient meta-analysis found no overall mortality effect, with a signal only for regimens that included fludrocortisone. Observational target-trial emulation supports adding fludrocortisone, but a 2024 phase II dose-finding trial did not, and RECORDS is still recruiting. In severe community-acquired pneumonia, CAPE COD (hydrocortisone, which excluded shock and influenza) halved 28-day mortality. REMAP-CAP&#x27;s open-label 7-day hydrocortisone arm stopped for futility with a numerically worse result, and its population, allocation and control-arm contamination all differ from CAPE COD. ESCAPe (methylprednisolone) was neutral. On who benefits: in a 2025 individual-patient meta-analysis the benefit was confined to patients with CRP above 204 mg/L. Post hoc transcriptomic (SRS2, consensus subtype CTS2) and biomarker (CAPE COD reanalysis) work suggests immune-profile-dependent benefit or harm, but none of it is ready for the bedside. On guidelines: SSC 2026 gives a conditional suggestion for steroids in septic shock. SCCM 2024 is conditional for shock and strong for severe CAP. ERS/ESICM 2023 supports steroids in severe CAP only with shock and predates CAPE COD. ATS 2025 (without IDSA) reverses the 2019 ATS/IDSA advice with a conditional yes for severe CAP. NICE NG250 (2025) says consider them for high-severity CAP, IV hydrocortisone first, for 4 to 7 days.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>In septic shock, hydrocortisone reliably shortens shock; any survival benefit is small and may depend on adding fludrocortisone.</li>
+<li>In severe CAP without shock or influenza, CAPE COD supports early hydrocortisone, and NICE (2025) and the ATS (2025) now agree.</li>
+<li>REMAP-CAP means you shouldn&#x27;t assume the CAPE COD benefit carries over to patients with shock or to later starts.</li>
+<li>High CRP is the best bedside hint of who benefits; biomarker and gene-expression subtypes aren&#x27;t ready for clinical use.</li>
+<li>Watch glucose and sodium, and document why you started.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1705835">ADRENAL: Venkatesh et al, NEJM 2018</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1705716">APROCCHSS: Annane et al, NEJM 2018</a></li>
+<li><a href="https://doi.org/10.1056/EVIDoa2300034">Patient-level meta-analysis of low-dose hydrocortisone in septic shock: Pirracchio et al, NEJM Evidence 2023</a></li>
+<li><a href="https://doi.org/10.1001/jamainternmed.2023.0258">Fludrocortisone plus hydrocortisone vs hydrocortisone alone, target trial emulation (observational): Bosch et al, JAMA Intern Med 2023</a></li>
+<li><a href="https://doi.org/10.1007/s00134-024-07616-z">Fludrocortisone dose-response phase II RCT: Walsham et al, Intensive Care Med 2024</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT04280497">RECORDS trial registry (NCT04280497), recruiting</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2215145">CAPE COD: Dequin et al, NEJM 2023</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT02517489">CAPE COD registry record (eligibility criteria), NCT02517489</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-07861-w">REMAP-CAP Corticosteroid Domain: REMAP-CAP Investigators, Intensive Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1007/s00134-022-06684-3">ESCAPe (methylprednisolone, severe CAP): Meduri et al, Intensive Care Med 2022</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(24)00405-3">Predicting benefit from corticosteroids in CAP (IPD meta-analysis, CRP): Smit et al, Lancet Respir Med 2025</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201807-1419OC">VANISH transcriptomic signatures and steroid response (post hoc): Antcliffe et al, AJRCCM 2019</a></li>
+<li><a href="https://doi.org/10.1038/s41591-025-03964-5">Consensus blood transcriptomic framework for sepsis: Scicluna et al, Nature Medicine 2025</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(25)00429-1">Immune dysregulation score and CAPE COD reanalysis (post hoc): Michels et al, Lancet Respir Med 2026</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD002243.pub5">Cochrane review: Corticosteroids for treating sepsis in children and adults, 2025</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000007075">Surviving Sepsis Campaign adult guidelines 2026: Prescott et al, Crit Care Med 2026</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06506-y">Surviving Sepsis Campaign adult guidelines 2021: Evans et al, Intensive Care Med 2021</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006172">SCCM 2024 focused update on corticosteroids in sepsis, ARDS and CAP: Chaudhuri et al, Crit Care Med 2024</a></li>
+<li><a href="https://doi.org/10.1007/s00134-023-07033-8">ERS/ESICM/ESCMID/ALAT severe CAP guidelines: Martin-Loeches et al, Intensive Care Med 2023</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201908-1581ST">ATS/IDSA CAP guideline 2019: Metlay et al, AJRCCM 2019</a></li>
+<li><a href="https://doi.org/10.1164/rccm.202507-1692ST">ATS CAP guideline 2025 update (AJRCCM)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng250/chapter/Recommendations">NICE NG250 Pneumonia: diagnosis and management, recommendations 1.8.1 and 1.8.2 (Sept 2025)</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/cape-cod/">The Bottom Line: CAPE COD summary</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/icm/remap-cap-corticosteroids/">The Bottom Line: REMAP-CAP corticosteroids summary</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Red cell transfusion thresholds in critical illness</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-transfusion-thresholds</guid>
