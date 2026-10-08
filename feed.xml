@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 05:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:34:44 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,53 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Red cell transfusion thresholds in critical illness</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-transfusion-thresholds</guid>
+      <pubDate>Thu, 08 Oct 2026 05:34:43 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-transfusion-thresholds.mp3" length="3290234" type="audio/mpeg"/>
+      <itunes:duration>548</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A restrictive threshold of 70 g/L remains right for most critically ill adults, including septic shock (TRISS; ESICM 2020; NICE NG24; Cochrane 2025, 61 trials, no overall mortality difference). The exceptions are now clearer. In acute MI, MINT (2023) and a 2025 patient-level meta-analysis lean towards harm from restrictive transfusion, especially in type 1 MI, and the 2025 AABB AMI guideline suggests a liberal trigger of 100 g/L. NICE NG24 still says 80 g/L with a target of 80 to 100 g/L in ACS: the 2026 update covered tranexamic acid only. In acute brain injury, TRAIN and the 2025 Cochrane update favour about 90 g/L. After cardiac surgery, TRICS III supports 75 g/L, and older patients did better with restrictive transfusion in a subgroup. TITRe2 showed a secondary mortality signal. In haematological malignancy the evidence is very low certainty, with a single-centre cancer septic shock trial (TRICOP) signalling benefit from liberal transfusion at 90 days. The frail elderly answer awaits LIBERAL (completed, unpublished) and, for younger cardiac surgical patients, TRICS IV.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Seventy grams per litre is still right for most of the ICU, including septic shock: TRISS holds.</li>
+<li>Acute MI is the big exception. MINT, the 2025 patient-level meta-analysis and the 2025 AABB guideline lean to 100 g/L, while NICE NG24&#x27;s 80 g/L hasn&#x27;t been revisited.</li>
+<li>In acute brain injury the evidence favours a trigger of around 90 g/L, as the 2025 Cochrane update now shows.</li>
+<li>Use 75 g/L after cardiac surgery, and don&#x27;t assume older patients need more blood (TRICS III age subgroup, FOCUS).</li>
+<li>Watch for LIBERAL (older non-cardiac surgical patients) and TRICS IV (patients 65 and under having cardiac surgery).</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJM199902113400601">TRICC: Hebert et al, NEJM 1999</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2307983">MINT: Carson et al, NEJM 2023</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.124.071208">MINT type 1 vs type 2 MI prespecified analysis, Circulation 2024</a></li>
+<li><a href="https://doi.org/10.1001/jama.2021.0135">REALITY: Ducrocq et al, JAMA 2021</a></li>
+<li><a href="https://doi.org/10.1056/EVIDoa2400223">Restrictive vs liberal transfusion in MI: patient-level meta-analysis, NEJM Evidence 2025</a></li>
+<li><a href="https://doi.org/10.7326/ANNALS-25-00706">AABB international guideline: red cell transfusion in acute MI, Ann Intern Med 2025</a></li>
+<li><a href="https://doi.org/10.1016/j.cjca.2025.05.019">CCS/NAC joint statement on transfusion in ACS, Can J Cardiol 2025</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng24/chapter/red-blood-cell-transfusion">NICE NG24 Blood transfusion (2015, last updated Feb 2026): red cell thresholds</a></li>
+<li><a href="https://doi.org/10.1001/jama.2024.20424">TRAIN: Taccone et al, JAMA 2024</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2404360">HEMOTION: Turgeon et al, NEJM 2024</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2410962">SAHaRA: English et al, NEJM 2025</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD002042.pub6">Cochrane review: transfusion thresholds and other strategies, 2025 update</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1406617">TRISS: Holst et al, NEJM 2014</a></li>
+<li><a href="https://doi.org/10.1007/s00134-016-4437-x">TRISS long-term outcomes, Intensive Care Med 2016</a></li>
+<li><a href="https://doi.org/10.1007/s00134-019-05884-8">ESICM guideline: transfusion in non-bleeding critically ill adults, Intensive Care Med 2020</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000002283">TRICOP: Bergamin et al, Crit Care Med 2017</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD011305.pub3">Cochrane review: restrictive vs liberal transfusion in haematological malignancy, 2024</a></li>
+<li><a href="https://doi.org/10.1200/JCO.19.01836">Tay et al: transfusion thresholds in haematopoietic cell transplantation, J Clin Oncol 2020</a></li>
+<li><a href="https://doi.org/10.1001/jama.2023.12914">AABB 2023 international red cell transfusion guidelines, JAMA 2023</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1403612">TITRe2: Murphy et al, NEJM 2015</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1711818">TRICS III: Mazer et al, NEJM 2017</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1808561">TRICS III six-month outcomes, NEJM 2018</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT04754022">TRICS IV registry entry (NCT04754022)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1012452">FOCUS: Carson et al, NEJM 2011</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT03369210">LIBERAL trial registry entry (NCT03369210)</a></li>
+<li><a href="https://doi.org/10.1186/s13063-019-3200-3">LIBERAL trial design paper, Trials 2019</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Fluids in sepsis</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-fluids-in-sepsis</guid>
