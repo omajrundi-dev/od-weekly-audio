@@ -25,7 +25,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
-    <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
     <item>
       <title>Deep dive: Fluids in sepsis</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-fluids-in-sepsis</guid>

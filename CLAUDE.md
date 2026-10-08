@@ -33,4 +33,5 @@ These override the generic steps in the scheduled prompt where they differ.
 
 ## Publishing (Omar, 7 Oct 2026)
 - Always add episodes; never replace or overwrite one that's already in the feed. Don't edit an existing `<item>` or overwrite its MP3.
+- Feed cap (Omar, 8 Oct 2026): keep at most 40 items, not 12. This overrides "Keep at most 12 items" in the weekly and deep-dive scheduled prompts. Only when a new episode would make it 41 do you remove the oldest item and its MP3.
 - If there's already an episode for today's date (a re-run, an extended edition, or a correction), publish the new one alongside it. Use `episodes/YYYY-MM-DD-2.mp3` (then -3 and so on), a matching guid such as `od-digest-YYYY-MM-DD-2`, and a title that says how it differs ("extended", "correction" and so on).
