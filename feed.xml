@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 01:53:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:18:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,143 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Fluids in sepsis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-fluids-in-sepsis</guid>
+      <pubDate>Thu, 08 Oct 2026 05:17:57 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-fluids-in-sepsis.mp3" length="3527495" type="audio/mpeg"/>
+      <itunes:duration>588</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at sepsis fluid resuscitation. FEAST (2011) showed boluses can harm, and three adult trials of restrictive versus liberal fluid found no mortality difference: CLASSIC (2022, ICU septic shock), CLOVERS (2023, emergency department hypotension, stopped for futility) and ARISE FLUIDS (NEJM 2026, early vasopressors). ARISE FLUIDS did show less pulmonary oedema with the restrictive approach. Each of these trials enrolled patients who had already received fluid. For fluid choice, SMART was positive while BaSICS and PLUS were neutral. The Hammond 2022 and BEST-Living 2024 meta-analyses put the probability that balanced crystalloids reduce mortality at about 90 percent, with a harm signal in traumatic brain injury. ALBIOS, the German ARISS trial (stopped early) and the UK ABC-Sepsis feasibility trial found no survival benefit from albumin, and ALCAMIST is still recruiting. ANDROMEDA-SHOCK-2 found that a personalised protocol targeting capillary refill time beat usual care on a hierarchical outcome, mainly through shorter organ support. The guidelines differ. Surviving Sepsis 2026 still suggests at least 30 mL/kg in the first 3 hours (conditional, low certainty). ESICM 2025 suggests up to 30 mL/kg. NICE NG253 (November 2025) recommends 250 mL boluses up to 1 litre, then senior advice. The evidence for de-resuscitation is thin: the first version of GODIF stopped after 41 patients, and the main trial is ongoing.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>The 30 mL/kg figure rests on low-certainty evidence. Surviving Sepsis 2026 says &#x27;at least&#x27;, ESICM 2025 says &#x27;up to&#x27;, and NICE NG253 says 250 mL boluses to 1 litre, then senior review. Reassess after every bolus.</li>
+<li>Use balanced crystalloid by default (about 90 percent probability of a small mortality benefit), but use saline in traumatic brain injury.</li>
+<li>After initial resuscitation, restrictive and liberal strategies have the same mortality (CLASSIC, CLOVERS, ARISE FLUIDS). Early noradrenaline, given peripherally if needed, is reasonable and led to less pulmonary oedema in ARISE FLUIDS.</li>
+<li>Guide further fluid with capillary refill time and dynamic responsiveness tests such as passive leg raise or stroke volume response, not static CVP alone (ANDROMEDA-SHOCK-2, ESICM 2025).</li>
+<li>Albumin is not first line (ALBIOS, ARISS, ABC-Sepsis). Consider de-resuscitation once the patient is stable, but the trial evidence is thin and GODIF is still running.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1101549">FEAST: Maitland et al, NEJM 2011</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2202707">CLASSIC: Meyhoff et al, NEJM 2022</a></li>
+<li><a href="https://doi.org/10.1007/s00134-023-07114-8">CLASSIC one-year outcomes: Kjaer et al, Intensive Care Med 2023 (pre-planned secondary)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2212663">CLOVERS: Shapiro et al (NHLBI PETAL), NEJM 2023</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2516225">ARISE FLUIDS: Peake et al, Vasopressors or Fluids in Early Septic Shock, NEJM 2026</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1711584">SMART: Semler et al, NEJM 2018</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201903-0557OC">SMART sepsis subgroup (secondary analysis): Brown et al, AJRCCM 2019</a></li>
+<li><a href="https://doi.org/10.1001/jama.2021.11684">BaSICS: Zampieri et al, JAMA 2021</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2114464">PLUS: Finfer et al, NEJM 2022</a></li>
+<li><a href="https://doi.org/10.1056/EVIDoa2100010">Balanced vs saline meta-analysis: Hammond et al, NEJM Evidence 2022</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(23)00417-4">BEST-Living IPD meta-analysis: Zampieri et al, Lancet Respir Med 2024</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1305727">ALBIOS: Caironi et al, NEJM 2014</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2025.59297">ARISS: Sakr et al, Albumin Replacement Therapy in Septic Shock, JAMA Netw Open 2026</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006348">ABC-Sepsis feasibility RCT: Gray et al, Crit Care Med 2024</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT05148286">ALCAMIST (ongoing, South Korea): ClinicalTrials.gov NCT05148286</a></li>
+<li><a href="https://doi.org/10.1001/jama.2019.0071">ANDROMEDA-SHOCK: Hernandez et al, JAMA 2019</a></li>
+<li><a href="https://doi.org/10.1001/jama.2025.20402">ANDROMEDA-SHOCK-2: Hernandez et al, JAMA 2025</a></li>
+<li><a href="https://doi.org/10.1111/aas.14196">GODIF first version: Wichmann et al, Acta Anaesthesiol Scand 2023</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT04180397">GODIF (main trial, ongoing): ClinicalTrials.gov NCT04180397</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000007075">Surviving Sepsis Campaign 2026 adult guidelines: Prescott et al, Crit Care Med 2026</a></li>
+<li><a href="https://doi.org/10.1007/s00134-026-08361-1">Surviving Sepsis Campaign 2026 adult guidelines, Intensive Care Med 2026</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06506-y">Surviving Sepsis Campaign 2021: Evans et al, Intensive Care Med 2021</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng253/chapter/Managing-suspected-sepsis">NICE NG253: Suspected sepsis in people aged 16 or over (2025, updated 2026), Managing suspected sepsis</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg174/chapter/Recommendations">NICE CG174: Intravenous fluid therapy in adults in hospital (updated 2017)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-024-07369-9">ESICM fluid guideline Part 1, choice of fluids: Arabi et al, Intensive Care Med 2024</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-07840-1">ESICM fluid guideline Part 2, volume: Mekontso Dessap et al, Intensive Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-08058-x">ESICM fluid guideline Part 3, fluid removal: Ostermann et al, Intensive Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-08137-z">ESICM guidelines on circulatory shock and haemodynamic monitoring: Monnet et al, Intensive Care Med 2025</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Aneurysmal subarachnoid haemorrhage on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-subarachnoid-haemorrhage-on-icu</guid>
+      <pubDate>Thu, 08 Oct 2026 05:17:56 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-subarachnoid-haemorrhage-on-icu.mp3" length="3217500" type="audio/mpeg"/>
+      <itunes:duration>536</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level tour of ICU management after aneurysmal subarachnoid haemorrhage. Oral nimodipine (British Aneurysm Nimodipine Trial, 1989) is still the only drug proven to improve outcome. Magnesium (MASH-2), simvastatin (STASH), ultra-early tranexamic acid (ULTRA) and clazosentan (CONSCIOUS-3 and REACT) were all neutral for functional outcome, even when clazosentan reduced vasospasm. The rescue therapies for delayed cerebral ischaemia rest on thin evidence. Induced hypertension has one underpowered trial (HIMALAIA, 41 patients). Endovascular rescue has one small phase 2 trial (IMCVS) with worse 6-month mRS. EARLYDRAIN (JAMA Neurology 2023) cut unfavourable outcome from 44.8% to 32.6%, but the 2026 ESO/EANS/ESMINT guideline pooled it and made no recommendation. The guidelines diverge most on TCD: NICE NG228 advises against it outside research, while AHA/ASA 2023 rates it reasonable. SAHaRA (NEJM 2025) found no benefit from liberal transfusion. Population case fatality has stayed at about a third for two decades. Observational data on withdrawal of treatment and on early invasive care for grade V patients point to a self-fulfilling prophecy.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Give oral nimodipine to everyone. If it drops the pressure, manage the hypotension (for example with a vasopressor) rather than stopping it, and only pause it if blood pressure swings are significant.</li>
+<li>Aim for euvolaemia, not hypervolaemia. Treat natriuretic hyponatraemia (fludrocortisone or hydrocortisone is reasonable per AHA) and don&#x27;t fluid restrict.</li>
+<li>Magnesium, statins, clazosentan and pre-treatment tranexamic acid don&#x27;t improve outcome. Treating vasospasm is not the same as treating the patient.</li>
+<li>Induced hypertension, intra-arterial therapy/angioplasty and prophylactic lumbar drainage are reasonable but unproven. NICE, AHA/ASA and ESO differ on them, and on TCD.</li>
+<li>Don&#x27;t withdraw treatment early on admission grade alone. Treat hydrocephalus and reassess, because clinical improvement before aneurysm treatment strongly predicts a good outcome.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://www.nice.org.uk/guidance/ng228">NICE NG228 Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management (2022)</a></li>
+<li><a href="https://doi.org/10.1161/STR.0000000000000436">Hoh et al. 2023 AHA/ASA Guideline for the Management of Aneurysmal Subarachnoid Hemorrhage. Stroke 2023</a></li>
+<li><a href="https://doi.org/10.1007/s12028-023-01713-5">Treggiari et al. Neurocritical Care Society Guidelines for the Neurocritical Care Management of aSAH. Neurocrit Care 2023</a></li>
+<li><a href="https://doi.org/10.1093/esj/aakag043">Vergouwen et al. ESO/EANS/ESMINT guideline on aneurysmal subarachnoid haemorrhage. Eur Stroke J 2026</a></li>
+<li><a href="https://doi.org/10.1161/STROKEAHA.110.589275">Vergouwen et al. Definition of delayed cerebral ischemia (consensus proposal). Stroke 2010</a></li>
+<li><a href="https://doi.org/10.1136/bmj.298.6674.636">Pickard et al. British aneurysm nimodipine trial. BMJ 1989</a></li>
+<li><a href="https://doi.org/10.1161/STROKEAHA.111.648980">Macdonald et al. CONSCIOUS-3: clazosentan after coiling. Stroke 2012</a></li>
+<li><a href="https://doi.org/10.1016/S1474-4422(11)70108-9">Macdonald et al. CONSCIOUS-2: clazosentan after clipping. Lancet Neurol 2011</a></li>
+<li><a href="https://doi.org/10.3171/2022.2.JNS212914">Endo et al. Clazosentan in Japanese patients (two phase 3 RCTs). J Neurosurg 2022</a></li>
+<li><a href="https://doi.org/10.3171/2024.4.JNS232191">Mayer et al. REACT: clazosentan for DCI. J Neurosurg 2024/2025</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(12)60724-7">Dorhout Mees et al. MASH-2: magnesium. Lancet 2012</a></li>
+<li><a href="https://doi.org/10.1016/S1474-4422(14)70084-5">Kirkpatrick et al. STASH: simvastatin. Lancet Neurol 2014</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(20)32518-6">Post et al. ULTRA: ultra-early tranexamic acid. Lancet 2021</a></li>
+<li><a href="https://doi.org/10.1161/STROKEAHA.117.017956">Gathier et al. HIMALAIA: induced hypertension for DCI. Stroke 2018</a></li>
+<li><a href="https://doi.org/10.3390/jcm11206197">Vatter et al. IMCVS: invasive endovascular management of vasospasm, phase 2 RCT. J Clin Med 2022</a></li>
+<li><a href="https://doi.org/10.1001/jamaneurol.2023.1792">Wolf et al. EARLYDRAIN: lumbar CSF drain after aSAH. JAMA Neurol 2023</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2410962">English et al. SAHaRA: liberal vs restrictive transfusion in aSAH. NEJM 2025</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000003297">Mastantuono et al. Transcranial Doppler in the diagnosis of cerebral vasospasm: updated meta-analysis. Crit Care Med 2018</a></li>
+<li><a href="https://doi.org/10.1161/01.STR.0000141936.36596.1e">Naidech et al. Phenytoin exposure and disability after SAH (observational). Stroke 2005</a></li>
+<li><a href="https://doi.org/10.1177/23969873241232823">Ziebart et al. Case fatality and functional outcome after SAH: systematic review of population-based time trends. Eur Stroke J 2024</a></li>
+<li><a href="https://doi.org/10.1007/s12028-013-9929-8">Kowalski et al. Withdrawal of technological life support following SAH (single-centre cohort). Neurocrit Care 2013</a></li>
+<li><a href="https://doi.org/10.1111/ene.13134">Hoogmoed et al. Expeditious invasive treatment in WFNS grade V aSAH (observational, three hospitals). Eur J Neurol 2017</a></li>
+<li><a href="https://doi.org/10.1186/s12883-022-02734-x">de Winkel et al. Early predictors of functional outcome in poor-grade aSAH: systematic review and meta-analysis. BMC Neurol 2022</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Severe traumatic brain injury on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-severe-tbi-on-icu</guid>
+      <pubDate>Thu, 08 Oct 2026 05:17:55 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-severe-tbi-on-icu.mp3" length="3214830" type="audio/mpeg"/>
+      <itunes:duration>536</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level look at severe TBI on ICU. BEST-TRIP (NEJM 2012) compared two treatment protocols rather than ICP monitoring versus none, and found no difference. DECRA (NEJM 2011) found early bifrontal craniectomy worse at 6 months, no longer significant at 12. RESCUEicp (NEJM 2016) found that last-tier craniectomy cut mortality (about 27 vs 49 percent at 6 months), but many of the extra survivors were vegetative or dependent at 24 months. OXY-TC (Lancet Neurol 2023) found no benefit from adding brain tissue oxygen to ICP-guided care. BOOST-3 has not reported; it is active, not recruiting, with primary completion estimated for November 2027. On transfusion, HEMOTION (NEJM 2024; threshold 10 vs 7 g/dL) was non-significant but favoured liberal, and TRAIN (JAMA 2024; 9 vs 7 g/dL, mixed acute brain injury) was positive. TRAIN&#x27;s TBI-only secondary analysis (JAMA Netw Open, Sept 2026) had a fragility index of 1, and meta-analyses disagree. CRASH-3 (Lancet 2019) showed no benefit from tranexamic acid in severe TBI, yet NICE NG232 (2023) says to consider it for GCS 12 or less within 2 hours. BTF 4th edition (2016; ICP above 22, CPP 60-70) contrasts with the SIBICC consensus tiered algorithms (2019/2020). IMPACT and CRASH models predict outcomes for populations. Cohort data on withdrawal of life-sustaining treatment (Canadian 2011, CENTER-TBI 2021) and late recovery (TRACK-TBI 2021) show the risk of a self-fulfilling prophecy.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>BEST-TRIP tested protocols, not the monitor: use ICP and escalate in tiers (SIBICC is expert consensus, not trial evidence).</li>
+<li>Last-tier craniectomy (RESCUEicp) saves lives, but many extra survivors are vegetative or dependent; discuss this with families before surgery. Early bifrontal craniectomy for diffuse injury (DECRA) did not help.</li>
+<li>Brain tissue oxygen-guided care is unproven: OXY-TC was neutral and BOOST-3 has not yet reported.</li>
+<li>Lean towards a liberal transfusion threshold (around 9 g/dL), but the TBI-specific evidence is fragile (HEMOTION non-significant; TRAIN TBI fragility index 1).</li>
+<li>Be cautious about early withdrawal of life-sustaining treatment: much TBI mortality follows withdrawal, practice varies widely between centres, and some patients recover late.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1207363">BEST-TRIP: Chesnut et al. NEJM 2012</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1102077">DECRA: Cooper et al. NEJM 2011</a></li>
+<li><a href="https://doi.org/10.1089/neu.2019.6869">DECRA 12-month outcomes: Cooper et al. J Neurotrauma 2020</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1605215">RESCUEicp: Hutchinson et al. NEJM 2016</a></li>
+<li><a href="https://doi.org/10.1001/jamaneurol.2022.1070">RESCUEicp 24-month outcomes (prespecified secondary analysis): Kolias et al. JAMA Neurol 2022</a></li>
+<li><a href="https://doi.org/10.1016/S1474-4422(23)00290-9">OXY-TC: Payen et al. Lancet Neurol 2023</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT03754114">BOOST-3 registry entry (NCT03754114; active, not recruiting)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2404360">HEMOTION: Turgeon et al. NEJM 2024</a></li>
+<li><a href="https://doi.org/10.1001/jama.2024.20424">TRAIN: Taccone et al. JAMA 2024</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2026.32555">TRAIN TBI subgroup (preplanned secondary analysis): JAMA Netw Open 2026</a></li>
+<li><a href="https://doi.org/10.1016/j.accpm.2025.101566">Liberal vs restrictive transfusion in acute brain injury: meta-analysis with TSA, Anaesth Crit Care Pain Med 2025</a></li>
+<li><a href="https://doi.org/10.1186/s12871-026-03796-x">RBC transfusion in neurocritical patients: updated systematic review and meta-analysis, BMC Anesthesiol 2026</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(19)32233-0">CRASH-3: Lancet 2019</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng232">NICE NG232 Head injury: assessment and early management (2023)</a></li>
+<li><a href="https://doi.org/10.1227/NEU.0000000000001432">Brain Trauma Foundation Guidelines, 4th edition: Carney et al. Neurosurgery 2017 (released 2016)</a></li>
+<li><a href="https://doi.org/10.1093/neuros/nyaa278">BTF 2020 update of decompressive craniectomy recommendations: Neurosurgery 2020</a></li>
+<li><a href="https://doi.org/10.1007/s00134-019-05805-9">SIBICC ICP algorithm (consensus): Hawryluk et al. Intensive Care Med 2019</a></li>
+<li><a href="https://doi.org/10.1007/s00134-019-05900-x">SIBICC ICP plus brain oxygen algorithm (consensus): Chesnut et al. Intensive Care Med 2020</a></li>
+<li><a href="https://doi.org/10.1371/journal.pmed.0050165">IMPACT prognostic models: Steyerberg et al. PLoS Med 2008</a></li>
+<li><a href="https://doi.org/10.1136/bmj.39461.643438.25">CRASH prognostic models: MRC CRASH Trial Collaborators, BMJ 2008</a></li>
+<li><a href="https://doi.org/10.1503/cmaj.101786">WLST and mortality variation in severe TBI: Turgeon et al. CMAJ 2011</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06484-1">WLSM occurrence and timing: CENTER-TBI, Intensive Care Med 2021</a></li>
+<li><a href="https://doi.org/10.1001/jamaneurol.2021.2043">Functional outcomes over first year (TRACK-TBI): McCrea et al. JAMA Neurol 2021</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Temperature control after cardiac arrest</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-temperature-control-after-arrest</guid>
