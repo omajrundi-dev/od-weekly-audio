@@ -1,0 +1,109 @@
+{
+  "title_topic": "Delirium and sedation on ICU",
+  "summary": "A consultant-level review of ICU sedation and delirium trials. For antipsychotics, MIND-USA (NEJM 2018) and AID-ICU (NEJM 2022) found that haloperidol does not shorten delirium or increase days alive out of hospital. AID-ICU's secondary outcome of mortality was lower with haloperidol at 90 days (36.3 vs 43.3 percent) and at one year, which is a signal, not proof. Prophylactic haloperidol (REDUCE) did not help. For dexmedetomidine, SPICE III showed no overall mortality difference, but a post hoc Bayesian analysis suggested benefit over 65 and harm at 65 or under, which led to a 2022 safety letter agreed with the MHRA. MENDS2 found no difference from propofol in sepsis, and the UK A2B trial (JAMA 2025) found no faster extubation with dexmedetomidine or clonidine compared with propofol, with more agitation and bradycardia. NONSEDA found no advantage for no sedation over light sedation. Pro-MEDIC and the meta-analysis restricted to low risk-of-bias trials found no delirium benefit from melatonin. ABCDEF evidence is mostly observational. R2D2-ICU (JAMA 2026) found that avoiding routine wrist restraints did not increase self-extubation. BRAIN-ICU links longer delirium to lasting cognitive impairment. The 2025 PADIS focused update suggests dexmedetomidine over propofol and suggests melatonin, but it was published before A2B. UK guidance (NICE CG103 and GPICS V3, 2026) does not name a sedative, and UK practice remains propofol first. SESAR (JAMA 2025) found worse survival with sevoflurane than with propofol in ARDS.",
+  "takeaways": [
+    "Aim for light sedation with a daily look at a sedation hold; NONSEDA doesn't justify deeper sedation or no sedation.",
+    "Propofol remains a reasonable first-line sedative: A2B found no faster extubation with dexmedetomidine or clonidine, and more agitation and bradycardia.",
+    "If using dexmedetomidine, consider age: the SPICE III signal and the 2022 safety letter point to caution in patients 65 or younger.",
+    "Haloperidol doesn't shorten delirium and shouldn't be used as prophylaxis; short courses for distress are reasonable, and AID-ICU is reassuring on safety.",
+    "Melatonin is cheap and probably harmless, but the best trials show no delirium benefit; put effort into the bundle (mobilisation, sleep, family, fewer restraints)."
+  ],
+  "sources": [
+    {
+      "label": "MIND-USA: Girard et al, NEJM 2018 (haloperidol or ziprasidone vs placebo)",
+      "url": "https://doi.org/10.1056/NEJMoa1808217"
+    },
+    {
+      "label": "AID-ICU: Andersen-Ranberg et al, NEJM 2022 (haloperidol vs placebo)",
+      "url": "https://doi.org/10.1056/NEJMoa2211868"
+    },
+    {
+      "label": "AID-ICU pre-planned Bayesian secondary analysis, Intensive Care Med 2023",
+      "url": "https://doi.org/10.1007/s00134-023-07024-9"
+    },
+    {
+      "label": "AID-ICU one-year outcomes (pre-planned), Intensive Care Med 2024",
+      "url": "https://doi.org/10.1007/s00134-023-07282-7"
+    },
+    {
+      "label": "REDUCE: van den Boogaard et al, JAMA 2018 (prophylactic haloperidol)",
+      "url": "https://doi.org/10.1001/jama.2018.0160"
+    },
+    {
+      "label": "EuRIDICE: haloperidol vs placebo, Crit Care 2023 (stopped early for futility)",
+      "url": "https://doi.org/10.1186/s13054-023-04692-3"
+    },
+    {
+      "label": "Haloperidol Bayesian and frequentist meta-analyses, Crit Care 2025",
+      "url": "https://doi.org/10.1186/s13054-025-05342-6"
+    },
+    {
+      "label": "SPICE III: Shehabi et al, NEJM 2019 (early dexmedetomidine)",
+      "url": "https://doi.org/10.1056/NEJMoa1904710"
+    },
+    {
+      "label": "SPICE III heterogeneity of treatment effect by age (post hoc Bayesian), Intensive Care Med 2021",
+      "url": "https://doi.org/10.1007/s00134-021-06356-8"
+    },
+    {
+      "label": "Dexmedetomidine Dear Healthcare Professional letter (agreed with EMA and MHRA), 16 June 2022",
+      "url": "https://assets.publishing.service.gov.uk/media/62d6b1ff8fa8f50bfafb09c5/DEXDOR_II-35_-_DHPC_UK_-_16th_June_2022.pdf"
+    },
+    {
+      "label": "MENDS2: Hughes et al, NEJM 2021 (dexmedetomidine vs propofol in sepsis)",
+      "url": "https://doi.org/10.1056/NEJMoa2024922"
+    },
+    {
+      "label": "A2B: Walsh et al, JAMA 2025 (dexmedetomidine or clonidine vs propofol)",
+      "url": "https://doi.org/10.1001/jama.2025.7200"
+    },
+    {
+      "label": "NONSEDA: Olsen et al, NEJM 2020 (no sedation vs light sedation)",
+      "url": "https://doi.org/10.1056/NEJMoa1906759"
+    },
+    {
+      "label": "Pro-MEDIC: Wibrow et al, Intensive Care Med 2022 (melatonin vs placebo)",
+      "url": "https://doi.org/10.1007/s00134-022-06638-9"
+    },
+    {
+      "label": "Melatonin in the ICU systematic review and meta-analysis, Crit Care Med 2025",
+      "url": "https://doi.org/10.1097/CCM.0000000000006767"
+    },
+    {
+      "label": "Melatonin and delirium in ICU systematic review and meta-analysis, Intensive Care Med 2025",
+      "url": "https://doi.org/10.1007/s00134-025-08143-1"
+    },
+    {
+      "label": "ICU Liberation Collaborative ABCDEF bundle cohort: Pun et al, Crit Care Med 2019",
+      "url": "https://doi.org/10.1097/CCM.0000000000003482"
+    },
+    {
+      "label": "R2D2-ICU: restrictive vs liberal physical restraint, JAMA 2026",
+      "url": "https://doi.org/10.1001/jama.2026.2897"
+    },
+    {
+      "label": "BRAIN-ICU: Pandharipande et al, NEJM 2013 (long-term cognitive impairment)",
+      "url": "https://doi.org/10.1056/NEJMoa1301372"
+    },
+    {
+      "label": "SESAR: inhaled sevoflurane vs propofol in ARDS, JAMA 2025",
+      "url": "https://doi.org/10.1001/jama.2025.3169"
+    },
+    {
+      "label": "SCCM PADIS focused update: Lewis et al, Crit Care Med 2025",
+      "url": "https://doi.org/10.1097/CCM.0000000000006574"
+    },
+    {
+      "label": "SCCM PADIS guideline: Devlin et al, Crit Care Med 2018",
+      "url": "https://doi.org/10.1097/CCM.0000000000003299"
+    },
+    {
+      "label": "NICE CG103 Delirium (2010, last updated January 2023)",
+      "url": "https://www.nice.org.uk/guidance/cg103"
+    },
+    {
+      "label": "FICM/ICS Guidelines for the Provision of Intensive Care Services (GPICS) Version 3, January 2026",
+      "url": "https://ics.ac.uk/guidance/gpics.html"
+    }
+  ]
+}

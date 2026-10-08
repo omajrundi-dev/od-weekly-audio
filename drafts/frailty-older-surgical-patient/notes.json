@@ -1,0 +1,33 @@
+{
+  "title_topic": "Frailty and the older surgical patient",
+  "summary": "A consultant-level look at frailty in older surgical patients for anaesthetists and intensivists. SNAP-3 (BJA 2025; 7,129 UK patients aged 60 and over, 214 hospitals) found that about one in five were frail, and outcomes worsened from a Clinical Frailty Scale (CFS) score of 4 upwards. Frailty, more than multimorbidity, drove length of stay, delirium and mortality. The CFS is quick and about as accurate as a modified Fried index (adjusted odds ratio 2.51 for death or new disability at 90 days in a 702-patient Canadian cohort), but it is a baseline population risk marker, poorly validated in younger people or those with stable single-system disability, and it says nothing about the operation. Prehabilitation trials in frail patients (Carli, JAMA Surg 2020; McIsaac's PREHAB, BJA 2022) were neutral. A supervised in-hospital programme in a non-frail colorectal cohort (PREHAB, JAMA Surg 2023) reduced severe complications (17.1 versus 29.7 percent). A 2025 BMJ network meta-analysis of 186 trials favoured exercise, but with very low certainty. Comprehensive geriatric assessment reduces discharge to a higher level of care (Cochrane 2018, mostly hip fracture). The CPOC/BGS 2021 guideline, still current, sets the UK standard: CFS for everyone over 65, CGA and cognitive assessment at CFS 5 or more, and daily 4AT screening. For delirium, regional versus general anaesthesia made no difference (REGAIN, RAGA). EEG guidance was neutral in ENGAGES, and Balanced found no mortality difference between BIS 50 and 35, yet ESAIC 2024 still weakly suggests EEG monitoring. B-Free (benzodiazepine restriction in cardiac surgery) was neutral. Shared decision-making should follow Montgomery and centre on function and going home. ANZICS registry data (BJA 2025) link frailty to shorter long-term survival after postoperative ICU admission (adjusted hazard ratio 2.33).",
+  "takeaways": [
+    "Document a CFS, but read it as a population risk marker: risk climbs from CFS 4, and the score says nothing about the operation.",
+    "Prehabilitation is reasonable, but the trials in frail patients are neutral; supervised programmes with good adherence look best.",
+    "Regional versus general anaesthesia doesn't change delirium. Avoid delirium-provoking drugs and excessive depth, and use multicomponent prevention.",
+    "Get a geriatrician involved early; the best evidence for comprehensive geriatric assessment is in hip fracture.",
+    "Before surgery, talk about function and going home, and agree the ceiling of treatment, including ICU."
+  ],
+  "sources": [
+    {"label": "SNAP-3: frailty and multimorbidity in older UK surgical patients (BJA 2025)", "url": "https://doi.org/10.1016/j.bja.2025.04.026"},
+    {"label": "McIsaac et al. Frailty as a predictor of death or new disability after surgery (Ann Surg 2020)", "url": "https://doi.org/10.1097/SLA.0000000000002967"},
+    {"label": "CFS and postoperative mortality in older surgical patients: systematic review and meta-analysis (Geriatr Nurs 2024)", "url": "https://doi.org/10.1016/j.gerinurse.2024.08.013"},
+    {"label": "Rockwood and Theou. Using the Clinical Frailty Scale in allocating scarce health care resources (Can Geriatr J 2020)", "url": "https://doi.org/10.5770/cgj.23.463"},
+    {"label": "Carli et al. Prehabilitation vs rehabilitation in frail colorectal cancer patients (JAMA Surg 2020)", "url": "https://doi.org/10.1001/jamasurg.2019.5474"},
+    {"label": "McIsaac et al. PREHAB trial: home-based prehabilitation in frail older adults having cancer surgery (BJA 2022)", "url": "https://doi.org/10.1016/j.bja.2022.04.006"},
+    {"label": "Molenaar et al. PREHAB trial: multimodal prehabilitation in colorectal cancer surgery (JAMA Surg 2023)", "url": "https://doi.org/10.1001/jamasurg.2023.0198"},
+    {"label": "Network meta-analysis of prehabilitation interventions (BMJ 2025)", "url": "https://doi.org/10.1136/bmj-2024-081164"},
+    {"label": "Cochrane review: comprehensive geriatric assessment for older people admitted to a surgical service (2018)", "url": "https://doi.org/10.1002/14651858.CD012485.pub2"},
+    {"label": "CPOC/BGS Guideline for perioperative care for people living with frailty undergoing elective and emergency surgery (September 2021)", "url": "https://www.bgs.org.uk/cpocfrailty"},
+    {"label": "REGAIN: spinal or general anaesthesia for hip surgery in older adults (NEJM 2021)", "url": "https://doi.org/10.1056/NEJMoa2113514"},
+    {"label": "RAGA: regional vs general anaesthesia and delirium after hip fracture surgery (JAMA 2022)", "url": "https://doi.org/10.1001/jama.2021.22647"},
+    {"label": "ENGAGES: EEG-guided anaesthesia and postoperative delirium (JAMA 2019)", "url": "https://doi.org/10.1001/jama.2018.22005"},
+    {"label": "Balanced: anaesthetic depth and complications after major surgery (Lancet 2019)", "url": "https://doi.org/10.1016/S0140-6736(19)32315-3"},
+    {"label": "ESAIC updated guideline on postoperative delirium in adults (Eur J Anaesthesiol 2024)", "url": "https://doi.org/10.1097/EJA.0000000000001876"},
+    {"label": "Processed EEG-guided anaesthesia and postoperative delirium: updated meta-analysis (Int J Surg 2025)", "url": "https://doi.org/10.1097/JS9.0000000000003046"},
+    {"label": "B-Free: benzodiazepine-free cardiac anaesthesia, cluster randomised crossover trial (JAMA Surg 2025)", "url": "https://doi.org/10.1001/jamasurg.2024.6602"},
+    {"label": "Montgomery v Lanarkshire Health Board [2015] UKSC 11", "url": "https://www.supremecourt.uk/cases/uksc-2013-0136"},
+    {"label": "Best Case/Worst Case communication framework (JAMA Surg 2017)", "url": "https://doi.org/10.1001/jamasurg.2016.5674"},
+    {"label": "Frailty and long-term survival after postoperative ICU admission, ANZICS cohort (BJA 2025)", "url": "https://doi.org/10.1016/j.bja.2025.03.002"}
+  ]
+}

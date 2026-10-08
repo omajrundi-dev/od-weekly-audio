@@ -1,0 +1,121 @@
+{
+  "title_topic": "Post-intensive care syndrome and recovery after ICU",
+  "summary": "A consultant-level review of what has been tested for recovery after critical illness. Nurse-led follow-up clinics (PRaCTICaL, BMJ 2009) and primary-care case management (SMOOTH, JAMA 2016) did not improve quality of life, and the 2018 Cochrane review found little or no effect. InS:PIRE (Thorax 2023) was positive but non-randomised. For in-ICU mobilisation, Schweickert (Lancet 2009) improved functional independence, but EPICC (Thorax 2018) and TEAM (NEJM 2022) were neutral, and TEAM showed more mobilisation-related adverse events (9.2% vs 4.1%) and a non-significant excess of deaths. Meta-analyses (Paton, Lancet Respir Med 2024; Crit Care Med 2025) found no mortality effect and less ICU-acquired weakness, and the SCCM PADIS 2025 focused update conditionally recommends enhanced mobilisation. CYCLE (NEJM Evid 2024) was neutral. On diaries, the positive RACHEL trial (2010) was followed by a neutral French trial (JAMA 2019), and a September 2026 meta-analysis found no PTSD effect after correcting for publication bias. Post-discharge rehabilitation trials have been neutral: Elliott 2011, RECOVER 2015 and the UK iRehab trial (JAMA, July 2026). A Brazilian stepped-wedge telehealth trial (JAMA, September 2026) improved quality of life overall but not among survivors, and the authors suggest lower mortality may explain this. Family interventions have either backfired (Carson, JAMA 2016) or been neutral (FICUS, ICM 2026). NICE CG83 (2009, reviewed 2018 with no update) asks for a reassessment at 2 to 3 months. GPICS V3 (January 2026) now makes a post-ICU recovery clinic a minimum standard, which is ahead of the trial evidence. NCEPOD's Recovery Beyond Survival (June 2025) found poor delivery. Five-year mortality among hospital survivors in Scotland was 32% vs 23% in matched controls, and only about 55% of survivors were back at work at 12 months.",
+  "takeaways": [
+    "Keep mobilising, but don't chase intensity: TEAM showed no benefit from more and more adverse events.",
+    "Follow-up clinics are now a GPICS V3 minimum standard, though no trial shows they improve quality of life. Run yours as needs-finding and audit what you find.",
+    "ICU diaries are cheap and humane but don't reliably prevent PTSD.",
+    "Families can be harmed by well-meant interventions. Watch for distress rather than assuming support helps.",
+    "Ask about work, money and family at follow-up, because that's where the long-term burden falls."
+  ],
+  "sources": [
+    {
+      "label": "PRaCTICaL: Cuthbertson et al, BMJ 2009",
+      "url": "https://doi.org/10.1136/bmj.b3723"
+    },
+    {
+      "label": "Cochrane review: follow-up services for ICU survivors, 2018",
+      "url": "https://doi.org/10.1002/14651858.CD012701.pub2"
+    },
+    {
+      "label": "SMOOTH: Schmidt et al, JAMA 2016",
+      "url": "https://doi.org/10.1001/jama.2016.7207"
+    },
+    {
+      "label": "InS:PIRE evaluation (non-randomised), Thorax 2023",
+      "url": "https://doi.org/10.1136/thoraxjnl-2021-218428"
+    },
+    {
+      "label": "Schweickert et al, Lancet 2009",
+      "url": "https://doi.org/10.1016/S0140-6736(09)60658-9"
+    },
+    {
+      "label": "EPICC: Wright et al, Thorax 2018",
+      "url": "https://doi.org/10.1136/thoraxjnl-2016-209858"
+    },
+    {
+      "label": "TEAM: Hodgson et al, NEJM 2022",
+      "url": "https://doi.org/10.1056/NEJMoa2209083"
+    },
+    {
+      "label": "TEAM individualised treatment effects (post hoc, machine learning), Intensive Care Med 2026",
+      "url": "https://doi.org/10.1007/s00134-025-08217-0"
+    },
+    {
+      "label": "Paton et al, mobilisation adverse events and mortality meta-analysis, Lancet Respir Med 2024",
+      "url": "https://doi.org/10.1016/S2213-2600(24)00011-0"
+    },
+    {
+      "label": "Enhanced vs usual mobilisation meta-analysis, Crit Care Med 2025",
+      "url": "https://doi.org/10.1097/CCM.0000000000006840"
+    },
+    {
+      "label": "SCCM PADIS focused update, Crit Care Med 2025",
+      "url": "https://doi.org/10.1097/CCM.0000000000006574"
+    },
+    {
+      "label": "CYCLE trial, NEJM Evidence 2024",
+      "url": "https://doi.org/10.1056/EVIDoa2400137"
+    },
+    {
+      "label": "RACHEL ICU diary trial: Jones et al, Crit Care 2010",
+      "url": "https://doi.org/10.1186/cc9260"
+    },
+    {
+      "label": "ICU diary trial: Garrouste-Orgeas et al, JAMA 2019",
+      "url": "https://doi.org/10.1001/jama.2019.9058"
+    },
+    {
+      "label": "ICU diaries meta-analysis, Nurs Crit Care 2026",
+      "url": "https://doi.org/10.1111/nicc.70675"
+    },
+    {
+      "label": "Home-based rehabilitation: Elliott et al, Crit Care 2011",
+      "url": "https://doi.org/10.1186/cc10265"
+    },
+    {
+      "label": "RECOVER: Walsh et al, JAMA Intern Med 2015",
+      "url": "https://doi.org/10.1001/jamainternmed.2015.0822"
+    },
+    {
+      "label": "iRehab: O'Neill et al, JAMA 2026",
+      "url": "https://doi.org/10.1001/jama.2026.7401"
+    },
+    {
+      "label": "Tele-Rehab stepped-wedge trial: Rosa et al, JAMA 2026",
+      "url": "https://doi.org/10.1001/jama.2026.10617"
+    },
+    {
+      "label": "Palliative care-led family meetings: Carson et al, JAMA 2016",
+      "url": "https://doi.org/10.1001/jama.2016.8474"
+    },
+    {
+      "label": "FICUS cluster RCT, Intensive Care Med 2026",
+      "url": "https://doi.org/10.1007/s00134-026-08425-2"
+    },
+    {
+      "label": "NICE CG83 Rehabilitation after critical illness in adults (2009, reviewed 2018)",
+      "url": "https://www.nice.org.uk/guidance/cg83"
+    },
+    {
+      "label": "NICE QS158 Rehabilitation after critical illness in adults (2017)",
+      "url": "https://www.nice.org.uk/guidance/qs158"
+    },
+    {
+      "label": "GPICS Version 3 (FICM/ICS, January 2026)",
+      "url": "https://ics.ac.uk/guidance/gpics.html"
+    },
+    {
+      "label": "NCEPOD Recovery Beyond Survival (June 2025)",
+      "url": "https://www.ncepod.org.uk/2025icur.html"
+    },
+    {
+      "label": "Lone et al, five-year mortality after ICU, AJRCCM 2016",
+      "url": "https://doi.org/10.1164/rccm.201511-2234OC"
+    },
+    {
+      "label": "McPeake et al, return to employment meta-analysis, Ann Am Thorac Soc 2019",
+      "url": "https://doi.org/10.1513/AnnalsATS.201903-248OC"
+    }
+  ]
+}

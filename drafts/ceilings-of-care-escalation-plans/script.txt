@@ -1,0 +1,56 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is ceilings of care and treatment escalation plans.
+Kate: Which sounds like paperwork. It isn't, this year.
+Tom: No. Townsend, in the Court of Appeal this March, goes straight at the idea that "not clinically indicated" ends the conversation.
+Kate: Evidence first, then the law.
+Tom: Go on.
+Kate: The old problem was the standalone D N A C P R form, read as "not for much". Cambridge built the Universal Form of Treatment Options, which puts the resuscitation decision inside an overall plan. A before-and-after study in PLoS One in twenty thirteen found fewer harms in patients not for C P R, about thirteen fewer per thousand patient-days. Harms contributing to death fell from twenty-three of seventy-one to four of forty-four.
+Tom: Before-and-after, one hospital.
+Kate: Yes, hypothesis-generating. But the bias is real. A vignette study in Age and Ageing last year randomised geriatricians to the same deteriorating patient, with or without a D N A C P R. With it, about two-thirds would consider N I V, against over four in five without. I C U was considered by about one in ten, against one in four.
+Tom: And ReSPECT?
+Kate: The N I H R mixed-methods evaluation, twenty twenty-two. By late twenty nineteen about a fifth of acute hospitals used it. Patient or family involvement was recorded on about three-quarters of forms. Recorded harms were similar with or without a form. And the conversations they observed ranged from genuinely open, to persuasive, to simply announcing a decision already made.
+Tom: That last category is where the law bites.
+Kate: Locally, a Leeds analysis of twenty-three thousand ReSPECT plans found D N A C P R less often recorded for Asian and Black than White patients.
+Tom: Right. The law. Start with Burke.
+Kate: Twenty oh five. Paragraph fifty: the doctor decides which options are clinically indicated, the patient chooses among them. No legal obligation to provide something not offered, though the doctor should offer a second opinion.
+Tom: And paragraph fifty-five.
+Kate: "A patient cannot demand that a doctor administer a treatment which the doctor considers is adverse to the patient's clinical needs." But note paragraph fifty-three. Where a competent patient wants life-prolonging nutrition and hydration, withdrawing it to end his life would be murder. Burke isn't a licence.
+Tom: Aintree v James, Supreme Court, twenty thirteen. Lady Hale.
+Kate: Paragraph eighteen: the court has no greater powers than the patient; it can't order doctors to treat. Paragraph twenty-two: the question is whether giving the treatment is in his best interests, not whether withholding is. Paragraph thirty-nine: welfare in the widest sense, and consult the family about what he'd want. And paragraph forty-five: not the reasonable patient, this patient's point of view, though his wishes needn't prevail.
+Tom: Then N versus A C C G in twenty seventeen. The court chooses only between available options.
+Kate: Now D N A C P R. Tracey, Court of Appeal, twenty fourteen, a neuro-critical care patient. Article eight is engaged. Paragraph fifty-three: a presumption in favour of involving the patient, needing convincing reasons not to. Paragraph fifty-five: thinking C P R futile doesn't remove the duty to tell her.
+Tom: And distress?
+Kate: Not enough. It must be likely to cause harm. Longmore L J, paragraph eighty-nine, said the common law duty is the same.
+Tom: And Winspear?
+Kate: High Court, twenty fifteen, Blake J. Patient lacked capacity. D N A C P R put on overnight without phoning his mother, his lifelong carer. Breach of section four seven of the Mental Capacity Act, and of article eight. Paragraph fifty-two: she has no veto, but she's entitled to be consulted. And at paragraph fifty, a three a m call being inconvenient isn't the same as impracticable.
+Tom: Now Townsend.
+Kate: A man in I C U after multiple strokes, on dialysis. The team decided not to replace his line. The family applied. In February Theis J refused permission: no option for the court, because a capacitous patient couldn't compel dialysis either.
+Tom: Classic Burke reasoning.
+Kate: The Court of Appeal allowed the appeal, reasons on the third of March. Baker L J, paragraph sixty-nine: every decision about an incapacitated adult, including withdrawing life-sustaining treatment, is a best interests decision. "There is no carve out for clinical decisions."
+Tom: So the court can now order dialysis?
+Kate: No. The judgment restates the old rule: the court can never compel doctors to give treatment they consider clinically inappropriate. "But the decision is for the Court, not the clinicians." Paragraph seventy-two: where there's unresolved disagreement, the commissioning body must apply, and the hospital can't pre-empt that by unilaterally withholding or withdrawing treatment on clinical grounds.
+Tom: That's the sentence that worries intensivists.
+Kate: And it's changing behaviour. In Royal Free v R H in April, a young man in I C U with multi-organ failure, the doctors took legal advice in light of Townsend and started R R T, pressors and ventilation while the dispute went to court. Peel J then approved ceilings: R R T continued as palliation, ventilation and pressors only briefly to cover a line change, and no C P R. And he stressed the order was permissive.
+Tom: And the Supreme Court?
+Kate: The patient sadly died before any best interests hearing. Permission was granted in June; the hearing is listed for the twelfth and thirteenth of January. Until then, Townsend binds.
+Tom: Guidance briefly.
+Kate: G M C end-of-life guidance, updated in twenty twenty-two, sits alongside Decision making and consent from twenty twenty. Paragraph sixteen: if a family asks for treatment you don't think is of overall benefit, explore why; if you still disagree, don't provide it, but explain, and mention second opinions and the court. On C P R, paragraph one thirty-four: discuss unless it would cause serious harm, "more than that the patient might become upset". Paragraph one forty-three: D N A C P R applies only to C P R.
+Tom: And the joint C P R guidance?
+Kate: Revised in twenty sixteen, now under review. And the Mental Capacity Act Code is still twenty oh seven.
+Tom: Practically, then. A family who disagree.
+Kate: Separate the two questions out loud. First: what can medicine realistically achieve? That's ours. Second: what would he want, given that? That's theirs to inform. Never ask them to decide.
+Tom: Hayden J said that well in Guy's and St Thomas' v V A. The family thought treatment was "within their gift or authority." It is not.
+Kate: Then present the ceiling as a plan, not a withdrawal of care: what we will do, what we won't, and why. On a T E P, not just a D N A C P R box.
+Tom: And share the second opinions.
+Kate: Yes. In Townsend, the family say they only saw the second opinion reports days before mediation. Theis J criticised that, even while refusing permission.
+Tom: Grey zones?
+Kate: The big one: does Townsend reach the three a m referral, where you decline to intubate a frail patient on the ward? It concerned withdrawal of ongoing treatment over weeks, not an emergency triage decision. The court didn't address that. My view is that emergencies remain clinical judgement under section five, but that's opinion, not law.
+Tom: And Aintree, paragraph forty-seven, said you can go to court in advance if you foresee a dispute. Though the court may not be able to say yet.
+Kate: Right. Take-homes, Tom.
+Tom: One. A ceiling of care in an incapacitated patient is a best interests decision. After Townsend, "clinically inappropriate" doesn't take it outside the Mental Capacity Act.
+Kate: Two. Still, nobody, including the court, can make you give treatment you think is clinically inappropriate.
+Tom: Three. Consult before you write a D N A C P R. Patient first, family if he lacks capacity. Record why if you can't.
+Kate: Four. Use the T E P to contextualise D N A C P R, and share your second opinions.
+Tom: Five. Unresolved disagreement about life-sustaining treatment goes to the commissioner and the court, early. Watch the Supreme Court in January.
+Kate: That's it from us. Thanks for listening.
+Tom: Bye.

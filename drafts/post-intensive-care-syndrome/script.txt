@@ -1,0 +1,72 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is post-intensive care syndrome and recovery after I C U.
+Kate: One line of definition. New or worse physical, cognitive or mental health problems after critical illness, and the same thing in families.
+Tom: Why now?
+Kate: In January GPICS version three made a post-I C U recovery clinic a minimum standard. And in July a big U K trial of remote rehab after discharge came out in JAMA, and it was negative.
+Tom: So the standards are getting firmer while the trials stay stubbornly neutral.
+Kate: That's the theme. Let's start with follow-up clinics.
+Tom: PRaCTICaL. B M J, two thousand and nine, Brian Cuthbertson.
+Kate: Two hundred and eighty-six patients across three U K hospitals, randomised to a nurse-led follow-up programme or standard care. The primary outcome was SF thirty-six quality of life at twelve months.
+Tom: And it was flat.
+Kate: Completely. Physical component forty-two versus forty point eight, no difference in the mental score either. And it cost more.
+Tom: Only a hundred and ninety-two finished the year, though.
+Kate: True. But the Cochrane review in twenty eighteen pooled five studies, about seventeen hundred patients, and found little or no difference in quality of life, mortality or P T S D.
+Tom: And SMOOTH, in Germany, tried primary care case management for sepsis survivors.
+Kate: Also neutral, on mental health quality of life at six months.
+Tom: Is there anything positive?
+Kate: InSPIRE, from Scotland. An integrated health and social care programme, peer support included. It reported better quality of life at a year. But it wasn't randomised. It compared attenders with a usual care cohort.
+Tom: Mobilisation. This is where people get confused.
+Kate: The story starts with Schweickert, Lancet two thousand and nine. A hundred and four ventilated patients, physio and O T during sedation holds. Fifty-nine percent returned to independent function at hospital discharge, against thirty-five percent.
+Tom: Then E P I C C here, Thorax twenty eighteen. Ninety minutes of rehab a day versus thirty. No difference at six months.
+Kate: And then TEAM. N E J M, twenty twenty-two, the ANZICS group. Seven hundred and fifty ventilated patients. Sedation minimisation plus daily active mobilisation, versus usual mobilisation.
+Tom: Result?
+Kate: Days alive and out of hospital at a hundred and eighty days, a median of a hundred and forty-three versus a hundred and forty-five. No difference.
+Tom: And the harm signal?
+Kate: Two parts. Adverse events possibly due to mobilisation, so arrhythmias, blood pressure swings and desaturation, happened in about nine percent against four percent. That was significant. Death at six months was twenty-two and a half percent against nineteen and a half, with an odds ratio of one point one five. The confidence interval crosses one.
+Tom: So possible harm, not proven harm.
+Kate: Yes. And the usual care arm was already mobilising. About three quarters of both groups stood.
+Tom: So more versus quite a lot, not versus nothing.
+Kate: Exactly. The meta-analyses since then are more reassuring. Paton and colleagues, Lancet Respiratory Medicine twenty twenty-four, had fifty-eight trials. No effect on mortality, risk ratio nought point nine eight, moderate certainty. Adverse events in under three percent of sessions.
+Tom: And Critical Care Medicine last year?
+Kate: Fifty-nine trials, about eighty-five hundred patients. Enhanced mobilisation probably reduces I C U-acquired weakness, risk ratio nought point seven nine, and may shorten delirium and ventilation. Nothing convincing on long-term function.
+Tom: Which is why the twenty twenty-five S C C M PADIS update gives a conditional recommendation for enhanced mobilisation.
+Kate: It does. And in-bed cycling, in the CYCLE trial, added nothing.
+Tom: Diaries.
+Kate: The RACHEL trial, twenty ten, three hundred and fifty-two patients. New P T S D was five percent with a diary against thirteen percent without.
+Tom: Then the big French trial.
+Kate: Garrouste-Orgeas, JAMA twenty nineteen. Six hundred and fifty-seven randomised in thirty-five units. Significant P T S D symptoms at three months were thirty percent with a diary and thirty-four percent without. No difference. And only about half of patients completed the trial.
+Tom: The newest meta-analysis?
+Kate: Nursing in Critical Care, this September. Twenty-one studies. After correcting for publication bias, there was no significant effect on P T S D, with modest benefits for anxiety and depression.
+Tom: Rehab after discharge has a run of neutral trials too.
+Kate: Elliott's home programme in Australia and RECOVER in Edinburgh were both neutral. Now iRehab, JAMA this July. Four hundred and twenty-nine patients from fifty-two N H S hospitals, a six-week remote programme of exercise, psychological and peer support.
+Tom: And?
+Kate: EQ five D at eight weeks, a difference of nought point nought four. The minimal important difference was nought point nought eight, and the confidence interval just touches zero. Leg strength, exercise capacity, fatigue and anxiety did improve.
+Tom: So it helps the parts it targets but doesn't shift global quality of life.
+Kate: That's how I read it. There's also a Brazilian stepped-wedge trial in JAMA last month, telehealth rehab across the whole pathway. Quality of life improved overall but not among survivors, and the authors think fewer deaths may explain the gain.
+Tom: Families.
+Kate: Sobering. Carson, JAMA twenty sixteen. Palliative care-led family meetings for chronic critical illness didn't reduce anxiety or depression, and P T S D symptoms were actually higher, twenty-six versus twenty-one on the I E S R.
+Tom: And this year, FICUS, in Intensive Care Medicine.
+Kate: A Swiss cluster trial, sixteen units, a nurse-led family support pathway. No difference in family functioning or mental health over a year. The authors call it hypothesis-generating.
+Tom: Guidelines.
+Kate: NICE C G eighty-three, March two thousand and nine. It was last reviewed in twenty eighteen, with no update. We found no update in progress. It asks for a functional reassessment at two to three months after critical care discharge. Quality standard one fifty-eight, from twenty seventeen, adds a rehab assessment by day four.
+Tom: And GPICS version three?
+Kate: January twenty twenty-six. The minimum standards now say every unit must provide a case mix-appropriate post-I C U recovery clinic with dedicated staff, plus a reassessment at two to three months. Diaries and peer support are quality recommendations.
+Tom: So that's where they part company. PRaCTICaL and Cochrane say the clinic doesn't move quality of life, and GPICS says it's mandatory.
+Kate: Yes. And in fairness, GPICS itself says the ideal model of care is still uncertain. The argument for it is service quality and finding unmet need, not trial benefit.
+Tom: And reality on the ground?
+Kate: N C E P O D's Recovery Beyond Survival, June twenty twenty-five. Only about a quarter of patients had an individualised rehab plan in I C U. A follow-up appointment was made for about fifty-five percent.
+Tom: Outcomes, briefly.
+Kate: Lone and colleagues in Scotland. Five-year mortality among hospital survivors was thirty-two percent, against twenty-three percent in matched hospital controls. Hazard ratio one point three three.
+Tom: And work?
+Kate: McPeake's meta-analysis. Of those employed before, about a third were back at work at three months, and only about fifty-five percent at six and twelve months.
+Tom: Grey zones?
+Kate: Who benefits from more mobilisation? A machine-learning re-analysis of TEAM suggests some patients may benefit and some may be harmed. It's post hoc, so treat it as hypothesis only.
+Tom: My opinion: I'd target clinics at high-risk patients, with psychology and social support built in.
+Kate: Fair. Take-homes for Monday.
+Tom: One. Keep mobilising, but don't chase intensity. TEAM showed no benefit from more and more adverse events.
+Kate: Two. Follow-up clinics are now a GPICS minimum standard, though no trial shows they improve quality of life. Run yours as needs-finding and audit what you find.
+Tom: Three. Diaries are cheap and humane, but they don't reliably prevent P T S D.
+Kate: Four. Families can be harmed by well-meant interventions. Watch for distress rather than assuming support helps.
+Tom: Five. Ask about work, money and family at follow-up. That's where the long-term burden falls.
+Kate: That's it from us. Bye.
+Tom: Bye.

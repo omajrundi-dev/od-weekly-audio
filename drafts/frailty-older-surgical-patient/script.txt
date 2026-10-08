@@ -1,0 +1,63 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is frailty and the older surgical patient.
+Kate: Which is now most of a pre-op clinic list, and a good chunk of what lands on I C U overnight.
+Tom: So we'll skip the definitions. Frailty means low reserve. What matters is what the scores predict, whether anything modifies the risk, and how we talk to patients about it.
+Kate: Start with the numbers. The best U K picture is SNAP three, the Sprint National Anaesthesia Project, published in B J A in twenty twenty-five.
+Tom: Remind me of the design.
+Kate: A five-day snapshot in twenty twenty-two. Seven thousand one hundred and twenty-nine patients aged sixty and over, from two hundred and fourteen U K hospitals. About one in five were frail.
+Tom: And the gradient?
+Kate: Worse length of stay, delirium, complications and one-year mortality as frailty rises, with a clear step up from a Clinical Frailty Scale of four. Not five. Four.
+Tom: So "very mild frailty" isn't nothing.
+Kate: It isn't. And the interesting bit: multimorbidity raised complication rates, but there was no evidence it affected length of stay, delirium or mortality. Frailty did.
+Tom: How good is the C F S at predicting, though? Discrimination, not just association.
+Kate: Modest. A meta-analysis of sixteen cohort studies in twenty twenty-four found frail patients had about four times the odds of dying after surgery. But they're odds, in observational data. McIsaac's Canadian cohort in Annals of Surgery, seven hundred and two patients having elective non-cardiac surgery, found C F S frailty carried about two and a half times the adjusted odds of death or new disability at ninety days.
+Tom: And against more formal tools?
+Kate: Similar accuracy to a modified Fried phenotype, but quicker, with less missing data. That's why it's won.
+Tom: The limits, then. Because I see it misused.
+Kate: Rockwood and Theou set them out themselves. It describes the baseline state, not the acute illness. It isn't widely validated in younger people or in stable single-system disability. And it needs clinical judgement. It's a population risk marker, not a decision rule for one patient.
+Tom: And it says nothing about the operation. A C F S of five having a hernia repair isn't a C F S of five having an oesophagectomy.
+Kate: Right. So combine it with procedure-specific risk tools.
+Tom: Prehabilitation. I want to believe in it.
+Kate: Most of us do. But the frail-specific trials are disappointing. Carli's trial in JAMA Surgery, twenty twenty: a hundred and ten frail patients having colorectal cancer resection. Multimodal prehab versus the same programme after surgery. No difference in the comprehensive complication index.
+Tom: And McIsaac's PREHAB trial?
+Kate: B J A, twenty twenty-two. Home-based exercise and nutrition in older adults with frailty having cancer surgery. A hundred and eighty-two analysed. No significant difference in six-minute walk or anything else. Adherence averaged about sixty percent.
+Tom: Whereas the Dutch-led PREHAB trial was positive.
+Kate: JAMA Surgery, twenty twenty-three. Two hundred and fifty-one colorectal cancer patients, four weeks of supervised, in-hospital, high-intensity exercise plus nutrition and psychological support. Severe complications seventeen percent versus thirty percent, odds ratio nought point four seven.
+Tom: But median age sixty-nine, not a frail cohort, and stopped early because of COVID.
+Kate: Exactly. And the B M J network meta-analysis in twenty twenty-five, a hundred and eighty-six trials, suggests exercise roughly halves the odds of complications. But the certainty was very low.
+Tom: So my reading: supervised beats home-based, and the frail are the hardest to get to the dose.
+Kate: That's my reading too. It's plausible and it's cheap, so do it. But don't promise a frail patient it'll change their outcome.
+Tom: Which brings us to geriatric liaison. What's the evidence there?
+Kate: The Cochrane review of comprehensive geriatric assessment in surgical patients, twenty eighteen. Eight trials, seven in hip fracture. High-certainty evidence that it reduces discharge to a higher level of care, risk ratio nought point seven one. Probably a small mortality benefit, though the confidence interval crosses one. And low-certainty evidence of less delirium.
+Tom: Mostly orthogeriatrics, then.
+Kate: Mostly. Outside hip fracture it's thinner. The U K guidance is still the Centre for Perioperative Care and British Geriatrics Society guideline, from September twenty twenty-one. We couldn't find an update.
+Tom: What does it actually ask for?
+Kate: A C F S for everyone over sixty-five at referral, pre-op assessment and admission. If it's five or more: a comprehensive geriatric assessment, a documented cognitive assessment, and, for emergency admissions, a daily four A T delirium screen. Every hospital should have a perioperative frailty lead and team.
+Tom: And for us in theatre?
+Kate: Avoid benzodiazepines, cyclizine and tramadol. Glycopyrrolate rather than atropine. Consider depth of anaesthesia monitoring and regional techniques to cut opioids. And decide the postoperative care level in line with the patient's wishes.
+Tom: Delirium, then. Regional versus general first, because it's the one I get asked about.
+Kate: Two big trials, both neutral. REGAIN, New England Journal, twenty twenty-one. Sixteen hundred hip fracture patients, spinal versus general. Death or inability to walk at sixty days, eighteen and a half versus eighteen percent. Delirium about twenty percent in both arms.
+Tom: And RAGA?
+Kate: JAMA, twenty twenty-two. Nine hundred and fifty patients in China, regional without sedation versus general. Delirium six point two versus five point one percent. No difference.
+Tom: So choose on other grounds. Depth?
+Kate: ENGAGES, JAMA twenty nineteen, twelve hundred and thirty-two older adults. E E G guidance halved suppression time, seven minutes versus thirteen, but delirium was twenty-six versus twenty-three percent. No benefit. And Balanced, in the Lancet, six thousand six hundred patients, B I S fifty versus thirty-five. No difference in one-year mortality.
+Tom: Yet European guidance still suggests E E G monitoring.
+Kate: It does. The European society's twenty twenty-four update makes it a weak suggestion on low-certainty evidence, even though its own meta-analysis just missed significance. A twenty twenty-five meta-analysis of twelve trials found about a fifth fewer cases of delirium, but the benefit came from European and Asian trials, not North American ones.
+Tom: I'd use processed E E G in the frail anyway. Look at the raw trace and avoid burst suppression. They need far less agent than we think.
+Kate: Fair, as long as we call it an opinion. And benzodiazepines: B-Free, in cardiac surgery, almost twenty thousand patients. Restricting them didn't significantly reduce delirium, but there was no rise in awareness either.
+Tom: Shared decision-making.
+Kate: Montgomery requires us to discuss material risks and reasonable alternatives, and for a frail patient the alternative includes not operating. The CPOC guideline says so explicitly.
+Tom: And the risks that matter to them aren't thirty-day mortality.
+Kate: No. It's going home, staying independent, staying themselves. Best Case Worst Case, from JAMA Surgery, is one structured way to frame that.
+Tom: Last bit, I C U. Does a frail patient benefit from a post-op bed?
+Kate: There's no trial. What we have is an Australian and New Zealand registry study, B J A twenty twenty-five. Over two hundred thousand post-surgical I C U admissions, cancer excluded. Fourteen percent were frail, and frailty was linked to a shorter time to death over four years, adjusted hazard ratio two point three three.
+Tom: And emergency laparotomy we covered in another episode. Geriatrician input there is still patchy.
+Kate: So the decision is less "do they deserve a bed" and more "what are we escalating towards". Agree the ceiling of treatment before induction, not at three in the morning.
+Tom: Take-homes for Monday?
+Kate: One: document a C F S, but read it as a population risk marker. Risk climbs from four, and it says nothing about the operation.
+Tom: Two: prehab is reasonable, but the frail trials are neutral. Supervised programmes with good adherence look best.
+Kate: Three: regional versus general doesn't change delirium. Avoid delirium-provoking drugs and excessive depth, and use multicomponent prevention.
+Tom: Four: get a geriatrician involved early. The best evidence is in hip fracture.
+Kate: Five: before surgery, talk about function and going home, and agree the ceiling of treatment, including I C U.
+Tom: Thanks for listening.
+Kate: Bye for now.

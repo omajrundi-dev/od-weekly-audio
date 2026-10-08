@@ -1,0 +1,58 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Hello.
+Kate: Today's deep dive is delirium and sedation on I C U. Why now? Because in twenty twenty-five the American Padis update told us to prefer dexmedetomidine over propofol, and three months later a big British trial said propofol was fine.
+Tom: Same year, opposite directions. So let's start with the drug we all reach for at three in the morning. Haloperidol.
+Kate: Go on then. Mind U S A, New England, twenty eighteen.
+Tom: Five hundred and sixty-six delirious patients with respiratory failure or shock. Haloperidol, ziprasidone or placebo. Days alive without delirium or coma were about eight to eight and a half in every arm. No difference.
+Kate: And nearly nine in ten of them had hypoactive delirium.
+Tom: Which matters. You wouldn't expect a dopamine blocker to do much for a quiet, withdrawn patient.
+Kate: Then Aid I C U, New England, twenty twenty-two. A thousand patients across Europe, haloperidol two and a half milligrams three times a day versus placebo.
+Tom: Primary outcome was days alive and out of hospital at ninety days. Thirty-six versus thirty-three. Not significant.
+Kate: But ninety-day mortality was thirty-six percent with haloperidol and forty-three with placebo.
+Tom: Secondary outcome, though. You can't hang practice on it.
+Kate: Agreed, but it held up. At one year, forty-five versus fifty-two percent, an absolute difference of about six points. And the prespecified Bayesian analysis put the probability of some mortality benefit at ninety-nine percent.
+Tom: I'd still call that a signal to confirm, not a reason to start giving it to everyone. And prevention is a different story. REDUCE, JAMA twenty eighteen, nearly eighteen hundred Dutch patients given prophylactic haloperidol. Nothing. Not survival, not delirium incidence.
+Kate: The Dutch EuRIDICE trial stopped early for futility too, after a hundred and thirty-two patients. Though fewer of the haloperidol patients needed benzodiazepine rescue.
+Tom: So, reassuringly safe, probably doesn't shorten delirium, and possibly helps with agitation. Fair?
+Kate: Fair. Now dexmedetomidine. SPICE three, New England, twenty nineteen. Four thousand ventilated patients, early dex as the main sedative versus usual care.
+Tom: Ninety-day mortality twenty-nine percent in both arms. Identical.
+Kate: But then the Bayesian age analysis. Over sixty-five, an odds ratio of nought point eight three for death, about a ninety-eight percent probability of benefit. Sixty-five and under, an odds ratio of one point two six, and a ninety-eight and a half percent probability of harm.
+Tom: Post hoc, mind. But it was strong enough that in June twenty twenty-two the manufacturers, with the M H R A, sent a Dear Healthcare Professional letter warning about mortality in patients sixty-five or younger.
+Kate: So in a young septic patient, I'd think twice before making dex the main sedative.
+Tom: Then Mends two, New England, twenty twenty-one. Four hundred and twenty-two septic patients, dex versus propofol, double blind, both titrated to light sedation.
+Kate: And?
+Tom: No difference in delirium or coma-free days, ventilator-free days, ninety-day death, or cognition at six months.
+Kate: Then A two B. JAMA, twenty twenty-five, forty-one U K units, about fourteen hundred patients already on propofol and an opioid. Switched to dex, switched to clonidine, or kept on propofol.
+Tom: Time to successful extubation: no significant difference for either. Medians about a hundred and thirty-six hours for dex and a hundred and sixty-two for propofol, but the confidence intervals crossed one.
+Kate: And the harms went the wrong way. Agitation was about one and a half times as common with both alpha-two drugs, and so was severe bradycardia.
+Tom: Mortality at a hundred and eighty days was the same.
+Kate: So what about depth? Nonseda, New England, twenty twenty. Seven hundred Danish patients, no sedation versus light sedation with a daily hold.
+Tom: Ninety-day mortality forty-two versus thirty-seven percent. Not significant, but not the direction the enthusiasts wanted.
+Kate: And the control arm was already light, about minus two. So the lesson is that light is fine and nothing isn't obviously better. It doesn't defend deep sedation.
+Tom: Sleep. Pro-Medic, twenty twenty-two. Eight hundred and forty-one Australian patients, four milligrams of melatonin nightly or placebo. No difference in delirium-free assessments, sleep, or mortality.
+Kate: And the meta-analyses split. Critical Care Medicine, twenty twenty-five, thirty-two trials, a relative risk for delirium of nought point seven two, low certainty.
+Tom: But Intensive Care Medicine, also twenty twenty-five, restricted to the low risk-of-bias trials. Six trials, about two thousand two hundred patients, relative risk nought point eight nine, confidence interval crossing one.
+Kate: The better the trials, the smaller the effect.
+Tom: As ever. Guidelines, then?
+Kate: The twenty twenty-five Padis focused update, published February. It suggests dex over propofol where light sedation or less delirium is the priority. Conditional, moderate certainty. It suggests melatonin, conditional, low certainty. And it made no recommendation either way on antipsychotics.
+Tom: And it came out three months before A two B. So it couldn't include it, or the trial's agitation and bradycardia signals.
+Kate: In the U K, NICE's delirium guideline, last updated twenty twenty-three, says screen with CAM I C U or I C D S C in critical care. And for distress or risk, consider short-term haloperidol, usually a week or less, at the lowest dose.
+Tom: And the new G P I C S, version three, January twenty twenty-six. The minimum standards are individualised sedation with a daily look at a sedation hold, and daily delirium screening with action. It doesn't name a drug.
+Kate: So the U K is quietly propofol-first, and A two B backs that up. Padis leans towards dex.
+Tom: Bundles. The A B C D E F work. The I C U Liberation collaborative, fifteen thousand patients. Complete bundle compliance was associated with lower odds of delirium and death.
+Kate: Associated. It's an observational quality improvement cohort, and sicker patients can't complete the bundle.
+Tom: True. And this April, JAMA published R two D two I C U. Four hundred French ventilated patients randomised to avoiding wrist restraints or applying them routinely. No difference in delirium or coma-free days, and self-extubation was about nine percent in both.
+Kate: Which supports restraint-light care, at least.
+Tom: Outcomes. Brain I C U, twenty thirteen. Eight hundred and twenty-one patients. At twelve months, a third had cognition like moderate traumatic brain injury, and about a quarter like mild Alzheimer's.
+Kate: And longer delirium was independently associated with worse cognition. But no sedation trial has yet shown that a drug changes long-term cognition. Mends two looked and found nothing.
+Tom: Grey zones?
+Kate: Is haloperidol's mortality signal real? Is the dex age interaction real? And inhaled sedation. SESAR, JAMA twenty twenty-five, sevoflurane versus propofol in moderate to severe A R D S. Fewer ventilator-free days, and ninety-day survival forty-seven versus fifty-six percent.
+Tom: So I wouldn't pick sevoflurane as routine sedation in A R D S outside a trial.
+Kate: Take-homes for Monday?
+Tom: One. Aim for light sedation with a daily hold. Nonseda doesn't justify going deeper, or going to none.
+Kate: Two. Propofol is a perfectly good first-line sedative. A two B found no benefit from switching to dex or clonidine, and more agitation and bradycardia.
+Tom: Three. If you use dex, think about age. The SPICE three signal and the regulator's letter both point to caution in under sixty-fives.
+Kate: Four. Haloperidol won't shorten delirium, and don't give it as prophylaxis. Short courses for distress are reasonable, and Aid I C U is reassuring on safety.
+Tom: Five. Melatonin is cheap and probably harmless, but the best trials show no effect on delirium. Put your effort into the bundle: mobilisation, sleep, family, fewer restraints.
+Kate: That's it from us. Thanks for listening.
+Tom: Bye for now.

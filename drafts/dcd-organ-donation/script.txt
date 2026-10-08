@@ -1,0 +1,64 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is organ donation after circulatory death.
+Kate: Why now? Because D C D is now most of U K deceased donation. Seven hundred and ninety-two of fourteen hundred and twenty-eight deceased donors in the year to March twenty twenty-six, N H S B T says.
+Tom: And consent's going the other way.
+Kate: Overall consent or authorisation fell to fifty-seven percent. For D C D it's about fifty-three.
+Tom: We'll skip the pathway. Law first.
+Kate: Go on.
+Tom: Four nations, four routes. Wales went first with its own Act, in force from December twenty fifteen. England amended the Human Tissue Act through the Organ Donation Deemed Consent Act, from the twentieth of May twenty twenty. Scotland has had deemed authorisation since March twenty twenty-one. And Northern Ireland's twenty twenty-two Act, Dáithí's law, also amends the Human Tissue Act, and has applied since June twenty twenty-three.
+Kate: And the wording that matters at the bedside?
+Tom: In England, section three, subsection six B. Consent is deemed unless someone in a qualifying relationship provides information that would lead a reasonable person to conclude the person would not have consented.
+Kate: So the family tells us about the patient's view. Not their own.
+Tom: Exactly. The Human Tissue Authority's Code F says no relative has a legal right to revoke a valid decision. But donation needn't proceed, even when lawful, if it would risk public confidence.
+Kate: Hence the overrides.
+Tom: A hundred and sixty-seven families last year overruled a loved one's expressed opt-in. Where consent was deemed, families didn't support it in six hundred and two of one thousand and ninety-two cases.
+Kate: More than half.
+Tom: Now, one for your P D O C work. Deemed consent doesn't apply to an "excepted adult". That includes someone who, for a significant period before death, lacked capacity to understand deemed consent.
+Kate: How long's significant?
+Tom: The Act just says long enough that a reasonable person would think deeming inappropriate. The H T A Code gives twelve months as guidance for England and Northern Ireland, matching Wales.
+Kate: So a year in a prolonged disorder of consciousness, no registered decision, and you need express consent from a qualifying relative.
+Tom: Yes. Though a decision they made while they had capacity, like an opt-in on the register, still stands.
+Kate: Pre-mortem interventions. This is where best interests bites.
+Tom: In England and Wales the anchor is still the Department of Health's twenty oh nine guidance on non-heartbeating donation. The withdrawal decision has to be made purely in the patient's interests, independently of donation.
+Kate: Then?
+Tom: Then, if they wanted to donate, delaying withdrawal, moving them to theatre, even starting vasopressors or siting venous lines can be in their best interests, if there's no harm, distress or significant risk of either.
+Kate: And heparin?
+Tom: The guidance says systemic heparin, resuscitation and femoral cannulation are unlikely ever to be in best interests, and you'd want a Court of Protection declaration. In practice, the national N R P protocol says no pre-mortem interventions are currently allowed in controlled D C D.
+Kate: Scotland's different.
+Tom: It's the only nation with a statute for this. Type A procedures, like bloods, bedside imaging, continuing existing ventilation, fluids and blood pressure drugs, can go ahead if authorised. Type B, like C T or bronchoscopy, need two doctors, neither from the retrieval team, plus specific authorisation.
+Kate: And heparin's on neither list.
+Tom: So the Scottish Act doesn't authorise it there.
+Kate: Confirming death. What did the twenty twenty-five Academy Code change for D C D?
+Tom: Not the core. Five minutes is unchanged, and circulatory criteria aren't on the Code's own list of major changes. But it spells things out. Disconnect the ventilator to get rid of PEEP before the five minutes starts. The clock starts at mechanical asystole, and an arterial line or echo can show that, so you don't need a flat E C G.
+Kate: Then pupils and supraorbital pressure.
+Tom: And it recommends corneals when you're confirming soon after arrest. Whoever confirms mustn't be acting for the retrieval team. Then two lines that matter for N R P. No intervention that could restore brainstem function. And if retrieval restores circulation, protocols must ensure there's no blood circulation to the brain.
+Kate: Is five minutes enough?
+Tom: The best data is Dhanani's prospective study in the New England Journal, twenty twenty-one. Six hundred and thirty-one patients. On waveform review, about one in seven had a transient return of cardiac activity after pulselessness. The longest gap was four minutes twenty seconds. Bedside clinicians spotted about one percent.
+Kate: And a twenty twenty-three systematic review in the Canadian Journal of Anesthesia rated five minutes sufficient for controlled D C D, moderate certainty. It said uncontrolled D C D might need longer, low certainty.
+Tom: Now N R P.
+Kate: Abdominal N R P first. After death, the descending aorta's occluded and warm blood is pumped through the abdominal organs. The U K protocol mandates venting the ascending aorta, so any leak towards the arch drains.
+Tom: And it's going national.
+Kate: N H S B T is rolling it out to all abdominal retrieval teams, aiming for twenty twenty-seven. NICE's draft guidance in July supported it for donor livers, with final guidance due in November.
+Tom: The real fight is thoraco-abdominal N R P. Restarting the heart in the body.
+Kate: The American College of Physicians called for a pause on N R P in twenty twenty-one, describing it as retrieval after cardiopulmonary arrest and the induction of brain death. A U K and Canadian proposal answers that death means permanent loss of brain circulation, so you tie off the arch vessels and leave them open to air.
+Tom: Does it matter clinically?
+Kate: A retrospective international study of five hundred and four D C D heart transplants found similar one-year survival, but less severe primary graft dysfunction with thoraco-abdominal N R P. Seven point six versus nineteen point two percent. Observational, though. Here, D C D hearts have mostly come via direct procurement and machine perfusion.
+Tom: My own view? The five-minute stand-off and your confirmation of death are what keep the whole thing legitimate. Don't shave them.
+Kate: Uncontrolled donation after cardiac arrest?
+Tom: There's no routine U K route. A Cambridge pilot with N H S B T started in November twenty twenty-four, aiming for five kidney donations. No results yet that we could find.
+Kate: And P D O C?
+Tom: The R C P's twenty twenty guideline is clear. Donation isn't possible after withdrawing C A N H. Death comes from multi-organ failure and the organs are damaged.
+Kate: So the realistic case is someone still ventilator-dependent.
+Tom: Then ordinary D C D rules apply. Check excepted-adult status, and keep the withdrawal decision, which may be court-sanctioned, separate from donation.
+Kate: Outcomes. Of one thousand and thirty-seven consented D C D patients last year, about a quarter didn't donate. Half of those because asystole took too long.
+Tom: And refusals. In D C D, the commonest reason families gave was that the process took too long. One in five. Consent in patients from ethnic minority groups was twenty-four percent, against fifty-six in white patients.
+Kate: Grey zones?
+Tom: Heparin. Thoraco-abdominal N R P. A longer stand-off for uncontrolled D C D. And, as far as we could find, no reported U K case law on pre-mortem interventions in D C D.
+Kate: Take-homes for Monday.
+Tom: One. Decide on withdrawal first, on its own merits, and write that down.
+Kate: Two. Under deemed consent, the family's role is to tell you the patient's view. Check excepted-adult status, especially in P D O C.
+Tom: Three. Pre-mortem steps must be in best interests and harmless. Under the current national protocol, that means no heparin or cannulation before death.
+Kate: Four. Five full minutes, off the ventilator, observed in person, by someone independent of retrieval.
+Tom: Five. Families walk away over time. Plan logistics early and be honest about how long it takes.
+Kate: That's it from us. Bye.
+Tom: Bye.

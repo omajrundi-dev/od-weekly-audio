@@ -1,0 +1,121 @@
+{
+ "title_topic": "Assessing capacity on ICU",
+ "summary": "A consultant-level look at the hard capacity cases on ICU. Clinicians tend to overestimate capacity in awake ICU patients (Bertrand 2019: physicians judged 45 percent capable against 17 percent by a structured score, which is not the legal test). The Supreme Court in A Local Authority v JB [2021] UKSC 52 sets the structure: s2(1) is the single test, approached functional question first and then the causative nexus (paras 65-79), with fluctuation as a qualification to the assessment (para 64). For delirium and fluctuating capacity the episode contrasts Hedley's longitudinal approach to repeated decisions (Cheshire West v PWK) with one-off ICU decisions, uses the 2007 Code (paras 3.14, 4.26-4.27) and shows what all practicable steps looked like in Royal Free v RH [2026] EWCOP 17. On refusal: King's College Hospital v C (unwise is not incapacity; choosing to give information no weight is not inability to use or weigh it) versus A NHS Trust v ST (not believing a well-founded prognosis held to be incapacity; contested). Advance decisions: s25 validity and applicability, s25(5)-(6) formalities, Barnsley v MSP (non-compliant document still weighty in best interests) and Re AB [2025] EWCOP 20 (Poole J's lessons on ADRTs, prompt applications, s26(5)). LPAs: s9 registration, s11(7)-(8) and Option A on form LP1H. Court applications: NHS Trust v Y and the January 2020 Vice-President's guidance (an application must be made where life-sustaining treatment is in issue and there is disagreement or the case is finely balanced; out-of-hours applications are exceptional). The 2007 Code remains current; no revised Code has been published.",
+ "takeaways": [
+  "Follow JB's sequence and record it: identify the matter, the relevant information in its factual context, whether P is unable to decide, and only then whether that inability is because of an impairment or disturbance of the mind or brain (JB paras 67-79).",
+  "With delirium, document the practicable steps (timing, sedation holds, repeat attempts with others present) and, for one-off decisions, wait for a lucid window if you safely can (s1(3), s4(3), Code paras 3.14 and 4.27; Royal Free v RH para 27).",
+  "An unwise refusal of ventilation, dialysis or blood is not incapacity (King's College Hospital v C paras 30 and 38); not believing a well-founded prognosis was held to be incapacity in ST, but that is contested ground.",
+  "Get the actual advance decision or LPA document: check s25 validity and applicability, the s25(5)-(6) formalities for life-sustaining treatment, LPA registration and Option A for life-sustaining treatment (s11(8)).",
+  "If there is doubt or dispute over life-sustaining treatment, apply to the Court of Protection promptly and keep treating meanwhile (s26(5), s6(7); 2020 guidance paras 8-9; Re AB para 53.7)."
+ ],
+ "sources": [
+  {
+   "label": "A Local Authority v JB [2021] UKSC 52 (Lord Stephens): s2(1) single test para 65; two questions in sequence paras 66-79; relevant information in factual context paras 68-70, 73; fluctuating capacity para 64",
+   "url": "https://caselaw.nationalarchives.gov.uk/uksc/2021/52"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s1 (principles)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/1"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s2 (people who lack capacity)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/2"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s3 (inability to make decisions)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/3"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s4 (best interests; s4(3) likelihood of regaining capacity; s4(10) life-sustaining treatment)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/4"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s6(7) (life-sustaining treatment while a decision is sought from the court, despite donee or deputy decision)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/6"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s9 (LPA must be registered, s9(2)(b))",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/9"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s10 (appointment of donees)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/10"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s11(7)-(8) (welfare LPA: life-sustaining treatment only with express provision)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/11"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s24 (advance decisions: general)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/24"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s25 (validity and applicability; s25(5)-(6) formalities for life-sustaining treatment)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/25"
+  },
+  {
+   "label": "Mental Capacity Act 2005 s26 (effect of advance decisions; s26(5) treatment pending court decision)",
+   "url": "https://www.legislation.gov.uk/ukpga/2005/9/section/26"
+  },
+  {
+   "label": "Mental Capacity Act 2005 Code of Practice (2007; GOV.UK page last updated October 2020, no revised Code published): paras 3.14, 4.26-4.27, 9.56, 9.60",
+   "url": "https://assets.publishing.service.gov.uk/media/5f6cc6138fa8f541f6763295/Mental-capacity-act-code-of-practice.pdf"
+  },
+  {
+   "label": "Local Government Lawyer: Government consults on revised MCA Code of Practice and LPS guidance (draft Code consultation, 2022)",
+   "url": "https://www.localgovernmentlawyer.co.uk/adult-social-care/391-adult-care-news/49976-government-consults-on-revised-mca-code-of-practice-and-guidance-on-liberty-protection-safeguards"
+  },
+  {
+   "label": "GOV.UK press release 18 October 2025: LPS consultation planned for first half of 2026, responses to inform a final MCA Code of Practice",
+   "url": "https://www.gov.uk/government/news/improved-safeguarding-and-protections-for-vulnerable-people"
+  },
+  {
+   "label": "Bertrand et al 2019, Crit Care Med: clinicians vs score on decision-making capacity in 206 ICU patients, 19 French ICUs (physicians 45 percent vs score 17 percent)",
+   "url": "https://doi.org/10.1097/CCM.0000000000003550"
+  },
+  {
+   "label": "Cheshire West and Chester Council v PWK [2019] EWCOP 57 (Sir Mark Hedley): isolated vs repeated decisions, longitudinal view, paras 16-19",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/2019/57"
+  },
+  {
+   "label": "Royal Free London Hospital NHS Foundation Trust v RH [2026] EWCOP 17 (T3) (Peel J): ICU delirium; further capacity assessment ordered paras 24-27; impairment from sedation and critical illness para 46; wishes paras 29, 51",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/17"
+  },
+  {
+   "label": "Kings College Hospital NHS Foundation Trust v C [2015] EWCOP 80 (MacDonald J): refusal of dialysis; principles paras 25-39 (esp. 30, 38); unwise but capacitous paras 97-98",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/2015/80"
+  },
+  {
+   "label": "A NHS Trust v ST [2023] EWCOP 40 (Roberts J): belief subsumed in understanding/using/weighing paras 81-83; hope alone not incapacity para 94; impairment and Official Solicitor's circularity argument paras 103-104",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/2023/40"
+  },
+  {
+   "label": "Barnsley Hospital NHS Foundation Trust v MSP [2020] EWCOP 26 (Hayden J): ventilated ICU patient; unwitnessed document not binding but clear expression of wishes paras 19, 41, 46",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/2020/26"
+  },
+  {
+   "label": "Re AB (ADRT: Validity and Applicability) [2025] EWCOP 20 (T3) (Poole J): valid and applicable subject to s25(6) para 49; s25(2)(c) analysis paras 41-43; lessons for clinicians para 53",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/t3/2025/20"
+  },
+  {
+   "label": "Re PW (Jehovah's Witness: Validity of Advance Decision) [2021] EWCOP 52 (Poole J, 22 September 2021): out-of-hours determination (as described in Re AB para 8; s25(2)(c) analysis quoted at Re AB para 41). Full text on BAILII, not opened directly",
+   "url": "https://www.judiciary.uk/judgments/pw-jehovahs-witness-validity-of-advance-decision/"
+  },
+  {
+   "label": "NHS Cumbria CCG v Rushton [2018] EWCOP 41 (Hayden J): a copy of the ADRT should follow the patient; a telephone summary is rarely sufficient, para 26",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/2018/41"
+  },
+  {
+   "label": "An NHS Trust v Y [2018] UKSC 46: no mandatory court application where MCA followed and agreement, paras 125-126",
+   "url": "https://caselaw.nationalarchives.gov.uk/uksc/2018/46"
+  },
+  {
+   "label": "Serious Medical Treatment, Guidance [2020] EWCOP 2 (Vice-President, 17 January 2020): when to apply paras 6-13; life-sustaining treatment para 9; out-of-hours applications exceptional para 16",
+   "url": "https://caselaw.nationalarchives.gov.uk/ewcop/2020/2"
+  },
+  {
+   "label": "OPG form LP1H (version 08.25), section 5: Option A / Option B on life-sustaining treatment",
+   "url": "https://assets.publishing.service.gov.uk/media/68a83d5d3a052c9c504c8d8f/20250822-LP1H-create-and-register-your-lasting-power-of-attorney.pdf"
+  }
+ ]
+}

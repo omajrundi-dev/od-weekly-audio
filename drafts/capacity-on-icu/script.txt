@@ -1,0 +1,55 @@
+Kate: Hello, I'm Kate.
+Tom: And I'm Tom. Today's deep dive is assessing capacity on I C U.
+Kate: No two-stage test lecture. This is the hard cases. The delirious patient who says no to the tube, the dialysis refusal, the advance decision that turns up at three in the morning.
+Tom: Why now?
+Kate: Because the case law keeps moving, and we're not as good at this as we think. A French one-day study in Critical Care Medicine, twenty nineteen, two hundred and six I C U patients. Physicians judged forty-five percent had capacity. A structured score said seventeen percent.
+Tom: Caveat, though. That score was a Mini-Mental plus an aid to capacity evaluation, not the legal test.
+Kate: Fair. But the main driver of disagreement was a Glasgow Coma Score between ten and fifteen. We confuse being awake with being able to decide.
+Tom: So, structure first. JB in the Supreme Court, twenty twenty-one.
+Kate: Lord Stephens says section two one is the single test. Sections two and three describe it; they aren't freestanding extra tests. Then a sequence. Identify the matter. Identify the information relevant to it, in its factual context, including reasonably foreseeable consequences. Ask whether the person is unable to decide. Only then ask whether that inability is because of an impairment or disturbance of the mind or brain.
+Tom: And he says the two questions are to be approached in that sequence.
+Kate: Paragraph seventy-nine. Functional question first, and the causative nexus is a real question, not a box you tick because the chart says delirium.
+Tom: He also deals with fluctuation.
+Kate: Paragraph sixty-four. Capacity may fluctuate, the question is capacity at the time the decision needs to be made, and evidence of fluctuation is an appropriate qualification to the assessment.
+Tom: So how does that play on the unit?
+Kate: Two different situations. Sir Mark Hedley, in Cheshire West versus P W K, twenty nineteen, distinguished one-off decisions from repeated ones. For the repeated, ongoing kind he took a longitudinal view, starting point incapacity. That was a community case, not I C U.
+Tom: Whereas consent to a trache is a one-off.
+Kate: Exactly. So look for the lucid window. The Code tells you to choose the time of day, wait if capacity's likely to return, and consider whether the drugs are the problem. And section four three makes you ask whether they're likely to regain capacity, and when, even if you end up deciding for them.
+Tom: There's a nice recent example of doing that properly.
+Kate: Royal Free versus R H, Peel J, earlier this year. Thirty-five-year-old, months on I C U, delirium, fluctuating consciousness. The Official Solicitor raised concerns about the capacity evidence, so the judge sent the team back overnight. Two consultants, family present, oxycodone infusion stopped beforehand, two attempts.
+Tom: He still lacked capacity.
+Kate: He did. But that's what all practicable steps looks like. Paragraph twenty-seven.
+Tom: Now the patient who's clearly awake and says no. Ventilation, dialysis, blood.
+Kate: King's College Hospital versus C, MacDonald J, twenty fifteen. A woman refusing dialysis after a suicide attempt. Found to have capacity. Her reasons were about ageing and losing her sparkle, and he called the decision unwise. But the key passage, paragraph thirty-eight: if someone can use and weigh information and chooses to give it no weight, that isn't incapacity.
+Tom: Push back. What about the patient who simply doesn't believe you?
+Kate: That's A N H S Trust versus S T, Roberts J, twenty twenty-three. Nineteen, ventilated, on dialysis, mitochondrial disease. She understood the disease but didn't believe her prognosis. The judge held that belief is subsumed in understanding and using or weighing, so she lacked capacity.
+Tom: That makes me uneasy.
+Kate: It's contested. The two most recent psychiatric reports had suggested capacity. And the Official Solicitor argued that using the same beliefs for both limbs was circular. The judge rejected that, relying on the trauma of a year on I C U. But she also said, paragraph eighty-three, the less certain the medical fact, the more careful the court must be. And at ninety-four, hope that you'll survive doesn't, without more, make you incapacitous.
+Tom: Advance decisions.
+Kate: Section twenty-five is the checklist. Not valid if withdrawn, overtaken by a later L P A covering that treatment, or if they've done something clearly inconsistent with it remaining their fixed decision. Not applicable if they have capacity now, if it's a different treatment, if the specified circumstances are absent, or if there are unanticipated circumstances that would have changed their mind. And for life-sustaining treatment, it must be written, signed, witnessed, with a statement that it applies even if life is at risk.
+Tom: And if it fails on form?
+Kate: Barnsley versus M S P, Hayden J, twenty twenty. Ventilated man on the unit, an unwitnessed advance document refusing life-prolonging treatment. Not binding. But, paragraph forty-one, a clear and eloquent expression of his wishes, and it carried the best interests decision to withdraw.
+Tom: The big recent one?
+Kate: Re A B, Poole J, twenty twenty-five. A living will that nobody showed the clinicians for nearly four months after a hypoxic brain injury. He found it valid and applicable, subject to the formalities, with its authenticity still disputed. Then a list of lessons at paragraph fifty-three. Ask for the document, not a phone summary. Ask family whether anything suggests it's been withdrawn. And if there's real doubt or dispute, apply promptly, because treating against a valid one is as unlawful as treating a capacitous refuser.
+Tom: Meanwhile you keep treating.
+Kate: Section twenty-six five. Life-sustaining treatment can continue while the court decides. And best interests work runs in parallel.
+Tom: Quick one on attorneys.
+Kate: A health and welfare L P A only bites when the person lacks capacity. It must be registered. And under section eleven eight, it covers life-sustaining treatment only if the instrument expressly says so. On the current form that's Option A in section five. Option B, and the decision stays with the clinicians on best interests.
+Tom: And the attorney must act in best interests too.
+Kate: Yes. And if you think they're not, section six seven lets you keep up life-sustaining treatment while you go to court.
+Tom: Guidance. What's current?
+Kate: The two thousand and seven Code is still the Code. A revised draft was consulted on in twenty twenty-two, and as far as we can find, no revised Code has been published.
+Tom: So the old one is what you're held to.
+Kate: Read with the case law. Plus the Vice-President's guidance from January twenty twenty on medical treatment applications. Following N H S Trust versus Y, if the M C A process is followed and everyone agrees, you don't need court. But if it's finely balanced, there's medical disagreement, family disagreement, or a conflict of interest, an application is highly probable. Where that's life-sustaining treatment, it must be made.
+Tom: And out of hours?
+Kate: Treated as exceptional, partly because the Official Solicitor has no out-of-hours service. But it works when it must. In twenty twenty-one Poole J decided a Jehovah's Witness advance decision out of hours, within hours of it surfacing.
+Tom: Grey zones?
+Kate: Belief versus disagreement, after S T. Lay-language advance decisions that don't quite fit the scenario. And weighing what a delirious patient says. R H had asked not to be on the ventilator, yet the judge accepted he wanted as much treatment as possible, on the assumption he'd recover.
+Tom: Take-homes for Monday?
+Kate: One. Follow JB's order: matter, information, inability, then the because-of link. Write each down.
+Tom: Two. With delirium, document the practicable steps. Timing, sedation holds, repeat attempts. And for one-off decisions, wait for the window if you safely can.
+Kate: Three. An unwise refusal isn't incapacity. Not believing a solid prognosis can be, but that's contested ground.
+Tom: Four. Get the actual advance decision or L P A. Check validity, applicability, and for life-sustaining treatment, the formalities and Option A.
+Kate: Five. If there's doubt or dispute over life-sustaining treatment, go to court early, and keep treating while you do.
+Tom: Thanks for listening.
+Kate: Bye for now.

@@ -1,0 +1,113 @@
+{
+ "title_topic": "Organ donation after circulatory death",
+ "summary": "DCD now makes up most UK deceased donation (792 of 1,428 deceased donors in 2025/26, NHSBT), while consent/authorisation fell to 57% overall and about 53% for DCD. Law: Wales (own Act, deemed consent from 1 Dec 2015), England (Organ Donation (Deemed Consent) Act 2019 amending HTA 2004 s3(6)(ba)/(6A)/(6B), from 20 May 2020), Scotland (Human Tissue (Authorisation) (Scotland) Act 2019, deemed authorisation from 26 Mar 2021) and Northern Ireland (2022 Act inserting HTA s3(6AA)/(9A); deemed consent in effect from 1 June 2023). In England consent is deemed unless a person in a qualifying relationship provides information that would lead a reasonable person to conclude the person would not have consented; HTA Code F says relatives have no legal right to revoke a valid decision but donation need not proceed where public confidence is at risk. Excepted adults include those who lacked capacity to understand deemed consent for a significant period before death (HTA guidance: 12 months), which captures many PDOC patients. Pre-mortem steps in England/Wales rest on MCA best interests per DH 2009 guidance (heparin, resuscitation, femoral cannulation unlikely ever to be in best interests; seek Court of Protection declaration); the 2021 UK NRP protocol says no pre-mortem interventions are currently allowed in controlled DCD. Scotland alone has a statutory pre-death procedures regime (Type A: SSI 2020/80; Type B incl. CT, MRI, bronchoscopy, needing two doctors independent of retrieval: SSI 2021/110); heparin is on neither list. The 2025 AoMRC Code leaves the five-minute observation unchanged (circulatory criteria not in its list of major changes) but specifies ventilator disconnection before the five minutes, start at mechanical asystole (arterial line or echo acceptable; ECG asystole not required), corneal reflexes recommended soon after arrest, independence from retrieval, and that post-mortem perfusion protocols must ensure no blood circulation to the brain. Dhanani NEJM 2021 (631 patients) found transient cardiac activity after pulselessness in 14% on waveform review, all within 4 min 20 s; a 2023 systematic review rated five minutes sufficient for controlled DCD (moderate certainty). A-NRP is being rolled out nationally by 2027 with NICE guidance due Nov 2026; TA-NRP remains contested (ACP 2021 call for a pause; UK-Canadian permanence proposal; retrospective data showing less severe PGD). Uncontrolled DCD is a Cambridge pilot only. The RCP 2020 PDOC guideline states donation is not possible after CANH withdrawal. Of 1,037 consented DCD patients in 2025/26, 266 did not donate, 52% of them because of prolonged time to asystole; length of process was the commonest family reason for declining DCD (20%).",
+ "takeaways": [
+  "Make the withdrawal decision first, on its own merits in the patient's best interests, independently of donation, and document it.",
+  "Under deemed consent the family's role is to give information about the patient's own view; check excepted-adult status (lack of capacity for a significant period, HTA guidance 12 months), which often applies in PDOC.",
+  "Pre-mortem steps must be in the patient's best interests and not cause harm or distress; under the current (2021) national NRP protocol there is no pre-mortem heparin or cannulation in UK controlled DCD, and Scotland has a statutory Type A/Type B list.",
+  "Confirm death after five full minutes, off the ventilator, observed in person, by a clinician independent of the retrieval team, as the 2025 AoMRC Code sets out.",
+  "Families most often decline DCD because the process takes too long; plan logistics early and be honest about timescales."
+ ],
+ "sources": [
+  {
+   "label": "Human Tissue Act 2004, section 3 (appropriate consent: adults, incl. deemed consent subsections 6A, 6AA, 6B, 9, 9A, 10)",
+   "url": "https://www.legislation.gov.uk/ukpga/2004/30/section/3"
+  },
+  {
+   "label": "Human Tissue Act 2004, section 43 (preservation for transplantation)",
+   "url": "https://www.legislation.gov.uk/ukpga/2004/30/section/43"
+  },
+  {
+   "label": "Organ Donation (Deemed Consent) Act 2019 (England), in force 20 May 2020",
+   "url": "https://www.legislation.gov.uk/ukpga/2019/7/section/1"
+  },
+  {
+   "label": "Human Transplantation (Wales) Act 2013, sections 4-5 (deemed consent; excepted adults), in force 1 Dec 2015",
+   "url": "https://www.legislation.gov.uk/anaw/2013/5/section/4"
+  },
+  {
+   "label": "Human Tissue (Authorisation) (Scotland) Act 2019, section 23 (pre-death procedures), in force 26 Mar 2021",
+   "url": "https://www.legislation.gov.uk/asp/2019/11/section/23"
+  },
+  {
+   "label": "Human Tissue (Authorisation) (Specified Type A Procedures) (Scotland) Regulations 2020 (SSI 2020/80), schedule",
+   "url": "https://www.legislation.gov.uk/ssi/2020/80/schedule"
+  },
+  {
+   "label": "Human Tissue (Authorisation) (Specified Type B Procedures) (Scotland) Regulations 2021 (SSI 2021/110)",
+   "url": "https://www.legislation.gov.uk/ssi/2021/110"
+  },
+  {
+   "label": "Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022",
+   "url": "https://www.legislation.gov.uk/nia/2022/10/contents"
+  },
+  {
+   "label": "NHSBT: Daithi's Law comes into effect in Northern Ireland (1 June 2023)",
+   "url": "https://www.organdonation.nhs.uk/news/dáithí-s-law-comes-into-effect-in-northern-ireland/"
+  },
+  {
+   "label": "HTA Code of Practice F part two: deceased organ and tissue donation (significant period guidance, no legal right to revoke, best interests before death)",
+   "url": "https://www.hta.gov.uk/sites/default/files/2025-12/Code%20F%20part%20two%20-%20Deceased%20organ%20and%20tissue%20donation.pdf"
+  },
+  {
+   "label": "Department of Health 2009: Legal issues relevant to non-heartbeating organ donation (England and Wales)",
+   "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/138313/dh_109864.pdf"
+  },
+  {
+   "label": "AoMRC Code of Practice for the diagnosis and confirmation of death, 2025 update (Section 5 circulatory criteria; Appendix 1 summary of changes)",
+   "url": "https://naccs.org.uk/wp-content/uploads/2024/11/Code_of_Practice_DC_of_Death_041124.pdf"
+  },
+  {
+   "label": "NHSBT UK Protocol for NRP in controlled DCD, version 1.3, April 2021",
+   "url": "https://scts.org/_userfiles/pages/files/transplant/ukprotocolfornormothermicregionalperfusionversion13100421.pdf"
+  },
+  {
+   "label": "NHSBT Organ and Tissue Donation and Transplantation Activity Report 2025/26, section 1 summary",
+   "url": "https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/39080/section-1-summary-of-donor-and-transplant-activity.pdf"
+  },
+  {
+   "label": "NHSBT Activity Report 2025/26, section 13 National Potential Donor Audit (consent rates, overrides, refusal reasons, non-proceeding reasons)",
+   "url": "https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/39092/section-13-national-potential-donor-audit.pdf"
+  },
+  {
+   "label": "Dhanani et al. Resumption of cardiac activity after withdrawal of life-sustaining measures, NEJM 2021 (prospective observational)",
+   "url": "https://doi.org/10.1056/NEJMoa2022713"
+  },
+  {
+   "label": "Zorko et al. Autoresuscitation after circulatory arrest: updated systematic review, Can J Anaesth 2023",
+   "url": "https://doi.org/10.1007/s12630-023-02411-8"
+  },
+  {
+   "label": "Manara et al. Maintaining the permanence principle for death during in situ NRP: a UK and Canadian proposal, Am J Transplant 2020",
+   "url": "https://doi.org/10.1111/ajt.15775"
+  },
+  {
+   "label": "American College of Physicians statement of concern on NRP-cDCD, 14 June 2021",
+   "url": "https://www.acponline.org/acp-newsroom/the-american-college-of-physicians-says-organ-procurement-method-raises-significant-ethical-concerns"
+  },
+  {
+   "label": "Louca et al. Outcomes after DCD heart transplantation, taNRP vs DPP, JACC Heart Fail 2025 (retrospective, 504 transplants)",
+   "url": "https://doi.org/10.1016/j.jchf.2025.04.003"
+  },
+  {
+   "label": "Louca et al. Getting out of the box: the future of the UK DCD heart programme, EClinicalMedicine 2023 (viewpoint)",
+   "url": "https://doi.org/10.1016/j.eclinm.2023.102320"
+  },
+  {
+   "label": "NICE GID-HTG10880: in-situ abdominal NRP for donor livers after controlled DCD (in development; draft consultation July 2026, publication expected 19 Nov 2026)",
+   "url": "https://www.nice.org.uk/guidance/indevelopment/gid-htg10880"
+  },
+  {
+   "label": "British Liver Trust news on NICE draft recommendation and NHSBT estimate of 150 extra liver transplants (8 July 2026)",
+   "url": "https://britishlivertrust.org.uk/potential-for-hundreds-more-liver-transplants-after-nice-recommends-new-life-saving-liver-procedure-for-nhs-use/"
+  },
+  {
+   "label": "East Anglian Air Ambulance: uncontrolled DCD (ODASICA) pilot led by Cambridge University Hospitals with NHSBT (NHSBT ref TF093)",
+   "url": "https://www.eaaa.org.uk/?p=21992"
+  },
+  {
+   "label": "Royal College of Physicians. Prolonged disorders of consciousness following sudden onset brain injury: national clinical guidelines 2020",
+   "url": "https://www.rcp.ac.uk/media/ptcoggi5/pdoc-guidelines_final_online_0_0.pdf"
+  }
+ ]
+}
