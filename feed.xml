@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 17:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:53:35 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,119 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Temperature control after cardiac arrest</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-temperature-control-after-arrest</guid>
+      <pubDate>Thu, 08 Oct 2026 01:53:32 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-temperature-control-after-arrest.mp3" length="3693815" type="audio/mpeg"/>
+      <itunes:duration>616</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Deep dive from the 2002 HACA and Bernard hypothermia trials through TTM (33 vs 36 degrees, 2013), HYPERION (non-shockable, 2019), TTM2 (2021, hypothermia vs actively fever-controlled normothermia, no difference in 6-month death, more arrhythmia with cooling), HACA-IHCA (underpowered, futile), the BOX duration trial (36 vs 72 h fever prevention) and ICECAP (JAMA 2026, longer cooling does not help, no normothermia arm). Covers the 2025 ERC-ESICM shift from targeted temperature management to temperature control with fever prevention (at or below 37.5 C for 36 to 72 h, feedback device, no cold-fluid prehospital cooling, no active rewarming of mild hypothermia), differences with the AHA, practical management, outcomes, and grey zones: shockable and non-shockable subgroups, in-hospital arrest, illness severity, and ongoing trials STEPCARE (TEMP-CARE), IH-TTM and R-CAST OHCA.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>The question has changed from &#x27;cool to 33&#x27; to &#x27;have I prevented fever&#x27;: target 37.5 C or below with continuous core temperature monitoring.</li>
+<li>ERC-ESICM 2025 suggests preventing fever for 36 to 72 hours; the BOX trial found no difference between 36 and 72 hours of device-based fever prevention.</li>
+<li>If a device is used, use one with feedback; whether devices beat simple measures is being tested in STEPCARE (TEMP-CARE).</li>
+<li>Do not actively rewarm comatose patients who arrive mildly hypothermic (32-36 C), and do not use routine prehospital cold-fluid cooling.</li>
+<li>Hypothermia is not proven dead in non-shockable, in-hospital or illness-severity subgroups, but there is no good evidence to chase it outside a trial.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa012689">HACA Study Group, NEJM 2002</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa003289">Bernard et al, NEJM 2002</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1310519">TTM trial, Nielsen et al, NEJM 2013</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1906661">HYPERION, Lascarrou et al, NEJM 2019</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2100591">TTM2, Dankiewicz et al, NEJM 2021</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.122.060106">HACA-IHCA, Circulation 2022</a></li>
+<li><a href="https://doi.org/10.1001/jama.2017.8978">Kirkegaard et al, TTM 48 vs 24 h, JAMA 2017</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2212528">BOX duration of fever prevention, Hassager et al, NEJM 2023</a></li>
+<li><a href="https://doi.org/10.1001/jama.2026.10247">ICECAP, Meurer et al, JAMA 2026</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2023.109928">Granfeldt et al, ILCOR updated systematic review, Resuscitation 2023</a></li>
+<li><a href="https://doi.org/10.1016/j.amjcard.2023.05.058">Meta-analysis hypothermia vs normothermia, Am J Cardiol 2023</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006964">Early cooling systematic review, Crit Care Med 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39407230/">TTM2 post hoc shockable-like subset, Crit Care 2024 (post hoc)</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2023.109831">TTM2 sedative substudy, Resuscitation 2023</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-08117-3">ERC-ESICM Guidelines 2025 post-resuscitation care</a></li>
+<li><a href="https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/post-resuscitation-care-guidelines">Resuscitation Council UK 2025 post-resuscitation care guidelines</a></li>
+<li><a href="https://doi.org/10.1161/CIR.0000000000001375">AHA 2025 Part 11 post-cardiac arrest care</a></li>
+<li><a href="https://doi.org/10.1111/aas.70034">TEMP-CARE protocol (STEPCARE), Acta Anaesthesiol Scand 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40846339/">R-CAST OHCA protocol, BMJ Open 2025</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT07086703">IH-TTM trial registration</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Prolonged disorders of consciousness: diagnosis and assessment</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-pdoc-diagnosis-and-assessment</guid>
+      <pubDate>Thu, 08 Oct 2026 01:53:31 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-pdoc-diagnosis-and-assessment.mp3" length="3400586" type="audio/mpeg"/>
+      <itunes:duration>567</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A consultant-level review of PDOC diagnosis. Clinical consensus misclassifies roughly four in ten patients labelled vegetative as minimally conscious (Schnakers 2009), and a single C R S R misdiagnoses about a third (Wannez 2017), so repeated structured assessment is the standard. Task-based f M R I and E E G studies (Monti 2010, Claassen 2019, Bodien 2024) show covert command following in a minority of behaviourally unresponsive patients (25 percent of 241 in Bodien), but these are research tools with a high false-negative rate. The A A N 2018 and E A N 2020 guidelines are more open to such tools than the R C P 2020 guideline, which restricts them to registered research. The episode covers the R C P pathway (specialist referral beyond 4 weeks, at least ten C R S R occasions over 2 to 3 weeks, re-evaluation at 6 and 12 months), amantadine in traumatic PDOC, prognosis by aetiology and the R C P chronic and permanent definitions, and briefly the Mental Capacity Act angle.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Do not rely on a single bedside look: use the C R S R repeatedly (R C P: at least ten occasions over two to three weeks) after excluding sedatives, seizures, hydrocephalus and metabolic causes.</li>
+<li>Anyone still disordered beyond four weeks should be referred to a specialist PDOC unit; consider amantadine for traumatic cases at 4 to 16 weeks (A A N Level B).</li>
+<li>Covert awareness is real (cognitive motor dissociation in 25 percent of non-responders in Bodien 2024) but f M R I and E E G paradigms are research tools; a negative result does not exclude awareness.</li>
+<li>The R C P 2020 guideline and the E A N 2020 guideline give opposite advice on activation paradigms; know your local position and document practicable steps under the Mental Capacity Act.</li>
+<li>Prognosis favours traumatic over non-traumatic aetiology and M C S over vegetative state; trajectory on serial C R S R matters more than the label.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1186/1471-2377-9-35">Schnakers et al 2009, BMC Neurology: diagnostic accuracy of VS and MCS (103 patients)</a></li>
+<li><a href="https://doi.org/10.1002/ana.24962">Wannez et al 2017, Annals of Neurology: repetition of behavioural assessments (123 patients)</a></li>
+<li><a href="https://doi.org/10.1126/science.1130197">Owen et al 2006, Science 313:1402: detecting awareness in the vegetative state (single patient; details taken from citation only)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0905370">Monti et al 2010, NEJM: willful modulation of brain activity (54 patients)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1812757">Claassen et al 2019, NEJM: detection of brain activation in unresponsive patients (104 patients)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2400645">Bodien et al 2024, NEJM: cognitive motor dissociation in disorders of consciousness (353 adults)</a></li>
+<li><a href="https://doi.org/10.1212/WNL.0000000000005926">Giacino et al 2018, Neurology: AAN/ACRM/NIDRR practice guideline update</a></li>
+<li><a href="https://doi.org/10.1111/ene.14151">Kondziella et al 2020, Eur J Neurol: EAN guideline on diagnosis of coma and other DoC</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1102609">Giacino et al 2012, NEJM: placebo-controlled trial of amantadine (184 patients)</a></li>
+<li><a href="https://www.mentalhealthlaw.co.uk/media/2020-03_RCP_PDOC_guidelines.pdf">Royal College of Physicians 2020: PDOC following sudden onset brain injury, national clinical guidelines</a></li>
+<li><a href="https://doi.org/10.1093/brain/awab063">Scolding, Owen, Keown 2021, Brain: critical evaluation of the new UK guidelines</a></li>
+<li><a href="https://doi.org/10.1177/02692155221099704">Wade et al 2022, Clinical Rehabilitation: response to the critical evaluation</a></li>
+<li><a href="https://doi.org/10.1080/09602011.2017.1310113">Gill-Thwaites et al 2018, Neuropsychological Rehabilitation: SMART update</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Death by neurological criteria (brainstem death testing)</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-07-brainstem-death-testing</guid>
+      <pubDate>Thu, 08 Oct 2026 01:53:30 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-brainstem-death-testing.mp3" length="3602611" type="audio/mpeg"/>
+      <itunes:duration>600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>The Academy of Medical Royal Colleges 2025 Code of Practice (in use from 1 January 2025) replaced the 2008 Code without changing the definition of death. Key changes: apnoea test start PaCO2 at least 5.3 kPa, minimum 5 minutes, end PaCO2 at least 8.0 kPa, rise at least 2.7 kPa, pH below 7.3; time of death is now the completion of the second set of clinical tests (or the point the final two doctors are satisfied if ancillary investigation follows) rather than the first set; core temperature at least 36 C; sodium 125 to 160 mmol/L; red-flag groups folded into preconditions; ancillary investigation required when full examination or apnoea test is impossible or confounders cannot be excluded (including decompressive craniectomy and therapeutic steroids); CT angiography is the UK consensus ancillary test of choice, whereas the 2023 AAN/AAP/CNS/SCCM guideline recommends against it and a 2025 Canadian prospective study found CTA and CT perfusion did not reach a 98 percent accuracy threshold. ECMO requirements are unchanged, with supplementary 2020 UK guidance awaiting update. UK (brainstem) and US (whole brain) formulations differ conceptually but the bedside examination is near identical; the WBDP 2020 and AAN 2023 documents are consensus, not trial evidence. Case law (Bland, Re M 2020, Dance 2022, Casey 2023, DT 2025 EWCOP, Barts v MC 2025) holds that a person is not dead in law until Code-compliant testing, that disputes about testing go to the Court of Protection on best interests, and that once death is properly established there is no best interests analysis. NHSBT reports neurological testing in potential donors fell to 63 percent in March 2025 from 72 percent the year before, with DCD now 62 percent of deceased donors.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Know the 2025 Code numbers: apnoea start PaCO2 at least 5.3 kPa, 5 minutes minimum, end at least 8.0 kPa with rise at least 2.7 kPa and pH below 7.3; core temperature at least 36 C; time of death is at completion of the second set.</li>
+<li>Ancillary investigation is required in defined circumstances (incomplete examination or apnoea test, confounders such as residual sedation, craniectomy, therapeutic steroids); document why, and do not treat CT angiography as infallible given the UK consensus versus US guideline and Canadian data.</li>
+<li>On ECMO the criteria are unchanged; plan sweep or CO2 titration for the apnoea test and sample sites (on VA-ECMO, left and right distal arterial gases) with supplementary guidance.</li>
+<li>If a family objects to testing or the diagnosis, follow Code 6.69: talk early, offer the lay summary and observation of tests, seek legal advice within days. Until Code-compliant testing the person is not dead in law; disputes about testing in adults go to the Court of Protection on best interests.</li>
+<li>Test promptly: neurological testing in potential donors fell to 63 percent in March 2025 and the CMOs wrote in February 2026 backing the Code.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://naccs.org.uk/wp-content/uploads/2024/11/Code_of_Practice_DC_of_Death_041124.pdf">AoMRC Code of Practice for the diagnosis and confirmation of death, 2025 update (full text read via NACCS-hosted PDF)</a></li>
+<li><a href="https://www.aomrc.org.uk/publication/a-code-of-practice-for-the-diagnosis-and-confirmation-of-death-2025-update/">AoMRC 2025 Code publication page</a></li>
+<li><a href="https://ficm.ac.uk/cmos-reinforce-importance-aomrc-code-of-practice">FICM: CMOs reinforce importance of AoMRC Code of Practice (Feb 2026; page itself not retrievable, content from search summary)</a></li>
+<li><a href="https://assets.publishing.service.gov.uk/media/6878a0f80263c35f52e4dcd3/nhsbt-annual-report-and-accounts-2024-to-2025.pdf">NHSBT Annual Report and Accounts 2024-25 (testing 63 vs 72 percent; DCD 62 percent; consent 58.9 percent)</a></li>
+<li><a href="https://doi.org/10.1212/WNL.0000000000207740">Greer et al. AAN/AAP/CNS/SCCM Pediatric and Adult BD/DNC Consensus Guideline, Neurology 2023 (modified Delphi consensus)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2020.11586">Greer et al. World Brain Death Project, JAMA 2020 (international consensus statement)</a></li>
+<li><a href="https://doi.org/10.1111/anae.15950">Thomas et al. UK consensus guideline on cerebral CT angiography as ancillary investigation, Anaesthesia 2023</a></li>
+<li><a href="https://doi.org/10.1177/1751143719832170">Meadows et al. Diagnosis of death using neurological criteria in adults on ECMO: UK guidance, J Intensive Care Soc 2020</a></li>
+<li><a href="https://doi.org/10.1001/jamaneurol.2025.2375">CT perfusion and CT angiography for death by neurologic criteria, prospective multicentre Canadian study, JAMA Neurol 2025</a></li>
+<li><a href="https://doi.org/10.1016/j.jcrc.2024.154545">Salih et al. Brain death determination on VA-ECMO and Harlequin syndrome, J Crit Care 2024 (27 patients, single centre)</a></li>
+<li><a href="https://doi.org/10.1097/MAT.0000000000002561">Su et al. Apnea testing and brain death determination during ECMO, multicentre retrospective analysis, ASAIO J 2025 (read, not quoted on air)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2020/164">Re M (Declaration of Death of Child) [2020] EWCA Civ 164</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2022/935">Barts Health NHS Trust v Dance [2022] EWCA Civ 935</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/fam/2022/2250">Guy&#x27;s and St Thomas&#x27; NHS Foundation Trust v A [2022] EWHC 2250 (Fam)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/fam/2023/2244">St George&#x27;s University Hospitals NHS Foundation Trust v Casey [2023] EWHC 2244 (Fam)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2025/36">A London NHS Trust v DT &amp; Ors (Brain Stem Testing) [2025] EWCOP 36 (T3)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/fam/2025/3140">Barts Health NHS Trust v MC &amp; Anor [2025] EWHC 3140 (Fam)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Withdrawing CANH in prolonged disorders of consciousness after Re Y</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-canh-withdrawal-after-re-y</guid>
