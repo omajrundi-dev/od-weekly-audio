@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 12:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:05:39 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,119 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Haemophagocytic lymphohistiocytosis (HLH) in adult ICU (backup voices)</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-08-hlh-adult-icu</guid>
+      <pubDate>Fri, 09 Oct 2026 02:05:39 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-08-hlh-adult-icu.mp3" length="6703698" type="audio/mpeg"/>
+      <itunes:duration>559</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Secondary HLH in adults is a sepsis mimic that is easily missed. The episode covers when to suspect it (the three Fs of fever, falling counts and raised ferritin, with organ failure not responding to treatment), the HScore against the HLH-2004 criteria and their limits in critical care, the main triggers (infection including EBV, lymphoma, autoimmune disease or macrophage activation syndrome, and CAR T related IEC-HS), and the largely observational evidence for dexamethasone, etoposide, anakinra, emapalumab and ruxolitinib. It reports ICU mortality of 57 percent in a large French cohort, and stresses early haematology involvement. Reference points are the 2023 UK HiHASC guideline and the Histiocyte Society adult recommendations.</p>
+<p><em>Rendered with backup voices (Kokoro) because the Gemini TTS credits were exhausted.</em></p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Fever, falling counts and raised ferritin in a patient not responding as expected: check triglycerides, fibrinogen, liver tests and film, and calculate the HScore.</li>
+<li>Call haematology the day you think of it, and agree dexamethasone, anakinra and whether etoposide is needed.</li>
+<li>Hunt the trigger hard: lymphoma, EBV and other viral PCRs, autoimmune disease, recent CAR T.</li>
+<li>Be honest with families: ICU mortality was over half in the largest cohort and the drug evidence is observational.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S2665-9913(23)00273-4">HiHASC 2023 consensus guideline, Lancet Rheumatology 2024 (Cox et al.)</a></li>
+<li><a href="https://doi.org/10.1182/blood.2018894618">La Rosee et al. Recommendations for the management of HLH in adults, Blood 2019 (expert opinion)</a></li>
+<li><a href="https://doi.org/10.1002/art.38690">Fardet et al. Development and validation of the HScore, Arthritis Rheumatol 2014</a></li>
+<li><a href="https://doi.org/10.1186/s13054-020-02941-3">Lachmann et al. HLH-2004 criteria and HScore in critically ill patients, Crit Care 2020</a></li>
+<li><a href="https://doi.org/10.1111/joim.20065">Lachmann et al. Multicenter validation of secondary HLH diagnostic criteria, J Intern Med 2025</a></li>
+<li><a href="https://doi.org/10.3389/fmed.2021.735796">Marseille ICU-HLH cohort, Front Med 2021</a></li>
+<li><a href="https://doi.org/10.3389/fimmu.2019.00055">Karakike and Giamarellos-Bourboulis. Macrophage activation-like syndrome in sepsis, Front Immunol 2019 (review)</a></li>
+<li><a href="https://doi.org/10.1016/j.jtct.2023.03.006">Hines et al. Immune effector cell-associated HLH-like syndrome, Transplant Cell Ther 2023 (ASTCT panel)</a></li>
+<li><a href="https://doi.org/10.1182/blood-2017-06-788349">Bergsten et al. HLH-2004 long-term results (children), Blood 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25157895/">Arca et al. Prognostic factors of early death in 162 adults with haemophagocytic syndrome, Br J Haematol 2015</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26584195/">Shakoory et al. IL-1 receptor blockade in sepsis with MAS features, post hoc reanalysis, Crit Care Med 2016</a></li>
+<li><a href="https://doi.org/10.1182/bloodadvances.2024013690">REAL-HLH emapalumab in malignancy-associated HLH, Blood Adv 2026 (retrospective, sponsor-linked authors)</a></li>
+<li><a href="https://doi.org/10.1111/bjh.17331">Ruxolitinib plus DEP salvage, single-arm phase 2, Br J Haematol 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41972157/">Ruxolitinib-based regimen vs HLH-94 in paediatric HLH, retrospective, Front Immunol 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42334930/">Expert Opin Biol Ther 2026 narrative review of biologics in adult secondary HLH</a></li>
+<li><a href="https://gettingitrightfirsttime.co.uk/girft-leads-cross-specialty-clinical-group-to-develop-best-practice-pathway-for-the-rare-syndrome-hlh/">GIRFT HLH best practice pathway and guidance, 2024</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Haemolytic uraemic syndrome on ICU (backup voices)</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-08-hus-on-icu</guid>
+      <pubDate>Fri, 09 Oct 2026 02:05:39 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-08-hus-on-icu.mp3" length="6316318" type="audio/mpeg"/>
+      <itunes:duration>526</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Adult HUS as it presents to ICU. Sort immune TTP, STEC-HUS, complement-mediated (atypical) HUS and secondary TMAs on day one: ADAMTS13 activity, stool Shiga toxin PCR and complement studies before plasma, and early phone contact with the National aHUS Service in Newcastle (NHS England funding via Blueteq). Plasma exchange is a bridge until TTP is excluded. STEC-HUS evidence (2012 German outbreak case-control study; ECULISHU in children) does not support eculizumab. For aHUS, eculizumab and ravulizumab evidence is from single-arm trials; the UK SETS aHUS trial suggests selected patients can stop with monitoring. Meningococcal vaccination (MenACWY and Bexsero), antibiotic prophylaxis and renal outcomes are covered.</p>
+<p><em>Rendered with backup voices (Kokoro) because the Gemini TTS credits were exhausted.</em></p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Before plasma: ADAMTS13 activity, stool Shiga toxin PCR and complement bloods.</li>
+<li>Ring the National aHUS Service in Newcastle early; funding goes through Blueteq.</li>
+<li>Plasma exchange is a bridge until TTP is excluded, not a treatment for aHUS.</li>
+<li>STEC-HUS is managed supportively; eculizumab is not funded there and the trials are negative on the acute endpoint.</li>
+<li>If aHUS: vaccinate (MenACWY and Bexsero) and give antibiotic prophylaxis, and plan for individualised withdrawal rather than assuming lifelong therapy.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S2352-3026(17)30026-1">Bendapudi 2017, PLASMIC score, Lancet Haematol</a></li>
+<li><a href="https://doi.org/10.1016/j.jtha.2025.06.002">2025 focused update of the 2020 ISTH TTP guidelines, J Thromb Haemost</a></li>
+<li><a href="https://doi.org/10.1136/bmj.e4565">Menne 2012, O104:H4 HUS case-control study, BMJ</a></li>
+<li><a href="https://doi.org/10.1681/ASN.0000000000000182">ECULISHU, eculizumab in paediatric STEC-HUS, JASN 2023</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1208981">Legendre 2013, eculizumab in aHUS, NEJM</a></li>
+<li><a href="https://doi.org/10.1016/j.kint.2020.01.035">Rondeau 2020, ravulizumab in adults with aHUS, Kidney Int</a></li>
+<li><a href="https://doi.org/10.1016/j.xkme.2024.100855">Ravulizumab 2-year outcomes in two phase 3 trials, Kidney Med 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.lanepe.2025.101392">SETS aHUS, eculizumab withdrawal, Lancet Reg Health Eur 2025</a></li>
+<li><a href="https://doi.org/10.2215/CJN.04760512">Fremeaux-Bacchi 2013, French aHUS series, CJASN</a></li>
+<li><a href="https://doi.org/10.1016/j.kint.2024.05.015">KDIGO Controversies Conference, role of complement in kidney disease, Kidney Int 2024</a></li>
+<li><a href="https://www.atypicalhus.co.uk/emergency-referral">National aHUS Service (Newcastle): emergency referral</a></li>
+<li><a href="https://www.atypicalhus.co.uk/longer-term-management-of-patients-with-ahus/">National aHUS Service: longer term management and withdrawal</a></li>
+<li><a href="https://www.atypicalhus.co.uk/following-approval-of-eculizumab/">National aHUS Service: following approval of eculizumab (vaccination, prophylaxis)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Thrombotic thrombocytopenic purpura on ICU (backup voices)</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-08-ttp-on-icu</guid>
+      <pubDate>Fri, 09 Oct 2026 02:05:39 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-08-ttp-on-icu.mp3" length="6252678" type="audio/mpeg"/>
+      <itunes:duration>521</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Immune TTP from the ICU perspective: suspect it early from thrombocytopenia plus microangiopathic haemolysis with a normal coagulation screen, send ADAMTS13 before any plasma (the PLASMIC score is a bridge, and BSH prefers early ADAMTS13 to scores), and start plasma exchange within four to eight hours with steroids, then rituximab and caplacizumab. HERCULES and large real-world and retrospective cohorts support caplacizumab, at the cost of more mucocutaneous bleeding; the single-arm MAYARI trial (registry results) shows exchange-free treatment works in milder, French score 1 or 2 patients but does not apply to critically ill presentations. Troponin, age and neurological involvement mark high risk, platelet transfusion is avoided except for life-threatening bleeding, recombinant ADAMTS13 is now preferred for congenital TTP prophylaxis, and relapse surveillance with ADAMTS13 and pre-emptive rituximab matters because survivors carry excess stroke and other long-term morbidity.</p>
+<p><em>Rendered with backup voices (Kokoro) because the Gemini TTS credits were exhausted.</em></p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Suspect TTP early and send ADAMTS13 activity and antibody before any plasma, but do not wait for the result.</li>
+<li>Call the TTP centre and start plasma exchange within hours with steroids, then rituximab and caplacizumab once TTP is confirmed.</li>
+<li>Avoid platelet transfusion unless there is life-threatening bleeding, and check troponin and ECG in everyone.</li>
+<li>Monitor ADAMTS13 after discharge; pre-emptive rituximab below 20 IU/dL prevents relapse.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1806311">HERCULES, Scully et al, N Engl J Med 2019</a></li>
+<li><a href="https://doi.org/10.1111/jth.15892">Post-HERCULES long-term follow-up, J Thromb Haemost 2022</a></li>
+<li><a href="https://doi.org/10.1182/blood.2020007599">UK real-world caplacizumab, Dutt et al, Blood 2021</a></li>
+<li><a href="https://doi.org/10.1182/blood.2020008021">French triplet regimen, Coppo et al, Blood 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.jtha.2022.11.010">Impact of first-line caplacizumab (pooled real-world), J Thromb Haemost 2023</a></li>
+<li><a href="https://doi.org/10.1016/j.eclinm.2025.103168">Capla 1000+ international cohort, EClinicalMedicine 2025 (retrospective, historical controls)</a></li>
+<li><a href="https://doi.org/10.1182/bloodadvances.2020001973">German real-world caplacizumab, Volker et al, Blood Adv 2020</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT05468320">MAYARI (NCT05468320), ClinicalTrials.gov registered results (single arm, not yet peer reviewed)</a></li>
+<li><a href="https://doi.org/10.1182/hematology.2025000757">Tailored treatment of acute iTTP, ASH Education 2025</a></li>
+<li><a href="https://doi.org/10.1111/bjh.19026">BSH guideline on TTP and TMAs, Scully et al, Br J Haematol 2023</a></li>
+<li><a href="https://doi.org/10.1111/jth.15010">ISTH 2020 guidelines for treatment of TTP</a></li>
+<li><a href="https://doi.org/10.1016/j.jtha.2025.06.002">2025 focused update of the 2020 ISTH TTP guidelines</a></li>
+<li><a href="https://doi.org/10.1016/S2352-3026(17)30026-1">PLASMIC score, Bendapudi et al, Lancet Haematol 2017</a></li>
+<li><a href="https://doi.org/10.1182/blood-2014-10-605493">Platelet transfusions and arterial thrombosis/mortality, Goel et al, Blood 2015 (observational)</a></li>
+<li><a href="https://doi.org/10.1111/jth.12790">Troponin I and outcome in acquired TTP, Benhamou et al, J Thromb Haemost 2015</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2314793">Recombinant ADAMTS13 in congenital TTP, N Engl J Med 2024</a></li>
+<li><a href="https://doi.org/10.1182/blood.2026034361">Recombinant ADAMTS13 final analysis, Blood 2026</a></li>
+<li><a href="https://doi.org/10.1182/blood-2018-04-840090">Preemptive rituximab, Jestin et al, Blood 2018</a></li>
+<li><a href="https://doi.org/10.1182/blood.2019001056">Stroke in TTP survivors, Upreti et al, Blood 2019</a></li>
+<li><a href="https://doi.org/10.1182/hematology.2025000758">Long-term management of iTTP, ASH Education 2025</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Delirium and sedation on ICU</title>
       <guid isPermaLink="false">od-deepdive-2026-10-07-delirium-and-sedation</guid>
