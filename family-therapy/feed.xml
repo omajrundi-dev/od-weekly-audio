@@ -10,7 +10,7 @@
     <description>A private weekly audio digest on family therapy and systemic practice. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:10:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png</url>
       <title>Family Therapy Digest</title>
@@ -26,6 +26,26 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>9 October 2026: The Fonagy review, and reflecting teams (backup voices)</title>
+      <guid isPermaLink="false">ft-digest-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 13:10:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/episodes/2026-10-09.mp3" length="19653741" type="audio/mpeg"/>
+      <itunes:duration>1398</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Covers 2 to 9 October 2026. A thin week for family therapy research. Recorded with backup (Kokoro) voices because the usual text-to-speech credits had run out.</p>
+<p><strong>Items</strong></p>
+<ul>
+<li>Fonagy review of mental health conditions, ADHD and autism, published 9 October: the government says it argues for a needs-led system in which diagnosis is not the only route to support. Based on the government press release only; the full review was not read. <a href="https://www.gov.uk/government/news/government-pledges-earlier-support-to-tackle-mental-health-crises">gov.uk</a></li>
+<li>Factorial randomised trial of three single-session online parent components for child anxiety: primary outcome null; the empathetic-responding component looked most promising on later secondary time points. Abstract only; sample size not confirmed. <a href="https://doi.org/10.1016/j.jaac.2026.10.001">JAACAP, online 8 Oct</a></li>
+<li>Mixed-methods study of digital disconnection and family emotional distance in 462 Vietnamese young adults plus 30 interviews. Cross-sectional; abstract only. <a href="https://doi.org/10.1002/anzf.70099">ANZ Journal of Family Therapy, online 8 Oct</a></li>
+<li>Qualitative interviews with 43 members of 11 families about misattributed parentage discoveries. Abstract only. <a href="https://doi.org/10.1111/famp.70207">Family Process, online 8 Oct</a></li>
+</ul>
+<p><strong>Concept corner: reflecting teams.</strong> Further reading: Andersen (1987), The reflecting team: dialogue and meta-dialogue in clinical work, Family Process 26; Andersen (1991), The Reflecting Team: Dialogues and Dialogues about the Dialogues.</p>
+<p><strong>From the training room:</strong> preparing for live supervision.</p>
+<p><strong>Unchecked this week:</strong> the full Fonagy review; JAACAP site (blocked); Journal of Family Therapy and Child and Adolescent Mental Health (nothing new found); BMJ only partly screened; NHS England, Tavistock and Portman, Institute of Family Therapy, Context magazine; an ACT premarital programme paper in Contemporary Family Therapy (title only).</p>
+<p>AI-generated summary; check the sources before relying on them in practice.</p>]]></description>
+    </item>
     <item>
       <title>7 October 2026: Open Dialogue's ODDESSI trial, and circular questioning</title>
       <guid isPermaLink="false">ft-digest-2026-10-07</guid>
