@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git rm episodes/deep-dive-*)",
+      "Bash(git rm -q episodes/deep-dive-*)",
+      "Edit(feed.xml)",
+      "Bash(git push origin main)",
+      "Bash(git push origin HEAD:main)"
+    ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "In the od-weekly-audio repo, removing a superseded episode from feed.xml and deleting its MP3 under episodes/ is allowed when a [Deep dive request] email or the user explicitly asks for that specific episode to be replaced",
+      "Pushing commits to main of omajrundi-dev/od-weekly-audio is allowed; it is the owner's personal podcast feed and main is the publishing branch"
+    ]
+  }
+}
