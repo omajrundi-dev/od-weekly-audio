@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 06:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:27:39 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,36 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Refeeding syndrome on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-10-refeeding-syndrome</guid>
+      <pubDate>Sat, 10 Oct 2026 08:27:39 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-10-refeeding-syndrome.mp3" length="3516219" type="audio/mpeg"/>
+      <itunes:duration>586</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Refeeding syndrome is a set of shifts in phosphate, potassium and magnesium, with thiamine deficiency, that follow reintroduction of calories after starvation or catabolism, driven by the insulin surge. Definitions differ widely: NICE CG32 (2006, updated 2017) gives risk criteria, while the ASPEN 2020 consensus defines the syndrome by a 10 to 20 percent (mild), 20 to 30 percent (moderate) or over 30 percent or organ dysfunction (severe) fall in phosphate, potassium or magnesium within five days. A 2017 systematic review found reported incidence from 0 to 80 percent depending on definition. The one ICU randomised trial (Doig 2015, 339 patients with new hypophosphataemia) was neutral on its primary composite outcome but showed higher day-60 survival with protocolised caloric restriction (91 vs 78 percent); a Dutch retrospective cohort pointed the same way. Thiamine dosing rests on consensus, as the only ICU thiamine trial (90 patients) was small and tested lactate. NUTRIREA-3 (low vs standard calories in shock) found no difference in day-90 mortality but was not a refeeding trial.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Screen for risk before the first feed (NICE or ASPEN criteria) and check phosphate, potassium and magnesium beforehand and regularly afterwards.</li>
+<li>Give thiamine before feeding or before dextrose-containing fluids; doses are consensus based (ASPEN 100 mg before feeding then daily for 5 to 7 days or longer; NICE 200 to 300 mg daily for 10 days).</li>
+<li>If phosphate falls below 0.65 mmol/L within 72 hours of starting nutrition, replace it and consider restricting calories for about two days then building back up (Doig protocol).</li>
+<li>Count all calorie sources, including dextrose in fluids and drug carriers.</li>
+<li>The Doig primary outcome was neutral; restriction is a reasonable option, not a proven standard.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S2213-2600(15)00418-X">Doig et al, Refeeding Syndrome Trial, Lancet Respir Med 2015 (RCT, 339 patients)</a></li>
+<li><a href="https://doi.org/10.1016/j.clnu.2017.08.001">Olthof et al, caloric intake and refeeding syndrome in ICU, Clin Nutr 2018 (retrospective cohort)</a></li>
+<li><a href="https://doi.org/10.1016/j.clnesp.2023.03.003">Slingerland-Boot et al, macronutrient intake in refeeding hypophosphataemia, Clin Nutr ESPEN 2023 (retrospective cohort)</a></li>
+<li><a href="https://doi.org/10.1002/ncp.10474">da Silva et al, ASPEN consensus recommendations for refeeding syndrome, Nutr Clin Pract 2020 (consensus)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg32">NICE CG32, Nutrition support for adults, 2006, updated 2017 (guideline)</a></li>
+<li><a href="https://doi.org/10.1016/j.nut.2016.05.016">Friedli et al, Revisiting the refeeding syndrome, Nutrition 2017 (systematic review)</a></li>
+<li><a href="https://doi.org/10.1097/MD.0000000000018506">Friedli et al, refeeding syndrome and mortality in malnourished medical inpatients, Medicine 2020 (secondary analysis of EFFORT RCT)</a></li>
+<li><a href="https://doi.org/10.1016/j.clnu.2021.07.024">THIAMINE 4 HYPOPHOSPHATEMIA, Clin Nutr 2021 (RCT, 90 patients)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(23)00092-9">NUTRIREA-3, Lancet Respir Med 2023 (RCT, low vs standard calories in shock)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Haemophagocytic lymphohistiocytosis (HLH) in adult ICU</title>
       <guid isPermaLink="false">od-deepdive-2026-10-10-hlh-adult-icu</guid>
