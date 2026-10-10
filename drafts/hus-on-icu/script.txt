@@ -1,0 +1,51 @@
+Kate: Hello, and welcome back. Today's deep dive is haemolytic uraemic syndrome on I C U. I'm Kate.
+Tom: And I'm Tom. Why now, Kate? It's rare.
+Kate: Rare, but it's the one where the first six hours decide whether you've got a treatable disease or a missed one. A young adult, platelets in the twenties, fragments on the film, creatinine climbing. Is that T T P, Shiga toxin, complement, or something secondary?
+Tom: And the trap is that plasma exchange feels like it covers everything.
+Kate: It covers one of them well. So let's go through who's who, and start with the one you can't miss, which is T T P.
+Tom: Go on.
+Kate: The question is severe A D A M T S thirteen deficiency, activity of ten percent or less. The result takes time, so people use the PLASMIC score. Bendapudi and colleagues, Lancet Haematology, twenty seventeen. Derived in two hundred and fourteen adults with thrombotic microangiopathy, seven components, and a C statistic of nought point nine six in derivation.
+Tom: Versus clinical gestalt?
+Kate: Nought point eight three for standard clinical assessment, and the difference was significant. External validation was nought point nine one. So it beats us, but it's a pretest probability, not a diagnosis. And it was built at three Boston centres.
+Tom: And the guideline position?
+Kate: The International Society on Thrombosis and Haemostasis published a focused update of its twenty twenty T T P guidance in twenty twenty five. For immune T T P, no change. Plasma exchange, steroids, rituximab, with caplacizumab still in the mix. The new strong recommendation is recombinant A D A M T S thirteen for congenital T T P in remission.
+Tom: So nothing new at the front door for us.
+Kate: Correct. Which brings us to the practical bit that people forget. Take bloods before the first exchange. A D A M T S thirteen activity, stool Shiga toxin P C R, and complement studies. Once you've put in plasma, interpretation gets muddy.
+Tom: And you ring Newcastle.
+Kate: Yes. The National aHUS Service in Newcastle has an on-call consultant through the hospital switchboard. They ask for a diagnostic checklist after the call, they advise on which sample forms to use, and A D A M T S thirteen testing runs seven days a week. Their advice for adults is to continue plasma therapy until A D A M T S thirteen deficiency is reliably excluded.
+Tom: So plasma exchange is a bridge, not a treatment for atypical H U S.
+Kate: That's the framing I'd use. It's a bridge to a diagnosis.
+Tom: Right, let's do the Shiga toxin group, because that's what most of us will actually see.
+Kate: The big adult dataset is the German O one oh four outbreak in twenty eleven. Menne and colleagues, B M J, twenty twelve. A retrospective case-control study, twenty three hospitals, two hundred and ninety eight adults.
+Tom: Outcomes?
+Kate: Fifty four percent needed dialysis temporarily, but only three long term. Twelve percent had seizures, eighteen percent were ventilated, and four percent died. No clear benefit from plasmapheresis, with or without steroids. Sixty seven patients had eculizumab and no short term benefit was detected.
+Tom: Retrospective, though. Sicker patients get the rescue drug.
+Kate: Absolutely, and confounding by indication is the obvious problem. They also noted one centre using aggressive combination antibiotics, fifty two patients, with fewer seizures and deaths. But that's one centre, observational, and I wouldn't change practice on it.
+Tom: What about randomised data?
+Kate: ECULISHU. Garnier and colleagues, J A S N, twenty twenty three. Phase three, placebo controlled, a hundred children with Shiga toxin H U S. Primary outcome was dialysis lasting less than forty eight hours after randomisation. Forty eight percent on placebo, thirty eight percent on eculizumab, P nought point three one.
+Tom: Negative.
+Kate: Negative acute phase. But, and this is the interesting bit, renal sequelae at one year were lower with eculizumab. Forty three point five percent versus sixty four point four percent, P nought point oh four. A secondary outcome, in children, so hypothesis generating.
+Tom: So still no funding.
+Kate: Right. The Newcastle service states there's no evidence eculizumab works in Shiga toxin H U S or secondary microangiopathies, and NHS England doesn't fund it for those. Supportive care is the treatment. Fluids with care, dialysis when needed, avoid nephrotoxins. I'd also say that's my reading of the evidence, not a guideline sentence.
+Tom: Okay. Atypical H U S, the complement one.
+Kate: The evidence is all single arm. Legendre, New England Journal, twenty thirteen. Two prospective phase two trials, thirty seven patients aged twelve or over. In trial one the mean platelet rise by week twenty six was seventy three billion per litre. In trial two, eighty percent were event-free for thrombotic microangiopathy. Earlier treatment meant better eGFR recovery.
+Tom: No control arm, in a disease with a very variable natural history.
+Kate: Yes, and that design is unlikely to be repeated. Then ravulizumab, Rondeau, Kidney International, twenty twenty. Single arm, phase three, adults naive to complement inhibitors. Complete response in fifty three point six percent at twenty six weeks, with eight weekly dosing instead of two weekly. Four deaths, none judged related to treatment.
+Tom: Same limitation. What did the French registry series show?
+Kate: Fremeaux-Bacchi, twenty thirteen, two hundred and fourteen patients. Onset was more common in adults, fifty eight percent. Mortality was higher in children, at one year, but progression to end-stage kidney disease was more frequent in adults, forty six percent versus sixteen. So adults are where the kidneys are lost.
+Tom: And the safety checklist before you start.
+Kate: Per the Newcastle guidance, vaccinate with M e n A C W Y and Bexsero at least two weeks before starting eculizumab or ravulizumab, unless delay carries more risk than meningococcal disease. And start antibiotic prophylaxis, penicillin V, or erythromycin if allergic, continuing for as long as the patient is on treatment. Four weeks after stopping eculizumab, sixteen weeks after ravulizumab. Funding is through Blueteq, with a patient identifier from the service.
+Tom: Do patients stay on it for life?
+Kate: Not necessarily, and this is the new bit. SETS aHUS, Lancet Regional Health Europe, twenty twenty five. UK, fifteen hospitals, single arm, open label. Twenty eight patients withdrew from eculizumab. One, three point six percent, met the harm outcome. Four, fourteen point three percent, relapsed. Only those with an identified complement abnormality relapsed, and treatment was restarted.
+Tom: Small, and it excluded high-risk patients.
+Kate: It did. So it supports individualised withdrawal with close monitoring, not a blanket policy.
+Tom: Where are the grey zones?
+Kate: Three. First, the middle cases, such as pregnancy, malignancy, transplant, drugs, where you can't separate secondary from complement-mediated. Second, whether complement blockade has any place in severe Shiga toxin H U S in adults, where the trials simply aren't there. Third, ravulizumab versus eculizumab, which is single-arm comparison only. A K D I G O controversies conference looked at the role of complement in kidney disease in twenty twenty four. That's expert consensus, not trial evidence.
+Tom: Take-homes for Monday?
+Kate: One. Before plasma, send A D A M T S thirteen activity, stool Shiga toxin P C R and complement bloods.
+Tom: Two. Ring Newcastle early. Funding goes through Blueteq.
+Kate: Three. Plasma exchange is a bridge until T T P is excluded, and not treatment for atypical H U S.
+Tom: Four. Shiga toxin H U S is supportive care. The trials are negative on the acute endpoint.
+Kate: And five. If it's atypical H U S, vaccinate, give prophylaxis, and plan for individualised withdrawal rather than lifelong therapy.
+Tom: Thanks for listening.
+Kate: Bye for now.

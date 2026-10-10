@@ -1,0 +1,49 @@
+Kate: Hello, and welcome back. I'm Kate.
+Tom: And I'm Tom. Today's deep dive is haemophagocytic lymphohistiocytosis in adult I C U. H L H.
+Kate: It matters because it's a sepsis mimic. You've got a patient who's febrile, shocked, cytopenic, deranged liver, and they're not doing what sepsis should do on antibiotics.
+Tom: And the honest truth is most of us see it rarely, so we think of it late.
+Kate: Let's start with what it is. A hyperinflammatory syndrome, persistently activated cytotoxic lymphocytes and macrophages, multi-organ failure, death if untreated. In adults it's almost always secondary. Triggers are infection, including E B V, malignancy especially lymphoma, autoimmune disease, where it's called macrophage activation syndrome, and more recently C A R T cell therapy.
+Tom: Right. And the UK consensus guideline gives us a very simple prompt.
+Kate: The three Fs. Fever, falling counts, and raised ferritin. That's from the H i H A S C guideline, the Hyperinflammation and H L H Across Speciality Collaboration. Published in Lancet Rheumatology in twenty twenty-four, from the twenty twenty-three working group. It covers adults over sixteen.
+Tom: Is that high-grade evidence?
+Kate: No. It's a self-nominated multidisciplinary consensus group, literature review plus experience. Useful, practical, but consensus. It deliberately prioritises cheap, available tests.
+Tom: So what do we actually do with the three Fs?
+Kate: Add triglycerides, fibrinogen, liver enzymes, and look at a film. Then score it. Two tools. The H Score, from Fardet and colleagues, Arthritis and Rheumatology, twenty fourteen. Nine variables, including known immunosuppression, temperature, organomegaly, ferritin, triglycerides, transaminase, fibrinogen, cytopenias and marrow haemophagocytosis. In that derivation cohort the probability was under one percent at ninety or below, and over ninety-nine percent at two hundred and fifty or above.
+Tom: And the other is the H L H two thousand and four criteria.
+Kate: Which came from paediatric trials. Five of eight needed. And the La Rosee recommendations in Blood, twenty nineteen, say plainly those criteria aren't validated in adults. That's expert opinion from a Histiocyte Society group.
+Tom: So how do they perform in ICU? Because ferritin is high in half our patients.
+Kate: Best data is Lachmann and colleagues from the Charité in Berlin, Critical Care, twenty twenty. Retrospective, single centre. Two thousand six hundred and twenty-three ICU patients with ferritin of five hundred or more. Forty had H L H.
+Tom: Forty out of two and a half thousand.
+Kate: Exactly. Hence the specificity matters. A cutoff of four H L H two thousand and four criteria gave ninety-five percent sensitivity and about ninety-four percent specificity. An H Score cutoff of one hundred and sixty-eight gave a hundred percent sensitivity and ninety-four percent specificity.
+Tom: But in a cohort where the prevalence is low, ninety-four percent specificity still gives you a lot of false positives.
+Kate: Fair point, and I'd say so. Then in twenty twenty-five, the same group published a multicentre validation in the Journal of Internal Medicine, pooling thirteen published cohorts. Four criteria and an H Score of one hundred and sixty-nine both held up. Mean sensitivity and specificity were in the low to mid eighties for the H Score, and mid eighties for the lowered H L H two thousand and four cutoff. And ferritin of five hundred or more had about ninety-four percent mean sensitivity.
+Tom: So ferritin as a screen, scores to refine, and nothing replaces clinical judgement.
+Kate: Yes. Now, the trigger hunt. This is where the outcome is decided.
+Tom: Because the immunosuppression alone won't fix lymphoma.
+Kate: No. So you want imaging, a marrow, viral P C Rs including E B V and cytomegalovirus, autoimmune screen, and a careful drug and cell therapy history. After C A R T, there's an American Society for Transplantation and Cellular Therapy panel, Hines and colleagues, twenty twenty-three, proposing the term I E C H S, immune effector cell-associated H L H-like syndrome. That's a consensus framework, with a grading system.
+Tom: What does the treatment evidence look like? Because I'm assuming it's thin.
+Kate: Very thin for adults in I C U. The foundation is paediatric. H L H ninety-four, then H L H two thousand and four. Bergsten and colleagues in Blood, twenty seventeen, three hundred and sixty-nine children, five-year survival sixty-one percent, and the conclusion was that etoposide and dexamethasone works, and adding upfront ciclosporin didn't improve it.
+Tom: Adults get that regimen?
+Kate: Selectively. The Blood recommendations warn that applying paediatric protocols may overtreat adults, so they suggest dose reduction and individualised duration. For a French cohort of one hundred and sixty-two adults, Arca and colleagues, British Journal of Haematology, twenty fifteen, thirty-day mortality was twenty percent, and in multivariable analysis no etoposide was associated with worse outcome. But that's retrospective, with all the confounding by indication you'd expect.
+Tom: And anakinra? Everyone's keen on it.
+Kate: The key piece is a post hoc reanalysis, Shakoory, Critical Care Medicine, twenty sixteen, of the old phase three anakinra sepsis trial. Seven hundred and sixty-three patients. Only forty-three had hepatobiliary dysfunction plus D I C as a marker of macrophage activation features. In those, twenty-eight-day survival was about sixty-five percent with anakinra, thirty-five with placebo, hazard ratio for death nought point two eight.
+Tom: Forty-three patients. Post hoc.
+Kate: Hypothesis-generating, absolutely. It's the reason people try it, particularly when infection is the driver and you're worried about etoposide marrow suppression.
+Tom: Then there's emapalumab and ruxolitinib.
+Kate: Emapalumab is licensed for primary H L H. The REAL-HLH retrospective review, Blood Advances, twenty twenty-six, had seventeen malignancy-associated patients, median age fifteen, with sponsor-linked authorship. So, tiny, young, retrospective. Ruxolitinib: a Chinese single-arm phase two, British Journal of Haematology, twenty twenty-one, ruxolitinib plus doxorubicin, etoposide and methylprednisolone as salvage. Fifty-four enrolled, response rate seventy-eight percent among forty-one without prior doxorubicin-containing therapy. No control arm.
+Tom: So steroids, then haematology decides about the rest.
+Kate: Dexamethasone is the usual backbone, and the key practical step is calling haematology the day you think of it. The G I R F T pathway from twenty twenty-four also pushes that.
+Tom: What about outcomes?
+Kate: Sobering. The Marseille cohort, Frontiers in Medicine, twenty twenty-one. Two hundred and sixty adults in four I C Us, ten years. I C U mortality fifty-seven percent, no significant difference between sepsis, intracellular infection, malignancy, or idiopathic. Independent predictors included age, S O F A at admission, and worsening S O F A before diagnosis.
+Tom: Which says early is better, though they can't prove it.
+Kate: Correct. They say so themselves, whether rapid diagnosis improves outcome hasn't been tested prospectively. And malignancy matters differently elsewhere. A recent single-centre cancer cohort found much lower mortality in de novo presentation than when H L H occurred in known malignancy.
+Tom: Grey zones then.
+Kate: Plenty. Is septic H L H a real entity or just severe sepsis with high ferritin? Is a marrow needed if it delays treatment? Is etoposide worth it in a patient with liver failure and neutropenia? Nobody has randomised any of this.
+Tom: My opinion, and it is only that, is I'd rather treat a possible case early with steroids than wait for a perfect score.
+Kate: Mine would be to agree the plan with haematology first. Right, take-homes.
+Tom: One. Fever, falling counts, raised ferritin and not responding: check triglycerides, fibrinogen, liver tests and a film, and calculate the H Score.
+Kate: Two. Call haematology the day you think of it, and agree steroids, anakinra, and whether etoposide is needed.
+Tom: Three. Hunt the trigger hard. Lymphoma, E B V and other viruses, autoimmune disease, recent C A R T.
+Kate: Four. Be honest with families. I C U mortality was over half in the largest cohort, and the drug evidence is observational.
+Tom: Thanks for listening.
+Kate: Bye.

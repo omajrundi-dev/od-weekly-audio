@@ -1,0 +1,24 @@
+{
+"title_topic": "Thrombotic thrombocytopenic purpura on ICU",
+"summary": "Immune TTP from the ICU perspective: suspect it from thrombocytopenia, microangiopathic haemolysis and a normal coagulation screen, send ADAMTS13 activity and antibody before plasma (PLASMIC score as a bridge only), and start plasma exchange and steroids within hours with rituximab and caplacizumab once TTP is confirmed or strongly likely. HERCULES (modest primary outcome, large secondary composite benefit, more mucocutaneous bleeding) is supported by retrospective cohorts with historical controls; ISTH 2025 made no change to its conditional caplacizumab recommendation. Check troponin and ECG in everyone, avoid platelet transfusion unless life-threatening bleeding (observational evidence), and follow ADAMTS13 after discharge. Recombinant ADAMTS13 is preferred for congenital TTP; MAYARI exchange-free treatment (registry results only) does not apply to critically ill patients.",
+"takeaways": [
+"Suspect TTP with thrombocytopenia, haemolysis and a normal coagulation screen; send ADAMTS13 activity and antibody before plasma but do not wait for the result.",
+"Phone the TTP centre and start plasma exchange and steroids within hours, adding rituximab and caplacizumab once TTP is confirmed.",
+"Check troponin and ECG in everyone, and avoid platelet transfusion unless there is life-threatening bleeding.",
+"Monitor ADAMTS13 after discharge, because relapse can be silent."
+],
+"sources": [
+{"label":"HERCULES, Scully et al, N Engl J Med 2019","url":"https://doi.org/10.1056/NEJMoa1806311"},
+{"label":"Post-HERCULES long-term follow-up, J Thromb Haemost 2022","url":"https://doi.org/10.1111/jth.15892"},
+{"label":"UK real-world caplacizumab, Dutt et al, Blood 2021","url":"https://doi.org/10.1182/blood.2020007599"},
+{"label":"French triplet regimen, Coppo et al, Blood 2021","url":"https://doi.org/10.1182/blood.2020008021"},
+{"label":"Capla 1000+ international cohort, EClinicalMedicine 2025 (retrospective, historical controls)","url":"https://doi.org/10.1016/j.eclinm.2025.103168"},
+{"label":"MAYARI (NCT05468320), ClinicalTrials.gov registered results (single arm, not peer reviewed)","url":"https://clinicaltrials.gov/study/NCT05468320"},
+{"label":"BSH guideline on TTP and TMAs, Scully et al, Br J Haematol 2023","url":"https://doi.org/10.1111/bjh.19026"},
+{"label":"ISTH 2020 guidelines for treatment of TTP","url":"https://doi.org/10.1111/jth.15010"},
+{"label":"2025 focused update of the 2020 ISTH TTP guidelines","url":"https://doi.org/10.1016/j.jtha.2025.06.002"},
+{"label":"PLASMIC score, Bendapudi et al, Lancet Haematol 2017","url":"https://doi.org/10.1016/S2352-3026(17)30026-1"},
+{"label":"Platelet transfusions and arterial thrombosis/mortality, Goel et al, Blood 2015 (observational)","url":"https://doi.org/10.1182/blood-2014-10-605493"},
+{"label":"Troponin I and outcome in acquired TTP, Benhamou et al, J Thromb Haemost 2015","url":"https://doi.org/10.1111/jth.12790"},
+{"label":"Recombinant ADAMTS13 in congenital TTP, N Engl J Med 2024","url":"https://doi.org/10.1056/NEJMoa2314793"}
+]}

@@ -1,0 +1,25 @@
+{
+"title_topic": "Haemophagocytic lymphohistiocytosis (HLH) in adult ICU",
+"summary": "Secondary HLH in adults is a sepsis mimic that is easily missed. The episode covers the three Fs (fever, falling counts, raised ferritin), the HScore and HLH-2004 criteria and their validation in critically ill adults, the trigger hunt (infection including EBV, lymphoma, autoimmune disease or macrophage activation syndrome, CAR T related IEC-HS), and the largely observational evidence for dexamethasone, etoposide, anakinra, emapalumab and ruxolitinib. ICU mortality was 57 percent in a 260-patient French cohort. Reference points are the HiHASC UK consensus guideline and the Histiocyte Society adult recommendations.",
+"takeaways": [
+"Fever, falling counts and raised ferritin in a patient not responding as expected: check triglycerides, fibrinogen, liver tests and film, and calculate the HScore.",
+"Call haematology the day you think of it, and agree dexamethasone, anakinra and whether etoposide is needed.",
+"Hunt the trigger hard: lymphoma, EBV and other viral PCRs, autoimmune disease, recent CAR T.",
+"Be honest with families: ICU mortality was over half in the largest cohort and the drug evidence is observational."
+],
+"sources": [
+{"label":"HiHASC 2023 consensus guideline, Lancet Rheumatology 2024","url":"https://doi.org/10.1016/S2665-9913(23)00273-4"},
+{"label":"Fardet et al. HScore, Arthritis Rheumatol 2014","url":"https://doi.org/10.1002/art.38690"},
+{"label":"La Rosee et al. Recommendations for management of HLH in adults, Blood 2019 (expert opinion)","url":"https://doi.org/10.1182/blood.2018894618"},
+{"label":"Lachmann et al. HLH-2004 criteria and HScore in critically ill patients, Crit Care 2020","url":"https://doi.org/10.1186/s13054-020-02941-3"},
+{"label":"Lachmann et al. Multicenter validation of secondary HLH diagnostic criteria, J Intern Med 2025","url":"https://doi.org/10.1111/joim.20065"},
+{"label":"Marseille ICU-HLH cohort, Front Med 2021","url":"https://doi.org/10.3389/fmed.2021.735796"},
+{"label":"Hines et al. IEC-HS, Transplant Cell Ther 2023 (ASTCT panel consensus)","url":"https://doi.org/10.1016/j.jtct.2023.03.006"},
+{"label":"Bergsten et al. HLH-2004 long-term results (children), Blood 2017","url":"https://doi.org/10.1182/blood-2017-06-788349"},
+{"label":"Arca et al. Prognostic factors of early death in 162 adults, Br J Haematol 2015","url":"https://doi.org/10.1111/bjh.13102"},
+{"label":"Shakoory et al. IL-1 receptor blockade in sepsis with MAS features, post hoc reanalysis, Crit Care Med 2016","url":"https://doi.org/10.1097/CCM.0000000000001402"},
+{"label":"REAL-HLH emapalumab in malignancy-associated HLH, Blood Adv 2026 (retrospective, sponsor-linked)","url":"https://pubmed.ncbi.nlm.nih.gov/41337692/"},
+{"label":"Ruxolitinib plus DEP salvage, single-arm phase 2, Br J Haematol 2021","url":"https://pubmed.ncbi.nlm.nih.gov/33559893/"},
+{"label":"Malignancy-associated HLH single-centre cohort, Clin Lymphoma Myeloma Leuk 2026","url":"https://pubmed.ncbi.nlm.nih.gov/42457445/"}
+]
+}

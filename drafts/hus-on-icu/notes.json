@@ -1,0 +1,57 @@
+{
+ "title_topic": "Haemolytic uraemic syndrome on ICU",
+ "summary": "Adult HUS on ICU: sort immune TTP, Shiga toxin HUS, complement-mediated (atypical) HUS and secondary TMA on day one. Send ADAMTS13 activity, stool Shiga toxin PCR and complement bloods before plasma, and phone the National aHUS Service in Newcastle early (funding via Blueteq). Plasma exchange is a bridge until TTP is excluded. STEC-HUS evidence (2012 German O104:H4 case-control study; paediatric ECULISHU RCT, negative on the acute primary endpoint with a secondary one-year renal sequelae signal) does not support eculizumab. aHUS evidence for eculizumab and ravulizumab is from single-arm trials; the UK SETS aHUS trial suggests selected patients can withdraw with monitoring. Meningococcal vaccination and antibiotic prophylaxis are covered.",
+ "takeaways": [
+  "Before plasma: ADAMTS13 activity, stool Shiga toxin PCR and complement bloods.",
+  "Ring the National aHUS Service in Newcastle early; funding goes through Blueteq.",
+  "Plasma exchange is a bridge until TTP is excluded, not a treatment for aHUS.",
+  "STEC-HUS is managed supportively; eculizumab is not funded there and the randomised trial was negative on the acute endpoint.",
+  "If aHUS: vaccinate (MenACWY and Bexsero), give antibiotic prophylaxis, and plan individualised withdrawal rather than assuming lifelong therapy."
+ ],
+ "sources": [
+  {
+   "label": "Bendapudi 2017, PLASMIC score, Lancet Haematol",
+   "url": "https://doi.org/10.1016/S2352-3026(17)30026-1"
+  },
+  {
+   "label": "2025 focused update of the 2020 ISTH TTP guidelines, J Thromb Haemost",
+   "url": "https://doi.org/10.1016/j.jtha.2025.06.002"
+  },
+  {
+   "label": "Menne 2012, O104:H4 HUS case-control study, BMJ",
+   "url": "https://doi.org/10.1136/bmj.e4565"
+  },
+  {
+   "label": "ECULISHU, eculizumab in paediatric STEC-HUS, JASN 2023",
+   "url": "https://doi.org/10.1681/ASN.0000000000000182"
+  },
+  {
+   "label": "Legendre 2013, eculizumab in aHUS, NEJM",
+   "url": "https://doi.org/10.1056/NEJMoa1208981"
+  },
+  {
+   "label": "Rondeau 2020, ravulizumab in adults with aHUS, Kidney Int",
+   "url": "https://doi.org/10.1016/j.kint.2020.01.035"
+  },
+  {
+   "label": "SETS aHUS, eculizumab withdrawal, Lancet Reg Health Eur 2025",
+   "url": "https://doi.org/10.1016/j.lanepe.2025.101392"
+  },
+  {
+   "label": "Fremeaux-Bacchi 2013, French aHUS series, CJASN",
+   "url": "https://doi.org/10.2215/CJN.04760512"
+  },
+  {
+   "label": "KDIGO Controversies Conference, role of complement in kidney disease, Kidney Int 2024",
+   "url": "https://doi.org/10.1016/j.kint.2024.05.015"
+  },
+  {
+   "label": "National aHUS Service (Newcastle): emergency referral",
+   "url": "https://www.atypicalhus.co.uk/emergency-referral"
+  },
+  {
+   "label": "National aHUS Service: following approval of eculizumab (vaccination, prophylaxis)",
+   "url": "https://www.atypicalhus.co.uk/following-approval-of-eculizumab/"
+  }
+ ]
+}

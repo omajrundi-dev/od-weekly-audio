@@ -1,0 +1,58 @@
+Kate: Hello, and welcome to the I C M and Anaesthesia Digest. I'm Kate.
+Tom: And I'm Tom. Today's deep dive is thrombotic thrombocytopenic purpura on I C U. T T P.
+Kate: It's rare, but it's one of the few diagnoses where a few hours genuinely change survival, and it often lands with us first. Low platelets, a confused patient, a rising creatinine, and a haematology registrar asking what the coag screen looks like.
+Tom: And the coag screen is normal. That's the clue that stops it being D I C.
+Kate: Right. So let's start with the diagnosis, because everything else hangs on it.
+Tom: Immune T T P is an autoantibody against ADAMTS thirteen. No ADAMTS thirteen, ultra-large von Willebrand multimers, platelet-rich microthrombi, and you get thrombocytopenia, microangiopathic haemolysis and ischaemia in whichever organ is unlucky.
+Kate: The practical rule is to send ADAMTS thirteen activity and the inhibitor or antibody before any plasma goes in. But you don't wait for the result.
+Tom: Because it can take a day or more. So people use the PLASMIC score as a bridge.
+Kate: Bendapudi and colleagues, Lancet Haematology, twenty seventeen. Seven components. In the derivation cohort of two hundred and fourteen patients with a thrombotic microangiopathy, the C statistic for severe deficiency was nought point nine six. In the external validation cohort it was nought point nine one.
+Tom: Which is good. But it's a pretest probability tool, not a rule-out. The British Society for Haematology guideline, twenty twenty-three, leans on getting the ADAMTS thirteen early rather than leaning on scores.
+Kate: Agreed. And in the sick patient, you treat on suspicion.
+Tom: So, treatment. The backbone for decades was plasma exchange plus steroids. Then rituximab. Then caplacizumab, which blocks the von Willebrand platelet interaction. Walk me through the evidence.
+Kate: HERCULES. Scully and colleagues, New England Journal, twenty nineteen. Double blind, a hundred and forty-five patients, caplacizumab or placebo on top of exchange and steroids.
+Tom: Primary outcome?
+Kate: Time to platelet normalisation. Two point six nine days versus two point eight eight. P nought point nought one. So, statistically significant, but a difference of about a quarter of a day.
+Tom: Hardly dramatic.
+Kate: No. The dramatic bit was the key secondary. A composite of T T P related death, recurrence or a thromboembolic event. Twelve percent with caplacizumab, forty-nine percent with placebo. And recurrence at any time during the trial, twelve percent versus thirty-eight.
+Tom: And the cost?
+Kate: Mucocutaneous bleeding. Sixty-five percent versus forty-eight percent. Mostly nuisance bleeding, gums and nose, but it matters if your patient has a line in or is about to need a procedure.
+Tom: And deaths were tiny numbers.
+Kate: Three in the placebo group during treatment. One caplacizumab patient died after treatment ended, of cerebral ischaemia. You can't hang a mortality claim on that.
+Tom: Was there long-term follow-up?
+Kate: Post-HERCULES. Three years. T T P related events were eight percent in those randomised to caplacizumab versus thirty-eight percent in placebo, in patients without early recurrence. And repeat caplacizumab for relapse looked safe.
+Tom: So the trial is single and industry funded, with a modest primary outcome. What pushed practice?
+Kate: Real-world cohorts, with the obvious caveat of historical controls. The French group, Coppo, Blood, twenty twenty-one. Ninety patients on a triplet of exchange, steroids with rituximab, and caplacizumab, compared with a hundred and eighty historical patients. Refractoriness or death at thirty days, two point two percent versus twelve point two. Exacerbations three point four percent versus forty-four.
+Tom: Dutt and the UK experience?
+Kate: Eighty-five patients in twenty-two hospitals. Twenty-six percent were intubated, so this is a sick population. Mortality six percent, five deaths. And in four of those five, caplacizumab had started more than forty-eight hours after exchange began.
+Tom: Which is observational and tiny, so I wouldn't overread it.
+Kate: I wouldn't. But it fits the largest dataset, Capla one thousand plus, EClinicalMedicine, last year. One thousand and fifteen patients against five hundred and ten historical controls. Three-month survival ninety-eight point five percent versus ninety-four. Major bleeding two point four percent.
+Tom: Retrospective, historical controls, and the authors have industry ties. So it's consistent, not proof.
+Kate: Exactly. And that's where the guidelines are interesting.
+Tom: Go on.
+Kate: The International Society on Thrombosis and Haemostasis guideline in twenty twenty made a conditional recommendation for caplacizumab, and a strong one only for steroids. A focused update followed in twenty twenty-five. It reviewed the new data on efficacy, potential survival benefit and cost, and concluded no change was warranted for immune T T P.
+Tom: So the international panel is still cautious, even though UK units use it widely.
+Kate: That's how I read it, yes. And the other new item in that update is for congenital T T P. A strong recommendation for recombinant ADAMTS thirteen over plasma, in remission.
+Tom: Based on the New England Journal phase three crossover trial. Forty-eight randomised, thirty-two completed. No acute event on recombinant, one on standard therapy.
+Kate: Small, but the pharmacology is convincing. Mean peak activity about a hundred percent versus nineteen with plasma.
+Tom: Right. Practical management, then. What would you do at the bedside tonight?
+Kate: Call your regional T T P centre early, in England these are commissioned highly specialised services. Send the sample. Get plasma exchange going within hours, with steroids. Rituximab and caplacizumab once T T P is confirmed or strongly likely, ideally with the first exchanges.
+Tom: And it's a shared bed with haematology. We're managing lines, the airway, the kidney and the neuro, they're driving the disease treatment.
+Kate: Two I C U points. First, check troponin and an E C G in everyone. Benhamou's French cohort, a hundred and thirty-three patients, found raised troponin I in fifty-nine percent, and more than half of those had no clinical cardiac involvement. A level above nought point two five micrograms per litre carried roughly a three-fold risk of death or refractoriness.
+Tom: Second, platelets.
+Kate: Avoid unless there's life-threatening bleeding. The evidence is the Goel analysis of a national inpatient database. Over ten thousand T T P admissions. Platelet transfusion was associated with higher odds of arterial thrombosis and of death, about two-fold for mortality.
+Tom: But it's observational and confounded. The sickest patients get platelets.
+Kate: Fair, and the associations survived adjustment for severity, apart from myocardial infarction. It's not proof of harm, but it's enough that nobody should transfuse just to fix a number.
+Tom: What about the neurology and the intubated patient?
+Kate: Neurological involvement is a marker of severity, along with age and troponin. Separately, the exchange-free approach in the MAYARI trial is for milder presentations. Single arm, only registry results so far, and not for anyone who ends up in your unit.
+Tom: Outcomes.
+Kate: Acute mortality is far lower than it was, and age remains the dominant adverse factor. The harder story is survivors. ADAMTS thirteen relapse can happen silently, so activity should be monitored after discharge, and the ISTH makes a conditional recommendation for rituximab in patients in remission with low activity. Survivors also carry long-term morbidity, including stroke.
+Tom: Grey zones, from my side. Is caplacizumab needed in everyone? Can you stop it early guided by ADAMTS thirteen recovery? And what do you do when the diagnosis is genuinely uncertain, with sepsis or malignancy in the mix?
+Kate: Plus cost, and bleeding. None of those have randomised answers.
+Tom: Right. Take-homes for Monday.
+Kate: One. Suspect T T P with thrombocytopenia, haemolysis and a normal coag screen. Send ADAMTS thirteen activity and antibody before plasma, but don't wait.
+Tom: Two. Phone the T T P centre and get exchange and steroids started within hours, with rituximab and caplacizumab once confirmed.
+Kate: Three. Troponin and E C G in everyone, and no platelets unless life-threatening bleeding.
+Tom: Four. Follow ADAMTS thirteen after discharge, because relapse is the thing that comes back to find your patient.
+Kate: That's it for today. Thanks for listening.
+Tom: Bye for now.
