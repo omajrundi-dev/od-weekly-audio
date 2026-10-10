@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 08:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:31:05 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,49 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Tumour lysis syndrome on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-10-tumour-lysis</guid>
+      <pubDate>Sat, 10 Oct 2026 08:31:05 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-10-tumour-lysis.mp3" length="3456350" type="audio/mpeg"/>
+      <itunes:duration>576</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Tumour lysis syndrome (TLS) on ICU is driven by release of potassium, phosphate and nucleic acids (urate) faster than the kidney can clear them. The episode covers the Cairo-Bishop and Howard definitions, risk stratification (the 2010 expert panel and the updated BSH guideline of September 2025), and the evidence for hydration, allopurinol, febuxostat and rasburicase. The urate trials used urate control as the endpoint, and a 2026 BMJ emulated target trial (1,276 adults) associated rasburicase within 12 hours of TLS onset with fewer dialysis-requiring kidney injury or death events (32.7 vs 42.0 percent; adjusted OR 0.67). It also covers G6PD and sampling pitfalls, why not to alkalinise or treat asymptomatic hypocalcaemia, hyperkalaemia and phosphate handling, renal replacement timing (a 192-patient retrospective emulation found no benefit from starting on phosphate thresholds alone), venetoclax ramp-up, thin CAR-T and solid tumour data, and the NHS England patient safety alert on delayed rasburicase (123 incidents, 5 deaths). I could not open the full BSH 2025 text; its content is taken from the safety alert and an Oxford trust guideline that adopts it.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>For any patient with a high-risk cancer, check that a TLS risk assessment exists and that rasburicase is stocked and reachable within one hour.</li>
+<li>In suspected TLS think in hours: rasburicase early, send G6PD, but in a very unwell patient giving it before the result is a consultant decision.</li>
+<li>No potassium in fluids, no urinary alkalinisation, and no calcium to correct a number; use calcium for symptoms or hyperkalaemic ECG changes at the lowest effective dose.</li>
+<li>Do not chase urate after rasburicase because samples read falsely low; follow potassium, phosphate, calcium, creatinine, urine output and lactate.</li>
+<li>Involve nephrology early. Do not start dialysis on a phosphate number alone; the evidence for specific thresholds is retrospective.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1136/bmj-2026-100040">Shenoy et al. Early rasburicase and risk of kidney replacement therapy or death in adults with TLS, BMJ 2026 (emulated target trial, observational)</a></li>
+<li><a href="https://www.england.nhs.uk/wp-content/uploads/2025/09/Harm-from-delayed-administration-of-rasburicase-for-tumour-lysis-syndrome-NatPSA-2025-005-NHSPS.pdf">NHS England National Patient Safety Alert NatPSA/2025/005/NHSPS, September 2025 (incident review)</a></li>
+<li><a href="https://doi.org/10.1111/bjh.70092">Chan et al. BSH updated guidelines on TLS, Br J Haematol 2025 (guideline; full text not accessed)</a></li>
+<li><a href="https://doi.org/10.1111/bjh.13403">Jones et al. BCSH guidelines for management of TLS, Br J Haematol 2015 (guideline)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20331465/">Cairo et al. Expert TLS panel consensus on risk and prophylaxis, Br J Haematol 2010 (expert consensus)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/15384972/">Cairo and Bishop. TLS: new therapeutic strategies and classification, Br J Haematol 2004 (review and definition)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMra0904569">Howard et al. The tumor lysis syndrome, N Engl J Med 2011 (review)</a></li>
+<li><a href="https://doi.org/10.1038/s41572-024-00542-w">Howard et al. Tumour lysis syndrome, Nat Rev Dis Primers 2024 (review)</a></li>
+<li><a href="https://doi.org/10.1200/JCO.2009.26.8896">Cortes et al. Rasburicase vs allopurinol in adults at risk of TLS, J Clin Oncol 2010 (randomised phase 3)</a></li>
+<li><a href="https://doi.org/10.1182/blood.v97.10.2998">Goldman et al. Rasburicase vs allopurinol in children, Blood 2001 (randomised, 52 patients)</a></li>
+<li><a href="https://doi.org/10.1093/annonc/mdv317">Spina et al. FLORENCE, febuxostat vs allopurinol, Ann Oncol 2015 (randomised phase 3)</a></li>
+<li><a href="https://doi.org/10.1111/jcpt.12061">Feng et al. Single-dose rasburicase, J Clin Pharm Ther 2013 (meta-analysis, mostly retrospective)</a></li>
+<li><a href="https://doi.org/10.1016/j.leukres.2021.106588">Single low-dose rasburicase in acute leukaemia, Leuk Res 2021 (randomised phase 2, 24 patients)</a></li>
+<li><a href="https://doi.org/10.1016/j.clinbiochem.2016.04.011">Sampling on ice and uric acid monitoring after rasburicase, Clin Biochem 2016 (laboratory and retrospective study)</a></li>
+<li><a href="https://doi.org/10.1186/s13613-025-01439-x">Early vs conventional kidney replacement therapy in TLS, Ann Intensive Care 2025 (retrospective target trial emulation)</a></li>
+<li><a href="https://doi.org/10.1111/bjh.12415">Darmon et al. TLS and AKI in high-risk haematology patients, Br J Haematol 2013 (prospective cohort)</a></li>
+<li><a href="https://doi.org/10.1186/s13613-022-00990-1">TLS, AKI and disease-free survival in critically ill patients requiring urgent chemotherapy, Ann Intensive Care 2022 (retrospective single centre)</a></li>
+<li><a href="https://doi.org/10.3324/haematol.11575">Montesinos et al. TLS in AML, Haematologica 2008 (retrospective cohort)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1513257">Roberts et al. Venetoclax in relapsed CLL, N Engl J Med 2016 (phase 1)</a></li>
+<li><a href="https://doi.org/10.1111/bjh.16345">Gribben. Practical management of TLS with venetoclax, Br J Haematol 2020 (practical review)</a></li>
+<li><a href="https://doi.org/10.3389/fimmu.2023.1125357">TLS after BCMA CAR-T in myeloma, Front Immunol 2023 (single-centre retrospective)</a></li>
+<li><a href="https://doi.org/10.1016/j.ctrv.2023.102603">Perissinotti et al. US expert consensus on TLS, Cancer Treat Rev 2023 (modified Delphi)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Refeeding syndrome on ICU</title>
       <guid isPermaLink="false">od-deepdive-2026-10-10-refeeding-syndrome</guid>
