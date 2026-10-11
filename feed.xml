@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 06:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:40:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,23 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>11 October 2026: StatStrip ketone strip recall, deprivation of liberty after the Supreme Court, and ARISE FLUIDS in print</title>
+      <guid isPermaLink="false">od-digest-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 19:40:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-11.mp3" length="6316963" type="audio/mpeg"/>
+      <itunes:duration>1053</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>Covers 4 to 11 October 2026.</strong> A short edition (about 18 minutes): a quiet week, and most new items had already been covered on 7 October. CCR newsletter 774 had not arrived when this was written.</p>
+<ul>
+<li><strong>MHRA DSI/2026/013, Nova Biomedical StatStrip ketone strips</strong> (9 Oct). Specified lots recalled after repeated QC failures; replacement UK stock not expected for about 4 weeks. Identify lots held, plan a lab or gas-analyser fallback, and prioritise suspected DKA, children, type 1 diabetes and serial ketones in DKA. DHSC clinical guidance to follow. <a href="https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013">MHRA alert</a></li>
+<li><strong>Re PK &amp; MK (Article 8 protections) [2026] EWCOP 52 (T2)</strong> (8 Oct). HHJ Burrows: after the Supreme Court's June ruling overruling Cheshire West, a supported placement was held not to be a deprivation of liberty; Care Act and MCA safeguards plus independent advocacy were held adequate for Article 8. About long-term placements, not ICU. Supreme Court ruling known only via secondary commentary. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/52">Judgment</a> · <a href="https://www.mentalcapacitylawandpolicy.org.uk/article-8-protections-after-agni/">MCLP commentary</a></li>
+<li><strong>ARISE FLUIDS</strong> (NEJM 2026;395:1387-98, print issue 8 Oct; first online June, so recent context). 963 analysed: days alive and out of hospital to day 90 were 76 in both arms; 90-day mortality 16.4% vs 14.4% (RR 1.14, 0.85 to 1.54); pulmonary oedema 0.6% vs 5.0%. Figures from NephJC and abstract summaries; paper and editorial not opened. <a href="https://www.nejm.org/doi/10.1056/NEJMoa2516225">Paper</a> · <a href="http://www.nephjc.com/news/2026/8/29/nephjc-short-arise-fluids">NephJC</a></li>
+<li><strong>BJA, 8 and 9 Oct (abstracts only).</strong> UK epidemiology of malignant hyperthermia, 1988 to 2025; and a European cohort of 9,989 caesarean deliveries on general anaesthesia by urgency. <a href="https://www.bjanaesthesia.org/article/S0007-0912(26)00716-6/fulltext">MH</a> · <a href="https://www.bjanaesthesia.org/article/S0007-0912(26)00714-2/fulltext">Caesarean GA</a></li>
+<li><strong>St Emlyn's journal club</strong> (8 Oct) on IV vs IO first in cardiac arrest: IV first if quick, IO as the alternative. <a href="https://www.stemlynsblog.org/jc-iv-or-io-first-in-cardiac-arrest-st-emlyns/">Post</a></li>
+</ul>
+<p><em>Unchecked this week:</em> CCR newsletter 774, Intensive Care Medicine, Critical Care, AJRCCM, HSSIB, RCoA, NICE, ICS, FICM, the 39 Essex Mental Capacity Report (blocked), and the NEJM ARISE FLUIDS editorial (paywalled). No new items in the PFD feed after 30 September, Drug Safety Update after 2 September, or The Bottom Line this week.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Haemophagocytic lymphohistiocytosis (HLH) in adult ICU</title>
       <guid isPermaLink="false">od-deepdive-2026-10-10-hlh-adult-icu</guid>
