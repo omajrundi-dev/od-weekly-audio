@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 19:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:40:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,64 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Procalcitonin in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-procalcitonin-icu</guid>
+      <pubDate>Mon, 12 Oct 2026 06:40:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-procalcitonin-icu.mp3" length="3438791" type="audio/mpeg"/>
+      <itunes:duration>573</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Procalcitonin as a tool to stop rather than start antibiotics in ICU. Biology and kinetics, non-infective causes of a raised level (surgery, trauma, burns, pancreatitis, cardiogenic shock, renal impairment and RRT), then the trials: ProACT (no benefit in ED lower respiratory tract infection), PRORATA, SAPS and the UK ADAPT-Sepsis trial (antibiotic duration 9.8 vs 10.7 days, a difference of 0.88 days; 28-day mortality 20.9% vs 19.4%, non-inferior within a 5.4% margin; CRP-guided advice had no effect). Meta-analyses give borderline, low-certainty mortality signals. Guidelines: Surviving Sepsis 2021 (weak, low quality), NICE 2015 diagnostics guidance now being updated, and the COVID-19 experience. Ends with a practical ICU stopping approach.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>In ICU, think of procalcitonin as a stopping aid, not a starting test.</li>
+<li>ADAPT-Sepsis: under one day shorter antibiotic courses, non-inferior mortality within the margin but a point estimate 1.5 percentage points higher; CRP-guided advice made no difference.</li>
+<li>Use the trend, check for non-infective causes, and never stop against the clinical picture or where a fixed course is needed (S. aureus bacteraemia, endocarditis, undrained collections).</li>
+<li>NICE is updating its procalcitonin guidance; watch for it.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://discovery.ucl.ac.uk/10213393/3/Singer_JAMA_accepted_manuscript_JAMA24-8720R1.pdf">ADAPT-Sepsis, Dark et al, JAMA 2024;333:682-693, doi:10.1001/jama.2024.26458 (accepted manuscript)</a></li>
+<li><a href="https://dspace.library.uu.nl/bitstream/handle/1874/336993/1_s2.0_S1473309916000530_main.pdf?sequence=1">SAPS, de Jong et al, Lancet Infect Dis 2016;16:819-27</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/PRORATA/">PRORATA, Bouadma et al, Lancet 2010 (summary)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1802670">ProACT, Huang et al, N Engl J Med 2018, doi:10.1056/NEJMoa1802670</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06506-y">Surviving Sepsis Campaign 2021, Intensive Care Med, doi:10.1007/s00134-021-06506-y</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6607427">Pepper et al, Chest 2019 (meta-analysis)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/htg386">NICE procalcitonin testing guidance (DG18, now HTG386)</a></li>
+<li><a href="https://www.isrctn.com/ISRCTN66682918">PEACH: procalcitonin in COVID-19 in NHS hospitals</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Sepsis and septic shock (pathophysiology)</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-patho-sepsis</guid>
+      <pubDate>Mon, 12 Oct 2026 06:10:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-patho-sepsis.mp3" length="3772967" type="audio/mpeg"/>
+      <itunes:duration>629</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>How infection becomes organ failure: pattern recognition (PAMPs, DAMPs, toll-like receptors), simultaneous hyperinflammation and immunosuppression with monocyte HLA-DR as a marker, glycocalyx loss and capillary leak, immunothrombosis and DIC, vasoplegia (nitric oxide, KATP channels, relative vasopressin deficiency, receptor downregulation, renin-angiotensin), microcirculatory and mitochondrial dysfunction and why lactate is not simply hypoxia, septic cardiomyopathy, AKI and encephalopathy. Then why the anti-mediator trials (anti-TNF, anti-endotoxin, activated protein C, eritoran) failed and where endotyping is heading. Mechanisms are mapped briefly onto fluids, vasopressors and steroids, which have their own episodes. Some mechanistic statements (septic cardiomyopathy, renal blood flow, encephalopathy) are general teaching knowledge rather than checked against a single primary source.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Sepsis is hyperinflammation and immunosuppression at the same time, so late secondary infection is part of the disease.</li>
+<li>Glycocalyx damage and capillary leak are the mechanistic reason for caution with fluid after initial resuscitation.</li>
+<li>Vasoplegia has several hits (nitric oxide, KATP channels, relative vasopressin deficiency, receptor downregulation), hence layered vasopressors.</li>
+<li>Lactate in sepsis is not only hypoxia; adrenergic-driven aerobic glycolysis contributes.</li>
+<li>Every single-target mediator trial has been negative; be sceptical until trials are stratified by endotype.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11236773/">PROWESS, Bernard et al, N Engl J Med 2001;344:699-709</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/22616830/">PROWESS-SHOCK, Ranieri et al, N Engl J Med 2012;366:2055-64 (28-day mortality 26.4% vs 24.2%)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2013.2194">ACCESS (eritoran), Opal et al, JAMA 2013;309:1154-62, doi:10.1001/jama.2013.2194</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/6537818">Seymour et al, sepsis phenotypes, JAMA 2019</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/9244216/">Landry et al, vasopressin deficiency in septic shock, Circulation 1997</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1704154">ATHOS-3, Khanna et al, N Engl J Med 2017, doi:10.1056/NEJMoa1704154</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942705">Monocyte HLA-DR and rationale for GM-CSF in sepsis immunoparalysis, Front Immunol 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/19590022">GM-CSF randomised trial, 38 patients with low mHLA-DR</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4421917">Sepsis-associated hyperlactatemia, Crit Care 2014</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>11 October 2026: StatStrip ketone strip recall, deprivation of liberty after the Supreme Court, and ARISE FLUIDS in print</title>
       <guid isPermaLink="false">od-digest-2026-10-11</guid>
