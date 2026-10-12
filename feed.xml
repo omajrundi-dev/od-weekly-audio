@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,30 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Renal tubular acidosis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-rta</guid>
+      <pubDate>Mon, 12 Oct 2026 19:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-rta.mp3" length="3517940" type="audio/mpeg"/>
+      <itunes:duration>586</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Renal tubular acidosis (proximal type 2, distal type 1, hyperkalaemic type 4) is a normal anion gap acidosis that hides inside the usual ICU hyperchloraemic acidosis from saline and gut losses. The practical points are to check the drug chart, use potassium to sort the type, interpret urine pH, urine anion gap and urine osmolar gap with caution in sepsis, AKI and with unmeasured urinary anions, replace potassium before alkali, and not extrapolate BICAR-ICU or BICARICU-2 (severe acidaemia with AKI, no mortality benefit overall) to RTA. Evidence for RTA management is physiology, case series and narrative reviews.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Hyperchloraemic acidosis with unusual potassium or phosphate: review the drug chart first (ifosfamide, tenofovir, acetazolamide, topiramate, amphotericin, lithium, trimethoprim, ACE inhibitors, heparin, calcineurin inhibitors).</li>
+<li>Potassium helps sort the type: low suggests proximal or distal, high suggests type 4.</li>
+<li>Urine pH, urine anion gap and osmolar gap are clues, not verdicts, in sepsis, AKI, volume depletion and with unmeasured urinary anions.</li>
+<li>Replace potassium before or with alkali; proximal RTA needs large alkali doses, so in ICU treat the cause rather than chase a normal bicarbonate (expert opinion).</li>
+<li>Bicarbonate trials (BICAR-ICU, BICARICU-2) were in severe acidaemia, not RTA; no outcome trial exists for hyperchloraemic acidosis.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1007/s12325-020-01587-5">Renal Tubular Acidosis and Management Strategies: A Narrative Review, Palmer BF et al, Adv Ther, 2021</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(18">Effect of sodium bicarbonate on clinical outcomes in patients with severe metabolic acidaemia (BICAR-ICU), Jaber S et al, Lancet, 2018</a>31080-8)</li>
+<li><a href="https://doi.org/10.1001/jama.2025.20231">Sodium Bicarbonate for Severe Metabolic Acidemia and Acute Kidney Injury: The BICARICU-2 Randomized Clinical Trial, Jung B et al, JAMA, 2025</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Pathophysiology: Hepatorenal syndrome and the cirrhotic circulation</title>
       <guid isPermaLink="false">od-deepdive-2026-10-12-patho-hepatorenal</guid>
