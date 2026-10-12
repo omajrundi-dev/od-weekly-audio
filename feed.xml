@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,381 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Pathophysiology: Hepatorenal syndrome and the cirrhotic circulation</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-patho-hepatorenal</guid>
+      <pubDate>Mon, 12 Oct 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-patho-hepatorenal.mp3" length="3075193" type="audio/mpeg"/>
+      <itunes:duration>512</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Pathophysiology-led deep dive on hepatorenal syndrome: splanchnic vasodilatation (nitric oxide, bacterial translocation), effective arterial underfilling, RAAS/sympathetic/ADH activation, renal vasoconstriction with rightward-shifted autoregulation (per Deranged Physiology), and cirrhotic cardiomyopathy. Covers the move from type 1/2 to HRS-AKI/AKD/CKD (2024 ICA-ADQI consensus), then maps mechanism to treatment: terlipressin plus albumin (CONFIRM, with the respiratory failure signal), noradrenaline as an alternative (small open-label trials, 2024 meta-analysis), and transplant as definitive with RRT as a bridge.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>HRS-AKI is a circulatory (functional) problem: exclude fluid responsiveness, nephrotoxins and infection, then vasoconstrictor plus albumin.</li>
+<li>CONFIRM: verified reversal 32% vs 17% (terlipressin vs placebo); no survival benefit shown; respiratory-disorder death within 90 days 11% vs 2%.</li>
+<li>If using terlipressin, check for volume overload and severe ACLF and monitor oxygenation.</li>
+<li>Noradrenaline is a credible alternative on low-certainty evidence (meta-analysis RR for response 1.19, 0.96 to 1.46).</li>
+<li>RRT replaces filtration, not the circulation: bridge only; raise transplant candidacy early.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa2008290">Terlipressin plus Albumin for the Treatment of Type 1 Hepatorenal Syndrome (CONFIRM), Wong F et al., N Engl J Med, 2021</a></li>
+<li><a href="https://doi.org/10.1111/liv.70399">Terlipressin for Hepatorenal Syndrome in Patients With Early-Stage ACLF (post hoc CONFIRM), Rockey DC et al., Liver Int, 2025</a></li>
+<li><a href="https://doi.org/10.3389/fphar.2024.1418826">Terlipressin versus placebo or noradrenalin in the treatment of hepatorenal syndrome: systematic review and meta-analysis, Wan et al., Front Pharmacol, 2024</a></li>
+<li><a href="https://doi.org/10.1111/j.1572-0241.2008.01828.x">Noradrenaline versus terlipressin in type 1 hepatorenal syndrome, Sharma P et al., Am J Gastroenterol, 2008</a></li>
+<li><a href="https://doi.org/10.1016/j.jhep.2024.03.031">Acute kidney injury in patients with cirrhosis: ADQI and ICA joint consensus, Nadim MK et al., J Hepatol, 2024</a></li>
+<li><a href="https://doi.org/10.1053/j.gastro.2023.10.016">AGA Clinical Practice Update on Vasoactive Drugs and Intravenous Albumin in Cirrhosis, Garcia-Tsao G et al., Gastroenterology, 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29653741/">EASL Clinical Practice Guidelines for decompensated cirrhosis, EASL, J Hepatol, 2018</a></li>
+<li><a href="https://derangedphysiology.com/main/required-reading/gastrointestinal-intensive-care/Chapter-522/hepatorenal-syndrome">Hepatorenal syndrome, Yartsev A, Deranged Physiology</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Upper GI and variceal haemorrhage</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-upper-gi-variceal-bleed</guid>
+      <pubDate>Mon, 12 Oct 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-upper-gi-variceal-bleed.mp3" length="3406670" type="audio/mpeg"/>
+      <itunes:duration>568</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Deep dive for a UK ICU consultant on upper GI and variceal haemorrhage. Covers the portal-pressure rationale, restrictive transfusion (Villanueva 2013, TRIGGER 2015), tranexamic acid (HALT-IT 2020, negative with more venous thromboembolism), vasoactive drugs, antibiotics (Fernandez 2006), pre-emptive TIPS (Garcia-Pagan 2010, Lv 2019, IPD meta-analysis 2024 versus a 2026 RCT-only meta-analysis), endoscopy timing (Lau 2020; 24 hours in BSG/NICE versus 12 hours in Baveno VII), Glasgow-Blatchford, pre-endoscopy PPIs, airway protection, erythromycin, balloon tamponade versus stents, and where BSG 2015, NICE CG141 and Baveno VII differ.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Restrictive transfusion (about 70 to 80 g/L) in haemodynamically stable variceal bleeders; benefit in Villanueva was seen in Child-Pugh A/B, not C.</li>
+<li>Do not give tranexamic acid for GI bleeding (HALT-IT: no mortality benefit, more venous thromboembolism).</li>
+<li>Vasoactive drug and antibiotic from admission; ceftriaxone favoured in advanced cirrhosis or high quinolone resistance.</li>
+<li>Identify Child-Pugh C (under 14) or B with active bleeding early and contact the TIPS centre; Baveno VII says pre-emptive TIPS within 72 hours, ideally under 24.</li>
+<li>Intubate before endoscopy if vomiting blood or reduced consciousness, extubate early; stent or balloon is a bridge to TIPS.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1211801">Transfusion strategies for acute upper gastrointestinal bleeding, Villanueva et al, N Engl J Med, 2013</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(14">TRIGGER, Jairath et al, Lancet, 2015</a>61999-1)</li>
+<li><a href="https://doi.org/10.1016/S0140-6736(20">HALT-IT, HALT-IT Trial Collaborators, Lancet, 2020</a>30848-5)</li>
+<li><a href="https://doi.org/10.1056/NEJMoa0910102">Early use of TIPS in patients with cirrhosis and variceal bleeding, Garcia-Pagan et al, N Engl J Med, 2010</a></li>
+<li><a href="https://doi.org/10.1016/S2468-1253(19">Early TIPS with covered stents versus standard treatment, Lv et al, Lancet Gastroenterol Hepatol, 2019</a>30090-1)</li>
+<li><a href="https://doi.org/10.1097/HEP.0000000000000613">Pre-emptive TIPS in high-risk acute variceal bleeding: updated IPD meta-analysis, Nicoara-Farcau et al, Hepatology, 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.jceh.2026.103491">Pre-emptive TIPS versus standard care: systematic review and meta-analysis of RCTs, Saleh et al, J Clin Exp Hepatol, 2026</a></li>
+<li><a href="https://doi.org/10.1053/j.gastro.2006.07.010">Norfloxacin vs ceftriaxone in advanced cirrhosis and haemorrhage, Fernandez et al, Gastroenterology, 2006</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1912484">Timing of endoscopy for acute upper GI bleeding, Lau et al, N Engl J Med, 2020</a></li>
+<li><a href="https://doi.org/10.1136/bmj.i6432">Comparison of risk scoring systems for upper GI bleeding, Stanley et al, BMJ, 2017</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD005415.pub3">PPI treatment before endoscopy in upper GI bleeding, Sreedharan et al, Cochrane Database Syst Rev, 2010</a></li>
+<li><a href="https://doi.org/10.1002/hep.28360">Esophageal balloon tamponade versus stent, Escorsell et al, Hepatology, 2016</a></li>
+<li><a href="https://doi.org/10.1016/j.jhepr.2025.101581">Esophageal stents in refractory variceal bleeding, multicentre cohort, Weil et al, JHEP Rep, 2025</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD013155.pub2">Treatment for bleeding oesophageal varices: network meta-analysis, Roberts et al, Cochrane Database Syst Rev, 2021</a></li>
+<li><a href="https://doi.org/10.1136/gutjnl-2015-309262">U.K. guidelines on the management of variceal haemorrhage, Tripathi et al, Gut, 2015</a></li>
+<li><a href="https://doi.org/10.1016/j.jhep.2021.12.022">Baveno VII, de Franchis et al, J Hepatol, 2022</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg141">NICE CG141, Acute upper gastrointestinal bleeding in over 16s, 2012 (updated 2016)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Severe acute pancreatitis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-severe-acute-pancreatitis</guid>
+      <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-severe-acute-pancreatitis.mp3" length="3421552" type="audio/mpeg"/>
+      <itunes:duration>570</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Severe acute pancreatitis is defined by persistent organ failure beyond forty-eight hours (revised Atlanta 2013). Recent trials shifted practice towards moderate, goal-directed lactated Ringer's (WATERFALL), feeding as tolerated without needing early tube feeding (PYTHON), no routine antibiotic prophylaxis (Cochrane), and for infected necrosis a step-up approach with postponed drainage (PANTER, TENSION, POINTER). Abdominal compartment syndrome follows WSACS 2013 consensus.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Moderate goal-directed lactated Ringer's, reassess often; aggressive hydration caused more fluid overload without benefit in WATERFALL.</li>
+<li>Feed early as tolerated; oral if possible, tube if not; no routine prophylactic antibiotics.</li>
+<li>Measure bladder pressure when the abdomen is tense and organ failure is rising.</li>
+<li>Infected necrosis: antibiotics first, postpone drainage if stable, then step up; endoscopic and surgical step-up gave similar primary outcomes.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa2202884">Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis (WATERFALL), de-Madaria et al., N Engl J Med, 2022</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1404393">Early versus on-demand nasoenteric tube feeding in acute pancreatitis (PYTHON), Bakker et al., N Engl J Med, 2014</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0908821">A step-up approach or open necrosectomy for necrotizing pancreatitis (PANTER), van Santvoort et al., N Engl J Med, 2010</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29108721/">Endoscopic or surgical step-up approach for infected necrotising pancreatitis (TENSION), van Brunschot et al., Lancet, 2018</a></li>
+<li><a href="https://doi.org/10.1053/j.gastro.2022.05.015">ExTENSION long-term follow-up, Onnekink et al., Gastroenterology, 2022</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2100826">Immediate versus Postponed Intervention for Infected Necrotizing Pancreatitis (POINTER), Boxhoorn et al., N Engl J Med, 2021</a></li>
+<li><a href="https://doi.org/10.1016/S2468-1253(23">DESTIN, upfront endoscopic necrosectomy, Lancet Gastroenterol Hepatol, 2023</a>00331-X)</li>
+<li><a href="https://doi.org/10.1136/gutjnl-2021-325632">LAMS versus plastic stents, Boxhoorn et al., Gut, 2023</a></li>
+<li><a href="https://doi.org/10.14701/ahbps.23-044">FLIP study, McGovern, Tingle et al., Ann Hepatobiliary Pancreat Surg, 2023</a></li>
+<li><a href="https://doi.org/10.1016/j.pan.2026.08.007">Fluid component network meta-analysis, Pancreatology, 2026</a></li>
+<li><a href="https://doi.org/10.1136/gutjnl-2012-302779">Classification of acute pancreatitis 2012 (revised Atlanta), Banks et al., Gut, 2013</a></li>
+<li><a href="https://doi.org/10.1016/j.pan.2013.07.063">IAP/APA evidence-based guidelines, Pancreatology, 2013</a></li>
+<li><a href="https://doi.org/10.1136/gut.2004.057026">UK guidelines for the management of acute pancreatitis, Gut, 2005</a></li>
+<li><a href="https://doi.org/10.14309/ajg.0000000000002645">ACG Guidelines: Management of Acute Pancreatitis, Tenner et al., Am J Gastroenterol, 2024</a></li>
+<li><a href="https://doi.org/10.1007/s00134-013-2906-z">Intra-abdominal hypertension and ACS, WSACS, Kirkpatrick et al., Intensive Care Med, 2013</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20464721/">Antibiotic prophylaxis in pancreatic necrosis, Villatoro et al., Cochrane, 2010</a></li>
+<li><a href="https://doi.org/10.1097/MPA.0000000000002444">Epidural analgesia in acute pancreatitis meta-analysis, Pancreas, 2024</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Major haemorrhage in trauma</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-trauma-haemorrhage</guid>
+      <pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-trauma-haemorrhage.mp3" length="3368577" type="audio/mpeg"/>
+      <itunes:duration>561</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Deep dive on major haemorrhage in trauma for a UK ICU consultant audience. It opens with the pathophysiology of acute traumatic coagulopathy, then walks the randomised evidence: tranexamic acid (CRASH-2 positive, PATCH-Trauma neutral on its primary outcome), component ratios (PROPPR, no significant mortality difference), prehospital blood (RePHILL neutral; SWiFT and TOWAR whole blood trials neutral), empirical early cryoprecipitate (CRYOSTAT-2 neutral), viscoelastic-guided protocols (ITACTIC neutral), permissive hypotension (older and pilot data), calcium (observational only, CAVALIER ongoing) and REBOA (UK-REBOA: no reduction in, and possibly increased, mortality). Guidelines compared are NICE NG39 (2016) and the European guideline (sixth edition, 2023). Ends with five Monday take-homes.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Give tranexamic acid early and within three hours of injury (one gram, then one gram over eight hours); CRASH-2 benefit was time-dependent, and PATCH-Trauma was neutral on functional outcome with secondary mortality signals only.</li>
+<li>Higher plasma and platelet ratios are reasonable, but PROPPR showed no significant 24-hour or 30-day mortality difference, only less death from exsanguination and more haemostasis.</li>
+<li>Prehospital whole blood (SWiFT, TOWAR) and empirical early cryoprecipitate (CRYOSTAT-2) have not been shown to beat standard care; use them if available, but do not delay standard resuscitation.</li>
+<li>Monitor and correct ionised calcium (European guideline grade 1C), recognising the evidence is observational and prehospital calcium trials are still running.</li>
+<li>Be cautious with REBOA: in UK-REBOA it did not reduce, and may have increased, 90-day mortality.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1097/01.TA.0000069184.82147.06">Acute traumatic coagulopathy, Brohi K et al., J Trauma, 2003</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(10">Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2), CRASH-2 collaborators, Lancet, 2010</a>60835-5)</li>
+<li><a href="https://doi.org/10.3310/hta17100">The CRASH-2 trial: a randomised controlled trial and economic evaluation, Roberts I et al., Health Technol Assess, 2013</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2215457">Prehospital Tranexamic Acid for Severe Trauma (PATCH-Trauma), Gruen RL et al., N Engl J Med, 2023</a></li>
+<li><a href="https://doi.org/10.1001/jama.2015.12">Transfusion of plasma, platelets, and red blood cells in a 1:1:1 vs a 1:1:2 ratio (PROPPR), Holcomb JB et al., JAMA, 2015</a></li>
+<li><a href="https://doi.org/10.1016/S2352-3026(22">Resuscitation with blood products in patients with trauma-related haemorrhagic shock receiving prehospital care (RePHILL), Crombie N et al., Lancet Haematol, 2022</a>00040-0)</li>
+<li><a href="https://doi.org/10.1056/NEJMoa2516043">Prehospital Whole Blood in Traumatic Hemorrhage (SWiFT), Smith JE et al., N Engl J Med, 2026</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2602167">Prehospital Resuscitation with Type O Whole Blood for Trauma and Hemorrhage (TOWAR), Sperry JL et al., N Engl J Med, 2026</a></li>
+<li><a href="https://doi.org/10.1001/jama.2023.21019">Early and Empirical High-Dose Cryoprecipitate for Hemorrhage After Traumatic Injury (CRYOSTAT-2), Davenport R et al., JAMA, 2023</a></li>
+<li><a href="https://doi.org/10.1007/s00134-020-06266-1">Viscoelastic haemostatic assay augmented protocols for major trauma haemorrhage (ITACTIC), Baksaas-Aasen K et al., Intensive Care Med, 2021</a></li>
+<li><a href="https://doi.org/10.1056/NEJM199410273311701">Immediate versus delayed fluid resuscitation for hypotensive patients with penetrating torso injuries, Bickell WH et al., N Engl J Med, 1994</a></li>
+<li><a href="https://doi.org/10.1097/TA.0000000000000600">A controlled resuscitation strategy is feasible and safe in hypotensive trauma patients, Schreiber MA et al., J Trauma Acute Care Surg, 2015</a></li>
+<li><a href="https://doi.org/10.1186/s13049-025-01361-y">Prevalence and outcomes of hypocalcemia on ED arrival in traumatic patients before blood transfusions: systematic review and meta-analysis, Srichuachom W et al., Scand J Trauma Resusc Emerg Med, 2025</a></li>
+<li><a href="https://doi.org/10.1001/jama.2023.20850">Emergency Department REBOA in Trauma Patients With Exsanguinating Hemorrhage: The UK-REBOA Randomized Clinical Trial, Jansen JO et al., JAMA, 2023</a></li>
+<li><a href="https://doi.org/10.1186/s13054-023-04327-7">The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition, Rossaint R et al., Crit Care, 2023</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng39/chapter/Recommendations">Major trauma: assessment and initial management (NG39), NICE, 2016</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT05958342">CAVALIER trial registry record (ongoing), NCT05958342, ClinicalTrials.gov</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Obstetric critical care: postpartum haemorrhage and pre-eclampsia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-obstetric-critical-care</guid>
+      <pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-obstetric-critical-care.mp3" length="3539456" type="audio/mpeg"/>
+      <itunes:duration>590</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Deep dive on obstetric critical care. Pregnancy is hypercoagulable with high term fibrinogen, so bleeding is under-recognised and fibrinogen replacement is not a reflex. Early tranexamic acid treatment reduces bleeding death (WOMAN); prophylaxis is mixed (TRAAP, TRAAP2, WOMAN-2, 2024 IPD meta-analysis). The E-MOTIVE detection-plus-bundle approach cut a severe-PPH composite in vaginal births in four African countries. Fibrinogen concentrate trials (FIB-PPH, OBS2) were neutral; OBS-UK is unreported as far as we could find. Magnesium sulphate halves eclampsia (Magpie); BP-target trials (CHIPS, CHAP) are in milder disease; fluid restriction evidence is a single 46-woman pilot. Brief UKOSS data on amniotic fluid embolism and sepsis, and system-level guidance.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Give tranexamic acid early (ideally within 3 hours) to any woman with PPH, without waiting for labs.</li>
+<li>Measure blood loss objectively and use a timely first-response bundle (E-MOTIVE lesson).</li>
+<li>Do not give plasma or fibrinogen by reflex; check fibrinogen or use viscoelastic testing and treat low values.</li>
+<li>Magnesium sulphate for severe pre-eclampsia; be humble about fluid and BP targets as the evidence is thin.</li>
+<li>Peripartum sepsis (especially group A strep) progresses fast; give antibiotics early.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0140-6736(17">WOMAN trial, Shakur et al., Lancet, 2017</a>30638-4)</li>
+<li><a href="https://doi.org/10.1056/NEJMoa2303966">E-MOTIVE, Gallos et al., NEJM, 2023</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1800942">TRAAP, Sentilhes et al., NEJM, 2018</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2028788">TRAAP2, Sentilhes et al., NEJM, 2021</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(24">WOMAN-2, Lancet, 2024</a>01749-5)</li>
+<li><a href="https://doi.org/10.1016/S0140-6736(24">TXA IPD meta-analysis, Ker, Sentilhes et al., Lancet, 2024</a>02102-0)</li>
+<li><a href="https://doi.org/10.1002/14651858.CD007872.pub4">Tranexamic acid for preventing PPH after vaginal birth, Rohwer et al., Cochrane, 2025</a></li>
+<li><a href="https://doi.org/10.1093/bja/aeu444">FIB-PPH, Wikkelso et al., Br J Anaesth, 2015</a></li>
+<li><a href="https://doi.org/10.1093/bja/aex181">OBS2 RCT, Collins et al., Br J Anaesth, 2017</a></li>
+<li><a href="https://doi.org/10.1093/bja/aex245">OBS2 observational, Collins et al., Br J Anaesth, 2017</a></li>
+<li><a href="https://doi.org/10.1136/bmjmed-2025-002256">New approaches in haemostatic management of PPH, Cox, Neave, Hunt, BMJ Med, 2026</a></li>
+<li><a href="https://www.isrctn.com/ISRCTN17679951">OBS UK trial registration, ISRCTN17679951</a></li>
+<li><a href="https://doi.org/10.1016/s0140-6736(02">Magpie Trial, Altman et al., Lancet, 2002</a>08778-0)</li>
+<li><a href="https://doi.org/10.1056/NEJMoa1404595">CHIPS, Magee et al., NEJM, 2015</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2201295">CHAP, Tita et al., NEJM, 2022</a></li>
+<li><a href="https://doi.org/10.6061/clinics/2020/e1797">Restrictive vs liberal fluids in severe preeclampsia pilot, Silva et al., Clinics, 2020</a></li>
+<li><a href="https://doi.org/10.1111/1471-0528.13300">Amniotic fluid embolism UKOSS, Fitzpatrick et al., BJOG, 2016</a></li>
+<li><a href="https://doi.org/10.1371/journal.pmed.1001672">Severe maternal sepsis UK, Acosta et al., PLoS Med, 2014</a></li>
+<li><a href="https://ics.ac.uk/resource/careofthecriticallyillwomaninchildbirth.html">Care of the critically ill woman in childbirth, RCoA/OAA et al., 2018</a></li>
+<li><a href="https://www.npeu.ox.ac.uk/mbrrace-uk/reports">MBRRACE-UK Maternal Report 2025</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: ECMO in adult critical care: VV and VA</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-ecmo-vv-va</guid>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-ecmo-vv-va.mp3" length="3606041" type="audio/mpeg"/>
+      <itunes:duration>601</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Deep dive for a UK ICU consultant in a non-ECMO centre. VV-ECMO: CESAR (referral to an ECMO centre improved survival without severe disability), EOLIA (neutral on 60-day mortality, high crossover) and the post hoc Bayesian re-analysis (probably modest benefit); NHS England adult respiratory ECMO service specification (2019 version read) for referral criteria. VA-ECMO: ECLS-SHOCK neutral with more bleeding and vascular complications; pooled RCTs consistent. ECPR: ARREST (small, positive), Prague OHCA and INCEPTION (neutral on primary). Complications, anticoagulation (no numbers given), Harlequin syndrome and ethics of bridge to nowhere and withdrawal covered, with practical suggestions labelled as opinion.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Ring the ECMO centre early for severe ARDS (Murray 3 or pH below 7.20 despite optimal care, reversible disease); do not leave it as a last resort after prolonged injurious ventilation.</li>
+<li>EOLIA was neutral on its primary (RR 0.76, 0.55 to 1.04) with 28 percent crossover; post hoc Bayesian analysis suggests probable modest benefit.</li>
+<li>Routine VA-ECMO for infarct-related cardiogenic shock did not reduce 30-day death in ECLS-SHOCK and increased bleeding and vascular complications.</li>
+<li>ECPR is a system question with short low-flow times; RCTs (Prague, INCEPTION) were neutral on primary outcomes.</li>
+<li>Agree the exit (recovery, bridge destination, review points) before cannulation.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0140-6736(09">CESAR, Peek et al, Lancet, 2009</a>61069-2)</li>
+<li><a href="https://doi.org/10.1056/NEJMoa1800385">EOLIA, Combes et al, N Engl J Med, 2018</a></li>
+<li><a href="https://doi.org/10.1001/jama.2018.14276">Post hoc Bayesian analysis of EOLIA, Goligher et al, JAMA, 2018</a></li>
+<li><a href="https://www.england.nhs.uk/wp-content/uploads/2019/02/Adult-ECMO-Service-Specification.pdf">NHS England Adult ECMO Service Specification, 2019</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2020.05.065">Outcomes of the NHS England National ECMO Service, BJA, 2020</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(22">Prognostic factors, VV-ECMO for COVID-19, systematic review, Lancet Respir Med, 2023</a>00296-X)</li>
+<li><a href="https://doi.org/10.1056/NEJMoa2307227">ECLS-SHOCK, Thiele et al, N Engl J Med, 2023</a></li>
+<li><a href="https://doi.org/10.1186/s12872-024-03917-9">ECMO in cardiogenic shock complicating MI, systematic review and meta-analysis, BMC Cardiovasc Disord, 2024</a></li>
+<li><a href="https://doi.org/10.1186/s13054-025-05513-5">ECMO-CS post hoc analysis, Crit Care, 2025</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(20">ARREST, Yannopoulos et al, Lancet, 2020</a>32338-2)</li>
+<li><a href="https://doi.org/10.1001/jama.2022.1025">Prague OHCA, Belohlavek et al, JAMA, 2022</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2204511">INCEPTION, Suverein et al, N Engl J Med, 2023</a></li>
+<li><a href="https://doi.org/10.1016/j.jcrc.2024.154882">E-CPR systematic review and meta-analysis, J Crit Care, 2024</a></li>
+<li><a href="https://doi.org/10.1007/s12055-026-02185-w">Management of Harlequin syndrome in VA-ECMO, Indian J Thorac Cardiovasc Surg, 2026</a></li>
+<li><a href="https://doi.org/10.1111/jep.70294">Ethical dilemmas surrounding ECMO withdrawal, J Eval Clin Pract, 2025</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Severe hyponatraemia and hyperkalaemia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-hyponatraemia-hyperkalaemia</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-hyponatraemia-hyperkalaemia.mp3" length="3517486" type="audio/mpeg"/>
+      <itunes:duration>586</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Severe hyponatraemia and hyperkalaemia, covered for a UK ICU consultant audience. Hyponatraemia: SALSA (open-label RCT, 178 patients) found no significant difference in overcorrection between bolus and slow infusion of 3% saline but less need for re-lowering with boluses (secondary outcome). Large observational cohorts and a 2025 meta-analysis question very slow correction and show ODS to be rare, with risk factors (alcohol, malnutrition, hypokalaemia, hypophosphataemia) perhaps mattering more than rate; all are confounded. Rescue with desmopressin plus or minus dextrose rests on a small retrospective series. Hyperkalaemia: the UK Kidney Association 2023 guideline (read in its public-consultation draft form) sets a five-step approach: calcium, 10 units insulin with 25 g glucose plus a 10% glucose infusion if pre-treatment glucose is below 7, adjunct salbutamol, no routine bicarbonate, sodium zirconium cyclosilicate for emergency use, and early renal or critical care decisions on RRT. Evidence for binders in the acute setting is thin (HARMONIZE was outpatient; PLATINUM was negative and underpowered).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Severe symptomatic hyponatraemia: hypertonic saline boluses, small rapid rise, then stop and recheck. SALSA: overcorrection 17.2% vs 24.2% (not significant); re-lowering 41.4% vs 57.1% (secondary).</li>
+<li>Identify ODS risk (alcohol, malnutrition, hypokalaemia, hypophosphataemia), expect water diuresis, and have desmopressin plus or minus dextrose ready as rescue (evidence is retrospective and small).</li>
+<li>Observational data suggest very slow correction in low-risk patients is not clearly safer; no randomised trial of correction limits exists.</li>
+<li>Hyperkalaemia: calcium for ECG changes; insulin-glucose with a 10% glucose follow-on if glucose is below 7 mmol/l; monitor glucose for six hours; salbutamol only as an adjunct.</li>
+<li>No routine IV bicarbonate; involve renal or critical care early when oliguric or resistant, and consider SZC in severe hyperkalaemia.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jamainternmed.2020.5519">Risk of Overcorrection in Rapid Intermittent Bolus vs Slow Continuous Infusion Therapies of Hypertonic Saline (SALSA), Baek et al., JAMA Intern Med, 2021</a></li>
+<li><a href="https://doi.org/10.1056/EVIDoa2300107">Severe Hyponatremia Correction, Mortality, and Central Pontine Myelinolysis, Seethapathy et al., NEJM Evidence, 2023</a></li>
+<li><a href="https://doi.org/10.1056/EVIDoa2200215">Osmotic Demyelination Syndrome in Patients Hospitalized with Hyponatremia, MacMillan et al., NEJM Evidence, 2023</a></li>
+<li><a href="https://doi.org/10.1001/jamainternmed.2024.5981">Correction Rates and Clinical Outcomes in Hospitalized Adults With Severe Hyponatremia: Systematic Review and Meta-Analysis, Ayus et al., JAMA Intern Med, 2025</a></li>
+<li><a href="https://doi.org/10.3390/medicina60091412">Intensive Care Management of Severe Hyponatraemia, Roe et al., Medicina, 2024</a></li>
+<li><a href="https://doi.org/10.1590/2175-8239-JBN-2025-0161en">Overcorrection of severe hyponatremia, ODS, and mortality: two Brazilian centers, Reis et al., J Bras Nefrol, 2026</a></li>
+<li><a href="https://doi.org/10.2215/CJN.03190807">DDAVP is effective in preventing and reversing inadvertent overcorrection of hyponatremia, Perianayagam et al., CJASN, 2008</a></li>
+<li><a href="https://doi.org/10.1530/EJE-13-1020">Clinical practice guideline on diagnosis and treatment of hyponatraemia, Spasovski et al., Eur J Endocrinol / NDT, 2014</a></li>
+<li><a href="https://doi.org/10.1016/j.amjmed.2013.07.006">Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations, Verbalis et al., Am J Med, 2013</a></li>
+<li><a href="https://doi.org/10.1681/ASN.2016101139">Diagnosis and Treatment of Hyponatremia: Compilation of the Guidelines, Hoorn and Zietse, JASN, 2017</a></li>
+<li><a href="https://doi.org/10.2215/CJN.13061117">Treatment of Severe Hyponatremia, Sterns, CJASN, 2018</a></li>
+<li><a href="https://doi.org/10.1016/j.wem.2019.11.003">Wilderness Medical Society Guidelines for Exercise-Associated Hyponatremia: 2019 Update, Wilderness Environ Med, 2020</a></li>
+<li><a href="https://doi.org/10.1136/bjsports-2015-095004">Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Hew-Butler et al., Br J Sports Med, 2015</a></li>
+<li><a href="https://www.ukkidney.org/sites/renal.org/files/UKKA%20HYPERKALAEMIA%20GUIDELINE%20-%202023%20-%20Draft%20for%20public%20consultation_1.pdf">UK Kidney Association Hyperkalaemia Guideline 2023, draft for public consultation, UKKA</a></li>
+<li><a href="https://doi.org/10.1001/jama.2014.15688">Effect of sodium zirconium cyclosilicate on potassium lowering for 28 days (HARMONIZE), Kosiborod et al., JAMA, 2014</a></li>
+<li><a href="https://doi.org/10.1136/bmjopen-2025-105103">Patiromer as adjunct in urgent hyperkalaemia in the ED (PLATINUM), BMJ Open, 2026</a></li>
+<li><a href="https://doi.org/10.1016/s0002-9343(88">Effect of various therapeutic approaches on plasma potassium in terminal renal failure, Am J Med, 1988</a>80086-x)</li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Guillain-Barre syndrome and myasthenic crisis in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-gbs-myasthenic-crisis</guid>
+      <pubDate>Mon, 12 Oct 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-gbs-myasthenic-crisis.mp3" length="3579414" type="audio/mpeg"/>
+      <itunes:duration>597</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Deep dive on Guillain-Barre syndrome (GBS) and myasthenic crisis in ICU. Covers ventilation decisions (Lawn 20/30/40 heuristic, Erasmus respiratory insufficiency score, bulbar weakness, serial spirometry), IVIG versus plasma exchange (PE/Sandoglobulin 1997, Cochrane reviews), the negative SID-GBS second-dose trial, the 2023 EAN/PNS guideline, complement and FcRn agents (briefly), and crisis outcomes. Emphasis is on what changes bedside decisions, with explicit statements where evidence could not be checked.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Trend vital capacity and respiratory pressures rather than relying on oximetry; weigh bulbar weakness, cough and rapid progression heavily and intubate electively.</li>
+<li>Use the Erasmus respiratory insufficiency score at admission to identify who needs critical care.</li>
+<li>IVIG and plasma exchange are equivalent in GBS; choose by logistics and haemodynamics; no second IVIG dose (SID-GBS; EAN/PNS 2023).</li>
+<li>In myasthenia check every antibiotic and sedative; complement and FcRn agents in crisis are supported only by small uncontrolled series.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11405803/">Anticipating mechanical ventilation in Guillain-Barre syndrome, Lawn et al., Arch Neurol, 2001</a></li>
+<li><a href="https://doi.org/10.1002/ana.21976">Prediction of respiratory insufficiency in Guillain-Barre syndrome, Walgaard et al., Ann Neurol, 2010</a></li>
+<li><a href="https://doi.org/10.1016/S1474-4422(20">Second IVIG dose in GBS with poor prognosis (SID-GBS), Walgaard et al., Lancet Neurol, 2021</a>30494-4)</li>
+<li><a href="https://doi.org/10.1002/acn3.52313">Pharmacodynamics of a second IVIg course in GBS, van Tilburg et al., Ann Clin Transl Neurol, 2025</a></li>
+<li><a href="https://doi.org/10.1111/ene.16073">EAN/PNS guideline on diagnosis and treatment of GBS, Van den Bergh et al., Eur J Neurol, 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/9014908/">Randomised trial of plasma exchange, IVIg and combined treatments in GBS, PE/Sandoglobulin Study Group, Lancet, 1997</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/28241090/">Plasma exchange for GBS, Cochrane review, Chevret et al., 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25238327/">Intravenous immunoglobulin for GBS, Cochrane review, Hughes et al., 2014</a></li>
+<li><a href="https://doi.org/10.1016/S1474-4422(18">Eculizumab in GBS phase 2, Misawa et al., Lancet Neurol, 2018</a>30114-5)</li>
+<li><a href="https://doi.org/10.1212/WNL.0000000000011124">International consensus guidance for MG: 2020 update, Narayanaswami et al., Neurology, 2021</a></li>
+<li><a href="https://doi.org/10.1016/S1474-4422(21">Efgartigimod in generalised MG (ADAPT), Howard et al., Lancet Neurol, 2021</a>00159-9)</li>
+<li><a href="https://doi.org/10.1016/S1474-4422(17">Eculizumab in refractory generalised MG (REGAIN), Howard et al., Lancet Neurol, 2017</a>30369-1)</li>
+<li><a href="https://doi.org/10.1111/ene.70596">Complement inhibition in myasthenic crisis, Gerischer et al., Eur J Neurol, 2026</a></li>
+<li><a href="https://doi.org/10.1177/22143602261450402">Efgartigimod in severe MG exacerbations, Shelly et al., J Neuromuscul Dis, 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38344193/">Risk factors for in-hospital outcome of myasthenic crisis, Ther Adv Neurol Disord, 2024</a></li>
+<li><a href="https://doi.org/10.3390/jcm10071537">Drugs that induce or cause deterioration of MG: an update, J Clin Med, 2021</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Ventilator-associated pneumonia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-vap</guid>
+      <pubDate>Mon, 12 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-vap.mp3" length="3595376" type="audio/mpeg"/>
+      <itunes:duration>599</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Ventilator-associated pneumonia has no diagnostic gold standard, and the evidence for prevention is mostly about lowering VAP rates rather than mortality. Head-up positioning and toothbrushing are cheap, low-quality-evidence essentials. Subglottic drainage lowers VAP (Damas 2015) without clear effects on mortality or ventilation time. Chlorhexidine mouthcare shows no VAP benefit in non-cardiac surgical patients and a non-significant mortality signal, while CHORAL found no mortality change on de-adoption. SuDDICU (2022) did not show a significant hospital mortality reduction (OR 0.91, 95% CI 0.82 to 1.02) but lowered resistant organism cultures; the earlier Dutch trial was positive and the high-resistance European trial was neutral. Single-dose ceftriaxone (PROPHY-VAP, brain injury) and inhaled amikacin (AMIKINHAL) reduce VAP incidence. For treatment, 8 days matches 15 days in the 2003 trial (with more recurrence for non-fermenters), and REGARD-VAP (2024) supports individualised short courses (median 6 days).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Head of bed 30 to 45 degrees and daily toothbrushing (without chlorhexidine) are the low-cost essentials; the evidence quality is low to moderate.</li>
+<li>Take a lower respiratory sample before antibiotics where possible and use it to narrow therapy; neither BAL with quantitative culture nor aspirate with plain culture changed 28-day mortality in the Canadian trial.</li>
+<li>For responders, aim for 7 days or fewer; REGARD-VAP showed non-inferiority of individualised short course (median 6 days vs 14).</li>
+<li>SDD is a unit-level decision that depends on baseline resistance; SuDDICU was not significant for mortality, and the benefit in acute brain injury is post hoc.</li>
+<li>In acute brain injury consider single-dose ceftriaxone (PROPHY-VAP); inhaled amikacin lowers VAP but mortality benefit is unproven.</li>
+<li>Chlorhexidine: not proven to harm, no clear benefit in non-cardiac surgical patients.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa2310307">Inhaled Amikacin to Prevent Ventilator-Associated Pneumonia (AMIKINHAL), Ehrmann et al., N Engl J Med, 2023</a></li>
+<li><a href="https://doi.org/10.1001/jama.2022.17927">Effect of Selective Decontamination of the Digestive Tract on Hospital Mortality (SuDDICU), Myburgh et al., JAMA, 2022</a></li>
+<li><a href="https://doi.org/10.1007/s00134-023-07261-y">SDD in acute brain injury, post hoc analysis of SuDDICU, Intensive Care Med, 2024</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0800394">Decontamination of the digestive tract and oropharynx in ICU patients, de Smet et al., N Engl J Med, 2009</a></li>
+<li><a href="https://doi.org/10.1001/jama.2018.13765">Decontamination strategies and bloodstream infections with resistant organisms in ventilated patients, Wittekamp et al., JAMA, 2018</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(23">Ceftriaxone to prevent early VAP in acute brain injury (PROPHY-VAP), Dahyot-Fizelier et al., Lancet Respir Med, 2024</a>00471-X)</li>
+<li><a href="https://doi.org/10.1016/S2213-2600(23">Individualised short-course vs usual-course antibiotics for VAP (REGARD-VAP), Lancet Respir Med, 2024</a>00418-6)</li>
+<li><a href="https://doi.org/10.1001/jama.290.19.2588">Comparison of 8 vs 15 days of antibiotic therapy for VAP, Chastre et al., JAMA, 2003</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa052904">A randomized trial of diagnostic techniques for VAP, Canadian Critical Care Trials Group, N Engl J Med, 2006</a></li>
+<li><a href="https://doi.org/10.7326/0003-4819-132-8-200004180-00004">Invasive and noninvasive strategies for suspected VAP, Fagon et al., Ann Intern Med, 2000</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(98">Supine body position as a risk factor for nosocomial pneumonia, Drakulovic et al., Lancet, 1999</a>12251-1)</li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000000674">Prevention of VAP and ventilator-associated conditions with subglottic secretion suctioning, Damas et al., Crit Care Med, 2015</a></li>
+<li><a href="https://doi.org/10.1007/s00134-026-08459-6">Personalized automatic management of cuff pressure and subglottic drainage (MICROINHALO), Intensive Care Med, 2026</a></li>
+<li><a href="https://doi.org/10.1001/jamainternmed.2014.359">Reappraisal of routine oral care with chlorhexidine, Klompas et al., JAMA Intern Med, 2014</a></li>
+<li><a href="https://doi.org/10.1007/s00134-021-06475-2">Oral chlorhexidine de-adoption and oral care bundle (CHORAL), Intensive Care Med, 2021</a></li>
+<li><a href="https://doi.org/10.1016/S1473-3099(13">Attributable mortality of VAP, Melsen et al., Lancet Infect Dis, 2013</a>70081-1)</li>
+<li><a href="https://doi.org/10.1007/s00408-025-00827-1">Prophylactic inhaled antibiotics for VAP: systematic review and meta-analysis, Lung, 2025</a></li>
+<li><a href="https://doi.org/10.1136/bmjopen-2024-093868">Nebulised antibiotics for preventing VAP: systematic review and meta-analysis, BMJ Open, 2025</a></li>
+<li><a href="https://doi.org/10.1183/13993003.00582-2017">International ERS/ESICM/ESCMID/ALAT guidelines for HAP and VAP, 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35589091/">Strategies to prevent VAP, VAEs and NV-HAP in acute-care hospitals: 2022 update, Klompas et al., SHEA/IDSA/APIC</a></li>
+<li><a href="https://doi.org/10.1016/j.accpm.2026.101887">Diagnosis and prevention of VAP review, Anaesth Crit Care Pain Med, 2026</a></li>
+<li><a href="https://doi.org/10.1186/cc13940">Impact of appropriate treatment on transition from VAT to VAP, Crit Care, 2014</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng250">NICE NG250 Pneumonia: diagnosis and management, 2025</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: ICU-acquired weakness</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-icu-acquired-weakness</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-icu-acquired-weakness.mp3" length="3395843" type="audio/mpeg"/>
+      <itunes:duration>566</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>ICU-acquired weakness (critical illness polyneuropathy and myopathy) is common in long-stay patients and is associated with slower weaning and higher one-year mortality in matched cohort data. Plausible mechanisms (unloading, catabolism, hyperglycaemia, sepsis, steroids) have not translated into reliable interventions: tight glycaemic control reduced CIP/CIM in early single-centre trials but increased mortality in NICE-SUGAR; TEAM found no benefit from higher-dose early mobilisation and more adverse events; EFFORT Protein found no benefit from high-dose protein, with possible harm in AKI and high organ failure subgroups. Practical advice: moderate glucose control, safe usual-plus mobilisation, no routine high protein push, and strength testing once the patient is awake.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>TEAM (NEJM 2022): more mobilisation was not better; do usual-plus mobilisation safely.</li>
+<li>Avoid tight glucose targets despite the early CIP/CIM signal; NICE-SUGAR showed excess mortality and severe hypoglycaemia.</li>
+<li>Do not default to high-dose protein, especially in AKI or high organ failure scores (EFFORT Protein, subgroup signal only).</li>
+<li>Assess strength (MRC sum score) once awake; persistent weakness at ICU discharge carries worse prognosis.</li>
+<li>Be honest with families: trial evidence here is mixed and nothing proven treats established weakness.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa2209083">Early Active Mobilization during Mechanical Ventilation in the ICU (TEAM), Hodgson et al., N Engl J Med, 2022</a></li>
+<li><a href="https://doi.org/10.1164/rccm.202312-2289OC">Impact of High-Dose Early Mobilization on Outcomes for Patients with Diabetes: secondary analysis of TEAM, Am J Respir Crit Care Med, 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.aucc.2024.101156">Adverse events during and after early mobilisation: post hoc analysis of TEAM, Aust Crit Care, 2025</a></li>
+<li><a href="https://doi.org/10.1007/s00134-025-08217-0">Individualised treatment effects of enhanced early mobilisation: secondary analysis of TEAM, Intensive Care Med, 2026</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006840">Effect of Enhanced Versus Usual Mobilization in Critically Ill Adults: systematic review and meta-analysis, Crit Care Med, 2025</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(22">EFFORT Protein, Heyland et al., Lancet, 2023</a>02469-2)</li>
+<li><a href="https://doi.org/10.1016/j.bja.2024.08.033">High protein dosing in critically ill patients: exploratory Bayesian analyses of EFFORT Protein, Br J Anaesth, 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2024.02.008">Malnutrition and high protein treatment: post hoc analysis of EFFORT Protein, Chest, 2024</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa011300">Intensive insulin therapy in critically ill patients, Van den Berghe et al., N Engl J Med, 2001</a></li>
+<li><a href="https://doi.org/10.1164/rccm.200605-665OC">Impact of intensive insulin therapy on neuromuscular complications, Hermans et al., Am J Respir Crit Care Med, 2007</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0810625">Intensive versus conventional glucose control in critically ill patients (NICE-SUGAR), N Engl J Med, 2009</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD006832.pub3">Interventions for preventing CIP and CIM, Hermans et al., Cochrane Database Syst Rev, 2014</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(13">Tolerating macronutrient deficit and ICU-acquired weakness: EPaNIC subanalysis, Hermans et al., Lancet Respir Med, 2013</a>70183-8)</li>
+<li><a href="https://doi.org/10.1164/rccm.201312-2257OC">Acute outcomes and 1-year mortality of ICU-acquired weakness, Hermans et al., Am J Respir Crit Care Med, 2014</a></li>
+<li><a href="https://doi.org/10.1152/physrev.00028.2014">The Sick and the Weak: Neuropathies/Myopathies in the Critically Ill, Physiol Rev, 2015</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201411-2011ST">ATS Clinical Practice Guideline: diagnosis of ICU-acquired weakness in adults, Am J Respir Crit Care Med, 2014</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Status epilepticus in the ICU</title>
       <guid isPermaLink="false">od-deepdive-2026-10-12-status-epilepticus</guid>
