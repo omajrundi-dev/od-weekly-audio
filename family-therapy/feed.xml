@@ -10,7 +10,7 @@
     <description>A private weekly audio digest on family therapy and systemic practice. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 13:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png</url>
       <title>Family Therapy Digest</title>
@@ -26,6 +26,26 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>12 October 2026: Carers and expressive writing, and the genogram</title>
+      <guid isPermaLink="false">ft-digest-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/episodes/2026-10-12.mp3" length="9426097" type="audio/mpeg"/>
+      <itunes:duration>1571</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Covers 5 to 12 October 2026. A quiet week, so a shorter episode. All three papers were discussed from abstracts only.</p>
+<p><strong>Items</strong></p>
+<ul>
+<li>Meta-analysis of expressive writing for family caregivers: 13 studies, mostly high risk of bias; small short-term effect on anxiety only (SMD -0.22, p = 0.041), nothing clear for depression, stress or burden. <a href="https://doi.org/10.1111/famp.70206">Family Process, online 9 Oct</a></li>
+<li>Qualitative (transcendental-phenomenological) study of 9 young adult couples (18 people) living with sickle cell disease: six themes on shared and individual meaning. <a href="https://doi.org/10.1007/s10591-026-09797-9">Contemporary Family Therapy, online 9 Oct</a></li>
+<li>Single qualitative case study of structural-strategic therapy with an emerging adult with depressive symptoms and his family; illustrative, not evidence of effectiveness. <a href="https://doi.org/10.1002/anzf.70098">ANZ Journal of Family Therapy, online 8 Oct</a></li>
+<li>Diary: AFT conference, Glasgow, 15-16 October. <a href="https://www.aft.org.uk/events/event_list.asp">AFT events</a></li>
+</ul>
+<p><strong>Concept corner: the genogram.</strong> Further reading: McGoldrick, Gerson and Petry, Genograms: Assessment and Intervention; Bowen, Family Therapy in Clinical Practice.</p>
+<p><strong>From the training room:</strong> keeping a reflective log, and reflection versus reflexivity.</p>
+<p><strong>Unchecked this week:</strong> Journal of Family Therapy and Child and Adolescent Mental Health (no results from database check); Lancet Psychiatry; NICE, NHS England, Children's Commissioner, Tavistock and Portman, Institute of Family Therapy, Context magazine; policy news. Full texts not read.</p>
+<p>AI-generated summary; check the sources before relying on them in practice.</p>]]></description>
+    </item>
     <item>
       <title>9 October 2026: The Fonagy review, and reflecting teams (backup voices)</title>
       <guid isPermaLink="false">ft-digest-2026-10-09</guid>
