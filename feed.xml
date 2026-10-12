@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,104 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Status epilepticus in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-status-epilepticus</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-status-epilepticus.mp3" length="3011694" type="audio/mpeg"/>
+      <itunes:duration>502</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Benzodiazepine resistance grows with seizure duration (GABA-A receptor internalisation, preclinical mechanism), so early adequate first-line treatment matters (RAMPART: IM midazolam 73.4% vs IV lorazepam 63.4% seizure-free on arrival). For benzodiazepine-refractory convulsive SE, ESETT found levetiracetam, fosphenytoin and valproate equivalent (47%, 45%, 46% at 60 min); paediatric EcLiPSE and ConSEPT showed no significant difference between levetiracetam and phenytoin. Anaesthetic choice (midazolam, propofol, barbiturate), ketamine in super-refractory SE and EEG targets rest on observational data and consensus. CERTA showed continuous EEG detected more seizures but did not change 6-month mortality versus routine EEG. Mortality about 10% responsive, 25% refractory, nearly 40% super-refractory (ICM review).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Treat early and adequately; benzodiazepine efficacy falls with time. Do not wait for IV access (IM midazolam).</li>
+<li>Second-line drug choice is practical (levetiracetam, valproate, phenytoin/fosphenytoin): about half respond to any of them.</li>
+<li>Do not dither over a third non-sedating drug; plan anaesthesia with airway and vasopressor ready (consensus).</li>
+<li>Get EEG and look for the cause (autoimmune, infective).</li>
+<li>Ketamine, anaesthetic agent and EEG depth targets are consensus/observational; say so.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li>ESETT, Kapur et al., NEJM 2019. <a href="https://doi.org/10.1056/NEJMoa1905795">https://doi.org/10.1056/NEJMoa1905795</a></li>
+<li>ConSEPT, Dalziel et al., Lancet 2019. <a href="https://doi.org/10.1016/S0140-6736(19">https://doi.org/10.1016/S0140-6736(19</a>)30722-6</li>
+<li>EcLiPSE, Lyttle et al., Lancet 2019 (figures via secondary search summary, not the full paper). <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6864568">https://pmc.ncbi.nlm.nih.gov/articles/PMC6864568</a></li>
+<li>RAMPART, Silbergleit et al., NEJM 2012;366:591-600. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3307101">https://pmc.ncbi.nlm.nih.gov/articles/PMC3307101</a></li>
+<li>CERTA, Rossetti et al., JAMA Neurol 2020. <a href="https://pubmed.ncbi.nlm.nih.gov/32716479/">https://pubmed.ncbi.nlm.nih.gov/32716479/</a></li>
+<li>Status epilepticus in the ICU, Intensive Care Med 2024. <a href="https://doi.org/10.1007/s00134-023-07263-w">https://doi.org/10.1007/s00134-023-07263-w</a></li>
+<li>Neurocritical Care Society guideline, Brophy et al., Neurocrit Care 2012. <a href="https://doi.org/10.1007/s12028-012-9695-z">https://doi.org/10.1007/s12028-012-9695-z</a></li>
+<li>Ketamine meta-analysis, Aldhafeeri et al., Cureus 2025. <a href="https://doi.org/10.7759/cureus.99264">https://doi.org/10.7759/cureus.99264</a></li>
+<li>NICE NG217 Epilepsies (2022). <a href="https://www.nice.org.uk/guidance/ng217">https://www.nice.org.uk/guidance/ng217</a> (not read)</li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: DKA and HHS in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-dka-hhs</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-dka-hhs.mp3" length="3544899" type="audio/mpeg"/>
+      <itunes:duration>591</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Fluid choice is the one area with trial data. SCOPE-DKA (phase 2, 90 patients) was negative on its 48 hour primary outcome; the 24 hour benefit for Plasma-Lyte was secondary. The SMART/SALT-ED DKA subgroup (172 adults, post hoc) found faster resolution with balanced fluid (13.0 vs 16.9 hours). BEST-DKA (phase 3, protocol only) is awaited. The 2024 ADA/EASD/JBDS/AACE/DTS consensus and the JBDS DKA guideline (revised March 2023) agree on fixed-rate insulin 0.1 units/kg/h, reducing to 0.05 with dextrose once glucose is below about 14 mmol/L (expert consensus; a 2025 five-hospital UK audit showed patchy uptake and no demonstrable outcome change). Bicarbonate is not routine (consensus allows pH below 7.0). HHS needs slower correction (osmolality fall 3.0 to 8.0 mOsm/kg/h), FRIII at 0.05 units/kg/h once osmolality stops falling, and prophylactic LMWH. SGLT2 inhibitor DKA can be euglycaemic: MHRA (2020) advises interrupting treatment during major surgery or serious illness and checking blood ketones; the 2025 Anaesthesia Delphi consensus advises omitting them the day before and day of elective procedures.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Low pH with normal glucose in anyone on an SGLT2 inhibitor is DKA until proven otherwise: check blood ketones, start dextrose with insulin.</li>
+<li>Balanced crystalloid is reasonable in ICU (JBDS accepts it), but the benefit shown is faster biochemical resolution, not proven patient-centred outcomes.</li>
+<li>Replace potassium early; consensus holds insulin if potassium is below 3.5 mmol/L on arrival.</li>
+<li>No routine bicarbonate; consensus allows it at pH below 7.0, JBDS notes occasional ICU use with inotropes (pragmatic, not trial-based).</li>
+<li>HHS: go slow, monitor osmolality, give prophylactic LMWH; watch for mixed DKA/HHS, which had the highest mortality in the cited cohort.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li>Ramanan M et al. SCOPE-DKA. Intensive Care Med 2021. <a href="https://doi.org/10.1007/s00134-021-06480-5">https://doi.org/10.1007/s00134-021-06480-5</a> (PMID 34609547)</li>
+<li>Self WH et al. Balanced crystalloids vs saline in DKA, SMART/SALT-ED subgroup. JAMA Netw Open 2020. <a href="https://doi.org/10.1001/jamanetworkopen.2020.24596">https://doi.org/10.1001/jamanetworkopen.2020.24596</a></li>
+<li>BEST-DKA protocol. Crit Care Resusc 2025. <a href="https://doi.org/10.1016/j.ccrj.2025.100104">https://doi.org/10.1016/j.ccrj.2025.100104</a></li>
+<li>Umpierrez GE et al. Hyperglycaemic crises in adults with diabetes: a consensus report. Diabetes Care 2024;47:1257. <a href="https://doi.org/10.2337/dci24-0032">https://doi.org/10.2337/dci24-0032</a> (Diabetologia: <a href="https://doi.org/10.1007/s00125-024-06183-8">https://doi.org/10.1007/s00125-024-06183-8</a>)</li>
+<li>JBDS-IP. Management of DKA in adults, revised March 2023. <a href="https://abcd.care/sites/default/files/site_uploads/JBDS_Guidelines_Current/JBDS_02_DKA_Guideline_with_QR_code_March_2023.pdf">https://abcd.care/sites/default/files/site_uploads/JBDS_Guidelines_Current/JBDS_02_DKA_Guideline_with_QR_code_March_2023.pdf</a></li>
+<li>Mustafa OG et al. JBDS HHS guideline. Diabet Med 2022/2023. <a href="https://doi.org/10.1111/dme.15005">https://doi.org/10.1111/dme.15005</a></li>
+<li>Sharma A et al (DEKODE). FRIII rate reduction audit. Diabet Med 2025. <a href="https://doi.org/10.1111/dme.70010">https://doi.org/10.1111/dme.70010</a></li>
+<li>MHRA Drug Safety Update, 18 March 2020, SGLT2 inhibitors. <a href="https://www.gov.uk/drug-safety-update/sglt2-inhibitors-monitor-ketones-in-blood-during-treatment-interruption-for-surgical-procedures-or-acute-serious-medical-illness">https://www.gov.uk/drug-safety-update/sglt2-inhibitors-monitor-ketones-in-blood-during-treatment-interruption-for-surgical-procedures-or-acute-serious-medical-illness</a></li>
+<li>Elective peri-operative management of adults taking GLP-1 RAs, GIP agonists and SGLT2 inhibitors: consensus statement. Anaesthesia 2025. <a href="https://doi.org/10.1111/anae.16541">https://doi.org/10.1111/anae.16541</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Acute liver failure and acute-on-chronic liver failure</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-alf-aclf</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-alf-aclf.mp3" length="3416095" type="audio/mpeg"/>
+      <itunes:duration>569</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Hyperacute/acute liver failure (mostly paracetamol in the UK) is managed around cerebral oedema (ammonia-driven astrocyte swelling), supportive organ care, no routine INR correction, and early transplant-centre contact using the UK revised criteria (successor to King's College). Evidence for ammonia-lowering CRRT is physiological and consensus-based, hypertonic saline has a small RCT, prophylactic hypothermia failed, and high-volume plasma exchange improved transplant-free hospital survival in one open-label RCT. ACLF (EASL-CLIF) is graded by organ-failure count with 28-day mortality of roughly 20, 30 and 80 percent for grades 1 to 3. EASL 2023 advises reassessing at 3 to 7 days and considering withdrawal if 4 or more organ failures or CLIF-C ACLF over 70 with no salvage transplant option (level 4, consensus). APACHE (reported June 2026, conference only, sponsor-funded, open-label, stopped at 274 of 380) suggests plasma exchange with albumin lowers 90-day death before transplant, but combined death-or-transplant was similar; the 2023 guideline pre-dates it and does not recommend plasma exchange outside trials.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Hyperacute ALF: head up, avoid hyponatraemia, sodium 145 to 155 with hypertonic saline if at risk, no prophylactic cooling, consider CRRT to keep ammonia under 100 (consensus, not outcome-proven), do not correct INR unless bleeding or high-risk procedure.</li>
+<li>Call the liver centre early; use the current UK revised criteria, not memory of the original King's criteria. Criteria identify who dies without a graft, not who tolerates one.</li>
+<li>ACLF: count organ failures, score sequentially, make prognostic and futility judgements after 3 to 7 days of full support, not on day one.</li>
+<li>Document ceilings of care as conditional (no transplant option, named criteria, named time point). EASL futility criteria are level 4 consensus: "consider", not "mandate".</li>
+<li>Plasma exchange in ACLF: promising (APACHE) but unpublished in full; wait for the paper and local policy.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li>CANONIC, Moreau et al, Gastroenterology 2013: <a href="https://doi.org/10.1053/j.gastro.2013.02.042">https://doi.org/10.1053/j.gastro.2013.02.042</a></li>
+<li>Zaccherini, Weiss, Moreau. ACLF definitions, pathophysiology and treatment, JHEP Reports 2021: <a href="https://doi.org/10.1016/j.jhepr.2020.100176">https://doi.org/10.1016/j.jhepr.2020.100176</a></li>
+<li>EASL CPG on acute-on-chronic liver failure, J Hepatol 2023 (erratum 2024): <a href="https://doi.org/10.1016/j.jhep.2023.04.021">https://doi.org/10.1016/j.jhep.2023.04.021</a> ; recommendation summary: <a href="https://www.guidelinecentral.com/guideline/4544245/">https://www.guidelinecentral.com/guideline/4544245/</a></li>
+<li>EASL CPG on acute (fulminant) liver failure, J Hepatol 2017: <a href="https://doi.org/10.1016/j.jhep.2016.12.003">https://doi.org/10.1016/j.jhep.2016.12.003</a></li>
+<li>Fernandez, Toapanta, Bernal. Acute liver failure: a practical update, JHEP Reports 2024: <a href="https://doi.org/10.1016/j.jhepr.2024.101131">https://doi.org/10.1016/j.jhepr.2024.101131</a></li>
+<li>APACHE topline abstract, J Hepatol 2026;84:S8: <a href="https://doi.org/10.1016/S0168-8278(26">https://doi.org/10.1016/S0168-8278(26</a>)00306-5 ; press report: <a href="https://www.medscape.com/viewarticle/plasma-exchange-buys-time-liver-failure-patients-2026a1000i9y">https://www.medscape.com/viewarticle/plasma-exchange-buys-time-liver-failure-patients-2026a1000i9y</a></li>
+<li>Larsen et al. High-volume plasma exchange in ALF, J Hepatol 2016: <a href="https://doi.org/10.1016/j.jhep.2015.08.018">https://doi.org/10.1016/j.jhep.2015.08.018</a></li>
+<li>Bernal et al. Blood lactate in paracetamol ALF, Lancet 2002: <a href="https://doi.org/10.1016/S0140-6736(02">https://doi.org/10.1016/S0140-6736(02</a>)07743-7</li>
+<li>Bernal et al. Arterial ammonia and intracranial hypertension, Hepatology 2007/2008: <a href="https://doi.org/10.1002/hep.21838">https://doi.org/10.1002/hep.21838</a></li>
+<li>Murphy et al. Hypertonic saline in ALF, Hepatology 2004: <a href="https://doi.org/10.1002/hep.20056">https://doi.org/10.1002/hep.20056</a></li>
+<li>Bernal et al. Moderate hypothermia RCT in ALF, J Hepatol 2016: <a href="https://doi.org/10.1016/j.jhep.2016.03.003">https://doi.org/10.1016/j.jhep.2016.03.003</a></li>
+<li>Slack et al. Ammonia clearance with haemofiltration, Liver Int 2014: <a href="https://doi.org/10.1111/liv.12221">https://doi.org/10.1111/liv.12221</a></li>
+<li>Lee et al. IV N-acetylcysteine in non-paracetamol ALF, Gastroenterology 2009: <a href="https://doi.org/10.1053/j.gastro.2009.06.006">https://doi.org/10.1053/j.gastro.2009.06.006</a></li>
+<li>Jalan et al. CLIF-C ACLF score, J Hepatol 2014: <a href="https://doi.org/10.1016/j.jhep.2014.06.012">https://doi.org/10.1016/j.jhep.2014.06.012</a></li>
+<li>Engelmann et al. CLIF-C ACLF futility threshold, Crit Care 2018: <a href="https://doi.org/10.1186/s13054-018-2156-0">https://doi.org/10.1186/s13054-018-2156-0</a></li>
+<li>Artru et al. Liver transplantation in ACLF-3, J Hepatol 2017: <a href="https://doi.org/10.1016/j.jhep.2017.06.009">https://doi.org/10.1016/j.jhep.2017.06.009</a></li>
+<li>Artzner et al. Intensive care management of ACLF, Intensive Care Med 2023: <a href="https://doi.org/10.1007/s00134-023-07149-x">https://doi.org/10.1007/s00134-023-07149-x</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Strong ion difference and the Stewart approach to acid-base</title>
       <guid isPermaLink="false">od-deepdive-2026-10-12-patho-strong-ion-difference</guid>
@@ -1483,104 +1581,6 @@
 <li><a href="https://doi.org/10.1007/s00134-023-07050-7">ESICM ARDS guideline 2023</a></li>
 <li><a href="https://doi.org/10.1164/rccm.202311-2011ST">ATS ARDS guideline update 2024</a></li>
 <li><a href="https://doi.org/10.1136/bmjresp-2019-000420">FICM/ICS ARDS guideline (2018, published 2019)</a></li>
-</ul>
-<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
-    </item>
-    <item>
-      <title>Deep dive: Vasopressors in septic shock</title>
-      <guid isPermaLink="false">od-deepdive-2026-10-07-vasopressors-septic-shock</guid>
-      <pubDate>Wed, 07 Oct 2026 17:11:45 +0000</pubDate>
-      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-vasopressors-septic-shock.mp3" length="3359958" type="audio/mpeg"/>
-      <itunes:duration>560</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <description><![CDATA[<p>Consultant-level look at vasopressor decisions in septic shock, built around the 2026 Surviving Sepsis Campaign guidelines. Early noradrenaline (CENSER, CLOVERS) looks safe but has not been shown to reduce mortality. Observational data and the 2026 guideline support starting peripherally rather than waiting for a central line. VASST and the UK VANISH trial place vasopressin as a catecholamine-sparing add-on rather than a life-saver, and observational data link later vasopressin starts with higher mortality. ATHOS-3 and a small single-centre methylene blue trial show blood pressure gains without proven survival benefit. On MAP targets, SEPSISPAM, the UK 65 trial and Japan's OPTPRESS (stopped early for harm with the higher target) underpin the new suggestion of 60 to 65 mmHg in patients aged 65 or over. Terlipressin and selepressin don't help.</p>
-<p><strong>Take-home points</strong></p>
-<ul>
-<li>Early noradrenaline is safe but has not been shown to save lives.</li>
-<li>Start vasopressors peripherally rather than delay for a central line.</li>
-<li>Target a MAP of 65 mmHg, or 60 to 65 in patients aged 65 or over; higher targets have looked harmful.</li>
-<li>Add vasopressin as the noradrenaline dose rises: it spares catecholamine but has not shown a survival benefit.</li>
-<li>Angiotensin II and methylene blue are rescue options with weak evidence; avoid terlipressin.</li>
-</ul>
-<p><strong>Key sources</strong></p>
-<ul>
-<li><a href="https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026">Surviving Sepsis Campaign guidelines 2026 (SCCM page)</a></li>
-<li><a href="https://doi.org/10.1097/CCM.0000000000007075">Surviving Sepsis Campaign 2026 (Crit Care Med)</a></li>
-<li><a href="https://doi.org/10.1007/s00134-021-06506-y">Surviving Sepsis Campaign 2021</a></li>
-<li><a href="https://doi.org/10.1164/rccm.201806-1034OC">CENSER (AJRCCM 2019)</a></li>
-<li><a href="https://doi.org/10.1056/NEJMoa2212663">CLOVERS (NEJM 2023)</a></li>
-<li><a href="https://doi.org/10.1056/NEJMoa067373">VASST (NEJM 2008)</a></li>
-<li><a href="https://doi.org/10.1001/jama.2016.10485">VANISH (JAMA 2016)</a></li>
-<li><a href="https://doi.org/10.1097/CCM.0000000000005317">Vasopressin initiation and mortality, Sacha (Crit Care Med 2022; observational)</a></li>
-<li><a href="https://doi.org/10.1056/NEJMoa1704154">ATHOS-3 (NEJM 2017)</a></li>
-<li><a href="https://doi.org/10.1186/s13054-023-04397-7">Methylene blue RCT, Ibarra-Estrada (Crit Care 2023; single centre)</a></li>
-<li><a href="https://doi.org/10.1056/NEJMoa1312173">SEPSISPAM (NEJM 2014)</a></li>
-<li><a href="https://doi.org/10.1001/jama.2020.0930">65 trial (JAMA 2020)</a></li>
-<li><a href="https://doi.org/10.1007/s00134-025-07910-4">OPTPRESS (Intensive Care Med 2025)</a></li>
-<li><a href="https://doi.org/10.1002/jhm.2394">Peripheral vasopressors, Cardenas-Garcia (J Hosp Med 2015; observational)</a></li>
-<li><a href="https://doi.org/10.1016/j.chest.2023.08.019">Peripheral vasopressors, Yerke (Chest 2024; observational)</a></li>
-<li><a href="https://doi.org/10.1016/j.jcrc.2015.01.014">Peripheral extravasation review, Loubani (J Crit Care 2015)</a></li>
-<li><a href="https://doi.org/10.1007/s00134-018-5267-9">Terlipressin RCT, Liu (Intensive Care Med 2018)</a></li>
-<li><a href="https://doi.org/10.1001/jama.2019.14607">SEPSIS-ACT (JAMA 2019)</a></li>
-<li><a href="https://doi.org/10.1016/j.ajem.2026.09.025">Dissenting opinion on SSC 2026 (Am J Emerg Med 2026)</a></li>
-<li><a href="https://emcrit.org/emcrit/ssc-2026-sepsis-guidelines/">EMCrit 422 on SSC 2026</a></li>
-</ul>
-<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
-    </item>
-    <item>
-      <title>Deep dive: Acute myocardial infarction in the ICU</title>
-      <guid isPermaLink="false">od-deepdive-2026-10-07-acute-mi-in-the-icu</guid>
-      <pubDate>Wed, 07 Oct 2026 16:25:04 +0000</pubDate>
-      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-acute-mi-in-the-icu.mp3" length="3237088" type="audio/mpeg"/>
-      <itunes:duration>539</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <description><![CDATA[<p>Kate and Tom cover what reaches the ICU after myocardial infarction: culprit-only PCI in cardiogenic shock (CULPRIT-SHOCK), the negative ECLS-SHOCK trial of early VA-ECMO, the positive but complication-heavy DanGer Shock trial of the microaxial pump, immediate versus delayed angiography after cardiac arrest (COACT, TOMAHAWK), type 2 MI and troponin interpretation, and perioperative myocardial injury (VISION, MANAGE).</p>
-<p><strong>Take-home points</strong></p>
-<ul>
-<li>Culprit-only PCI in infarct-related shock; no routine intra-aortic balloon pump.</li>
-<li>Routine early VA-ECMO did not improve 30-day survival in ECLS-SHOCK and roughly doubled bleeding and vascular complications.</li>
-<li>In DanGer Shock a microaxial pump improved survival in selected STEMI shock patients (not comatose after arrest) at the cost of more complications; involve the shock team early.</li>
-<li>After arrest, ST elevation goes to the cath lab; stable patients without it can have delayed angiography.</li>
-<li>Do not treat a type 2 troponin rise like a type 1 infarction: treat the cause.</li>
-</ul>
-<p><strong>Key sources</strong></p>
-<ul>
-<li><a href="https://doi.org/10.1056/NEJMoa1710261">CULPRIT-SHOCK (NEJM 2017)</a></li>
-<li><a href="https://doi.org/10.1056/NEJMoa2307227">ECLS-SHOCK (NEJM 2023)</a></li>
-<li><a href="https://doi.org/10.1056/NEJMoa2312572">DanGer Shock (NEJM 2024)</a></li>
-<li><a href="https://doi.org/10.1056/NEJMoa1816897">COACT (NEJM 2019)</a></li>
-<li><a href="https://www.acc.org/Latest-in-Cardiology/Articles/2021/08/26/20/08/sun-8am-tomahawk-esc-2021">TOMAHAWK (NEJM 2021)</a></li>
-<li><a href="https://www.tctmd.com/news/danger-shock-impella-tied-better-survival-even-10-years-later">DanGer Shock long-term follow-up (ESC 2025; report)</a></li>
-<li><a href="https://www.pcronline.com/News/Congress-coverages/ESC/2023/2023-ESC-Guidelines-for-the-management-of-acute-coronary-syndromes">2023 ESC Guidelines for the management of acute coronary syndromes</a></li>
-<li><a href="https://doi.org/10.1007/s00134-025-08117-3">ERC-ESICM guidelines 2025: post-resuscitation care</a></li>
-<li><a href="https://www.nice.org.uk/guidance/htg775">NICE: percutaneous microaxial flow pump for cardiogenic shock</a></li>
-<li><a href="https://www.uthsc.edu/internal/residency/documents/consult-curriculum/manage-mins-lancet-2018.pdf">MANAGE (Lancet 2018)</a></li>
-</ul>
-<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
-    </item>
-    <item>
-      <title>Deep dive: Neuroprognostication after cardiac arrest</title>
-      <guid isPermaLink="false">od-deepdive-2026-10-07-post-arrest-neuroprognostication</guid>
-      <pubDate>Wed, 07 Oct 2026 16:25:04 +0000</pubDate>
-      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-07-post-arrest-neuroprognostication.mp3" length="3683942" type="audio/mpeg"/>
-      <itunes:duration>614</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <description><![CDATA[<p>Kate and Tom walk through the 2025 ERC-ESICM prognostication algorithm for comatose survivors of cardiac arrest: the wider entry point (motor score below 6 at 72 hours or later), the two-or-more rule for poor outcome, the new favourable indicators, why neurofilament light is not yet recommended, bias from self-fulfilling prophecy and early withdrawal, and the UK best-interests framework (MCA 2005, Aintree v James, Re Y, RCP PDOC guidance).</p>
-<p><strong>Take-home points</strong></p>
-<ul>
-<li>Wait until at least 72 hours, exclude confounders (sedation, relaxants, temperature, hypotension, sepsis, metabolic) and examine carefully.</li>
-<li>Poor outcome is likely only with two or more concordant predictors; one alone is not enough.</li>
-<li>Look for favourable signs too (motor score 4 or 5, normal NSE, continuous EEG, no MRI diffusion restriction); indeterminate means observe and reassess, because late awakening happens.</li>
-<li>NSE needs serial samples (24, 48, 72 h) and care over haemolysis; the guideline does not recommend neurofilament light yet.</li>
-<li>Prognosis informs a best-interests decision but does not make it; keep the prognosis and withdrawal conversations separate and document.</li>
-</ul>
-<p><strong>Key sources</strong></p>
-<ul>
-<li><a href="https://doi.org/10.1007/s00134-025-08117-3">ERC-ESICM guidelines 2025: post-resuscitation care (Nolan et al., Intensive Care Med 2025)</a></li>
-<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2013/67">Aintree University Hospitals v James [2013] UKSC 67</a></li>
-<li><a href="https://www.supremecourt.uk/cases/uksc-2017-0202.html">An NHS Trust v Y [2018] UKSC 46</a></li>
-<li><a href="https://www.rcp.ac.uk/news-and-media/news-and-opinion/prolonged-disorders-of-consciousness-new-rcp-guidance-to-help-healthcare-staff-and-families/">RCP: Prolonged disorders of consciousness following sudden onset brain injury, national clinical guidelines (2020)</a></li>
-<li><a href="https://www.mentalcapacitylawandpolicy.org.uk/guidance-on-canh-decision-making-published-by-bma-and-rcp/">BMA and RCP guidance on CANH decision-making (2018)</a></li>
 </ul>
 <p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
     </item>
