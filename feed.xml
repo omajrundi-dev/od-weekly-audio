@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 06:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,59 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 40. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Strong ion difference and the Stewart approach to acid-base</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-patho-strong-ion-difference</guid>
+      <pubDate>Mon, 12 Oct 2026 06:50:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-patho-strong-ion-difference.mp3" length="3496505" type="audio/mpeg"/>
+      <itunes:duration>583</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Stewart's physicochemical approach to acid-base: the three independent variables (strong ion difference, total weak acids, pCO2), apparent versus effective SID and the strong ion gap, and how this compares with Henderson-Hasselbalch, the albumin-corrected anion gap and Fencl-Story / partitioned base excess. Includes a worked example in which low albumin hides an unmeasured-anion acidosis, why saline (SID zero) and balanced crystalloids (effective SID about 28) pull plasma in different directions, and an honest look at what SMART, SPLIT, BaSICS and PLUS show.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Stewart's independent variables are SID, total weak acid (mainly albumin and phosphate) and pCO2; hydrogen ion and bicarbonate are dependent, not causal.</li>
+<li>The approach is mathematically consistent with the traditional one; its practical value is forcing you to read chloride, sodium and albumin together.</li>
+<li>Always correct the anion gap for albumin: a normal gap with albumin of 20 g/L may hide unmeasured anions.</li>
+<li>Saline (SID 0) and balanced crystalloids (effective SID about 28) pull plasma SID toward the fluid's own; that is real chemistry.</li>
+<li>SMART showed a small kidney-event benefit; BaSICS and PLUS showed no mortality difference. Prefer balanced fluids in volume, take care in brain injury (BaSICS subgroup signal), and don't act on a chloride number alone.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1711584">SMART, Semler et al, N Engl J Med 2018;378:829-39</a></li>
+<li><a href="https://doi.org/10.1001/jama.2021.11684">BaSICS, Zampieri et al, JAMA 2021</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2114464">PLUS, Finfer et al, N Engl J Med 2022;386:815-26</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/icm/basics">BaSICS summary, The Bottom Line (also covers SPLIT)</a></li>
+<li><a href="https://derangedphysiology.com/main/cicm-primary-exam/acid-base-and-electrolytes">Deranged Physiology: acid-base chapters (Stewart, anion gap, base excess)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: The revised Starling equation and the glycocalyx</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-12-patho-revised-starling</guid>
+      <pubDate>Mon, 12 Oct 2026 06:55:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-12-patho-revised-starling.mp3" length="3346969" type="audio/mpeg"/>
+      <itunes:duration>558</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>The classic Starling picture (filtration at the arterial end, reabsorption at the venous end) against the revised model of Levick and Michel and Woodcock: the glycocalyx and subglycocalyx space set the effective oncotic gradient, steady-state capillaries filter throughout with no venous reabsorption, and lymph returns the filtrate. Covers what damages the glycocalyx, the status of syndecan-1 and heparan sulphate as biomarkers, and the consequences for albumin (SAFE, ALBIOS), context sensitivity of volume effect, oedema that colloid cannot draw back, and restrictive fluids and de-resuscitation (CLASSIC, CLOVERS).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>In steady state capillaries filter along their whole length; there is no sustained venous reabsorption and lymph returns the filtrate.</li>
+<li>The oncotic gradient that matters is across the glycocalyx (plasma versus subglycocalyx space); interstitial oncotic pressure matters little.</li>
+<li>Glycocalyx shedding is linked to sepsis, surgery, hyperglycaemia and probably hypervolaemia, but syndecan-1 and heparan sulphate are research markers, not decision tools.</li>
+<li>Albumin and other colloids are less volume-sparing than predicted and will not pull oedema back.</li>
+<li>Give fluid for a reason, reassess, and plan de-resuscitation early; CLASSIC and CLOVERS found no mortality difference between restrictive and liberal strategies.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1093/cvr/cvq091">Levick and Michel, Microvascular fluid exchange and the revised Starling principle, Cardiovasc Res 2010</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8056939">Woodcock and Michel, Advances in the Starling principle and microvascular fluid exchange, 2021 review</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa040232">SAFE, Finfer et al, N Engl J Med 2004</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1305727">ALBIOS, Caironi et al, N Engl J Med 2014</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/icm/albios-study-investigators-albumin-replacement-in-patients-with-severe-sepsis-or-septic-shock/">ALBIOS summary, The Bottom Line</a></li>
+<li><a href="https://derangedphysiology.com/">Deranged Physiology: fluid and capillary exchange chapters</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Procalcitonin in the ICU</title>
       <guid isPermaLink="false">od-deepdive-2026-10-12-procalcitonin-icu</guid>
@@ -1530,35 +1583,6 @@
 <li><a href="https://www.mentalcapacitylawandpolicy.org.uk/guidance-on-canh-decision-making-published-by-bma-and-rcp/">BMA and RCP guidance on CANH decision-making (2018)</a></li>
 </ul>
 <p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
-    </item>
-    <item>
-      <title>7 October 2026 (extended): PRESSURE, neuroprognosis in the Court of Protection, and an ICU-referral PFD</title>
-      <guid isPermaLink="false">od-digest-2026-10-07-extended</guid>
-      <pubDate>Wed, 07 Oct 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-07.mp3" length="16227609" type="audio/mpeg"/>
-      <itunes:duration>2705</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <description><![CDATA[<p><strong>Covers 30 September to 7 October 2026.</strong> Extended edition (about 45 minutes); replaces the earlier versions from today. Items first published before 30 September are marked as recent context.</p>
-<ul>
-<li><strong>MHRA:</strong> no new National Patient Safety Alerts, device safety notices or Drug Safety Update this week. The field safety notice list for 28 Sep to 2 Oct was not yet published. There was a minor leaflet defect for levetiracetam granules (EL(26)A/40). <a href="https://www.gov.uk/drug-device-alerts">MHRA alerts</a></li>
-<li><strong>PRESSURE</strong> (JAMA, 28 Sep; recent context). 1,900 ventilated children in 23 paediatric ICUs: a permissive MAP target above the 5th centile meant 37.5% less vasoactive drug for a 3 mmHg difference in pressure. Primary outcome: probabilistic index 0.52 (0.49 to 0.54). Takeaway: less is not proven better, but more is not obviously better. <a href="https://doi.org/10.1001/jama.2026.19747">Paper</a> · <a href="https://iccn.substack.com/p/the-pressure-barely-moved-the-dose">ICCN commentary</a></li>
-<li><strong>SAFER</strong> (AJRCCM, 30 Sep). Pulse vs non-pulse methylprednisolone in acute exacerbation of IPF, n=100: no significant mortality difference, with very wide confidence intervals. <a href="https://doi.org/10.1093/ajrccm/aamag529">Paper</a> · <a href="https://emcrit.org/pulmcrit/pulse/">PulmCrit on pulse steroids</a></li>
-<li><strong>A2B secondary analysis</strong> (Anaesthesia, 6 Oct). Patient-reported ICU experience was no better with alpha-2 agonist sedation than with propofol; only 29% of survivors responded. <a href="https://doi.org/10.1111/anae.70437">Paper</a></li>
-<li><strong>BJA editorial on the AGP list</strong> (2 Oct). Scotland has dropped its aerosol-generating procedure list and moved to risk-based "air transmission" categories. England still has the list. The authors sat on the guidance panels. <a href="https://doi.org/10.1016/j.bja.2026.09.003">Editorial</a></li>
-<li><strong>Videolaryngoscopy, VCISpain</strong> (Anaesthesia, 2 Oct). 5,302 intubations: even with an excellent view, about 6% of first attempts were difficult or failed. Document the blade, the view and how the tube was delivered. <a href="https://doi.org/10.1111/anae.70417">Paper</a></li>
-<li><strong>SGLT2 inhibitors before surgery.</strong> The 2026 AHA/ACC guideline reaffirms its 2024 advice to stop 3 to 4 days before. UK CPOC/JBDS guidance: omit them the day before and the day of surgery, longer with bowel prep, and check ketones. <a href="https://abcd.care/sites/default/files/site_uploads/JBDS_Guidelines_Current/JBDS_03_CPOC_Diabetes_Surgery_Guideline_Updated_2022.pdf">CPOC/JBDS</a></li>
-<li><strong>A Hospital Trust v MB [2026] EWCOP 32</strong> (newly available). Withdrawal of ventilation after cardiac arrest. The evidence was framed on ERC/ESICM 2025 multimodal criteria, and the judgment explains why SSEP was not done. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/32">Judgment</a></li>
-<li><strong>Cardiff and Vale UHB v ST [2026] EWCOP 44</strong> (30 Sep). NG feeding withdrawn despite the family's faith-based objection. Repeated tube removal was treated as evidence of her wishes. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/44">Judgment</a></li>
-<li><strong>Royal Berkshire NHS FT v BM [2026] EWCOP 50</strong> (released 6 Oct). Surgery under GA was approved with a stepwise, last-resort restraint plan. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/50">Judgment</a></li>
-<li><strong>Prevention of Future Deaths reports.</strong> Ref 2026-0390 (South Wales Central, 30 Sep): ED overcrowding, and prescribed antibiotics never given. Ref 2026-0353 (Essex, 17 Sep; recent context): a dispute over ICU admission criteria delayed transfer. <a href="https://www.judiciary.uk/prevention-of-future-death-reports/">PFD reports</a></li>
-<li><strong>Townsend v Epsom and St Helier.</strong> The Supreme Court hearing is confirmed for 12 to 13 January 2027. <a href="https://supremecourt.uk/cases/uksc-2026-0050">UKSC</a></li>
-<li><strong>PARAMEDIC-3 Bayesian analysis</strong> (Resuscitation, 25 Sep; recent context). Intraosseous-first had about an 82% probability of worse 30-day survival, but any effect is probably modest; there was a 98% probability of worse ROSC. Stick with IV-first and IO as the fallback. <a href="https://doi.org/10.1016/j.resuscitation.2026.111335">Paper</a></li>
-<li><strong>Early PaO2 in acute brain injury</strong> (Neurocrit Care, 28 Sep; recent context). Lowest mortality at roughly 11-30 kPa (ICH), 13-25 kPa (SAH) and 13-21 kPa (ischaemic stroke); above about 40 kPa looks harmful. Observational. <a href="https://doi.org/10.1007/s12028-026-02659-0">Paper</a></li>
-<li><strong>Brain-TTM</strong> (JCBFM, 2 Oct). In 34 patients, targeting brain temperature was no better than targeting systemic temperature; the brain ran about 0.3°C warmer during maintenance. <a href="https://doi.org/10.1177/0271678X261496659">Paper</a></li>
-<li><strong>Intra-operative hypotension and pneumonia</strong> (Anaesthesia, 2 Oct). Retrospective, 151,036 patients: relative falls from baseline predicted pneumonia better than absolute MAP thresholds, but the effect was small. <a href="https://doi.org/10.1111/anae.70426">Paper</a></li>
-<li><strong>Antibiotic timing by NEWS2 and shock</strong> (Lancet Respir Med; epub Aug, now in print). About 100,000 encounters: each hour of delay was associated with higher mortality with shock or NEWS2 of 7 or more, and not below 7. This supports the NEWS2-7 one-hour rule. <a href="https://doi.org/10.1016/S2213-2600(26)00187-6">Paper</a></li>
-</ul>
-<p><strong>Unchecked this week:</strong> full texts behind Cloudflare (JAMA, BJA, Wiley, JACC, BMC Critical Care, Springer ICM), so numbers come from abstracts. Also unchecked: the Critical Care Reviews site, 39 Essex, RCoA, FICM and CPOC. The JAMA editorial on PRESSURE was not read.</p>]]></description>
     </item>
   </channel>
 </rss>
