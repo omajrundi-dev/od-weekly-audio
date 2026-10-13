@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 19:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:45:55 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,101 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Budd-Chiari syndrome and hepatic vascular emergencies</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-budd-chiari</guid>
+      <pubDate>Tue, 13 Oct 2026 11:45:54 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-budd-chiari.mp3" length="3136479" type="audio/mpeg"/>
+      <itunes:duration>523</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Fulminant Budd-Chiari is a rare cause of acute liver failure (about twenty of over two thousand three hundred in the US ALF Study Group registry) that is diagnosed by Doppler or CT and managed with a stepwise approach: anticoagulation, angioplasty or stenting, TIPS, then transplant. Evidence is cohort-based. The bilirubin, age and INR TIPS index identifies patients unlikely to do well with TIPS alone. MPN, including JAK2 exon twelve, is the commonest underlying cause of non-cirrhotic splanchnic vein thrombosis. Acute non-cirrhotic portal vein thrombosis recanalises in about two fifths on anticoagulation. For sinusoidal obstruction syndrome after HSCT, defibrotide is the reference treatment for severe disease (historical-control phase 3) but prophylaxis failed in the HARMONY trial. The new EASL 2026 vascular liver disease guideline replaces the 2016 version.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Acute liver failure with a congested painful liver and ascites: ask early for a hepatic vein Doppler.</li>
+<li>Start anticoagulation and involve the transplant centre in parallel rather than waiting for each step to fail.</li>
+<li>Send the full myeloproliferative workup including JAK2 exon twelve, and do not be put off by a negative first panel.</li>
+<li>Use the bilirubin, age and INR index to flag patients unlikely to do well with TIPS alone.</li>
+<li>In sinusoidal obstruction syndrome, treat severe disease early with defibrotide, but not as prophylaxis.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.jhep.2025.08.001">EASL Clinical Practice Guidelines on vascular diseases of the liver (J Hepatol 2026)</a></li>
+<li><a href="https://doi.org/10.1002/hep.26306">Seijo et al, step-wise management of Budd-Chiari, EN-Vie (Hepatology 2013)</a></li>
+<li><a href="https://doi.org/10.1053/j.gastro.2008.05.051">Garcia-Pagan et al, TIPS for Budd-Chiari in 124 patients (Gastroenterology 2008)</a></li>
+<li><a href="https://doi.org/10.1002/lt.24643">Parekh et al, Budd-Chiari causing acute liver failure, ALFSG case series (Liver Transpl 2017)</a></li>
+<li><a href="https://doi.org/10.1111/ajt.16410">Alukal et al, status 1 liver transplantation for Budd-Chiari (Am J Transplant 2021)</a></li>
+<li><a href="https://doi.org/10.1111/apt.13604">Shalimar et al, AIIMS HVOTO score (Aliment Pharmacol Ther 2016)</a></li>
+<li><a href="https://doi.org/10.1016/j.jhep.2020.06.045">Garcia-Pagan group, NGS in non-cirrhotic splanchnic vein thrombosis (J Hepatol 2021)</a></li>
+<li><a href="https://doi.org/10.1002/hep.23259">Plessier et al, acute portal vein thrombosis unrelated to cirrhosis (Hepatology 2010)</a></li>
+<li><a href="https://doi.org/10.1182/blood-2015-10-676924">Richardson et al, phase 3 defibrotide for severe VOD/SOS with MOF (Blood 2016)</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(11)61938-7">Corbacioglu et al, paediatric defibrotide prophylaxis (Lancet 2012)</a></li>
+<li><a href="https://doi.org/10.1016/S2352-3026(23)00011-X">Grupp et al, HARMONY (Lancet Haematol 2023)</a></li>
+<li><a href="https://doi.org/10.1038/s41409-025-02598-y">Larue et al, SOS/VOD management in adults, 2025 expert perspective (Bone Marrow Transplant 2025)</a></li>
+<li><a href="https://doi.org/10.1016/j.jtct.2025.10.003">Yoon et al, real-world defibrotide, retrospective single centre (Transplant Cell Ther 2026)</a></li>
+<li><a href="https://doi.org/10.2478/jtim-2018-0022">Timing of TIPS in Budd-Chiari: a UK hepatologist&#x27;s perspective (J Transl Int Med 2018)</a></li>
+<li><a href="https://doi.org/10.1515/jtim-2017-0033">Timing of TIPS in Budd-Chiari: an Italian hepatologist&#x27;s perspective (J Transl Int Med 2017)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Rhabdomyolysis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-rhabdomyolysis</guid>
+      <pubDate>Tue, 13 Oct 2026 11:45:53 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-rhabdomyolysis.mp3" length="3187066" type="audio/mpeg"/>
+      <itunes:duration>531</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Rhabdomyolysis in ICU: risk depends on cause (cardiac arrest, sepsis, compartment syndrome worst) and is stratified by the McMahon score. Evidence for fluids is very low quality but conditionally supportive; bicarbonate and mannitol are conditionally recommended against by EAST; no randomised trials exist. Electrolytes and compartment syndrome drive early danger. Hemoadsorption for myoglobin is supported only by a conflicted Delphi consensus, not outcome data.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Stratify by cause and McMahon score; cardiac arrest, sepsis and compartment syndrome are high risk.</li>
+<li>Early balanced crystalloid is reasonable (conditional, very low quality evidence); titrate and avoid overload.</li>
+<li>Skip routine bicarbonate and mannitol.</li>
+<li>Watch potassium and compartments; do not replace calcium without a reason.</li>
+<li>Hemoadsorption is unproven on patient outcomes; keep for trials or local protocols.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1001/jamainternmed.2013.9774">McMahon 2013, JAMA Intern Med, risk prediction score</a></li>
+<li><a href="https://doi.org/10.1016/j.amjsurg.2021.11.022">EAST practice management guideline 2022, Am J Surg</a></li>
+<li><a href="https://doi.org/10.1186/s13054-016-1314-5">Chavez 2016, Crit Care, systematic review</a></li>
+<li><a href="https://doi.org/10.1186/s12882-024-03679-8">Hemoadsorption in Rhabdomyolysis Task Force consensus 2024, BMC Nephrol</a></li>
+<li><a href="https://doi.org/10.1016/j.nmd.2025.105344">276th ENMC workshop 2025, Neuromuscul Disord</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2025.12.048">Richert 2026, Chest, narrative review</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Heparin and heparin-induced thrombocytopenia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-pharm-heparin-hit</guid>
+      <pubDate>Tue, 13 Oct 2026 11:45:52 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-pharm-heparin-hit.mp3" length="3446491" type="audio/mpeg"/>
+      <itunes:duration>574</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Heparin acts as a cofactor for antithrombin; long unfractionated chains inhibit both factor Xa and thrombin while short LMWH chains are mainly anti-Xa and renally cleared. PROTECT (2011, 3764 ICU patients) found dalteparin 5000 IU daily no different from UFH 5000 IU twice daily for proximal DVT. Monitoring by aPTT and anti-Xa often disagrees; antithrombin supplementation for heparin resistance is unproven. In HIT, the 4Ts score has a very high negative predictive value when low; testing combines immunoassay and functional assay; stop all heparin and use a non-heparin anticoagulant, with argatroban started at reduced dose in multi-organ failure per the EU SmPC. DOAC evidence is observational only.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Heparin works through antithrombin; in apparent resistance check antithrombin, factor VIII, fibrinogen and anti-Xa rather than escalating the dose.</li>
+<li>PROTECT showed no DVT difference between dalteparin and UFH; use UFH or anti-Xa monitoring when renal function is poor.</li>
+<li>Score the 4Ts before testing; a low score effectively excludes HIT.</li>
+<li>If HIT is suspected, stop all heparin and start a non-heparin anticoagulant; argatroban starts at 0.5 microgram/kg/min in multi-organ failure, aPTT 1.5 to 3 times baseline.</li>
+<li>Check doses against local formulary and haematology advice.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1014475">PROTECT, Cook et al, N Engl J Med 2011</a></li>
+<li><a href="https://doi.org/10.1111/bjh.19180">BSH HIT guideline third edition, Br J Haematol 2024</a></li>
+<li><a href="https://doi.org/10.1182/blood-2012-07-443051">Cuker et al, 4Ts meta-analysis, Blood 2012</a></li>
+<li><a href="https://doi.org/10.1182/bloodadvances.2018024489">ASH 2018 HIT guidelines, Blood Adv</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2026.11449">Marti et al, network meta-analysis medical inpatients, JAMA Netw Open 2026</a></li>
+<li><a href="https://doi.org/10.1007/s11239-024-03048-0">Halawi et al, aPTT and anti-Xa discordance, J Thromb Thrombolysis 2025</a></li>
+<li><a href="https://doi.org/10.1213/ANE.0000000000006314">Ranucci et al, antithrombin supplementation in cardiac surgery, Anesth Analg 2023</a></li>
+<li><a href="https://doi.org/10.1038/s41598-022-21560-2">Eck et al, nadroparin and AKI, Sci Rep 2022</a></li>
+<li><a href="https://doi.org/10.1160/TH16-03-0230">Selleng and Selleng, HIT in cardiac surgery and critical illness, Thromb Haemost 2016</a></li>
+<li><a href="https://doi.org/10.1111/ejh.70238">Galyfos et al, DOACs in HIT meta-analysis, Eur J Haematol 2026</a></li>
+<li><a href="https://docetp.mpa.se/LMF/Novastan%20solution%20for%20infusion%20ENG%20SmPC_09001bee807a5b9d.pdf">Novastan (argatroban) EU SmPC</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Renal tubular acidosis</title>
       <guid isPermaLink="false">od-deepdive-2026-10-12-rta</guid>
