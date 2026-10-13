@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 19:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:23:15 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,117 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Alcoholic and euglycaemic ketoacidosis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-alcoholic-euglycaemic-ketoacidosis</guid>
+      <pubDate>Tue, 13 Oct 2026 19:23:17 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-alcoholic-euglycaemic-ketoacidosis.mp3" length="3521875" type="audio/mpeg"/>
+      <itunes:duration>587</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Alcoholic and euglycaemic ketoacidosis for UK ICU and anaesthesia: alcoholic ketoacidosis (AKA) from the Wrenn case series (74 patients, 1991), the unreliable urine ketone dipstick and the osmol gap trap (55 AKA patients, median osmol gap 27, 2024 poison centre study), a 2026 multicentre emergency department review (905 alcohol-related presentations, AKA in 11 to 26 percent depending on definition), and the thin evidence behind the thiamine-before-dextrose rule (2012 review of 19 papers, none above case-report level; 2025 US Veterans Affairs retrospective study, 120 encounters, no Wernicke&#x27;s). SGLT2-inhibitor ketoacidosis: meta-analyses (Colacci 2022, seven trials, RR 2.46; Wang 2025, 22 trials, RR 2.32, not significant in heart failure trials), the 2016 MHRA Drug Safety Update, the 2016 ABCD position statement, JBDS 2023 management of DKA including the euglycaemic DKA section, the 2025 Association of Anaesthetists-led UK perioperative consensus (omit the day before and the day of surgery) against the FDA 3 to 4 day advice and the 2026 SPAQI consensus. There are no randomised trials of AKA treatment and no robust outcome data for perioperative SGLT2 ketoacidosis; one planned observational study (NCT06838507) is not yet recruiting.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Anion gap acidosis with a normal glucose: measure capillary or blood beta-hydroxybutyrate, not urine ketones (JBDS 2023), and keep AKA and SGLT2-inhibitor ketoacidosis both on the list.</li>
+<li>AKA: fluids with dextrose, thiamine given promptly alongside it, and replacement of potassium, magnesium and phosphate. This is based on physiology, case series and consensus rather than trials. If glucose is genuinely high, consider DKA in a drinker.</li>
+<li>Do not delay dextrose to give thiamine first; the evidence for that rule is case-report level. Give both together. A high osmol gap in AKA is common and should not by itself trigger fomepizole or dialysis without a toxic alcohol level.</li>
+<li>SGLT2-inhibitor ketoacidosis is treated as DKA per JBDS 2023: 10 percent glucose at 125 ml per hour from the start, fixed rate insulin at 0.1 units per kg per hour (0.05 if glucose falls despite dextrose), stop the drug, Yellow Card, and discuss restart with the diabetes team. Glycosuria can persist for days.</li>
+<li>Perioperatively in the UK: omit SGLT2 inhibitors the day before and the day of the procedure, avoid prolonged fasting, restart when eating and drinking (inpatients: consider capillary ketones below 0.6 mmol per litre). Guidance differs internationally and ketoacidosis has been reported even after more than 72 hours off the drug.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/1867237/">Wrenn et al. The syndrome of alcoholic ketoacidosis. Am J Med 1991</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39222325/">Elevated osmol gaps in patients with alcoholic ketoacidosis. Clin Toxicol 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42418923/">Frequency of alcoholic ketoacidosis in the emergency department. Am J Emerg Med 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/22104258/">Glucose before thiamine for Wernicke encephalopathy: a literature review. J Emerg Med 2012</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40873301/">Prevalence of Wernicke&#x27;s encephalopathy when receiving dextrose before thiamine: a national study of veterans. Acad Emerg Med 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34116926/">Colacci et al. SGLT2 inhibitors and risk of DKA: systematic review and meta-analysis. Can J Diabetes 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40070044/">SGLT2 inhibitors and DKA in T2DM: updated meta-analysis and Mendelian randomisation. Clin Pharmacol Ther 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35987618/">Preoperative SGLT2 inhibitors and perioperative metabolic acidosis: retrospective cohort. BMC Endocr Disord 2022</a></li>
+<li><a href="https://www.gov.uk/drug-safety-update/sglt2-inhibitors-updated-advice-on-the-risk-of-diabetic-ketoacidosis">MHRA Drug Safety Update, April 2016: SGLT2 inhibitors and diabetic ketoacidosis</a></li>
+<li><a href="https://abcd.care/sites/default/files/site_uploads/JBDS_Guidelines_Current/JBDS_02_DKA_Guideline_with_QR_code_March_2023.pdf">JBDS-IP. The management of diabetic ketoacidosis in adults, revised March 2023</a></li>
+<li><a href="https://abcd.care/sites/default/files/resources/ABCD_DKA_SGLT2.pdf">ABCD position statement on SGLT2 inhibitors and DKA, 2016 (consensus)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39781571/">Peri-operative management of adults taking GLP-1 RAs, GIP agonists and SGLT2 inhibitors: multidisciplinary consensus statement. Anaesthesia 2025 (doi 10.1111/anae.16541)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42067493/">Perioperative management of patients taking SGLT2 inhibitors: SPAQI consensus statement. Br J Anaesth 2026 (doi 10.1016/j.bja.2026.02.031)</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT06838507">NCT06838507: perioperative SGLT2 inhibitor associated ketoacidosis, observational study (not yet recruiting)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Severe hypercalcaemia, hypophosphataemia and refeeding syndrome</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-hypercalcaemia-refeeding</guid>
+      <pubDate>Tue, 13 Oct 2026 19:23:16 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-hypercalcaemia-refeeding.mp3" length="3535379" type="audio/mpeg"/>
+      <itunes:duration>589</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Severe hypercalcaemia, ICU hypophosphataemia and refeeding syndrome. Hypercalcaemic crisis per the Society for Endocrinology emergency guidance (Walsh, Gittoes, Selby, 2016): thresholds, causes, 0.9% saline 4 to 6 L in 24 hours, bisphosphonates, second-line options and dialysis. The 2023 Endocrine Society guideline conditionally favours denosumab over IV bisphosphonate in malignant hypercalcaemia on low-certainty evidence; its systematic review found no significant difference in resolution, a single-arm denosumab study (33 patients, bisphosphonate-refractory) and a 2026 observational cohort (836 patients, 55 on denosumab) are the main supports, and calcitonin added nothing in the review. ICU hypophosphataemia is common and associated with mortality (Queensland cohort, 68,699 patients) and with weaning and ventilator-free-day outcomes in observational data only; a small randomised trial found enteral phosphate non-inferior to IV on biochemistry. NICE CG32 risk criteria (predictive) versus ASPEN 2020 consensus definition (diagnostic, falls of 10 to 30 percent or more within five days). The Refeeding Syndrome Trial (Doig, Lancet Respir Med 2015, 339 patients): protocolised caloric restriction did not significantly change the primary outcome (days alive after ICU discharge 44.8 vs 39.9, difference 4.9, 95% CI -2.3 to 13.6) but 60-day survival was 91 percent vs 78 percent, a secondary result to treat as hypothesis-generating.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Severe hypercalcaemia: cautious saline, then an IV antiresorptive; calcium nadirs at two to four days. Loop diuretics are not a calcium-lowering treatment.</li>
+<li>Denosumab has its best data in bisphosphonate-refractory malignant hypercalcaemia; its superiority as first line is not proven, and calcitonin added no benefit in the Endocrine Society review.</li>
+<li>ICU hypophosphataemia marks risk and links to worse weaning, but no trial shows that correcting it improves outcomes; replace early, enterally if the gut works, and watch renal replacement therapy.</li>
+<li>For refeeding, NICE predicts risk and ASPEN diagnoses after the event; give thiamine and replace phosphate, potassium and magnesium.</li>
+<li>The Refeeding Syndrome Trial was negative on its primary outcome; the survival difference was secondary, so treat caloric restriction as a reasonable option rather than proven.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/27935816/">Walsh et al, Society for Endocrinology emergency guidance: acute hypercalcaemia in adults, Endocr Connect 2016</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36545746/">Endocrine Society guideline, treatment of hypercalcemia of malignancy in adults, JCEM 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36545700/">Systematic review supporting the Endocrine Society guideline, JCEM 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/24915117/">Hu et al, denosumab for hypercalcemia of malignancy, JCEM 2015 (single-arm)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42850763/">Denosumab vs bisphosphonates for hypercalcemia of malignancy, real-world cohort, JCEM 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38880126/">Acute hypercalcemic crisis: narrative review with a focus on pregnancy, Ann Endocrinol 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40860575/">Hypercalcemic crisis in pregnancy with ARDS requiring ECMO, JCEM Case Reports 2025 (case report)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39089453/">Epidemiology of hypophosphatemia in critical illness, Queensland cohort, Anaesth Crit Care Pain Med 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42314493/">Phosphate decline after nutritional support and extubation failure, Clin Nutr 2026 (retrospective)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41763519/">Hypophosphatemia during KRT and ventilator-free days, STARRT-AKI post hoc, Am J Kidney Dis 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38537225/">Enteral vs IV phosphate replacement, randomised non-inferiority trial, Crit Care Med 2024</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg32/chapter/Recommendations">NICE CG32, Nutrition support for adults (refeeding criteria, section 1.4)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/32115791/">ASPEN consensus recommendations for refeeding syndrome, Nutr Clin Pract 2020</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26597128/">Doig et al, Refeeding Syndrome Trial, Lancet Respir Med 2015</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/icm/the-refeeding-syndrome-trial/">The Bottom Line summary of the Refeeding Syndrome Trial</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34134001/">Incidence of refeeding syndrome: systematic review and meta-analyses, Clin Nutr 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38864503/">Refeeding syndrome in medical ICU patients, NICE vs ASPEN criteria, Nutr Clin Pract 2025</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Tumour lysis syndrome</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-tumour-lysis-syndrome</guid>
+      <pubDate>Tue, 13 Oct 2026 19:23:15 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-tumour-lysis-syndrome.mp3" length="3471389" type="audio/mpeg"/>
+      <itunes:duration>579</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Tumour lysis syndrome for UK ICU: the Cairo-Bishop laboratory and clinical definitions (2004) and the 2010 expert-panel risk consensus; the BSH guidelines (Jones 2015, updated Chan 2025) as quoted in the September 2025 NHS England national patient safety alert on delayed rasburicase (123 incident reports) and in a March 2026 Oxford implementation guideline; hydration and the absence of randomised fluid data; rasburicase versus allopurinol (Cortes, J Clin Oncol 2010, 275 adults, uric acid response 87% versus 66%; surrogate endpoint, with no adult evidence of clinical benefit in a 2013 systematic review and an unclear benefit in the 2017 Cochrane review in children); fixed 3 mg prophylaxis dosing and febuxostat (FLORENCE 2015); G6PD and giving rasburicase without the result in very unwell patients; hyperkalaemia, hyperphosphataemia and symptom-only treatment of hypocalcaemia; local renal replacement triggers and the lack of TLS-specific modality trials; spontaneous TLS (case-report level evidence); and newer agents, namely venetoclax (Roberts, NEJM 2016; MURANO 2018) and BCMA CAR-T (single-centre retrospective series). The full text of both BSH guidelines could not be opened, and the Cairo-Bishop thresholds were checked against UK local guidelines rather than the paper. No ongoing TLS trials were verified.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Risk depends on the regimen as well as the diagnosis: venetoclax can make traditionally low-risk disease high risk, and CAR-T TLS appears days after infusion alongside cytokine release syndrome.</li>
+<li>High risk means hydration plus early rasburicase. Check G6PD, but BSH (as quoted in the safety alert) allows the responsible consultant to give rasburicase before the result in a very unwell patient; document the decision.</li>
+<li>Rasburicase clearly lowers urate faster than allopurinol, but adult evidence of clinical benefit is lacking; fixed 3 mg prophylaxis is supported by observational data, not a randomised comparison.</li>
+<li>Monitor about six-hourly and use the whole picture. In one UK local guideline, renal replacement triggers include potassium 6.5 mmol/L or more at four hours despite treatment, rising urea, creatinine or phosphate, acidosis, uraemic neurotoxicity and diuretic-resistant overload. Phosphate is hard to control without dialysis.</li>
+<li>Do not treat asymptomatic hypocalcaemia and do not add potassium to fluids. Check where rasburicase is stored and how it is prescribed on your unit, as the national alert identified stock and prescribing failures.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/15384972/">Cairo and Bishop, Br J Haematol 2004 (definition and classification)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20331465/">Cairo et al, Br J Haematol 2010 (expert panel consensus on risk and prophylaxis)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25876990/">Jones et al, BSH guideline, Br J Haematol 2015</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40903841/">Chan et al, BSH updated guideline, Br J Haematol 2025</a></li>
+<li><a href="https://www.england.nhs.uk/long-read/harm-from-delayed-administration-of-rasburicase-for-tumour-lysis-syndrome-natpsa-2025-005-nhsps/">NHS England, National Patient Safety Alert NatPSA/2025/005/NHSPS, 9 September 2025</a></li>
+<li><a href="https://nssg.oxford-haematology.org.uk/general-haematology/clinical-care/H-8-tumour-lysis-syndrome.pdf">Oxford Clinical Haematology, TLS in adults guideline H.8 v5.0, March 2026 (local guideline)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20713865/">Cortes et al, J Clin Oncol 2010 (rasburicase versus allopurinol in adults)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11342423/">Goldman et al, Blood 2001 (rasburicase versus allopurinol in children)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23684124/">Rasburicase in adult TLS: systematic review, Am J Kidney Dis 2013</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/28272834/">Cheuk et al, Cochrane review of urate oxidase in children, 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26216382/">Spina et al, FLORENCE, Ann Oncol 2015 (febuxostat versus allopurinol)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26639348/">Roberts et al, N Engl J Med 2016 (venetoclax in relapsed CLL)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29562156/">Seymour et al, MURANO, N Engl J Med 2018</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37215107/">TLS after BCMA CAR-T in myeloma (retrospective), Front Immunol 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11394697/">Tan et al, phosphate control with IHD versus CVVHDF, Int J Artif Organs 2001</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35166948/">TLS, acute kidney injury and survival in critically ill patients (ICU cohort), Ann Intensive Care 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41893976/">Tumor lysis syndrome in colorectal cancer: systematic review of cases, J Gastrointest Cancer 2026</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Paracetamol overdose and toxic liver injury</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-paracetamol-overdose</guid>
