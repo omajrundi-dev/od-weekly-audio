@@ -10,7 +10,7 @@
     <description>A private weekly audio digest on family therapy and systemic practice. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png</url>
       <title>Family Therapy Digest</title>
@@ -26,6 +26,26 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>13 October 2026: ODDESSI correspondence, carers in family-based treatment, and the Social GRRRAAACCEEESSS</title>
+      <guid isPermaLink="false">ft-digest-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/episodes/2026-10-13.mp3" length="9977333" type="audio/mpeg"/>
+      <itunes:duration>1663</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Covers 6 to 13 October 2026. A quiet week for new research. All items were discussed from abstracts or titles only.</p>
+<p><strong>Items</strong></p>
+<ul>
+<li>Three letters in Lancet Psychiatry (8 October), all titled "Open Dialogue: challenges in interpreting the ODDESSI trial results" (Morriss; Palanci; Hutton and Howard). Their content could not be opened, so it is not summarised; the episode only recaps the trial's null primary outcome. <a href="https://doi.org/10.1016/S2215-0366(26)00302-0">Morriss letter</a>, <a href="https://doi.org/10.1016/S2215-0366(26)00303-2">Hutton and Howard letter</a>, <a href="https://doi.org/10.1016/S2215-0366(26)00304-4">Palanci letter</a></li>
+<li>Qualitative study (12 caregivers, New Zealand) of experiences of family-based treatment for adolescent anorexia: themes of an under-resourced system, an isolating treatment with limited guidance, and lasting psychological toll. Traumatic stress not formally assessed. <a href="https://doi.org/10.1002/eat.70192">International Journal of Eating Disorders, online 12 Oct</a></li>
+<li>Recent context (23 September): therapist self-report of systemic techniques, 18 therapists and 165 recorded sessions in one New York clinic; self-report reliable overall but overestimated in individual sessions. <a href="https://doi.org/10.3389/fpsyg.2026.1811889">Frontiers in Psychology</a></li>
+<li>Brief mention: daily-diary network study of 43 mother-child dyads in Germany. <a href="https://doi.org/10.1111/famp.70208">Family Process</a>. Diary: AFT conference, Glasgow, 15-16 October. <a href="https://www.aft.org.uk/events/event_list.asp">AFT events</a></li>
+</ul>
+<p><strong>Concept corner: the Social GRRRAAACCEEESSS.</strong> Further reading: Burnham (2012), Developments in Social GRRRAAACCEEESSS: visible-invisible and voiced-unvoiced, in Krause (ed.), Mutual Intercultural Perspectives; Roper-Hall's work on the framework in systemic training.</p>
+<p><strong>From the training room:</strong> the first session with a family who do not want to be there.</p>
+<p><strong>Unchecked this week:</strong> Journal of Family Therapy (nothing found); the Lancet Psychiatry letters (blocked); JAACAP, JAMA Psychiatry, BMJ; NICE, NHS England, Children's Commissioner, Tavistock and Portman, Institute of Family Therapy, Context magazine; policy news. Full texts not read.</p>
+<p>AI-generated summary; check the sources before relying on them in practice.</p>]]></description>
+    </item>
     <item>
       <title>12 October 2026: Carers and expressive writing, and the genogram</title>
       <guid isPermaLink="false">ft-digest-2026-10-12</guid>
