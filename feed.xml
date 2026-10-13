@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 11:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:12:23 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,106 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Paracetamol overdose and toxic liver injury</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-paracetamol-overdose</guid>
+      <pubDate>Tue, 13 Oct 2026 19:12:25 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-paracetamol-overdose.mp3" length="3522193" type="audio/mpeg"/>
+      <itunes:duration>587</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Paracetamol overdose and toxic liver injury for UK ICU: NAPQI and glutathione depletion as the rationale for acetylcysteine; thin randomised efficacy evidence (Cochrane 2018, eleven trials, about 700 participants, low certainty); the SNAP 12-hour regimen (Bateman, Lancet 2014, 222 patients, fewer adverse reactions, not powered for efficacy) and observational effectiveness data (Pettie 2019, 3,340 patients) plus a 2025 Edinburgh secondary analysis; RCEM 2023 default-standard statement; the 2012 MHRA/CHM single treatment line change; fomepizole and extracorporeal removal as low-evidence adjuncts for high-risk ingestions (2023 North American consensus); the HiSNAP dose trial (protocol, BMJ Open 2025); King&#x27;s College criteria versus MELD (McPhail 2016 meta-analysis); non-paracetamol ALF and DILI (Cochrane 2020, EASL 2017 and 2019); and capacity, advance decisions, Mental Health Act section 63 and case law after overdose (King&#x27;s College Hospital v C 2015; NHS Foundation Hospital v P 2014; B v Croydon 1995). No 2024-25 MHRA update on staggered or high-risk ingestions was found.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Use the SNAP 12-hour regimen unless toxicology advises otherwise, and know your local pathway for staggered ingestions and high-risk cases via TOXBASE and NPIS.</li>
+<li>Be honest that the efficacy evidence for acetylcysteine is old and thin; the modern trials mostly address adverse reactions, not liver outcomes.</li>
+<li>King&#x27;s College criteria are specific but not sensitive in paracetamol failure; escalate to a liver unit on clinical trajectory, not only on meeting the criteria.</li>
+<li>Fomepizole, haemodialysis and higher acetylcysteine doses in massive ingestion are low-evidence and belong in a toxicologist conversation; HiSNAP is the trial to watch.</li>
+<li>Refusal after overdose starts with a decision-specific capacity assessment under the Mental Capacity Act, with early legal and psychiatric input; document it.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/24290406/">Bateman et al, Lancet 2014 (SNAP randomised trial)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23556549/">SNAP trial design paper, BMC Pharmacol Toxicol 2013</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/31317129/">Pettie et al, EClinicalMedicine 2019 (SNAP effectiveness)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40850738/">Humphries et al, Emerg Med J 2025 (SNAP secondary analysis, all ages)</a></li>
+<li><a href="https://rcem.ac.uk/wp-content/uploads/2023/05/Use-of-the-SNAP-Regimen-for-the-Treatment-of-Paracetamol-Toxicity-in-adults-and-children.pdf">RCEM, Use of the SNAP regimen, May 2023</a></li>
+<li><a href="https://www.gov.uk/drug-safety-update/treating-paracetamol-overdose-with-intravenous-acetylcysteine-new-guidance">MHRA Drug Safety Update, Treating paracetamol overdose with intravenous acetylcysteine: new guidance (2012)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29473717/">Cochrane review, Interventions for paracetamol overdose, 2018</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37552484/">Dart et al, JAMA Netw Open 2023 (US and Canada consensus statement)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34785186/">Fomepizole for acetaminophen poisoning: scoping review, Toxicol Lett 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40122550/">HiSNAP protocol, BMJ Open 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26499930/">McPhail et al, King&#x27;s College criteria vs MELD meta-analysis, 2016</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/28417882/">EASL Clinical Practical Guidelines on acute (fulminant) liver failure, 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30926241/">EASL Clinical Practice Guidelines: Drug-induced liver injury, 2019</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33294991/">Cochrane review, N-acetylcysteine for non-paracetamol ALF, 2020</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2015/80">Kings College Hospital NHS Foundation Trust v C [2015] EWCOP 80</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/fam/2014/1650">An NHS Foundation Hospital v P [2014] EWHC 1650 (Fam)</a></li>
+<li><a href="https://www.legislation.gov.uk/ukpga/2005/9/section/25">Mental Capacity Act 2005 section 25 (advance decisions)</a></li>
+<li><a href="https://www.gmc-uk.org/ethical-guidance/ethical-guidance-for-doctors/decision-making-and-consent">GMC, Decision making and consent</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Acute mesenteric ischaemia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-mesenteric-ischaemia</guid>
+      <pubDate>Tue, 13 Oct 2026 19:12:24 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-mesenteric-ischaemia.mp3" length="3355254" type="audio/mpeg"/>
+      <itunes:duration>559</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Acute mesenteric ischaemia (arterial embolic or thrombotic, venous, and non-occlusive) carries about 49 per cent in-hospital mortality in the prospective AMESI study, rising to about 73 per cent for non-occlusive disease. Lactate and D-dimer are unreliable (ESVS 2025 recommends against single measurements), so early CT angiography on clinical suspicion, regardless of renal function, is the key step. ESVS 2025 and WSES 2022 both favour revascularisation before resection, damage control surgery with planned second look, antibiotics, and 24/7 multidisciplinary &#x27;intestinal stroke&#x27; pathways, but differ in the strength of their endovascular-first and lactate wording. Evidence is almost entirely observational: a 2024 meta-analysis found no clear mortality benefit of endovascular first (OR 0.79, 0.50 to 1.25, very low certainty) and an AMESI substudy suggested patient selection explains much of the apparent advantage. Intra-arterial vasodilators for non-occlusive disease rest on retrospective data and a null Japanese matched analysis. Long-term survival is poor (about 20 per cent at five years), short bowel syndrome is uncommon, and early goals-of-care discussion and palliation are legitimate when bowel loss is massive.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Suspect mesenteric ischaemia in anyone with atrial fibrillation or vasculopathy and abdominal pain, or with new organ failure or rising pressor needs on ICU.</li>
+<li>Do not rely on lactate or D-dimer, normal or raised; get CT angiography early, tell the radiologist why, and do not withhold contrast for renal function.</li>
+<li>Involve vascular and gastrointestinal surgery together early: revascularise before resection, use damage control, and plan the second look.</li>
+<li>For non-occlusive disease, treat the shock, minimise vasopressor dose, measure intra-abdominal pressure and decompress for compartment syndrome; intra-arterial vasodilators have weak, conflicting evidence.</li>
+<li>Have an early goals-of-care conversation, since long-term survival is poor and palliation can be appropriate when bowel loss is massive.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.ejvs.2025.06.010">ESVS 2025 Clinical Practice Guidelines on Mesenteric and Renal Arteries and Veins (Koelemay et al., Eur J Vasc Endovasc Surg 2025)</a></li>
+<li><a href="https://doi.org/10.1186/s13017-022-00443-x">WSES updated guidelines on acute mesenteric ischemia (Bala et al., World J Emerg Surg 2022)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38263058/">AMESI Study (Reintam Blaser et al., Crit Care 2024), PubMed 38263058</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39069018/">Endovascular vs open revascularization as first strategy for arterial AMI: meta-analysis (Shi et al., J Vasc Surg 2024), PubMed 39069018</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40452055/">AMESI substudy: endovascular vs surgical treatment of SMA occlusion (Kase et al., World J Emerg Surg 2025), PubMed 40452055</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34086659/">Pathway and care bundle for acute occlusive arterial mesenteric ischemia (Tolonen et al., J Trauma Acute Care Surg 2021), PubMed 34086659</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35379286/">Intra-arterial vasodilator therapy in NOMI, prospective study (Rittgerodt et al., Crit Care 2022), PubMed 35379286</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38972744/">Postoperative vasodilator therapy and mortality in NOMI, Japanese nationwide study (J Nippon Med Sch 2024), PubMed 38972744</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37586616/">Long-term outcome after endovascular-first strategy for AMI (Pengermae et al., J Vasc Surg 2023), PubMed 37586616</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Abdominal compartment syndrome</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-abdominal-compartment-syndrome</guid>
+      <pubDate>Tue, 13 Oct 2026 19:12:23 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-abdominal-compartment-syndrome.mp3" length="3160907" type="audio/mpeg"/>
+      <itunes:duration>527</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Abdominal compartment syndrome: the World Society of the Abdominal Compartment Syndrome 2013 definitions (intra-abdominal hypertension at 12 mmHg or more, graded I to IV; syndrome at sustained pressure above 20 mmHg with new organ dysfunction), correct bladder pressure technique, risk factors from the IROI cohort (491 patients, 48.9 percent with hypertension, severity over two weeks predicting 28 and 90 day mortality), the largely weak, low-quality medical management suggestions, decompressive laparotomy as a strong recommendation on grade D evidence, open abdomen management with negative pressure therapy and early closure, the single-centre 45-patient ABThera randomised trial (90-day mortality hazard ratio 0.32, secondary outcome), the ongoing COOL trial, and the lack of any dedicated UK guideline that we could confirm.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Measure bladder pressure in anyone with risk factors, and measure it the same way every time.</li>
+<li>Technique: supine, end-expiration, transducer zeroed at the midaxillary line, no more than 25 mL of saline in adults.</li>
+<li>The syndrome is sustained pressure above 20 mmHg plus new organ dysfunction; follow the trend, not one number.</li>
+<li>Run the medical bundle quickly, but do not let it delay decompressive laparotomy if it fails; involve surgeons early.</li>
+<li>Treat the open abdomen as a bridge and plan closure from day one.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1007/s00134-013-2906-z">Kirkpatrick et al. WSACS updated consensus definitions and guidelines. Intensive Care Med 2013</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30608280/">Reintam Blaser et al. IROI study. Crit Care Med 2019</a></li>
+<li><a href="https://doi.org/10.1007/s00134-004-2169-9">Malbrain et al. Prevalence of IAH in critically ill patients. Intensive Care Med 2004</a></li>
+<li><a href="https://doi.org/10.1177/08850666261479996">Larson et al. Etiology Matters: SR and meta-analysis of ACS. J Intensive Care Med 2026 (online ahead of print)</a></li>
+<li><a href="https://doi.org/10.1097/SLA.0000000000001095">Kirkpatrick et al. Intraperitoneal Vacuum RCT. Ann Surg 2015</a></li>
+<li><a href="https://doi.org/10.1007/s00268-014-2883-6">Atema et al. Open abdomen and TAC in non-trauma patients, SR and meta-analysis. World J Surg 2015</a></li>
+<li><a href="https://doi.org/10.1186/s13017-018-0167-4">Coccolini et al. Open abdomen in trauma and non-trauma: WSES guidelines. World J Emerg Surg 2018</a></li>
+<li><a href="https://doi.org/10.1186/s13017-018-0183-4">COOL trial protocol. World J Emerg Surg 2018</a></li>
+<li><a href="https://doi.org/10.1186/s13017-023-00500-z">The unrestricted global effort to complete the COOL trial. World J Emerg Surg 2023</a></li>
+<li><a href="https://doi.org/10.1186/s13017-021-00376-x">Husu et al. Open abdomen in severe acute pancreatitis, matched study. World J Emerg Surg 2021</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Budd-Chiari syndrome and hepatic vascular emergencies</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-budd-chiari</guid>
