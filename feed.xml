@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 19:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:40:57 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,119 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Autoimmune encephalitis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-autoimmune-encephalitis</guid>
+      <pubDate>Wed, 14 Oct 2026 04:40:57 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-autoimmune-encephalitis.mp3" length="3059806" type="audio/mpeg"/>
+      <itunes:duration>510</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Autoimmune encephalitis for UK ICU and anaesthesia, centred on anti-NMDA receptor (NMDAR) encephalitis. Antibodies cause reversible loss of synaptic NMDARs in cultured neurons (Hughes 2010). The Graus 2016 consensus criteria allow a diagnosis of probable disease before the antibody result (rapid onset of at least four of six symptom groups, plus abnormal EEG or CSF pleocytosis/oligoclonal bands, plus exclusion of other causes). Observational data support early first-line immunotherapy (steroids, IVIG, plasma exchange), tumour removal and, if no improvement, second-line rituximab or cyclophosphamide: Titulaer 2013 (577 patients; 53 percent of treated, assessable patients improved within 4 weeks; second-line associated with better outcome, OR 2.69), and a 2021 individual-patient meta-analysis (1,550 published cases; ICU admission, extreme delta brush and no immunotherapy in the first 30 days associated with poor outcome; rituximab associated with fewer relapses). ICU admission predicts worse outcome but is a marker of severity; a 2022 single-centre retrospective Chinese cohort found 77 percent of ventilated patients had a good outcome, with slower recovery after prolonged ventilation. The NEOS score estimates 1-year outcome (3 percent poor at 0 to 1 points, 69 percent at 4 to 5). The only randomised trial found, ExTINGUISH (inebilizumab), is still recruiting and has no reported results; no UK ABN guideline was found, and the NHS England rituximab policy status should be checked locally. NORSE/FIRES guidance is a 2022 Delphi consensus built on case series, with no randomised trials. Evidence on LGI1/CASPR2 was not reviewed in depth.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Consider NMDAR encephalitis in a young patient with rapid psychiatric change, seizures, dyskinesias, falling consciousness and autonomic instability or hypoventilation. Send CSF (and serum) antibodies and an EEG.</li>
+<li>Do not wait for the antibody: once infection is reasonably excluded, start steroids and IVIG or plasma exchange (observational evidence and expert consensus; earlier treatment predicted better outcome in Titulaer 2013).</li>
+<li>Look for an ovarian teratoma and involve neurology early about second-line therapy (rituximab, cyclophosphamide) if there is no improvement.</li>
+<li>ICU admission and prolonged ventilation predict slower or worse recovery in cohorts, but many ventilated patients do well and recovery can continue for months (up to 18 months in Titulaer). A long stay alone should not drive a ceiling-of-care decision; consider time-limited trials with neurology input and an honest probability-based discussion.</li>
+<li>NORSE/FIRES is a presentation, not a diagnosis; look for autoimmune causes, and use the 2022 consensus as a guide, recognising it is expert opinion.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26906964/">Graus et al. A clinical approach to diagnosis of autoimmune encephalitis. Lancet Neurol 2016 (consensus)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23290630/">Titulaer et al. Treatment and prognostic factors for long-term outcome in anti-NMDA receptor encephalitis: observational cohort. Lancet Neurol 2013</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/31326280/">Dalmau et al. An update on anti-NMDA receptor encephalitis. Lancet Neurol 2019 (review)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20427647/">Hughes et al. Cellular and synaptic mechanisms of anti-NMDA receptor encephalitis. J Neurosci 2010 (laboratory)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34542573/">Nosadini et al. Immunotherapeutic management of NMDAR antibody encephalitis: meta-analysis. JAMA Neurol 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30578370/">Balu et al. NEOS score predicting 1-year functional status. Neurology 2019</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35222249/">Anti-NMDAR encephalitis requiring prolonged mechanical ventilation: risk factors and prognosis. Front Neurol 2022 (single-centre retrospective)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33649021/">Abboud et al. Autoimmune encephalitis: proposed recommendations for symptomatic and long-term management. J Neurol Neurosurg Psychiatry 2021 (expert recommendations and survey)</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12233123/">ExTINGUISH trial protocol: inebilizumab in NMDAR encephalitis. Neurology Open Access 2025</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT04372615">NCT04372615: ExTINGUISH (recruiting)</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9828002/">Wickstrom et al. International consensus recommendations for NORSE including FIRES. Epilepsia 2022 (Delphi consensus)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29476535/">Gaspard et al. NORSE and FIRES: state of the art and perspectives. Epilepsia 2018</a></li>
+<li><a href="https://www.england.nhs.uk/publication/commissioning-policy-rituximab-for-second-line-treatment-for-anti-nmdar-autoimmune-encephalitis-all-ages/">NHS England commissioning policy: rituximab second line for anti-NMDAR autoimmune encephalitis (check current version)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: PRES and reversible cerebral vasoconstriction syndrome</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-pres-rcvs</guid>
+      <pubDate>Wed, 14 Oct 2026 04:40:56 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-pres-rcvs.mp3" length="3486155" type="audio/mpeg"/>
+      <itunes:duration>581</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>PRES and reversible cerebral vasoconstriction syndrome (RCVS) for UK ICU and anaesthesia. PRES: Mayo series (Fugate 2010, 113 patients; seizures about three quarters, hypertension 61 percent, cytotoxic drugs 19, sepsis 7, pre-eclampsia or eclampsia 6), the endothelial dysfunction versus autoregulatory breakthrough debate (Lancet Neurology 2015 and 2025 reviews; the 2025 review states randomised evidence is absent), the French severe-PRES ICU cohort (Legriel 2012, 70 patients, 16 percent died by day 90, longer time to control of the causative factor associated with poor outcome) and haemorrhage in PRES (Hefzy 2009, 15.2 percent of 151). RCVS: Ducros 2012 review, the Massachusetts and Cleveland series (139 patients; steroids trended towards worse outcome, not significant), the RCVS2 score (Rocha, Neurology 2019, single-centre derivation; later external check showed sensitivity 64 percent and specificity 94 percent for angiographic vasoconstriction), verapamil case-level systematic review, and a 2025 individual patient data analysis of RCVS with convexity subarachnoid haemorrhage (138 patients, 94 percent of those with follow-up had little or no disability). Eclampsia is the one setting with trial evidence (Magpie 2002; NICE NG133 magnesium regimen). Blood pressure targets (about 20 to 25 percent MAP fall over 1 to 2 hours), antiseizure duration and magnesium outside obstetrics are expert opinion. No UK guideline specific to PRES or RCVS was found.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Consider PRES in an ICU patient with new seizure, encephalopathy or visual disturbance and a trigger (hypertension, eclampsia, calcineurin inhibitor, chemotherapy, sepsis, renal failure). Consider RCVS in thunderclap headache, especially postpartum or on serotonergic or vasoactive drugs. RCVS can mimic subarachnoid haemorrhage.</li>
+<li>A normal early scan or angiogram does not exclude either; RCVS vasoconstriction peaks 2 to 3 weeks after onset and strokes can follow a normal first image (Ducros 2012). The RCVS2 score helps but was derived in a small single-centre cohort.</li>
+<li>Remove the trigger early and lower blood pressure steadily. The 20 to 25 percent MAP reduction over 1 to 2 hours and MAP 105 to 125 target come from secondary expert summaries borrowed from hypertensive emergencies, not PRES trials.</li>
+<li>Eclampsia: intravenous magnesium (NICE NG133 regimen: 4 g loading, then 1 g per hour, continued 24 hours after the last fit), not diazepam or phenytoin as an alternative; severe hypertension treated immediately with labetalol, oral nifedipine or intravenous hydralazine. Magnesium in non-obstetric PRES is unproven.</li>
+<li>In RCVS, nimodipine or verapamil is common practice but unproven for preventing stroke or haemorrhage; be cautious with steroids (observational signal of harm, confounded) and avoid serotonergic drugs and vasoconstrictors.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20435835/">Fugate et al. PRES: associated clinical and radiologic findings. Mayo Clin Proc 2010</a> (observational)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26184985/">Fugate and Rabinstein. PRES: clinical and radiological manifestations, pathophysiology, and outstanding questions. Lancet Neurol 2015</a> (review)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40818477/">PRES: evolving insights in diagnosis, management, and outcomes. Lancet Neurol 2025</a> (review; doi 10.1016/s1474-4422(25)00232-7)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23024751/">Legriel et al. Determinants of recovery from severe PRES. PLoS One 2012</a> (retrospective ICU cohort)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/19386731/">Hefzy et al. Hemorrhage in PRES: imaging and clinical features. AJNR 2009</a> (retrospective)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35046115/">PRES: diagnosis and management. Pract Neurol 2022</a> (review)</li>
+<li><a href="https://emcrit.org/ibcc/pres/">EMCrit IBCC chapter: Posterior Reversible Encephalopathy Syndrome (PRES), Jan 2026</a> (secondary expert summary; source of the blood pressure, magnesium and antiseizure suggestions)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41381247/">PRES in systemic lupus erythematosus: multicentre cohort and systematic review. Lupus Sci Med 2025</a> (observational; recurrence 11.5 percent at 5 years)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42541508/">MRI-negative PRES: hypertensive encephalopathy with and without vasogenic oedema. Mayo Clin Proc 2026</a> (small matched retrospective study)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/22995694/">Ducros. Reversible cerebral vasoconstriction syndrome. Lancet Neurol 2012</a> (review)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/21482916/">Singhal et al. Reversible cerebral vasoconstriction syndromes: analysis of 139 cases. Arch Neurol 2011</a> (retrospective)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30635475/">Rocha et al. RCVS2 score and diagnostic approach for RCVS. Neurology 2019</a> (derivation cohort; doi 10.1212/WNL.0000000000006917)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36471097/">Vasoconstriction and long-term headache in RCVS (RCVS2 external check). J Neurol 2023</a> (retrospective, 55 patients)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34050007/">RCVS: symptoms, incidence, and resource utilization in a population-based US cohort. Neurology 2021</a> (administrative data)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37267876/">Verapamil in the treatment of RCVS: a systematic review. J Clin Neurosci 2023</a> (case-level evidence)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40834342/">Outcomes after RCVS with convexity subarachnoid haemorrhage: individual patient data analysis. Neurology 2025</a> (retrospective pooled)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40633250/">Factors associated with complications in RCVS: a seven-year single-centre study. Clin Neurol Neurosurg 2025</a> (35 patients)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/31416730/">Fatal RCVS: systematic review of case series and reports. J Clin Neurosci 2019</a> (12 cases)</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/12057549/">Magpie Trial Collaboration. Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? Lancet 2002</a> (randomised trial)</li>
+<li><a href="https://www.nice.org.uk/guidance/ng133/chapter/Recommendations">NICE NG133. Hypertension in pregnancy: diagnosis and management (2019), section 1.8</a> (guideline)</li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Toxic alcohols: methanol and ethylene glycol</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-toxic-alcohols</guid>
+      <pubDate>Wed, 14 Oct 2026 04:39:23 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-toxic-alcohols.mp3" length="2822687" type="audio/mpeg"/>
+      <itunes:duration>470</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Toxic alcohols (methanol and ethylene glycol) for UK ICU and anaesthesia: the metabolic basis of toxicity (formate and glycolate/oxalate via alcohol dehydrogenase), the limits of the osmolar and anion gaps (Vancouver retrospective study of 131 patients: gap of 10 sensitive but poorly specific; a 2004 review calling the gap&#x27;s clinical utility hypothetical; pH the best mortality predictor in a pooled case-report review), point-of-care lactate artefact with ethylene glycol, empirical treatment, fomepizole versus ethanol (no randomised trials; 2013 systematic review of 897 patients inconclusive; two single-arm Brent studies), the 2002 AACT methanol guideline, EXTRIP criteria for methanol (2015) and ethylene glycol (2023, very low quality evidence throughout), thin evidence for folate, thiamine and pyridoxine, outbreak data (Czech 2012: 121 patients, 34 percent total mortality; 2019 outbreak consensus), long-term visual outcomes (40 percent of 50 survivors), and brief notes on isopropanol and diethylene glycol. TOXBASE is login-only, so UK NPIS content could not be verified directly; only a secondary UK source was found.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>A normal osmolar gap does not exclude methanol or ethylene glycol, especially in late presenters, and a raised gap is not specific. Use it with the anion gap, pH and, where possible, a measured level.</li>
+<li>A point-of-care lactate that is high while the laboratory lactate is normal, in a well-perfused patient, can point to ethylene glycol (case reports).</li>
+<li>If suspicion is real and a level is hours away, treat empirically with an alcohol dehydrogenase blocker and call the poisons service. Fomepizole is generally preferred over ethanol, though no randomised comparison exists.</li>
+<li>Know the EXTRIP dialysis triggers: coma, seizures, new visual deficit, severe acidosis (methanol pH 7.15 or below), high anion gap, renal injury, or high levels. These are consensus recommendations graded on low quality evidence.</li>
+<li>Cofactors (folinic or folic acid for methanol; thiamine and pyridoxine for ethylene glycol) are cheap and reasonable but not proven. In an outbreak, prioritise antidote, triage dialysis, and ask for help early.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25493973/">Roberts et al. EXTRIP recommendations for extracorporeal treatment in acute methanol poisoning: systematic review and consensus statement. Crit Care Med 2015 (doi 10.1097/CCM.0000000000000708)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36765419/">Ghannoum et al. Extracorporeal treatment for ethylene glycol poisoning: systematic review and EXTRIP recommendations. Crit Care 2023 (doi 10.1186/s13054-022-04227-2)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/12216995/">Barceloux et al. AACT practice guidelines on the treatment of methanol poisoning. J Toxicol Clin Toxicol 2002 (guideline)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/10080845/">Brent et al. Fomepizole for the treatment of ethylene glycol poisoning (19 patients, single arm). N Engl J Med 1999</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11172179/">Brent et al. Fomepizole for the treatment of methanol poisoning (11 patients, single arm). N Engl J Med 2001</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23431453/">Beatty et al. A systematic review of ethanol and fomepizole use in toxic alcohol ingestions. Emerg Med Int 2013</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/18442409/">Lynd et al. An evaluation of the osmole gap as a screening test for toxic alcohol poisoning. BMC Emerg Med 2008 (retrospective)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/15862085/">Purssell et al. The use of the osmole gap as a screening test for the presence of exogenous substances. Toxicol Rev 2004 (review)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/22091788/">Coulter et al. Methanol and ethylene glycol acute poisonings: predictors of mortality. Clin Toxicol 2011 (literature case review)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33568412/">Spurious point-of-care lactate elevation in ethylene glycol intoxication. BMJ Case Rep 2021 (case report)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25345388/">Zakharov et al. Czech mass methanol outbreak 2012: epidemiology, challenges and clinical features. Clin Toxicol 2014 (case series)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26364866/">Zakharov et al. Long-term visual damage after acute methanol poisonings: longitudinal cross-sectional study in 50 patients. Clin Toxicol 2015</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/31328583/">Hassanian-Moghaddam et al. Consensus statements on the approach to patients in a methanol poisoning outbreak. Clin Toxicol 2019 (consensus)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41039271/">Prawira et al. Fomepizole in children with acute kidney injury due to ethylene glycol/diethylene glycol poisoning. BMC Pediatr 2025 (retrospective case series)</a></li>
+<li><a href="https://www.stemlynsblog.org/toxic-alcohol-poisoning/">St Emlyn&#x27;s. A blogpost about toxic alcohol poisoning (UK emergency medicine blog; describes NPIS-recommended antidotes and a Japanese surveillance study)</a></li>
+<li><a href="https://www.cmaj.ca/content/cmaj/198/5/E175.full.pdf">CMAJ practice review on isopropanol toxicity (CMAJ 198(5):E175)</a></li>
+<li><a href="https://litfl.com/ethylene-glycol-toxicity/">LITFL. Ethylene glycol toxicity (reference source; thiamine and pyridoxine benefit described as theoretical)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Alcoholic and euglycaemic ketoacidosis</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-alcoholic-euglycaemic-ketoacidosis</guid>
