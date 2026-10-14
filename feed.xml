@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 06:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:07:52 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,111 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Sickle cell crisis and acute chest syndrome</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-sickle-cell-acute-chest</guid>
+      <pubDate>Wed, 14 Oct 2026 15:07:49 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-sickle-cell-acute-chest.mp3" length="3472979" type="audio/mpeg"/>
+      <itunes:duration>579</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Acute chest syndrome (ACS) is the leading cause of death in sickle cell disease and often develops after admission with pain. Evidence for transfusion is almost entirely observational: the Cochrane review found one eligible randomised trial with ten participants, and the single exchange versus simple comparison (Turner 2009) was a small retrospective study showing no difference in length of stay. BSH 2016 guidance recommends early simple transfusion for mild disease and exchange for severe ACS, simple-transfusion failure, stroke or multi-organ failure, with consensus-level targets. NIV has one open-label randomised pilot with faster physiological gain but no day-three difference. NICE CG143 sets analgesia within 30 minutes and reassessment every 30 minutes; the APPG 2021 inquiry reports care failings and negative attitudes. NCEPOD 2008 full report could not be opened, so only qualitative secondary-sourced concerns were used. No sickle-specific HFNO evidence was verified.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Think ACS in any sickle patient with new chest pain, fever, respiratory signs or falling saturations (NICE: saturation 95% or below).</li>
+<li>Involve haematology early and have matched blood (Rh, Kell, sickle negative, antibody history) available.</li>
+<li>Exchange for severe ACS, failed simple transfusion, acute stroke or multi-organ failure; avoid overshooting Hb (about 100 g/L target in stroke exchange; simple transfusion target 100-110 g/L). HbS target after exchange is consensus (under 30-40 percent).</li>
+<li>Treat pain fast but watch respiratory rate and sedation; use incentive spirometry and sit up.</li>
+<li>Listen to the patient; delayed transfusion reactions and hyperhaemolysis need specialist input.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/10861320/">Vichinsky et al. Causes and outcomes of the acute chest syndrome in sickle cell disease. NEJM (2000)</a></li>
+<li><a href="https://doi.org/10.1111/j.1537-2995.2008.02075.x">Turner et al. Exchange versus simple transfusion for ACS in sickle cell anemia adults. Transfusion (2009)</a></li>
+<li><a href="https://doi.org/10.1056/NEJM199509143331104">Bellet et al. Incentive spirometry to prevent acute pulmonary complications in sickle cell diseases. NEJM (1995)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-010-1907-4">Fartoukh et al. Early intermittent NIV for ACS in adults with sickle cell disease: a pilot study. Intensive Care Med (2010)</a></li>
+<li><a href="https://www.cochrane.org/evidence/CD007843_blood-transfusions-treating-acute-chest-syndrome-people-sickle-cell-disease">Cochrane: Blood transfusions for treating ACS in people with SCD (CD007843)</a></li>
+<li><a href="https://doi.org/10.1111/bjh.13348">Howard et al. BCSH guideline on management of ACS in SCD. Br J Haematol (2015)</a></li>
+<li><a href="https://www.stgeorges.nhs.uk/wp-content/uploads/2020/02/BSH-Red-Cell-Transfusion-SCD-part-2-indications-for-transfusion-2016.pdf">Davis et al. BSH Guidelines on red cell transfusion in SCD Part II: indications. Br J Haematol (2017;176:192-209, guideline 2016)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg143/chapter/Recommendations">NICE CG143 Sickle cell disease: managing acute painful episodes in hospital (2012; 2023 surveillance)</a></li>
+<li><a href="https://www.sicklecellsociety.org/wp-content/uploads/2021/11/No-Ones-Listening-Final.pdf">APPG on Sickle Cell and Thalassaemia. No One&#x27;s Listening (2021)</a></li>
+<li><a href="https://www.ncepod.org.uk/2008sc.html">NCEPOD. A Sickle Crisis? (2008)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Disseminated intravascular coagulation</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-dic</guid>
+      <pubDate>Wed, 14 Oct 2026 15:07:48 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-dic.mp3" length="3608236" type="audio/mpeg"/>
+      <itunes:duration>601</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>DIC is a syndrome of systemic coagulation activation, suppressed fibrinolysis and endothelial injury, most often driven by sepsis; it runs from an early thrombotic phase to a late consumptive, bleeding phase. Randomised evidence for specific anticoagulants is negative or inconclusive (KyberSept antithrombin 2001, SCARLET thrombomodulin 2019; heparin meta-analysis inconclusive), with positive signals mostly from post hoc subgroups and Japanese observational data. UK guidance (BSH 2009, now old) is transfusion-conservative and consensus-based; Japanese 2024 guidelines recommend antithrombin and thrombomodulin (GRADE 1B) while Surviving Sepsis 2016 recommended against antithrombin. ISTH 2025 (consensus) introduces pre-DIC, early-phase and overt DIC, with SIC as the early-phase sepsis tool.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>DIC marks severity: control the source first; score platelets, INR, fibrinogen and D-dimer daily and follow the trend.</li>
+<li>Use SIC (score 4 or more) for early detection and the ISTH overt score (5 or more) for late disease.</li>
+<li>Replace products for bleeding or procedures (BSH: platelets under 50 if bleeding/high risk; plasma if bleeding with prolonged PT/APTT; fibrinogen concentrate or cryoprecipitate if under 1 g/L despite plasma), not for numbers alone.</li>
+<li>Antithrombin, thrombomodulin and therapeutic heparin remain unproven in randomised trials; heparin is a consensus option in thrombotic-predominant DIC.</li>
+<li>Keep TTP/TMA and HIT on the differential; phone haematology early.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11597289/">High-dose antithrombin III in severe sepsis (KyberSept), JAMA (2001)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/16409457/">Treatment effects of high-dose antithrombin without concomitant heparin in severe sepsis with or without DIC, J Thromb Haemost (2006)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23979365/">ART-123 phase 2b in sepsis and suspected DIC, Crit Care Med (2013)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2019.5358">SCARLET, JAMA (2019)</a></li>
+<li><a href="https://doi.org/10.1186/s13054-019-2587-2">SCARLET updated meta-analysis (letter), Crit Care (2019)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25493972/">Heparin in sepsis systematic review and meta-analysis, Crit Care Med (2015)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/19242322/">HETRASE, Crit Care Med (2009)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38638892/">Antithrombin in sepsis meta-analysis and meta-regression, Acute Med Surg (2024)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40997637/">DIC resolution as surrogate, antithrombin surveillance data, Thromb Res (2025)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/19222477/">BSH Guidelines for diagnosis and management of DIC, Br J Haematol (2009)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37586700/">BSH TTP and TMA guideline, Br J Haematol (2023)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23043677/">BSH HIT guideline second edition, Br J Haematol (2012)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11816725/">Taylor et al, ISTH overt DIC score, Thromb Haemost (2001)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/28963294/">New criteria for sepsis-induced coagulopathy, BMJ Open (2017)</a></li>
+<li><a href="https://doi.org/10.1016/j.jtha.2025.03.038">Updated definition and scoring of DIC in 2025, ISTH SSC, J Thromb Haemost (2025)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40829630/">Introducing the new ISTH 2025 DIC definition and criteria, Semin Thromb Hemost (2026)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39676120/">Japanese DIC guidelines 2024 Part 1: sepsis, Int J Hematol (2025)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42739777/">ROTEM profile of SIC and overt DIC, J Clin Med (2026)</a></li>
+<li><a href="https://www.uniklinik-ulm.de/zentrale-einrichtung-klinische-chemie/interpretationen-2/isth-dic-score.html">ISTH overt DIC 2025 calculator (point values)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Neutropenic sepsis and the haematology patient on ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-neutropenic-sepsis</guid>
+      <pubDate>Wed, 14 Oct 2026 15:07:47 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-neutropenic-sepsis.mp3" length="3549005" type="audio/mpeg"/>
+      <itunes:duration>591</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>UK guidance (NICE CG151, 2012) treats suspected neutropenic sepsis as an emergency: immediate empirical piperacillin with tazobactam monotherapy, no routine aminoglycoside or glycopeptide, no switching for persistent fever alone unless the patient deteriorates. The 2018 German AGIHO/iCHOP consensus guideline (written for haematologists and intensivists) allows meropenem or imipenem and an aminoglycoside in septic shock, suggests considering antifungals with fungal risk factors or cardiopulmonary instability, and advises against routine G-CSF. Cochrane reviews show no significant mortality benefit for G-CSF (2014) or for empirical over pre-emptive antifungals (2022), both low certainty. Observational data (Azoulay JCO 2013; ICM 2019 individual-data meta-analysis) show ICU survival in haematological malignancy has improved, though not in allogeneic transplant recipients; earlier ICU admission is associated with better survival. For respiratory failure, neither early NIV (IVNIctus, 2015) nor high-flow oxygen (HIGH, 2018) changed day-28 mortality; early bronchoscopy added no clear diagnostic yield over non-invasive testing (2010). A 2026 retrospective Dutch analysis suggests prognosis gains little certainty over two weeks of ICU, supporting early goal-setting and time-limited trials with haematology.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Suspected neutropenic sepsis is an emergency: broad-spectrum antibiotics immediately (NICE: pip-taz monotherapy), escalate on deterioration or local microbiology, not on persistent fever alone.</li>
+<li>NICE and the German consensus differ on aminoglycosides (NICE avoid by default; German group: may consider in septic shock). Neither is backed by ICU RCTs.</li>
+<li>No routine G-CSF; antifungal decisions are joint with haematology and microbiology (pre-emptive looks no worse than empirical, low-certainty evidence, haematology ward populations).</li>
+<li>Do not decline ICU on diagnosis alone; survival has improved over time (observational) and earlier ICU admission is associated with better survival.</li>
+<li>HFNO and NIV show no clear mortality difference; do not delay intubation if failing. Agree goals and a time-limited trial early with haematology.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://www.nice.org.uk/guidance/cg151">NICE CG151 Neutropenic sepsis: prevention and management in people with cancer (2012)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30796468/">Kochanek et al. Management of sepsis in neutropenic cancer patients: 2018 guidelines from AGIHO and iCHOP, Ann Hematol (2019)</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD003039.pub2">Mhaskar et al. Colony-stimulating factors for chemotherapy-induced febrile neutropenia, Cochrane (2014)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36440894/">Pre-emptive versus empirical antifungal therapy for febrile neutropenia in people with cancer, Cochrane (2022)</a></li>
+<li><a href="https://doi.org/10.1200/JCO.2012.47.2365">Azoulay et al. Outcomes of critically ill patients with hematologic malignancies, J Clin Oncol (2013)</a></li>
+<li><a href="https://doi.org/10.1007/s00134-019-05653-7">Changes in critically ill cancer patients&#x27; short-term outcome over the last decades: systematic review and meta-analysis on individual data, Intensive Care Med (2019)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2015.12402">Lemiale et al. Effect of NIV vs oxygen therapy on mortality among immunocompromised patients with ARF (IVNIctus), JAMA (2015)</a></li>
+<li><a href="https://doi.org/10.1001/jama.2018.14282">Azoulay et al. Effect of high-flow nasal oxygen vs standard oxygen on 28-day mortality in immunocompromised patients (HIGH), JAMA (2018)</a></li>
+<li><a href="https://doi.org/10.1177/0885066619844713">Zayed et al. Noninvasive oxygenation strategies in immunocompromised patients with AHRF: pairwise and network meta-analysis, J Intensive Care Med (2020)</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(26">Azoulay et al. Epidemiology, ventilation, and outcomes of ARF in immunocompromised patients from 103 ICUs in 26 countries, Lancet Respir Med (2026)</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201001-0018OC">Azoulay et al. Diagnostic strategy for hematology and oncology patients with acute respiratory failure: RCT, Am J Respir Crit Care Med (2010)</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000007006">Otten et al. Minimal gain in prognostic certainty for patients with hematologic malignancies over 2 weeks of intensive care, Crit Care Med (2026)</a></li>
+<li><a href="https://doi.org/10.1016/j.blre.2025.101306">Azoulay et al. Advances in the critical care management for patients with hematological malignancies, Blood Rev (2025)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Cytokine release syndrome and ICANS after CAR-T</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-crs-icans-car-t</guid>
