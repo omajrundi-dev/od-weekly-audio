@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 04:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:17:28 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,118 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Cytokine release syndrome and ICANS after CAR-T</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-crs-icans-car-t</guid>
+      <pubDate>Wed, 14 Oct 2026 06:17:28 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-crs-icans-car-t.mp3" length="3693508" type="audio/mpeg"/>
+      <itunes:duration>616</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Cytokine release syndrome and ICANS after CAR-T for UK ICU consultants: mechanisms, ASTCT grading, tocilizumab and steroids, anakinra and siltuximab for refractory disease, IEC-HS, CRS versus sepsis, ICU triggers and outcomes, and bispecific antibodies. Much of the management rests on expert consensus and single-arm or retrospective data.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Grade by ASTCT; any positive pressure ventilation makes CRS grade 4.</li>
+<li>Tocilizumab is for CRS; ICANS needs steroids (dexamethasone, then methylprednisolone if worsening).</li>
+<li>Always cover for sepsis; tocilizumab can mask fever and CRP.</li>
+<li>Anakinra is used for refractory cases and IEC-HS, but evidence is small studies and retrospective; no placebo-controlled trial verified.</li>
+<li>Involve ICU early (grade 2 CRS or ICANS); no national UK toxicity guideline was found, so check your trust protocol.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30592986/">Lee et al. ASTCT consensus grading. Biol Blood Marrow Transplant 2019</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34923107/">Hayden et al. EBMT/EHA best practice for CAR-T toxicity. Ann Oncol 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34724386/">Santomasso et al. ASCO guideline. J Clin Oncol 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29808005/">Giavridis et al. Nat Med 2018 (mouse)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29025771/">Gust et al. Endothelial activation and neurotoxicity. Cancer Discov 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29226797/">Neelapu et al. ZUMA-1. NEJM 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34891224/">Locke et al. ZUMA-7. NEJM 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29622697/">Le et al. Tocilizumab FDA approval summary. Oncologist 2018</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39187161/">ZUMA-1 cohort 3, prophylactic tocilizumab. Transplant Cell Ther 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34296427/">Oluwole et al. ZUMA-1 cohort 6. Br J Haematol 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33534891/">Strati et al. Steroids and CAR-T outcomes. Blood 2021 (retrospective)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37389847/">Strati et al. Prophylactic anakinra. Blood Adv 2023 (phase 1)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37400640/">Park et al. Anakinra phase 2. Nat Med 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37031746/">Gazeau et al. Anakinra for ICANS. Transplant Cell Ther 2023 (retrospective)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36906275/">Hines et al. IEC-HS consensus. Transplant Cell Ther 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33894170/">Azoulay et al. CARTTAS. Lancet Haematol 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35661166/">Moreau et al. Teclistamab. NEJM 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36548927/">Thieblemont et al. Epcoritamab. J Clin Oncol 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36507690/">Dickinson et al. Glofitamab. NEJM 2022</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Acute spinal cord injury in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-spinal-cord-injury</guid>
+      <pubDate>Wed, 14 Oct 2026 06:16:28 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-spinal-cord-injury.mp3" length="3375482" type="audio/mpeg"/>
+      <itunes:duration>563</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Acute spinal cord injury in the ICU: neurogenic versus spinal shock, the weak evidence behind MAP targets (AO Spine 2024 and the first randomised trial, JAMA Netw Open 2025), early decompression (STASCIS and AO Spine), why steroids are not used in the UK, high cervical injury and ventilation, tracheostomy, VTE prophylaxis, autonomic dysreflexia, UK pathways and outcomes.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Avoid hypotension; the high MAP target has very low quality evidence, and the only randomised trial (underpowered) found no neurological benefit and more respiratory complications.</li>
+<li>Decompression within 24 hours is the AO Spine 2024 recommendation (moderate quality, observational).</li>
+<li>No steroids: NICE NG41 says not to use methylprednisolone.</li>
+<li>In high cervical injury expect prolonged ventilation; early tracheostomy is supported by observational data only; wean with spinal unit input.</li>
+<li>Start chemical VTE prophylaxis early once surgery allows, and contact the linked spinal injuries centre within 4 hours of diagnosis (NICE NG41).</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38526923/">Fehlings et al. AO Spine hemodynamic management guideline. Global Spine J 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40965887/">Sajdeya et al. MAP augmentation RCT. JAMA Netw Open 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25669633/">Hawryluk et al. J Neurotrauma 2015 (observational)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40693862/">Hashemaghaie et al. Vasopressor choice. Crit Care Med 2025 (cohort)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/22384132/">Fehlings et al. STASCIS. PLoS One 2012 (prospective cohort)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38526922/">AO Spine timing of surgery guideline. Global Spine J 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/2278545/">Bracken et al. NASCIS II. NEJM 1990</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/9168289/">Bracken et al. NASCIS III. JAMA 1997</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng41">NICE NG41: Spinal injury: assessment and initial management (2016)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38088443/">Wiles. Acute spinal cord injury in non-specialist ICUs. Anaesthesia 2024 (review)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34693485/">Schreiber et al. Ventilator weaning in SCI. Ann Intensive Care 2021 (meta-analysis)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34508010/">Foran et al. Early tracheostomy in SCI. J Trauma Acute Care Surg 2022 (meta-analysis)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36203245/">Godat et al. VTE prophylaxis in SCI. J Trauma Acute Care Surg 2023 (secondary analysis)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30771786/">Khorasanizadeh et al. Neurological recovery after SCI. J Neurosurg Spine 2019 (systematic review)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37279301/">Fehlings et al. RISCIS riluzole. J Neurotrauma 2023</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Cerebral venous sinus thrombosis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-cvst</guid>
+      <pubDate>Wed, 14 Oct 2026 06:15:28 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-cvst.mp3" length="3458078" type="audio/mpeg"/>
+      <itunes:duration>576</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Cerebral venous sinus thrombosis for UK ICU consultants: anticoagulation despite venous haemorrhage, LMWH versus UFH, the DOAC evidence (RE-SPECT CVT, ACTION-CVT and meta-analyses), the negative TO-ACT endovascular trial, decompressive craniectomy, VITT and outcomes. Note: no ESO 2024 update could be confirmed; ESO 2017 and AHA 2024 (abstract only) were used.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Haemorrhage on the scan is not a reason to withhold anticoagulation; start parenteral anticoagulation, LMWH where possible (observational preference, ESO 2017).</li>
+<li>Image the veins (CT or MR venography) in young patients with headache, seizure and a venous-pattern lesion.</li>
+<li>If deterioration despite anticoagulation, involve neurosurgery and neuroradiology early: decompression has the stronger case; thrombectomy has a negative randomised trial (TO-ACT).</li>
+<li>DOACs look reasonable after the acute phase, but evidence is observational plus small randomised trials.</li>
+<li>Most patients do well (ISCVT: about 57% no symptoms at follow-up, 8% died).</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/14976332/">Ferro et al. ISCVT cohort. Stroke 2004</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/21833941/">Coutinho et al. Anticoagulation for CVT. Cochrane 2011</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20930161/">Coutinho et al. LMWH vs UFH in ISCVT. Stroke 2010 (non-randomised)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/31479105/">Ferro et al. RE-SPECT CVT. JAMA Neurol 2019</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/35143325/">Yaghi et al. ACTION-CVT. Stroke 2022 (retrospective)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37675613/">Field et al. SECRET feasibility RCT. Stroke 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40376280/">Rivaroxaban vs warfarin RCT, Stroke Res Treat 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41358859/">DOAC vs VKA meta-analysis. Clin Appl Thromb Hemost 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/32421159/">Coutinho et al. TO-ACT. JAMA Neurol 2020</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/21799156/">Ferro et al. Decompressive surgery in CVT. Stroke 2011 (registry and pooled cases)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34379914/">Pavord et al. Clinical features of VITT. NEJM 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/28833980/">ESO guideline for CVT. Eur J Neurol 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38284265/">AHA scientific statement on CVT. Stroke 2024 (abstract only read)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38637841/">German, Austrian and Swiss S2k consensus. Neurol Res Pract 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40552725/">CVT and pregnancy meta-analysis. Int J Stroke 2025</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Autoimmune encephalitis</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-autoimmune-encephalitis</guid>
