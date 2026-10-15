@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 07:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:39:10 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,67 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Ward round round-up: six common ICU admissions</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-14-ward-round-roundup-1</guid>
+      <pubDate>Thu, 15 Oct 2026 07:39:10 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-14-ward-round-roundup-1.mp3" length="7852149" type="audio/mpeg"/>
+      <itunes:duration>1309</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Post-VF arrest, day 5 to 7: TTM2 and the 2025 ERC-ESICM guideline favour active fever prevention (37.5 C or below, 36 to 72 h) over deep cooling, prognosis is multimodal (two or more indicators, at least 72 h, confounders excluded), and angiography without ST elevation can be delayed (COACT neutral, TOMAHAWK borderline). Acute limb ischaemia after revascularisation: ESVS 2020 supports heparin before revascularisation, clinical vigilance for post-reperfusion compartment syndrome with emergency four-compartment fasciotomy (not delayed beyond 6 h, NCEPOD 2025 says ideally within 2 h), and awareness of rhabdomyolysis-related renal injury; NICE CG147 covers chronic disease only. Spontaneous ICH: BP evidence is mixed (INTERACT2, ATACH-2, INTERACT3 bundle), guidelines favour early systolic below 140 while avoiding overshoot, reversal agents differ in evidence quality (PCC/vitamin K, andexanet with thrombotic signal in ANNEXA-I, idarucizumab), surgery benefit is limited to selected cases (ENRICH lobar), and VTE prevention relies on IPC with LMWH timing based on small trials and consensus. Hypercapnic COPD exacerbation: BTS/ICS 2016 starts NIV at pH below 7.35 with PCO2 above 6.5 kPa persisting after medical therapy; Cochrane (Osadnik 2017) shows lower mortality and intubation; HFNC is unproven as a replacement; NIV needs an agreed failure plan and ceiling, and stage 2 AKI needs a cause search and pharmacy dose review. Guillain-Barre syndrome: trend vital capacity, MIP, MEP and bulbar function (20/30/40 from a retrospective series); IVIG and plasma exchange are similar; a second IVIG dose (SID-GBS) did not help and caused more serious adverse events; eculizumab missed its primary endpoint; efgartigimod is not approved for GBS. Acute pancreatitis: moderate, reassessed fluids rather than aggressive (WATERFALL); early oral feeding rather than routine tube feeding (PYTHON); step-up drainage for infected necrosis (PANTER, TENSION) with postponed drainage not worse than immediate (POINTER); treat alcohol withdrawal and give thiamine.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>After VF arrest the 2025 guidance is fever prevention, not deep hypothermia; TTM2 showed 50 vs 48 per cent death at 6 months.</li>
+<li>Do not prognosticate on a single test or before 72 h with sedation confounders; two or more concordant indicators are required, otherwise keep observing.</li>
+<li>Without ST elevation, angiography can be delayed unless occlusion is likely.</li>
+<li>After limb revascularisation examine the compartments, track potassium, CK, creatinine and urine output; do not delay fasciotomy once compartment syndrome is diagnosed.</li>
+<li>Be explicit about why a patient is anticoagulated and for how long; the guideline gives no fixed post-operative heparin duration.</li>
+<li>In ICH, set and document a systolic target (about 140), avoid overshoot below about 110 to 130, reverse promptly according to the agent, and weigh andexanet&#x27;s thrombotic risk.</li>
+<li>Ask neurosurgery explicitly; evidence for surgery is strongest for selected lobar bleeds with minimally invasive techniques (ENRICH), neutral elsewhere.</li>
+<li>Start intermittent pneumatic compression on admission; LMWH from about 24 to 48 hours after stable imaging is consensus-level.</li>
+<li>Check the gas before and after starting or changing NIV, and decide and document whether NIV is the ceiling.</li>
+<li>Stage 2 AKI: KDIGO creatinine 2.0 to 2.9 times baseline or urine output below 0.5 mL/kg/h for 12 hours; review nephrotoxins and renal dosing with pharmacy.</li>
+<li>GBS: trend FVC, pressures and bulbar function; do not give a routine second IVIG dose; use prognostic scores as estimates only.</li>
+<li>Pancreatitis: moderate goal-directed fluids with daily overload checks; early oral feeding; antibiotics for suspected infection not prophylaxis; postpone drainage of infected necrosis if stable; treat alcohol withdrawal and give parenteral thiamine.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34133859/">TTM2, NEJM 2021 (PubMed 34133859)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41123621/">ERC-ESICM 2025 post-resuscitation care, Intensive Care Med 2025 (PubMed 41123621; full text read via publisher PDF)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41636663/">COACT 5-year follow-up, JACC 2026 (PubMed 41636663)</a></li>
+<li><a href="https://www.tctmd.com/news/immediate-angiography-ohca-without-stemi-could-harm-tomahawk-and-coact">COACT 90-day and TOMAHAWK 30-day figures (secondary summaries, TCTMD/NAEMSP; NEJM abstracts not opened)</a></li>
+<li><a href="https://doi.org/10.1016/j.ejvs.2019.09.006">ESVS 2020 acute limb ischaemia guideline (EJVES 2020;59:173; full text read)</a></li>
+<li><a href="https://www.ncepod.org.uk/2025ali/3 THE SEVERITY OF ACUTE LIMB ISCHAEMIA.pdf">NCEPOD 2025 acute limb ischaemia review, severity chapter</a></li>
+<li><a href="https://www.nice.org.uk/guidance/cg147">NICE CG147 peripheral arterial disease (chronic; not NG147)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/23713578/">INTERACT2, NEJM 2013 (PubMed 23713578)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/27276234/">ATACH-2, NEJM 2016 (PubMed 27276234)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37245517/">INTERACT3, Lancet 2023 (PubMed 37245517)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40401775/">ESO-EANS ICH guideline 2025 (PubMed 40401775; full text read)</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13151662/">2025 update ESO blood pressure guideline, Eur Stroke J 2026 (PMC13151662)</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/icm/annexa-i">ANNEXA-I, NEJM 2024 (figures via The Bottom Line summary; NEJM abstract not opened)</a></li>
+<li><a href="https://practicalneurology.com/news/minimally-invasive-surgery-more-effective-than-medical-management-for-intracerebral-hemorrhage-according-to-enrich-study-results-in-nejm">ENRICH, NEJM 2024 (figures via secondary report; lobar vs basal ganglia)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38761811/">SWITCH, Lancet 2024 (PubMed 38761811)</a></li>
+<li><a href="https://about.ebsco.com/clinical-decisions/dynamed-solutions/about/ebm-focus/intermittent-pneumatic-compression-appears">CLOTS 3, Lancet 2013 (secondary summary)</a></li>
+<li><a href="https://www.emdocs.net/intracerebral-hemorrhage-2022-guideline-update">AHA/ASA 2022 ICH guideline (via emDocs summary; primary blocked)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1707278">RE-VERSE AD full cohort, NEJM 2017;377:431 (secondary summaries)</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4800170/">BTS/ICS guideline summary, BMJ Open Resp Res 2016</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/28702957/">Osadnik, Cochrane NIV for AHRF in AECOPD 2017</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7734463">Cortegiani, HFNT vs NIV in AECOPD, Critical Care 2020</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng148">NICE NG148 acute kidney injury</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11405803/">Lawn 2001, anticipating ventilation in GBS</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/28241090/">Chevret, Cochrane plasma exchange for GBS 2017</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33743237/">Walgaard, SID-GBS, Lancet Neurol 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/37814552/">EAN/PNS GBS guideline 2023</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38987228/">Eculizumab phase 3 Japan, J Peripher Nerv Syst 2024</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42813052/">Efgartigimod for GBS review, Front Immunol 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36103415/">WATERFALL, NEJM 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/25409371/">PYTHON, NEJM 2014</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20410514/">PANTER, NEJM 2010</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29108721/">TENSION, Lancet 2018</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34614330/">POINTER, NEJM 2021</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Major burns resuscitation and inhalation injury</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-burns-inhalation-injury</guid>
