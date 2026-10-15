@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 07:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:10:19 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,108 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Severe accidental hypothermia and heat stroke</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-hypothermia-heat-stroke</guid>
+      <pubDate>Thu, 15 Oct 2026 07:10:18 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-hypothermia-heat-stroke.mp3" length="3043528" type="audio/mpeg"/>
+      <itunes:duration>507</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Swiss staging, rescue collapse, and ECLS rewarming in hypothermic cardiac arrest, with the HOPE score (derivation and validations, a 2025 Swiss two-centre series, the 2024 ELSO-criteria cohort, the new HELP score) and ERC 2025 guidance; then heat stroke: exertional versus classic, SCCM 2025 guideline favouring active cooling and cold or ice-water immersion, organ failure including rhabdomyolysis, DIC and liver, UK heat mortality context, outcomes and grey zones.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Handle stage three hypothermia gently and route stage three or four patients to an ECPR centre.</li>
+<li>Do not rely on potassium alone; use HOPE as a decision aid, not a veto.</li>
+<li>Age, asystole or unwitnessed arrest alone should not stop ECLS rewarming.</li>
+<li>In heat stroke cool first with the fastest available method and avoid antipyretics.</li>
+<li>Keep checking liver, clotting and CK for days.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2018.02.026">Pasquier 2018, HOPE score, Resuscitation</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2019.03.017">Pasquier 2019, external validation of HOPE, Resuscitation</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12305985/">HOPE score, two Swiss centres, Scand J Trauma Resusc Emerg Med 2025</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2024.110424">ECLS outcomes in hypothermic arrest, revisiting ELSO criteria, Resuscitation 2024</a></li>
+<li><a href="https://doi.org/10.1111/aor.13818">Unwitnessed hypothermic arrest rewarmed with ECLS, systematic review, Artif Organs 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2021.04.019">Rescue collapse matched-pair analysis, Resuscitation 2021</a></li>
+<li><a href="https://doi.org/10.1097/MAT.0000000000002774">HELP score external validation, ASAIO J 2026</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2025.110753">ERC Guidelines 2025 Special Circumstances in Resuscitation</a></li>
+<li><a href="https://www.resus.org.uk/library/2025-resuscitation-guidelines/special-circumstances-guidelines">Resuscitation Council UK 2025 special circumstances guidelines</a></li>
+<li><a href="https://doi.org/10.1097/CCM.0000000000006551">SCCM Guidelines for the Treatment of Heat Stroke, Crit Care Med 2025</a></li>
+<li><a href="https://doi.org/10.1249/MSS.0000000000000409">Cold water immersion in exertional heat stroke, Falmouth Road Race, MSSE 2015</a></li>
+<li><a href="https://doi.org/10.1186/s40560-018-0298-4">Heat stroke review, J Intensive Care 2018</a></li>
+<li><a href="https://doi.org/10.1002/ams2.731">Heatstroke Study Japan 2019 and 2020, Acute Med Surg 2022</a></li>
+<li><a href="https://doi.org/10.1016/j.nmd.2025.105344">276th ENMC workshop on acute rhabdomyolysis, Neuromuscul Disord 2025</a></li>
+<li><a href="https://doi.org/10.55460/RWUS-AE68">Prehospital management of exertional heat illness, J Spec Oper Med 2025</a></li>
+<li><a href="https://www.gov.uk/government/statistics/heat-mortality-monitoring-report-england-2025">UKHSA Heat mortality monitoring report, England 2025</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Serotonin syndrome, NMS and malignant hyperthermia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-hyperthermia-syndromes</guid>
+      <pubDate>Thu, 15 Oct 2026 07:10:17 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-hyperthermia-syndromes.mp3" length="3330827" type="audio/mpeg"/>
+      <itunes:duration>555</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Telling the hyperthermic, rigid ICU patient apart. Hunter criteria (clonus-led, derived in overdose cohorts, poorly validated in polypharmacy ICU patients), the Delphi consensus NMS criteria (not yet validated for clinical use), and the Association of Anaesthetists 2020 MH guideline (trigger removal, dantrolene 2 to 3 mg/kg then 1 mg/kg every 5 minutes to ETCO2 below 6 kPa and core temperature below 38.5, reappraise at 10 mg/kg, 24 hours of HDU/ICU, direct referral to the Leeds MH Investigation Unit). Severe serotonin toxicity is managed by early resuscitation, benzodiazepines, intubation, paralysis and cooling; cyproheptadine and other antagonists lack conclusive evidence. In NMS, failure to stop the antipsychotic predicts death in case-report data. ICU drug interactions: linezolid, methylene blue, fentanyl, ondansetron, mostly case-based evidence.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Examine for clonus and tone and review the last three days of drugs, including missed dopaminergic doses.</li>
+<li>Stop the culprit and cool; intubate and paralyse early if rigid and above 38.5 rather than wait for the label.</li>
+<li>Volatile on board with rising ETCO2 and heat: dantrolene 2 to 3 mg/kg, then refer to the Leeds MH Unit.</li>
+<li>Cyproheptadine and bromocriptine/dantrolene in NMS rest on case reports; do not let them delay supportive care.</li>
+<li>Check linezolid and methylene blue against the chart before starting either.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/12925718/">Dunkley 2003, Hunter Serotonin Toxicity Criteria, QJM (PMID 12925718)</a></li>
+<li><a href="https://doi.org/10.1186/s12883-016-0616-1">Werneke 2016, Diagnosing serotonin syndrome: a meta-analysis of cases, BMC Neurol</a></li>
+<li><a href="https://doi.org/10.1111/bcp.16152">Chiew and Isbister 2024, Management of serotonin syndrome (toxicity), Br J Clin Pharmacol</a></li>
+<li><a href="https://doi.org/10.4088/JCP.10m06438">Gurrera 2011, International consensus NMS diagnostic criteria (Delphi), J Clin Psychiatry</a></li>
+<li><a href="https://doi.org/10.1111/anae.15317">Hopkins 2021, Malignant hyperthermia 2020: guideline from the Association of Anaesthetists, Anaesthesia</a></li>
+<li><a href="https://doi.org/10.1111/acps.13359">Systematic review and pooled patient-level analysis of predictors of mortality in NMS, Acta Psychiatr Scand 2021</a></li>
+<li><a href="https://doi.org/10.1371/journal.pone.0337648">Fentanyl with linezolid and in-hospital mortality in ventilated patients (MIMIC-IV, retrospective), PLoS One 2026</a></li>
+<li><a href="https://doi.org/10.1177/08971900251350554">Methylene blue in septic shock review (notes serotonin syndrome risk), 2026</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Necrotising soft tissue infections</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-necrotising-soft-tissue-infection</guid>
+      <pubDate>Thu, 15 Oct 2026 07:10:16 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-necrotising-soft-tissue-infection.mp3" length="3120787" type="audio/mpeg"/>
+      <itunes:duration>520</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Recognition is clinical: LRINEC has poor sensitivity (about 68 percent at six or more) and should not rule out NSTI. Early surgical debridement is the one intervention with a consistent mortality signal (observational meta-analysis: odds ratio 0.43 for surgery within six hours). Clindamycin or linezolid for toxin suppression is mechanistically plausible but untested in randomised trials. INSTINCT (100 patients, all-cause NSTI) found no benefit of IVIG; the streptococcal toxic shock evidence is a 21-patient terminated trial plus a null propensity-matched cohort. Hyperbaric oxygen remains unproven, with observational data heavily confounded. iGAS is notifiable and UKHSA contact guidance was updated in September 2025. Fournier&#x27;s gangrene follows the same surgical principles.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>LRINEC cannot rule out NSTI; high suspicion plus surgical exploration is the diagnosis.</li>
+<li>Debridement within hours is the only intervention with a consistent mortality signal; do not let imaging or adjuncts delay theatre.</li>
+<li>Clindamycin or linezolid is reasonable with streptococcal or toxic shock features but is not trial-proven.</li>
+<li>IVIG showed no benefit in all-comer NSTI (INSTINCT); consider it for streptococcal toxic shock only. Hyperbaric oxygen is unproven and never worth delaying care.</li>
+<li>Notify iGAS early and check current UKHSA contact guidance.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1097/SLA.0000000000002774">Fernando 2019, LRINEC/exam/imaging diagnostic accuracy meta-analysis, Ann Surg</a></li>
+<li><a href="https://doi.org/10.1186/s13017-019-0286-6">Nawijn 2020, Time is of the essence, systematic review and meta-analysis, WJES</a></li>
+<li><a href="https://doi.org/10.1186/s13017-018-0219-9">Sartelli 2018, WSES/SIS-E consensus on skin and soft-tissue infections, WJES</a></li>
+<li><a href="https://doi.org/10.1007/s00134-017-4786-0">Madsen 2017, INSTINCT, IVIG in NSTI, Intensive Care Med</a></li>
+<li><a href="https://doi.org/10.1111/aas.13942">Hedetoft 2021, INSTINCT post hoc cytokine analysis</a></li>
+<li><a href="https://doi.org/10.1093/cid/ciw871">Kadri 2017, IVIG in necrotising fasciitis with shock, propensity-matched, Clin Infect Dis</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6295010/">Darenberg 2003 IVIG in streptococcal toxic shock trial (21 patients) as described in the WSES/SIS-E consensus</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD011680.pub2">Hua 2018, Cochrane review, Interventions for NSTI in adults</a></li>
+<li><a href="https://doi.org/10.1186/s13017-023-00490-y">Huang 2023, HBO in NSTI systematic review and meta-analysis, WJES</a></li>
+<li><a href="https://doi.org/10.1007/s40121-025-01184-5">Hyldegaard 2025, INFECT Scandinavian HBO cohort, Infect Dis Ther</a></li>
+<li><a href="https://doi.org/10.1089/sur.2024.285">Shishido 2025, HBOT retrospective cohort, Surg Infect</a></li>
+<li><a href="https://doi.org/10.1016/j.idnow.2025.105033">Urbina 2025, SKIN-ICU protocol, Infect Dis Now</a></li>
+<li><a href="https://doi.org/10.1002/hsr2.73247">Lynch 2026, NF outcomes diabetic vs non-diabetic meta-analysis, Health Sci Rep</a></li>
+<li><a href="https://www.gov.uk/government/publications/invasive-group-a-streptococcal-disease-managing-community-contacts">UKHSA, Invasive group A streptococcal disease: managing community contacts (updated 5 Sept 2025)</a></li>
+<li><a href="https://www.legislation.gov.uk/uksi/2010/659/schedule/1">Health Protection (Notification) Regulations 2010, Schedule 1</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Diffuse alveolar haemorrhage and pulmonary-renal syndromes</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-diffuse-alveolar-haemorrhage</guid>
