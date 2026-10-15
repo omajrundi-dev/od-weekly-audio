@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 07:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:32:24 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,39 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Major burns resuscitation and inhalation injury</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-burns-inhalation-injury</guid>
+      <pubDate>Thu, 15 Oct 2026 07:32:24 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-burns-inhalation-injury.mp3" length="3393988" type="audio/mpeg"/>
+      <itunes:duration>566</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Major burns resuscitation and inhalation injury. ABA 2024 guideline (adults with burns of 20 percent TBSA or more, first 48 hours) recommends starting at 2 mL/kg/%TBSA rather than Parkland&#x27;s 4, titrating to urine output of 0.5 mL/kg/h, considering albumin, and selectively monitoring intra-abdominal pressure; it makes no recommendation on vitamin C, FFP, early CRRT or vasopressors. ABRUPT (2023) was observational and confounded; ABRUPT2 (2026) randomised 99 patients before stopping early and showed albumin reduced 24 and 48 hour fluid with no mortality, healing or AKI difference but heavy crossover. Hydroxocobalamin evidence (Borron 2007, Fortin 2006) is uncontrolled. Nebulised heparin has a 2020 meta-analysis of nine mostly small trials (mortality RR 0.75), but HEPBURN stopped after 13 patients with no efficacy analysis. Propranolol and oxandrolone have meta-analytic support for metabolic outcomes but oxandrolone shows no mortality benefit and more transaminase rises. Revised Baux score = age + %TBSA + 17 if inhalation injury (Osler 2010). Exact wording of the UK National Burn Care Referral Guidance could not be verified; a NHS burns unit summary is cited instead.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Start burn shock resuscitation at 2 mL/kg per percent TBSA and titrate to about 0.5 mL/kg/h urine output, avoiding fluid creep.</li>
+<li>Albumin reduces fluid volume (ABRUPT2, small, stopped early, heavy crossover) but survival benefit is unproven.</li>
+<li>Secure the airway early when inhalation injury is suspected; treat CO and possible cyanide poisoning clinically, knowing hydroxocobalamin evidence is uncontrolled.</li>
+<li>Do not rely on nebulised heparin (HEPBURN stopped early); watch for limb, chest and abdominal compartment syndromes.</li>
+<li>Phone the burns service early and use the revised Baux score to frame honest proportionality conversations.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38051821/">ABA Clinical Practice Guidelines on Burn Shock Resuscitation, J Burn Care Res 2024 (PMID 38051821, doi 10.1093/jbcr/irad125)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34417368/">ABRUPT, Ann Surg 2023 (PMID 34417368, doi 10.1097/SLA.0000000000005166)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42144653/">ABRUPT2, Ann Surg 2026 (PMID 42144653, doi 10.1097/SLA.0000000000007096)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/17481777/">Borron 2007, Ann Emerg Med (PMID 17481777, doi 10.1016/j.annemergmed.2007.01.026)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/16990192/">Fortin 2006, Clin Toxicol (PMID 16990192, doi 10.1080/15563650600811870)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/32523966/">Nebulized heparin meta-analysis, Burns Trauma 2020 (PMID 32523966, doi 10.1093/burnst/tkaa015)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/24661817/">HEPBURN protocol, Trials 2014 (PMID 24661817, doi 10.1186/1745-6215-15-91)</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7230289/">HEPBURN safety and feasibility (stopped after 13 patients), J Clin Med 2020</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20038856/">Osler 2010 revised Baux score, J Trauma (PMID 20038856, doi 10.1097/TA.0b013e3181c453b3)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26517779/">Propranolol meta-analysis, J Trauma Acute Care Surg 2016 (PMID 26517779, doi 10.1097/TA.0000000000000887)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41023744/">Oxandrolone meta-analysis, World J Emerg Surg 2025 (PMID 41023744, doi 10.1186/s13017-025-00648-w)</a></li>
+<li><a href="https://www.nbt.nhs.uk/clinicians/services-referral/burns-clinicians">NHS burns unit summary of adult referral criteria (not the national document itself; NBCRG wording unverified)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Severe accidental hypothermia and heat stroke</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-hypothermia-heat-stroke</guid>
