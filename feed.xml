@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 15:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:40:39 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,108 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Anaphylaxis and refractory anaphylaxis</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-anaphylaxis</guid>
+      <pubDate>Thu, 15 Oct 2026 04:40:39 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-anaphylaxis.mp3" length="3599459" type="audio/mpeg"/>
+      <itunes:duration>600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Anaphylaxis has almost no randomised evidence; UK practice rests on the Resuscitation Council UK 2021 guideline (GRADE-ADOLOPMENT, mostly very low certainty evidence) and, in anaesthesia, the NAP6 audit (266 grade 3 to 5 reactions, incidence about 1 in 10,000 anaesthetics, 10 deaths, antibiotics and neuromuscular blockers the commonest culprits, chlorhexidine and Patent Blue delayed in onset). Refractory anaphylaxis (no improvement after two IM adrenaline doses) is treated with fluids, an IV adrenaline infusion (1 mg in 100 mL, 0.5 mL/kg/h), a second vasopressor and glucagon in beta-blocked patients, all on low-grade evidence. Antihistamines and steroids are not routine. Biphasic reactions occur in about 4 to 5 per cent in observational data, and RCUK now advises risk-stratified observation of 2, 6 or 12 hours, which NICE NG258 adopted in May 2026. Serial timed tryptase and allergy clinic referral are recommended for all.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Give IM adrenaline early and repeat at 5 minutes; do not let antihistamines or steroids delay it.</li>
+<li>Two ineffective IM doses means refractory: fluids, adrenaline infusion, expert help, and compressions in arrest even if the trace looks flat.</li>
+<li>In beta-blocked patients with adrenaline-resistant shock consider glucagon, but the evidence is case reports; a second vasopressor has no human comparative data.</li>
+<li>Take timed tryptase (early, 1 to 2 hours, and a baseline at least 24 hours later) and record drug timings.</li>
+<li>Refer every perioperative anaphylaxis to an allergy clinic, and set observation length by risk rather than habit.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://resus.org.uk/media/337/download">Emergency treatment of anaphylaxis, Resuscitation Council UK guideline, 2021</a></li>
+<li><a href="https://resus.org.uk/media/334/download">Refractory anaphylaxis algorithm, Resuscitation Council UK, 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.resuscitation.2021.04.010">Dodd et al, Evidence update for the treatment of anaphylaxis, Resuscitation, 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2018.04.014">Harper et al, NAP6 epidemiology and clinical features of perioperative anaphylaxis, British Journal of Anaesthesia, 2018</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2018.04.015">NAP6 management and outcomes of perioperative anaphylaxis, British Journal of Anaesthesia, 2018</a></li>
+<li><a href="https://doi.org/10.1111/cea.13180">NAP6 specialist perioperative allergy clinic services (Egner et al), Clinical and Experimental Allergy, 2018</a></li>
+<li><a href="https://doi.org/10.1016/j.jaip.2014.12.010">Lee et al, Time of onset and predictors of biphasic anaphylactic reactions, systematic review, Journal of Allergy and Clinical Immunology: In Practice, 2015</a></li>
+<li><a href="https://doi.org/10.1016/j.jaip.2021.01.038">Community use of epinephrine for anaphylaxis, review and meta-analysis, Journal of Allergy and Clinical Immunology: In Practice, 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.jaci.2020.01.017">Shaker et al, Anaphylaxis 2020 practice parameter update, Journal of Allergy and Clinical Immunology, 2020</a></li>
+<li><a href="https://doi.org/10.1111/all.15032">Muraro et al, EAACI guidelines: Anaphylaxis (2021 update), Allergy, 2022</a></li>
+<li><a href="https://doi.org/10.1016/j.waojou.2020.100472">Cardona et al, World Allergy Organization anaphylaxis guidance 2020, World Allergy Organization Journal, 2020</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng258/chapter/Update-information">NICE NG258 Anaphylaxis: assessment and referral after emergency treatment, update May 2026</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Acute aortic dissection</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-aortic-dissection</guid>
+      <pubDate>Thu, 15 Oct 2026 04:40:40 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-aortic-dissection.mp3" length="3313559" type="audio/mpeg"/>
+      <itunes:duration>552</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Acute aortic dissection deep dive for an ICU consultant. Covers HSIB 2020 findings on delayed recognition (incidence about 4.5 per 100,000, delay in 16 to 40 percent, recommendations on triage and a national RCEM/RCR process), ADD-RS plus D-dimer (ADvISED, Circulation 2018) and the ESC 2024 class I algorithm, anti-impulse therapy with a real disagreement between ESC 2024 (SBP under 120, HR 60 or less) and the ACC/AHA 2022 guideline as summarised by the ACC (SBP under 120, HR 60 to 80), type A surgery and the limits of the evidence on who is turned down, malperfusion syndromes, complicated versus uncomplicated type B and the INSTEAD, INSTEAD-XL and ADSORB trials (remodelling benefit, no proven survival benefit in randomised data), IMPROVE-AD ongoing, post-operative ICU care and spinal protection (CSF drain RCT is from elective TAAA repair, not dissection), and IRAD outcome trends.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Score every suspected case with ADD-RS: two or more goes straight to CT from neck to pelvis; D-dimer only helps in the low-score group and is not a rule-out on gestalt alone.</li>
+<li>Start IV beta blocker first (labetalol or esmolol), then vasodilator, aim systolic under 120; agree the heart rate target locally because ESC says 60 or less and ACC/AHA says 60 to 80, and hold a higher MAP if spinal or brain ischaemia.</li>
+<li>Type A is immediate surgery; age alone is not an exclusion in the ESC text, and the decision about shock, malperfusion or coma is a team judgement.</li>
+<li>After surgery, look early for malperfusion and treat spinal cord perfusion pressure as its own question; CSF drain evidence comes from elective thoracoabdominal repair.</li>
+<li>For uncomplicated type B, randomised data show remodelling but not proven survival benefit; discuss with the aortic team and watch for IMPROVE-AD.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://www.hssib.org.uk/patient-safety-investigations/delayed-recognition-of-acute-aortic-dissection/investigation-report/">HSIB, Delayed recognition of acute aortic dissection, investigation report, 2020</a></li>
+<li><a href="https://www.hssib.org.uk/news-events-blog/hssib-impact-life-saving-difference-for-acute-aortic-dissection-patients/">HSSIB, impact: life-saving difference for acute aortic dissection patients (RCEM/RCR guidance, Manchester Triage change), 2021 onward</a></li>
+<li><a href="https://www.rcr.ac.uk/media/l5bppf3x/rcr-publications_diagnosis-of-thoracic-aortic-dissection-in-the-emergency-department_updated_january_2024.pdf">RCR/RCEM, Diagnosis of thoracic aortic dissection in the emergency department, updated January 2024</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.117.029457">Nazerian et al, ADvISED, Circulation 2018</a></li>
+<li><a href="https://doi.org/10.1093/eurheartj/ehae179">Mazzolai et al, 2024 ESC Guidelines for peripheral arterial and aortic diseases, European Heart Journal 2024</a></li>
+<li><a href="https://doi.org/10.1161/CIR.0000000000001106">Isselbacher et al, 2022 ACC/AHA Guideline for aortic disease, Circulation 2022</a></li>
+<li><a href="https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2022/11/01/12/21/2022-guideline-on-aortic-disease-2-gl-ad">ACC Key Perspectives, 2022 ACC/AHA Aortic Disease Guideline Part 2 (secondary summary), 2022</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.109.886408">Nienaber et al, INSTEAD, Circulation 2009</a></li>
+<li><a href="https://doi.org/10.1161/CIRCINTERVENTIONS.113.000463">Nienaber et al, INSTEAD-XL, Circulation Cardiovascular Interventions 2013</a></li>
+<li><a href="https://doi.org/10.1016/j.ejvs.2014.05.012">Brunkwall et al, ADSORB, European Journal of Vascular and Endovascular Surgery 2014</a></li>
+<li><a href="https://doi.org/10.1016/j.jacc.2015.05.029">Pape et al, IRAD 17-year trends, Journal of the American College of Cardiology 2015</a></li>
+<li><a href="https://doi.org/10.1067/mva.2002.122024">Coselli et al, CSF drainage RCT in TAAA repair, Journal of Vascular Surgery 2002</a></li>
+<li><a href="https://evtoday.com/articles/2025-nov/improve-ad-rationale-and-progress-to-date">IMPROVE-AD rationale and progress, Endovascular Today 2025 (trial status, secondary)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Cardiogenic shock</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-cardiogenic-shock</guid>
+      <pubDate>Thu, 15 Oct 2026 04:40:41 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-cardiogenic-shock.mp3" length="3147415" type="audio/mpeg"/>
+      <itunes:duration>525</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Cardiogenic shock deep dive: SCAI staging (2022 update, three-axis model); culprit-only PCI (CULPRIT-SHOCK); neutral IABP-SHOCK II; DOREMI showing no difference between milrinone and dobutamine; norepinephrine over epinephrine (OptimaCC); neutral ECLS-SHOCK and ECMO-CS with excess bleeding; DanGer Shock showing lower 180-day mortality with Impella CP in selected STEMI shock, with more bleeding and renal replacement, and a post hoc 10-year follow-up; the 2024 Lancet IPD meta-analysis; observational PA catheter data; guideline shifts (2025 ACC/AHA, reported secondhand); outcomes and grey zones.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Stage serially with SCAI and define the phenotype before choosing a device.</li>
+<li>Culprit-only PCI first; norepinephrine first line; milrinone versus dobutamine on physiology, since DOREMI found no difference.</li>
+<li>Routine early VA-ECMO in infarct shock did not improve survival and roughly doubled bleeding.</li>
+<li>Impella CP benefit is in selected STEMI shock, at the cost of bleeding and renal replacement.</li>
+<li>Get haemodynamics, ideally a PA catheter, before escalating, and involve a shock team.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa2312572">DanGer Shock, N Engl J Med 2024</a></li>
+<li><a href="https://doi.org/10.1056/NEJMc2508284">DanGer Shock long-term outcomes, N Engl J Med 2025 (correspondence)</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2307227">ECLS-SHOCK, N Engl J Med 2023</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.122.062949">ECMO-CS, Circulation 2023</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1208410">IABP-SHOCK II, N Engl J Med 2012</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1710261">CULPRIT-SHOCK, N Engl J Med 2017</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2026845">DOREMI, N Engl J Med 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.jacc.2018.04.051">OptimaCC, J Am Coll Cardiol 2018</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(24)01448-X">IPD meta-analysis of temporary MCS in AMI cardiogenic shock, Lancet 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.jacc.2022.01.018">SCAI SHOCK stage classification update, J Am Coll Cardiol 2022</a></li>
+<li><a href="https://doi.org/10.1097/SHK.0000000000002784">PA catheter in cardiogenic shock meta-analysis, Shock 2026</a></li>
+<li><a href="https://doi.org/10.1016/j.jchf.2020.08.012">CSWG PA catheter registry, JACC Heart Fail 2020</a></li>
+<li><a href="https://doi.org/10.1093/eurheartj/ehaf787">J-PVAD registry and DanGer criteria, Eur Heart J 2026</a></li>
+<li><a href="https://doi.org/10.1093/eurheartj/ehag708">Temporary MCS in cardiogenic shock (ESC consensus), Eur Heart J 2026</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before changing practice.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Sickle cell crisis and acute chest syndrome</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-sickle-cell-acute-chest</guid>
