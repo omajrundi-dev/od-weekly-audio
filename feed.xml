@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 04:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:01:25 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,105 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Diffuse alveolar haemorrhage and pulmonary-renal syndromes</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-diffuse-alveolar-haemorrhage</guid>
+      <pubDate>Thu, 15 Oct 2026 07:01:24 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-diffuse-alveolar-haemorrhage.mp3" length="3275821" type="audio/mpeg"/>
+      <itunes:duration>545</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Diffuse alveolar haemorrhage in pulmonary-renal syndromes: causes (A N C A vasculitis, anti G B M, lupus, post-transplant), serology over lavage, pulse steroids with rituximab or cyclophosphamide, and the plasma exchange debate after PEXIVAS (negative overall, only about nine percent severe haemorrhage). KDIGO 2024 and BSR 2025 differ on exchange for hypoxaemic haemorrhage with preserved kidney function. ADVOCATE (avacopan) was retracted by NEJM on 29 June 2026; the reason was taken from press reports and should be checked against the notice. ICU ventilation and ECMO advice rests on observational data and expert opinion.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Suspect haemorrhage in unexplained bilateral shadowing with anaemia and dip the urine.</li>
+<li>Send A N C A and anti G B M urgently and involve renal and rheumatology before results.</li>
+<li>After excluding infection, pulse methylprednisolone plus rituximab or cyclophosphamide.</li>
+<li>Plasma exchange is standard for anti G B M, discretionary otherwise; KDIGO and BSR disagree for isolated hypoxaemic haemorrhage.</li>
+<li>Consider early ECMO referral as a bridge (observational evidence only); treat avacopan evidence cautiously after the ADVOCATE retraction.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa1803537">Walsh et al. PEXIVAS, NEJM 2020</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0909905">Stone et al. RAVE, NEJM 2010</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa0909169">Jones et al. RITUXVAS, NEJM 2010</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2023386">Jayne et al. ADVOCATE, NEJM 2021 (retracted 2026)</a></li>
+<li><a href="https://doi.org/10.1016/j.kint.2026.08.012">KDIGO response to ADVOCATE retraction, Kidney Int 2026</a></li>
+<li><a href="https://www.healio.com/news/rheumatology/20260710/new-england-journal-of-medicine-retracts-avacopan-study-used-by-fda-to-assess-efficacy">Healio news report on ADVOCATE retraction</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12316360/">BSR 2025 AAV recommendations executive summary</a></li>
+<li><a href="https://kdigo.org/wp-content/uploads/2024/01/KDIGO-2024-ANCA-Vasculitis-Guideline-Update-Executive-Summary.pdf">KDIGO 2024 AAV guideline executive summary</a></li>
+<li><a href="https://doi.org/10.1093/ajrccm/aamaf122">Plasma exchange for severe AAV alveolar haemorrhage, emulated target trial, AJRCCM 2026</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/11388816/">Levy et al. anti-GBM long-term outcome, Ann Intern Med 2001</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2021.01.008">DAH after HSCT, Chest 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/31711988/">ECMO for immune DAH, Chest 2020</a></li>
+<li><a href="https://doi.org/10.21037/atm-21-3133">ECMO in AAV with DAH, case report and review, Ann Transl Med 2021</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Acute severe asthma</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-acute-severe-asthma</guid>
+      <pubDate>Thu, 15 Oct 2026 07:01:23 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-acute-severe-asthma.mp3" length="3149611" type="audio/mpeg"/>
+      <itunes:duration>524</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Acute severe asthma: the November 2024 BTS/NICE/SIGN joint guideline covers chronic asthma only; acute attack management remains in BTS/SIGN 158 (2019), with a standalone revalidation planned. Evidence for adjuncts is thin: IV magnesium reduces admissions in Cochrane (2014) but 3Mg (1109 adults, 2013) was negative and excluded life-threatening cases; nebulised magnesium in MAGNETIC (508 children) gave a statistically but not clinically significant benefit; heliox has no overall benefit (Cochrane 2006, 10 trials, 544 patients); ketamine has one paediatric RCT (68 children) and no adult RCT found; NIV is promising but controversial. Ventilation strategy (low rate, long expiratory time, permissive hypercapnia) is physiology and consensus. ELSO registry data (Yeo 2017, 272 patients) show 83.5 percent survival to discharge with frequent complications. NRAD (2014, 195 deaths) found at least one avoidable factor in 67 percent.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>The 2024 joint guideline does not cover acute attacks; use BTS/SIGN 158 (2019) until the revalidated version appears.</li>
+<li>Normal or rising PaCO2 in a breathless asthmatic means involve ICU early.</li>
+<li>IV magnesium 1.2 to 2 g for life-threatening features is guideline-supported, but trial evidence excluded the sickest patients.</li>
+<li>If intubating, plan settings first: low rate, long expiratory time, tolerate hypercapnia, know to disconnect the circuit for hyperinflation collapse.</li>
+<li>Discuss ECMO early with the centre, and make follow-up after discharge happen (NRAD).</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S2213-2600(13)70070-5">3Mg trial, Goodacre, Lancet Respir Med 2013</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(13)70037-7">MAGNETIC, Powell, Lancet Respir Med 2013</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD010909.pub2">Cochrane: IV magnesium sulfate in adults with acute asthma, Kew 2014</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD002884.pub2">Cochrane: Heliox for nonintubated acute asthma, Rodrigo 2006</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD009293.pub2">Cochrane: Ketamine for acute asthma in children, Jat 2012</a></li>
+<li><a href="https://doi.org/10.1136/archdischild-2024-327838">Second-line treatment for severe paediatric asthma, Arch Dis Child 2025</a></li>
+<li><a href="https://doi.org/10.1186/s13054-017-1886-8">ECMO for life-threatening asthma, ELSO registry, Yeo, Crit Care 2017</a></li>
+<li><a href="https://doi.org/10.1097/MAT.0b013e3181901ea5">ECLS for status asthmaticus in adults, Mikkelsen, ASAIO J 2009</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng245">NICE NG245 asthma diagnosis, monitoring and chronic management</a></li>
+<li><a href="https://doi.org/10.1136/thorax-2024-222910">BTS/NICE/SIGN joint asthma guideline summary, Thorax 2025</a></li>
+<li><a href="https://rightdecisions.scot.nhs.uk/asthma-pathway-bts-nice-sign-sign-244/managing-acute-asthma/management-of-acute-asthma-in-adults/asthma-management-algorithms-for-adults/management-of-acute-asthma-in-adults-in-hospital">SIGN 158 acute asthma in adults in hospital algorithm (Right Decisions)</a></li>
+<li><a href="https://www.rcp.ac.uk/improving-care/resources/why-asthma-still-kills/">RCP: Why asthma still kills (NRAD)</a></li>
+<li><a href="https://fullfact.org/health/800_asthma_deaths_not_supported-32169">Full Fact on NRAD avoidable deaths figures</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Pulmonary hypertension in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-13-pulmonary-hypertension</guid>
+      <pubDate>Thu, 15 Oct 2026 07:01:22 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-13-pulmonary-hypertension.mp3" length="3079565" type="audio/mpeg"/>
+      <itunes:duration>513</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Decompensated pulmonary arterial hypertension in ICU: a chronic, afterload-stressed right ventricle with little reserve. Evidence is almost entirely observational cohorts, physiology and expert review. A 2025 meta-analysis of 25 observational studies (1,249 patients) found ICU mortality 29 percent, hospital mortality 38 percent, ECMO 45 percent, with no improvement over twenty years. Practical consensus: early contact with the specialist PH centre, never interrupt prostanoids, treat triggers, diurese rather than fluid load if overloaded, noradrenaline with early vasopressin, cautious inotropes, inhaled pulmonary vasodilators, avoid intubation or plan it meticulously, and consider early VA ECMO as bridge with goals of care agreed first.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Phone the specialist pulmonary hypertension centre early.</li>
+<li>Never interrupt prostanoid infusions; check line, pump and supply.</li>
+<li>Assume volume overload; check echo before giving fluid, and consider diuretic or renal replacement.</li>
+<li>Use noradrenaline with early vasopressin to protect right coronary perfusion.</li>
+<li>Avoid intubation where possible; if needed plan as a peri-arrest induction, and discuss ECMO and goals of care early.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1093/eurheartj/ehac237">ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension 2022</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201104-0662CI">ICU management of severe pulmonary hypertension and right heart failure, AJRCCM</a></li>
+<li><a href="https://doi.org/10.1183/09031936.00070209">Prognostic factors of acute heart failure in PAH, Eur Respir J 2010</a></li>
+<li><a href="https://doi.org/10.1378/chest.12-2659">LV ejection time in acute heart failure complicating precapillary PH, Chest 2014</a></li>
+<li><a href="https://doi.org/10.1016/j.hrtlng.2024.11.009">Acute decompensated PAH outcomes, systematic review and meta-analysis, Heart Lung 2025</a></li>
+<li><a href="https://doi.org/10.1186/cc9264">Pulmonary vascular and RV dysfunction in adult critical care, systematic review, Crit Care 2011</a></li>
+<li><a href="https://doi.org/10.1097/ALN.0000000000000430">Vasoconstrictor responses to vasopressors in human pulmonary and radial arteries, Anesthesiology 2014</a></li>
+<li><a href="https://doi.org/10.1111/j.1600-6143.2010.03192.x">ECMO in nonintubated patients as bridge to lung transplantation, Am J Transplant 2010</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/40513981/">Inhaled epoprostenol for acute respiratory failure and pulmonary vascular disease, Pulm Pharmacol Ther 2025</a></li>
+<li><a href="https://doi.org/10.1016/j.chest.2026.05.018">Managing a Critically Ill Patient With PAH, Chest 2026</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Anaphylaxis and refractory anaphylaxis</title>
       <guid isPermaLink="false">od-deepdive-2026-10-13-anaphylaxis</guid>
