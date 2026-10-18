@@ -10,7 +10,7 @@
     <description>A private weekly audio digest on family therapy and systemic practice. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png</url>
       <title>Family Therapy Digest</title>
@@ -26,6 +26,25 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>18 October 2026: A proposed family-enhanced CBT-E, a psychosis carers trial protocol, and externalising</title>
+      <guid isPermaLink="false">ft-digest-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/episodes/2026-10-18.mp3" length="9767465" type="audio/mpeg"/>
+      <itunes:duration>1628</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Covers 11 to 18 October 2026. A quiet week for new research, so the episode is shorter than usual. Both research items were discussed from abstracts only.</p>
+<p><strong>Items</strong></p>
+<ul>
+<li>Narrative review and conceptual proposal (no patient data): integrating family-based treatment components into CBT-E for adolescent eating disorders, as "Family-Enhanced CBT-E". The authors state it does not change the first-line status of family therapy and needs open and randomised trials. <a href="https://doi.org/10.1002/eat.70239">International Journal of Eating Disorders, online 14 Oct</a></li>
+<li>Trial protocol (no results): stepped-wedge cluster randomised trial in six French first-episode psychosis centres of a nurse-led caregiver pathway (single-family and multifamily psychoeducation); primary outcome caregiver burden at six months. Registered NCT07041463. <a href="https://doi.org/10.1111/inm.70373">International Journal of Mental Health Nursing, online 12 Oct</a></li>
+<li>Brief mention (title only): validation of the Couple Flourishing Measure in a Spanish population. <a href="https://doi.org/10.1111/famp.70211">Family Process</a>. Diary: AFSP/AFT online webinar on racism in psychotherapy and supervision, 27 October. <a href="https://www.aft.org.uk/events/event_list.asp">AFT events</a></li>
+</ul>
+<p><strong>Concept corner: externalising (narrative therapy).</strong> Further reading: White and Epston (1990), Narrative Means to Therapeutic Ends; Morgan (2000), What Is Narrative Therapy?; Maisel, Epston and Borden (2004), Biting the Hand That Starves You.</p>
+<p><strong>From the training room:</strong> the self of the therapist, with a three-line reflection after a session.</p>
+<p><strong>Unchecked this week:</strong> journals were swept via PubMed only (Journal of Family Therapy early view page not opened); NICE, NHS England, Children's Commissioner, Tavistock and Portman, Institute of Family Therapy, Anna Freud Centre and Context magazine found nothing new but were not checked directly. Full texts not read.</p>
+<p>AI-generated summary; check the sources before relying on them in practice.</p>]]></description>
+    </item>
     <item>
       <title>13 October 2026: ODDESSI correspondence, carers in family-based treatment, and the Social GRRRAAACCEEESSS</title>
       <guid isPermaLink="false">ft-digest-2026-10-13</guid>
