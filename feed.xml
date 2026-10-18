@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 19:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,26 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>18 October 2026: CRRT and caspofungin alert, ICRAKI, SAVE-ICU and VASSPR from ESICM</title>
+      <guid isPermaLink="false">od-digest-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-18.mp3" length="12000163" type="audio/mpeg"/>
+      <itunes:duration>2000</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>Covers 11 to 18 October 2026.</strong> Trial figures are from Critical Care Reviews' ESICM supplement (15 Oct) and newsletter 774, plus news reports where noted. The journal papers and editorials could not be opened.</p>
+<ul>
+<li><strong>MHRA DSI/2026/014, CRRT and echinocandins</strong> (13 Oct). Caspofungin can adsorb onto PAN-based CRRT membranes. Where possible give echinocandins and similar drugs at least 6 hours after starting PAN-filter CRRT and after circuit changes; do not pause CRRT to do so. Consider adsorption in antifungal non-responders; update local protocols. All CRRT devices, all lots. <a href="https://assets.publishing.service.gov.uk/media/6accb26aec9d3aba1e013be7/DSI_-_PAN_based_CRRT_membranes_and_Caspofungin_DSI_2026_014.pdf">MHRA notice</a></li>
+<li><strong>ICRAKI</strong> (Gaudry, NEJM, online 14 Oct). 535 patients, intermittent haemodialysis vs continuous therapy: MAKE90 78.1% vs 71.6%, non-inferiority not shown; 90-day mortality 63.1% vs 53.5% (HR 1.30, 1.04 to 1.63). Stopped early for excess mortality with intermittent. <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2608397">Paper</a></li>
+<li><strong>SAVE-ICU</strong> (Jerath, JAMA, online 14 Oct). 780 patients, 14 Canadian ICUs, isoflurane-based inhaled vs IV sedation in hypoxaemic respiratory failure: hospital mortality 42.5% vs 43.8% (RR 0.98, 0.84 to 1.14); more adjunctive therapies for refractory hypoxaemia and fewer delirium- and coma-free days with inhaled sedation. <a href="https://clinicaltrials.gov/study/NCT04415060">Registry</a></li>
+<li><strong>VASSPR</strong> (Peltan, JAMA, online 14 Oct). 3,959 patients, vasopressin started at 0.1 vs 0.4 micrograms/kg/min noradrenaline-equivalent: 28-day mortality 31.8% vs 33.0%, no meaningful difference. <a href="https://clinicaltrials.gov/study/NCT06217562">Registry</a></li>
+<li><strong>Intraoperative dobutamine in septic shock</strong> (JAMA, online 14 Oct). 584 patients: AKI 22.8% vs 34.7%, no difference in mortality, KRT or stay; more tachycardia. <strong>PRoFLUID</strong> (JAMA): in 2,454 ventilated patients, maintenance and drug-related fluid far outweighed resuscitation fluid.</li>
+<li><strong>Newsletter 774 item:</strong> Dutch trial of automated single-channel EEG for delirium, stopped at 40% of planned sample; median ICU stay 48 hours shorter (CCR's figures).</li>
+<li><strong>Anaesthesia:</strong> international survey of awake tracheal intubation in the videolaryngoscopy era (4,728 clinicians) and accompanying editorial (abstract and titles only). Association of Anaesthetists consent guideline now in the October print issue (online July, so recent context). <a href="https://anaesthetists.org/Guidelines-and-publications/Guidelines/Consent-for-anaesthesia-2026">Guideline</a></li>
+<li><strong>Prevention of Future Deaths reports</strong> (published 13 Oct): necrotising fasciitis missed over three attendances, with microbiology staffing, off-site laboratory delay and a specialty "tracker" as concerns; a non-functioning external ventricular drain not reviewed by a senior doctor and delayed shunt recognition; aortic dissection discharged from same-day emergency care; ward VTE prophylaxis and fluid charts not done. <a href="https://www.judiciary.uk/prevention-of-future-death-reports/margaret-murphy-prevention-of-future-deaths-report/">Necrotising fasciitis</a> · <a href="https://www.judiciary.uk/prevention-of-future-death-reports/shiree-routledge-prevention-of-future-deaths-report/">EVD</a> · <a href="https://www.judiciary.uk/prevention-of-future-death-reports/paula-ivers-prevention-of-future-deaths-report/">Aortic dissection</a> · <a href="https://www.judiciary.uk/prevention-of-future-death-reports/mathew-bailey-prevention-of-future-deaths-report/">Ward deterioration</a>. No new Court of Protection judgments after 8 October.</li>
+</ul>
+<p><strong>Unchecked this week:</strong> criticalcarereviews.com, 39 Essex Chambers, NICE, HSSIB, RCoA, NEJM and JAMA full texts and editorials, Intensive Care Medicine, Critical Care, AJRCCM. CCR newsletter 775 had not arrived.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Ward round round-up 2: pancreatitis, magnesium in asthma, hyponatraemia, chyle leaks, myasthenia and small bowel obstruction</title>
       <guid isPermaLink="false">od-deepdive-2026-10-18-ward-round-roundup-2</guid>
