@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,70 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Ward round round-up 2: pancreatitis, magnesium in asthma, hyponatraemia, chyle leaks, myasthenia and small bowel obstruction</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-18-ward-round-roundup-2</guid>
+      <pubDate>Sun, 18 Oct 2026 19:30:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-18-ward-round-roundup-2.mp3" length="6680949" type="audio/mpeg"/>
+      <itunes:duration>1113</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A longer round-up of six topics, building on earlier episodes rather than repeating them. Pancreatitis: moderate fluid at about 1.5 mL/kg/h with lactated Ringer's (ACG 2024, IAP 2025); EPIPAN found no benefit from epidurals and longer ventilation in a secondary outcome; no early ERCP without cholangitis (APEC); same-admission cholecystectomy (PONCHO); insulin first for hypertriglyceridaemia (no benefit from added LMWH in a 533-patient RCT; plasmapheresis unproven). Magnesium in asthma: 3Mg was negative and stopped short, but its IV admission estimate matched Cochrane's; trials excluded life-threatening asthma; single 1.2 to 2 g dose (BTS/SIGN 158); no nebulised magnesium in adults; high-dose use in ventilated patients rests on a five-patient series. Hyponatraemia: observational meta-analyses link faster correction with lower mortality (confounded) while ODS stays rare but commoner with rapid correction; bolus 3% saline and the usual limits, stricter below 115 mmol/L or with risk factors; second-line SIAD options; FLASH trial of fludrocortisone in SAH is recruiting; a 2024 PFD report on unmonitored IV fluids. Chyle leaks: send triglyceride whatever the fluid looks like; step-up management; octreotide unproven; thoracic duct embolisation succeeds in about three quarters (observational). Myasthenia: NIV before hypercapnia, PLEX or IVIG before high-dose steroids, long ventilation in older patients, sugammadex with quantitative monitoring, checkpoint-inhibitor MG, and split NICE decisions on FcRn blockers. Small bowel obstruction: early CT, the 24-hour contrast film as a test (its therapeutic value is contested), NASBO and NELA data, frailty and malnutrition, NG decompression before RSI, and a 2025 PFD report on a declined NG tube.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Pancreatitis: moderate fluids with Ringer's, ERCP only for cholangitis, no epidural for disease modification, insulin first for high triglycerides; persistent organ failure beyond 48 hours is the prognostic marker.</li>
+<li>Magnesium: a single 1.2 to 2 g IV dose for severe asthma after senior review; no nebulised magnesium in adults; repeat or high doses are rescue only, with level, reflex and blood pressure monitoring.</li>
+<li>Hyponatraemia: bolus hypertonic saline for severe symptoms, correct promptly within limits, be strict below 115 mmol/L or with alcohol, malnutrition, liver disease or hypokalaemia, and monitor electrolytes and fluid balance on IV fluids.</li>
+<li>Chyle: send pleural or drain triglyceride, treat high output as a nutritional and immune problem, agree an escalation trigger early and involve IR.</li>
+<li>Myasthenia: NIV early, PLEX or IVIG before high-dose steroids, expect long ventilation, sugammadex with quantitative monitoring.</li>
+<li>Small bowel obstruction: CT early, 24-hour contrast film, NG decompression before RSI (document consent if declined), and consultants plus critical care when predicted mortality is 5% or more.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1056/NEJMoa2202884">WATERFALL, de-Madaria, N Engl J Med 2022</a></li>
+<li><a href="https://doi.org/10.14309/ajg.0000000000002645">ACG guideline: management of acute pancreatitis, Tenner, Am J Gastroenterol 2024</a></li>
+<li><a href="https://doi.org/10.1016/j.pan.2025.04.020">IAP revised guidelines on acute pancreatitis, Pancreatology 2025</a></li>
+<li><a href="https://doi.org/10.1186/s13054-023-04502-w">EPIPAN, Jabaudon, Crit Care 2023</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(20)30539-0">APEC, Schepers, Lancet 2020</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(15)00274-3">PONCHO, da Costa, Lancet 2015</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2025.42124">LMWH plus insulin in hypertriglyceridaemic pancreatitis, He, JAMA Netw Open 2025</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2023.20802">Plasmapheresis in hypertriglyceridaemic pancreatitis (cohort), Cao, JAMA Netw Open 2023</a></li>
+<li><a href="https://doi.org/10.1136/gut.2004.039883">Persistent organ failure in acute pancreatitis, Johnson and Abu-Hilal, Gut 2004</a></li>
+<li><a href="https://doi.org/10.1016/S2213-2600(13)70070-5">3Mg trial, Goodacre, Lancet Respir Med 2013</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD010909">Cochrane: IV magnesium sulfate in adults with acute asthma, Kew 2014</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD003898.pub6">Cochrane: inhaled magnesium sulfate in acute asthma, Knightly 2017</a></li>
+<li><a href="https://www.sign.ac.uk/media/1773/sign158-updated.pdf">BTS/SIGN 158 British guideline on the management of asthma (2019)</a></li>
+<li><a href="https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf">GINA 2024 strategy report</a></li>
+<li><a href="https://doi.org/10.1530/EJE-13-1020">European clinical practice guideline on hyponatraemia, Spasovski, Eur J Endocrinol 2014</a></li>
+<li><a href="https://doi.org/10.1001/jamainternmed.2024.5981">Correction rate and mortality in hyponatraemia (meta-analysis of cohorts), Ayus, JAMA Intern Med 2025</a></li>
+<li><a href="https://doi.org/10.1136/emermed-2025-215189">Correction rate, mortality and ODS (meta-analysis), Matrisch, Emerg Med J 2026</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8786124">ODS despite correction within limits, Tandukar, Kidney360 2021</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Refardt+empagliflozin+SIAD+2020">Empagliflozin in SIAD (RCT), Refardt, J Am Soc Nephrol 2020</a></li>
+<li><a href="https://www.gov.uk/drug-safety-update/tolvaptan-samsca-risk-of-liver-injury">MHRA Drug Safety Update: tolvaptan and liver injury, 2013</a></li>
+<li><a href="https://www.judiciary.uk/wp-content/uploads/2024/09/Kelly-Stevens-Prevention-of-Future-Deaths-Report-2024-0512.pdf">Prevention of Future Deaths report 2024-0512 (hyponatraemia)</a></li>
+<li><a href="https://www.endocrinology.org/media/xhrhxhxm/emergency-management-of-severe-and-moderately-severely-symptomatic-hyponatraemia-in-adult-patients-2022.pdf">Society for Endocrinology emergency hyponatraemia guidance 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/7442324/">Chylothorax diagnosis, Staats, Mayo Clin Proc 1980</a></li>
+<li><a href="https://doi.org/10.1308/rcsann.2021.0199">Chyle leak after oesophagectomy (systematic review), Robinson, Ann R Coll Surg Engl 2022</a></li>
+<li><a href="https://doi.org/10.1097/SLA.0000000000001098">ECCG complications definitions, Low, Ann Surg 2015</a></li>
+<li><a href="https://doi.org/10.1016/j.jtcvs.2009.11.025">Thoracic duct embolisation series, Itkin, J Thorac Cardiovasc Surg 2010</a></li>
+<li><a href="https://doi.org/10.1016/j.jvir.2017.10.006">Lymphatic intervention meta-analysis, Kim, J Vasc Interv Radiol 2018</a></li>
+<li><a href="https://doi.org/10.1007/s00270-026-04587-0">Updated TDE meta-analysis, Vennam, Cardiovasc Intervent Radiol 2026</a></li>
+<li><a href="https://doi.org/10.1001/archneurol.2007.1">BiPAP in myasthenic crisis, Seneviratne, Arch Neurol 2008</a></li>
+<li><a href="https://doi.org/10.1212/WNL.0b013e31821e5505">IVIG vs plasma exchange in worsening MG, Barth, Neurology 2011</a></li>
+<li><a href="https://doi.org/10.1212/WNL.0000000000008688">Ventilated myasthenic crisis (German multicentre), Neumann, Neurology 2020</a></li>
+<li><a href="https://doi.org/10.1212/WNL.0000000000011124">International consensus guidance for MG, 2020 update, Narayanaswami, Neurology 2021</a></li>
+<li><a href="https://doi.org/10.1016/j.bja.2024.05.015">Sugammadex in neuromuscular disease (systematic review), BJA 2024</a></li>
+<li><a href="https://doi.org/10.1016/S1474-4422(21)00159-9">ADAPT (efgartigimod), Howard, Lancet Neurol 2021</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ta1069">NICE TA1069 efgartigimod (not recommended, 2025)</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ta1155">NICE TA1155 rozanolixizumab (recommended, 2026)</a></li>
+<li><a href="https://doi.org/10.1186/s13017-018-0185-2">Bologna guidelines on adhesive SBO (WSES 2017 update), Ten Broek, World J Emerg Surg 2018</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Gowell+water-soluble+contrast+adhesive+small+bowel+obstruction+2025">Water-soluble contrast in adhesive SBO (meta-analysis), Gowell, BJS Open 2025</a></li>
+<li><a href="https://doi.org/10.1002/bjs5.50136">NASBO UK audit, BJS Open 2019</a></li>
+<li><a href="https://doi.org/10.1136/bmjopen-2019-029235">NASBO nutrition, Lee, BMJ Open 2019</a></li>
+<li><a href="https://www.nela.org.uk/reports">NELA reports</a></li>
+</ul>
+<p>Two of the links (Refardt 2020, Gowell 2025) are PubMed searches because the DOI was not confirmed. Suxamethonium and non-depolariser dose figures in myasthenia were not verified and are not quoted.</p>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Giving evidence in a Court of Protection serious medical treatment hearing</title>
       <guid isPermaLink="false">od-deepdive-2026-10-18-cop-giving-evidence</guid>
