@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 09:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,35 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Giving evidence in a Court of Protection serious medical treatment hearing</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-18-cop-giving-evidence</guid>
+      <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-18-cop-giving-evidence.mp3" length="4700399" type="audio/mpeg"/>
+      <itunes:duration>783</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A practical medicolegal episode (England and Wales) for an ICU consultant about to give oral evidence in a contested best-interests case about escalation. Who is in the room (Trust counsel, Official Solicitor for P, family, sometimes an independent expert, Tier 3 judge, hybrid attendance, transparency orders); how the judge weighs P's wishes, feelings, values and beliefs under s.4 (Aintree, Wye Valley NHS Trust v B, Briggs v Briggs) and why "futility" language lands badly; the clinician's duty to the court; fact versus opinion; making benefits and burdens concrete; cross-examination lines of attack with a worked weak and better answer; and practical points. General discussion only, not legal advice, and no real case details.</p>
+<p><strong>Things to remember walking in</strong></p>
+<ul>
+<li>Your duty is to the court, not the Trust.</li>
+<li>The question is what is best for this person, with their values and wishes carrying real weight; not whether treatment is "futile".</li>
+<li>Make benefits and burdens concrete and be honest about uncertainty.</li>
+<li>In cross-examination concede true facts quickly and hold reasoned conclusions.</li>
+<li>Keep fact, opinion and matters outside your expertise separate.</li>
+<li>Short answers, address the judge, correct your statement at the start, and "I don't know" is acceptable.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2020/2">Serious Medical Treatment, Guidance, Vice-President of the Court of Protection, [2020] EWCOP 2</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2015/60">Wye Valley NHS Trust v B [2015] EWCOP 60</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2016/53">Briggs v Briggs [2016] EWCOP 53</a></li>
+<li><a href="https://www.judiciary.uk/wp-content/uploads/2017/12/pd-15a-expert-evidence.pdf">Court of Protection Practice Direction 15A: expert evidence</a></li>
+<li><a href="https://www.legislation.gov.uk/uksi/2017/1035/contents/made">Court of Protection Rules 2017, Part 15</a></li>
+<li><a href="https://www.judiciary.uk/guidance-and-resources/the-transparency-pilot-a-note-from-the-vice-president-of-the-court-of-protection/">Transparency Pilot note, Vice-President of the Court of Protection</a> (background; check the current transparency order in your case)</li>
+<li>Aintree University Hospitals NHS Foundation Trust v James [2013] UKSC 67 (cited as discussed in Briggs; not re-read separately)</li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Clotting tests: what they measure and how to use them</title>
       <guid isPermaLink="false">od-deepdive-2026-10-18-clotting-tests</guid>
