@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 07:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:10:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,104 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Clotting tests: what they measure and how to use them</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-18-clotting-tests</guid>
+      <pubDate>Sun, 18 Oct 2026 09:02:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-18-clotting-tests.mp3" length="3621260" type="audio/mpeg"/>
+      <itunes:duration>603</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>What PT, APTT, Clauss fibrinogen, thrombin time, platelet count and D-dimer measure, set against the cell-based model of haemostasis (Hoffman and Monroe 2001). Standard tests predict procedural bleeding poorly (Segal and Dzik 2005), plasma often fails to correct a mildly raised INR (Holland and Brooks 2006) and rebalanced haemostasis in cirrhosis makes the INR misleading. DOAC presence needs drug-calibrated anti-Xa or thrombin time, not PT and APTT; isolated prolonged APTT work-up is covered. Viscoelastic testing: Cochrane 2026 (35 RCTs, very low certainty), ITACTIC (neutral), OBS2, Welsh PPH data, NICE DG13/HTG348. Neuraxial: the 2013 Association, OAA and RA-UK guidance is still current (no 2025 replacement was found), with Shah 2025 as cross-check.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>PT, APTT and INR were not built to predict bleeding; do not treat the number.</li>
+<li>Plasma is a poor way to correct an INR, and a long INR in liver disease is not a coagulopathy needing correction.</li>
+<li>To exclude a DOAC use anti-Xa or thrombin time, never PT and APTT.</li>
+<li>In bleeding, fibrinogen is the test that matters, especially in obstetrics; viscoelastic evidence is thin outside cardiac surgery.</li>
+<li>For neuraxial blocks use the 2013 guideline, cross-checked against Shah 2025; no new guideline exists.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li>Hoffman and Monroe, cell-based model, Thromb Haemost 2001 (cited from memory of the fact sheet; no link)</li>
+<li><a href="https://doi.org/10.1111/anae.16542">Association of Anaesthetists blood components guideline (Shah), Anaesthesia 2025</a></li>
+<li><a href="https://doi.org/10.1111/anae.12359">Regional anaesthesia and abnormalities of coagulation (Harrop-Griffiths), Anaesthesia 2013</a></li>
+<li><a href="https://doi.org/10.1053/j.gastro.2019.03.070">AGA Clinical Practice Update: coagulation in cirrhosis, 2019</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42145275/">Cochrane 2026 TEG/ROTEM review, CD007871.pub4</a></li>
+<li><a href="https://doi.org/10.1007/s00134-020-06266-1">ITACTIC, Intensive Care Med 2021</a></li>
+<li><a href="https://doi.org/10.1093/bja/aex181">OBS2, Br J Anaesth 2017</a></li>
+<li><a href="https://doi.org/10.1016/j.ijoa.2021.102983">OBS Cymru, Int J Obstet Anesth 2021</a></li>
+<li><a href="https://www.nice.org.uk/guidance/dg13">NICE DG13 / HTG348</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20345562/">AABB plasma guideline (Roback), 2010</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Cardiopulmonary exercise testing before surgery</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-18-cpet-preop</guid>
+      <pubDate>Sun, 18 Oct 2026 09:01:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-18-cpet-preop.mp3" length="3396183" type="audio/mpeg"/>
+      <itunes:duration>566</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Consultant-level review of preoperative CPET: V-slope anaerobic threshold physiology, effort-dependence and reader variability, and where the quoted thresholds come from (Older 1993 AT 11 in elderly abdominal surgery; Wilson 2010 VE/VCO2 34 in 847 colorectal patients with 18 deaths; lung resection peak VO2 10 and 20). Stubbs 2020 shows CPET rules out better than it rules in. The blinded METS study (Lancet 2018, 1401 patients) found peak VO2 predicted moderate or severe complications but not death or MI, AT predicted none, and DASI and NT-proBNP predicted other outcomes; subjective assessment was insensitive. Guidelines are quiet on CPET, and no trial shows CPET-guided care improves outcomes; prehabilitation evidence is moderate but not CPET-specific.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Know where thresholds come from: AT 11 is Older 1993, VE/VCO2 34 is Wilson 2010, both single-centre and not pass/fail lines.</li>
+<li>In METS peak VO2 predicted complications, not death or MI; AT predicted nothing.</li>
+<li>Subjective assessment misses most low-capacity patients; use DASI or a measured test.</li>
+<li>Check effort and technical quality before trusting a value.</li>
+<li>Use CPET to inform shared decisions and plan care; there is no trial evidence it improves outcomes.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/3087938/">Beaver, V-slope, J Appl Physiol 1986</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/8365279/">Older, Chest 1993</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/20573634/">Wilson, BJA 2010 (retrospective)</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/30070222/">METS, Wijeysundera, Lancet 2018</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/29452805/">Levett et al, international CPET guideline (POETTS), BJA 2018</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng180">NICE NG180</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36988937/">Molenaar prehabilitation trial, 2023</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
+    <item>
+      <title>Deep dive: Intravenous iron and preoperative anaemia</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-18-iv-iron-preop-anaemia</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-18-iv-iron-preop-anaemia.mp3" length="3595386" type="audio/mpeg"/>
+      <itunes:duration>599</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Perioperative pitch on IV iron before surgery. Iron deficiency is diagnosed with ferritin and transferrin saturation, but definitions of functional deficiency are contested. PREVENTT (Lancet 2020, 487 patients, major open abdominal surgery) was neutral on death or transfusion (28 vs 29 per cent) with a modest haemoglobin rise; the lower readmission rate was a secondary outcome and hypothesis-generating. Its post hoc analysis found 82 per cent were iron deficient, with the haemoglobin gain concentrated in absolute deficiency. ITACS (BMJ 2026, 955 cardiac surgery patients) gave a one-day gain in days alive and at home (P 0.041) and less transfusion (61 vs 68 per cent). Network meta-analyses are indirect and conflicting on timing; critical care trials (IRONMAN, HEPCIDANE) do not support routine iron. Formulations, dosing from SmPCs, FCM hypophosphataemia and guideline status (NICE NG24 from 2015, BSH 2024) are discussed.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Check ferritin and transferrin saturation early before major elective surgery.</li>
+<li>Absolute iron deficiency with roughly six weeks or less to surgery: IV iron is reasonable, supported in cardiac surgery by ITACS.</li>
+<li>Expect a modest effect on haemoglobin and transfusion, not on mortality.</li>
+<li>Ferric carboxymaltose causes hypophosphataemia, particularly with repeat doses (MHRA Drug Safety Update, 2020).</li>
+<li>No routine iron in critical illness.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://doi.org/10.1016/S0140-6736(20)31539-7">PREVENTT, Lancet 2020</a></li>
+<li><a href="https://doi.org/10.1111/anae.15926">PREVENTT iron deficiency secondary analysis, Anaesthesia 2023 (exploratory)</a></li>
+<li><a href="https://doi.org/10.1136/bmj-2026-100407">ITACS, BMJ 2026</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(18)32555-8">Spahn, Lancet 2019 (iron, EPO, B12, folate bundle)</a></li>
+<li><a href="https://doi.org/10.1016/j.eclinm.2025.103361">Timing network meta-analysis, eClinicalMedicine 2025</a></li>
+<li><a href="https://doi.org/10.1111/anae.16605">Post-operative iron meta-analysis, Anaesthesia 2025</a></li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2021.33935">Infection signal meta-analysis, JAMA Netw Open 2021</a></li>
+<li><a href="https://doi.org/10.1007/s00134-016-4465-6">IRONMAN (ICU), Intensive Care Med 2016</a></li>
+<li><a href="https://www.thebottomline.org.uk/summaries/icm/ironman/">The Bottom Line: IRONMAN</a></li>
+<li><a href="https://doi.org/10.1186/s13054-020-03430-3">HEPCIDANE, Critical Care 2021</a></li>
+<li><a href="https://doi.org/10.1001/jama.2019.22450">PHOSPHARE-IDA, JAMA 2020</a></li>
+<li><a href="https://www.gov.uk/drug-safety-update">MHRA Drug Safety Update, Nov 2020 (ferric carboxymaltose and phosphate)</a></li>
+<li><a href="https://doi.org/10.1182/blood-2015-05-642223">Moretti, Blood 2015 (oral iron and hepcidin)</a></li>
+<li><a href="https://doi.org/10.1111/anae.13773">International consensus on perioperative anaemia, Anaesthesia 2017</a></li>
+<li><a href="https://www.nice.org.uk/guidance/ng24">NICE NG24</a></li>
+<li><a href="https://doi.org/10.1111/bjh.19440">BSH guideline, Br J Haematol 2024</a></li>
+<li><a href="https://doi.org/10.1111/anae.16542">Association of Anaesthetists blood components guideline, Anaesthesia 2025</a></li>
+<li><a href="https://www.medicines.org.uk/emc/product/5910/smpc">Ferinject SmPC</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: Ward round round-up: six common ICU admissions</title>
       <guid isPermaLink="false">od-deepdive-2026-10-14-ward-round-roundup-1</guid>
