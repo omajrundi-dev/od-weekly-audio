@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 06:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:47:51 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,52 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: PDOC in the Court of Protection: the case law since Aintree</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-19-cop-pdoc-case-law-history</guid>
+      <pubDate>Mon, 19 Oct 2026 21:47:51 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-19-cop-pdoc-case-law-history.mp3" length="9556652" type="audio/mpeg"/>
+      <itunes:duration>1593</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A chronological, England and Wales only account of how the law on prolonged disorders of consciousness developed after Aintree v James. Kate and Tom trace Bland and W v M, the shift to the patient's own perspective in Aintree, the run of Court of Protection CANH decisions (TH, M v N, Briggs, M v A Hospital) in which P's wishes, values and beliefs gained weight, the procedural question of whether every withdrawal needs a court (Practice Direction 9E, the first-instance and Supreme Court decisions in Re Y, and the Vice President's 2020 guidance), and later cases on advance wishes, families seeking continued treatment, faith, covert consciousness arguments, delay, and the Court of Appeal's 2026 Townsend decision. It ends with open questions and practical points. Case details were read from the judgments on Find Case Law; the preceding episodes cover diagnosis, the Re Y process and giving evidence, so those are not repeated.</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>Start the values conversation on ICU and document it: the patient's wishes, feelings, beliefs and values carry the most weight, and where established with sufficient certainty they will generally prevail over the presumption in favour of life.</li>
+<li>Get the diagnosis right with formal assessment over time; disputes about awareness are won or lost on that evidence.</li>
+<li>If the decision is finely balanced, disputed or there is a difference of medical opinion, a Court of Protection application must be made, and promptly; delay is the failure the courts keep criticising.</li>
+<li>Withdrawing life-sustaining treatment from a patient who lacks capacity is not a purely clinical decision: the Court of Appeal in Townsend (2026) said there is no carve-out for clinical decisions. Take legal advice early.</li>
+<li>Faith is evidence about the person, not a veto and not irrelevant: ask what this patient would have made of this situation.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li>Airedale NHS Trust v Bland [1993] (background, discussed in the judgments below)</li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/fam/2011/2443">W v M [2011] EWHC 2443 (Fam)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2013/67">Aintree University Hospitals NHS FT v James [2013] UKSC 67</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2014/4">Sheffield Teaching Hospitals v TH [2014] EWCOP 4</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2015/76">M v N (Re N) [2015] EWCOP 76</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2016/53">Briggs v Briggs [2016] EWCOP 53</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2017/19">M v A Hospital [2017] EWCOP 19</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/qb/2017/2866">NHS Trust v Y [2017] EWHC 2866 (QB)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/uksc/2018/46">An NHS Trust v Y [2018] UKSC 46</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2020/2">Serious Medical Treatment Guidance [2020] EWCOP 2</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2018/41">NHS Cumbria CCG v Rushton [2018] EWCOP 41</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2019/18">A CCG v P [2019] EWCOP 18</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2022/28">Imperial College Healthcare v C [2022] EWCOP 28</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/fam/2022/3682">Mid Yorkshire Hospitals v NB [2022] EWHC 3682 (Fam)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/2023/32">Hillingdon Hospitals v IN [2023] EWCOP 32</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2024/895">NHS North Central London ICB v PC [2024] EWCOP 31 (T3); Court of Appeal [2024] EWCA Civ 895</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2024/1466">King's College Hospital v XY [2024] EWCOP 68; Court of Appeal [2024] EWCA Civ 1466</a></li>
+<li>Re AA [2024] EWCOP 39 (T3)</li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2025/17">UCLH v PK [2025] EWCOP 17 (T3)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2025/8">NHS South East London ICB v JP [2025] EWCOP 8 (T3)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/16">NHS Kent & Medway ICB v OQD [2026] EWCOP 16 (T3)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewca/civ/2026/195">Townsend v Epsom and St Helier University Hospitals NHS Trust [2026] EWCA Civ 195</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/43">NHS North East London ICB v FHR [2026] EWCOP 43 (T3)</a></li>
+<li><a href="https://www.rcp.ac.uk/resources/prolonged-disorders-of-consciousness-following-sudden-onset-brain-injury-national-clinical-guidelines/">RCP prolonged disorders of consciousness national clinical guidelines (2020)</a></li>
+<li><a href="https://www.bma.org.uk/advice-and-support/ethics/adults-who-lack-capacity/clinically-assisted-nutrition-and-hydration">BMA/RCP CANH guidance (2018)</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>19 October 2026: MHRA StatStrip ketone strip recall, chest wall oscillation, high flow after lung resection, CRRT on ECMO</title>
       <guid isPermaLink="false">od-digest-2026-10-19</guid>
