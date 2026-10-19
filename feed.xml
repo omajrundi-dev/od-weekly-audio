@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>19 October 2026: MHRA StatStrip ketone strip recall, chest wall oscillation, high flow after lung resection, CRRT on ECMO</title>
+      <guid isPermaLink="false">od-digest-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:30:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-19.mp3" length="7403604" type="audio/mpeg"/>
+      <itunes:duration>1234</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>Follow-up edition covering 12 to 19 October 2026</strong>, after the 18 October episode. Figures for the first three trial items are from Critical Care Reviews newsletter 775 (18 Oct) unless stated; the papers themselves could not be opened.</p>
+<ul>
+<li><strong>MHRA DSI/2026/013, Nova StatStrip ketone strips</strong> (first issued 9 Oct, updated 16 Oct with an extra batch). Recalled lots with quality-control failures; further lots may be withdrawn; replacement UK stock not expected for about 4 weeks. Check lots held, validate alternatives (other point-of-care devices or lab), prioritise strips for DKA, children, type 1 diabetes and serial ketones. <a href="https://www.gov.uk/drug-device-alerts/nova-biomedical-statstrip-ketone-test-strips-risk-of-disruption-to-blood-ketone-testing-due-to-quality-control-failures-and-supply-interruption-dsi-slash-2026-slash-013">MHRA notice</a></li>
+<li><strong>High-frequency chest wall oscillation</strong> (Ielo, Chest, online 14 Oct). 88 patients, single-centre respiratory ICU: therapeutic bronchoscopy 6/44 vs 14/44 (unadjusted P 0.042); pre-specified adjusted analysis inconclusive (OR 0.336, 0.111 to 1.021). Hypothesis-generating.</li>
+<li><strong>Prophylactic high-flow nasal oxygen after lung resection</strong> (Lin, Crit Care 2026;30:528). 223 randomised, open-label, single-centre: ordinal OR for complication severity 0.50 (0.28 to 0.91). Planned postoperative ICU patients excluded. <a href="https://link.springer.com/article/10.1186/s13054-026-06205-4">Paper</a></li>
+<li><strong>CRRT during ECMO</strong> (ADQI-ELSO consensus, Blood Purif, online 12 Oct). Expert consensus: standardise protocols, choose integrated, separate or in-line circuit by patient and device, individualise anticoagulation.</li>
+<li><strong>Headlines only (not opened):</strong> UK Joint Societies encephalitis guideline (J Infect, replaces the 2012 viral encephalitis guideline); EAN/ESCMID encephalitis guideline; phenobarbital vs diazepam for alcohol withdrawal (JAMA Intern Med); oxygen targets after cardiac arrest meta-analysis; fragility of critical care RCTs (Crit Care); Anaesthesia: VIDIAC score validation, frailty at 90 or over after elective surgery, "A good death in intensive care"; BJA correspondence on BIS and suppression ratio.</li>
+<li><strong>Prevention of Future Deaths</strong> (published 13 Oct): <a href="https://www.judiciary.uk/prevention-of-future-death-reports/jane-lawrence-prevention-of-future-deaths-report/">severe hypoglycaemia and non-conveyance, JRCALC flowchart (investigation ongoing)</a> · <a href="https://www.judiciary.uk/prevention-of-future-death-reports/pamela-hindley-prevention-of-future-deaths-report/">rapid discharge events and social care capacity</a>. No new Court of Protection judgments after 8 October. JICS "Critical care and the law: pertinent cases from 2025" noted, not opened.</li>
+</ul>
+<p><strong>Unchecked this week:</strong> criticalcarereviews.com site, 39 Essex Chambers, NICE, HSSIB, RCoA, paper full texts (Chest, Crit Care, J Infect, Anaesthesia, BJA), Intensive Care Medicine, AJRCCM.</p>]]></description>
+    </item>
     <item>
       <title>18 October 2026: CRRT and caspofungin alert, ICRAKI, SAVE-ICU and VASSPR from ESICM</title>
       <guid isPermaLink="false">od-digest-2026-10-18</guid>

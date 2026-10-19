@@ -1,183 +1,112 @@
-Kate: Hello, and welcome to the I C M and Anaesthesia Digest. It's the eighteenth of October. I'm Kate.
+Kate: Hello, and welcome to the I C M and Anaesthesia Digest. It's the nineteenth of October. I'm Kate.
 Tom: And I'm Tom. Hello.
-Kate: This has been a proper week for intensive care. The European Society's congress in Porto had its hot topics session on Wednesday, and a run of trials were published online at the same time.
-Tom: Five of them, if you count the observational one. Renal replacement therapy, inhaled sedation, vasopressin timing, dobutamine in surgical septic shock, and a big fluid study.
-Kate: But we're going to start with something that isn't a trial, because it's the one thing this week that might need somebody to do something on Monday morning.
-Tom: The M H R A.
-Kate: Right. A Device Safety Information notice, number D S I slash two thousand and twenty-six slash zero fourteen, issued on the thirteenth of October. It's about continuous renal replacement therapy and echinocandins, caspofungin in particular.
-Tom: And the issue is adsorption.
-Kate: Yes. Published evidence shows caspofungin can bind to polyacrylonitrile based membranes, the P A N membranes, used in C R R T. And the concern is that the patient ends up on ineffective antifungal treatment, which in an I C U is potentially life threatening.
-Tom: Which is a slightly dry way of saying, you've got someone with candidaemia, you're giving them the right drug, and the filter is eating it.
-Kate: Exactly. The alert says the risk is greatest when a new membrane or a new circuit has just started, because adsorption falls over time as the membrane saturates.
-Tom: So it's a saturation story. The filter is a sponge, and a dry sponge takes up the most.
-Kate: That's a fair picture. So the advice. Where possible, give echinocandins like caspofungin, and similar drugs, at least six hours after C R R T is started, and again after a circuit change.
-Tom: And I think the sentence people need to hear is the next one. C R R T should proceed as clinically indicated, and shouldn't be delayed or paused just to make room for the drug.
-Kate: Yes, that's explicit. You don't stop dialysis to give caspofungin. You time the dose around it.
-Tom: Which is easy to say. In practice, in the middle of the night, the circuit clots at three in the morning, the nurse changes the set, and the antifungal is due at four.
-Kate: Which is why the other bullet matters. All the staff involved in the C R R T set up, and in prescribing, dispensing and giving caspofungin, should be made aware. And local protocols and standard operating procedures should be reviewed and updated.
-Tom: So it's a pharmacy and nursing conversation as much as a medical one.
-Kate: Definitely. Two more points. First, the notice says filter adsorption should be considered as a reason for non-responders, or sub-therapeutic responses, in anyone getting a drug during C R R T. So if your candidaemia isn't clearing, put that on the list.
-Tom: And second, the same risk can't be excluded for other membrane types, or for other drugs with similar properties. They don't name them.
-Kate: No. The scope line says all C R R T devices, all lots. So it isn't one manufacturer's problem.
-Tom: What's the evidence behind the six hours?
-Kate: Fair question, and I can't tell you. The notice cites published evidence for the figure, but I've only seen the notice itself, not the reference. So treat six hours as the regulator's pragmatic number, not a validated threshold.
-Tom: I'd add that the summary of product characteristics for caspofungin, as I understand it, already carries a line about extracorporeal membranes. There's also a letter to healthcare professionals from the marketing authorisation holders, dated the seventh of October. But I've only seen that through a search result, so don't quote me on the detail.
-Kate: Understood. So what do you do? Ask your renal and pharmacy leads whether anyone has looked at which membranes you use, and whether your antifungal timing is written down anywhere.
-Tom: And be careful with the dose. The summary of product characteristics reportedly says increasing the dose may not overcome the effect, so don't just double it.
-Kate: That's the same source, so same caveat. Right, one housekeeping point. The Nova Biomedical StatStrip ketone strip alert we covered last week shows as updated on the sixteenth. I haven't seen what changed, so if you're short of strips, go back to the notice itself.
-Tom: Fair enough. And there was a Class 2 medicines recall on the twelfth, for a Norgine infusion product called Pedmarqsi, because of possible particulate matter. That's not really I C U territory, so we'll leave it at that.
-Kate: Good. Now, since we've started with C R R T, let's stay with it. Because the biggest trial of the week, I think, is I C R A K I, in the New England Journal.
-Tom: Gaudry and colleagues. Intermittent or continuous renal replacement therapy in acute kidney injury.
-Kate: And I should say upfront, I haven't been able to open the paper. The New England Journal blocks us. So the numbers I'm about to give come from the Critical Care Reviews summary, and I've cross-checked the headline against a news report and the trial registry.
-Tom: Noted. So, design.
-Kate: A multicentre, open label, randomised non-inferiority trial in France. Five hundred and thirty-five critically ill adults with severe acute kidney injury. Intermittent haemodialysis against continuous kidney replacement therapy.
-Tom: Non-inferiority. So the hypothesis was that intermittent dialysis is no worse than continuous.
-Kate: Yes, and the primary outcome was major adverse kidney events at ninety days. That's a composite of death, dialysis dependence, or persistent kidney dysfunction.
-Tom: Right, that's the M A K E ninety outcome. And?
-Kate: Seventy-eight point one per cent in the intermittent group, seventy-one point six per cent in the continuous group. Adjusted risk difference about six point three percentage points, with a confidence interval from minus one point two to plus thirteen point eight.
-Tom: So that interval crosses zero, but it also crosses whatever margin they chose. Non-inferiority wasn't shown.
-Kate: Correct. Not shown. And that's different from saying intermittent was significantly worse, on that outcome. It wasn't.
-Tom: But the death numbers.
-Kate: Ninety-day mortality, sixty-three point one per cent with intermittent, fifty-three point five with continuous. Hazard ratio one point three, confidence interval one point oh four to one point six three.
-Tom: Which is a nominally significant excess of death. And the trial was stopped early, wasn't it.
-Kate: It was. Stopped prematurely because of excess mortality in the intermittent arm. The registry and the news report both say the data monitoring board recommended stopping enrolment.
-Tom: So, can we believe it?
-Kate: That's the question. Let me give you the reasons to be careful, and then the reasons to take it seriously.
+Kate: Now, a bit of housekeeping. Yesterday's episode covered the big European congress trials in some depth, so we're not going to go round that again. The Critical Care Reviews newsletter for this week landed overnight, though, and there are a few things in it we hadn't got to.
+Tom: So this is the follow-up edition. Quieter week on the headline front, but one thing that might genuinely need someone to do something this morning.
+Kate: Which is where we'll start. The M H R A, and blood ketone strips.
 Tom: Go on.
-Kate: Careful. Trials stopped early for harm overestimate effects, as a rule. Mortality was not the primary outcome, so the mortality result is a secondary outcome that happens to be the reason for stopping. It's open label, so clinicians knew what each patient was getting. And I don't have the details on how many patients crossed over, or on how the intermittent arm was actually delivered.
-Tom: That last one matters a lot. Intermittent haemodialysis in an unstable patient can be delivered well or badly. Dialysis dose, ultrafiltration rate, sustained low efficiency or not. The cardiovascular tolerance of the session is the whole thing.
-Kate: Yes. So when you read the full paper, that's what I'd look for. What did the haemodynamic tolerance look like, how many sessions were curtailed, and how were patients who became unstable handled?
-Tom: And the reasons to take it seriously.
-Kate: Fifty-three to sixty-three per cent mortality is a very sick population. In that population a nine or ten point difference in absolute mortality, even if exaggerated by early stopping, is hard to wave away. And it points the same way as the physiological argument people have made for years, that continuous therapy is gentler on a failing circulation.
-Tom: Though to be fair, the earlier evidence didn't show that. Previous trials and meta-analyses found no clear mortality difference between the modalities. This one does show a difference, in a population defined by severe acute kidney injury. The authors apparently argue that earlier trials included patients with disputable indications for starting dialysis, some of whom might have recovered without it.
-Kate: I've only seen that second hand, in a news report, so that's their argument as relayed, not something I've checked in the paper.
-Tom: Fair. There's also an editorial in the same journal. The title is Continuous or Intermittent Renal-Replacement Therapy, What Is the Question? I haven't read it, so I won't pretend to know what it argues. But the title tells you that at least one commentator thinks the modality framing might be too crude.
-Kate: Which I'd agree with, honestly. In the real world, most units use continuous therapy first in unstable patients and move to intermittent or sustained low efficiency dialysis as people stabilise. So a trial that randomises on day one is asking a slightly artificial question.
-Tom: So what do we do on Monday?
-Kate: If you run a unit that starts critically ill, shocked patients on intermittent dialysis, this is a reason to look hard at that habit. If you already default to continuous in unstable patients, this supports what you're doing. And I wouldn't change anything on the strength of a stopped-early trial for the stable patient who is recovering.
-Tom: I'd say it's not practice-changing in the sense of a new recommendation. But it is the kind of trial that makes the opposite practice harder to defend.
-Kate: Yes. And note that it makes the M H R A point about adsorption a bit more relevant, because it's another reason to think carefully about what's running through those filters.
-Tom: Right. That's one for the renal rounds. Next.
-Kate: Next is S A V E I C U, in J A M A, published online on the fourteenth. Isoflurane based inhaled sedation in mechanically ventilated adults with acute hypoxaemic respiratory failure.
-Tom: This is the one I've been waiting for. Because the physiological story for volatile sedation in A R D S is so appealing.
-Kate: It is. Anti-inflammatory effects, bronchodilation, easy titration, awake quickly. And a pilot showing better oxygenation on day two with sevoflurane against midazolam.
-Tom: And an earlier Sedaconda trial, in 2021, showing isoflurane was non-inferior to propofol for keeping people at target sedation depth.
-Kate: Yes, but that was about sedation quality. Not survival, and not recovery. So S A V E I C U is the first big attempt to ask whether it changes outcomes.
-Tom: Design?
-Kate: Multicentre, open label, randomised. Seven hundred and eighty mechanically ventilated adults with acute hypoxaemic respiratory failure, fourteen Canadian I C Us. Predominantly isoflurane based inhaled sedation against conventional intravenous sedation.
-Tom: Primary outcome, hospital mortality.
-Kate: Forty-two point five per cent with inhaled sedation, forty-three point eight per cent with intravenous. Risk ratio nought point nine eight, confidence interval nought point eight four to one point one four. That's a null result.
-Tom: A very null result. Nothing for ventilator free days, I C U free days, or longer term quality of life.
-Kate: No differences in any of those. And there are a couple of signals pointing the wrong way. More patients in the inhaled group needed adjunctive therapies for refractory hypoxaemia, sixty-three point nine per cent against fifty-five per cent.
-Tom: That's a big difference. What are the adjuncts, proning, paralysis, that sort of thing?
-Kate: I don't have the breakdown. I'd want to know. And patients in the inhaled group had fewer delirium and coma free days, which the summary says was largely down to longer periods of coma.
-Tom: So deeper sedation, effectively.
-Kate: That's the natural reading, though I'd be cautious. It could be depth of sedation, or it could be the drug, or just that coma is being scored in an open label trial by people who know the allocation.
-Tom: And a point the summary raises, which I think is important. Concomitant intravenous sedation was frequently needed in the inhaled group.
-Kate: Yes. So the contrast between the arms is diluted. A lot of the inhaled group were getting both.
-Tom: Which cuts two ways. It might be hiding a benefit. But if clinicians couldn't keep patients comfortable on inhaled sedation alone, that tells you something about how it works in practice.
-Kate: Absolutely. Now, who said what. The J A M A editorial, by Jabaudon, is titled Inhaled Sedation in Acute Respiratory Failure: Air Cleared? And there's an editorial note from McEvoy called New Evidence for Debate. I haven't read either, so I'm only giving you the titles.
-Tom: The Critical Care Reviews summary, though, is blunt. Overall, isoflurane based sedation didn't improve outcomes, and may offer fewer advantages than previously thought. That's their wording.
-Kate: So where does that leave us? I think the oxygenation and anti-inflammatory story was always a hypothesis, and this trial doesn't support it as a way of improving survival.
-Tom: But it doesn't kill inhaled sedation as a tool for sedation. If you have it, and it helps you wake a patient up, or you're struggling with high dose propofol or midazolam, you can still use it.
-Kate: Right. What it doesn't justify is buying a device or changing a unit's sedation policy because you expect a mortality benefit in A R D S. And the open label design, plus the coma finding, means I'd want to see the full paper before I'd say it's safe to call it equivalent.
-Tom: I'd say that's the take. Not harmful in an obvious way, not beneficial. And probably more expensive.
-Kate: I haven't seen cost data, so I'll leave that. Moving on. The third trial, V A S S P R. Vasopressin initiation threshold, J A M A.
-Tom: Peltan and colleagues. And a really interesting design, a cluster crossover strategy trial.
-Kate: Yes. Thirteen hospitals in the United States, in Utah and Idaho. Hospitals alternate, I think monthly according to the protocol, between two recommended strategies for starting vasopressin. Start at a noradrenaline equivalent dose of nought point one micrograms per kilo per minute, or at nought point four.
-Tom: So early, against late.
-Kate: Three thousand nine hundred and fifty-nine patients with septic shock. And the difference was clear in practice. Vasopressin was given earlier and more often in the low threshold group.
-Tom: Primary outcome?
-Kate: Twenty-eight day mortality. Thirty-one point eight per cent in the low threshold group, thirty-three point oh in the high threshold group. Adjusted odds ratio about one. Kidney replacement therapy free days were similar.
-Tom: I'll resist the temptation to quote a confidence interval, because the one in my notes looks odd. Let's just say it's a null with a narrow interval around no difference.
-Kate: Yes. A news report also says cardiogenic shock was slightly more common in the early group, though the authors didn't think it affected patient centred outcomes. I haven't seen the actual numbers for that.
-Tom: And clinicians could override. That's the usual pragmatic trial problem.
-Kate: It is. The summary says clinician discretion and incomplete adherence may have diluted the effect. But the principal investigator's framing, which I thought was sensible, was that the question wasn't whether vasopressin works. It was whether it's safe to wait.
-Tom: And the answer seems to be that you can wait, within the range tested, without harm.
-Kate: Yes. I'd put it as, if your unit starts vasopressin somewhere in the middle, you shouldn't feel pushed to bring the threshold down to nought point one. And starting later, at the higher dose, doesn't seem to have harmed anyone.
-Tom: I'd keep to what was tested, though. Nought point one against nought point four. We're not told about nought point six, or about the patients who never reached any threshold.
-Kate: Right. There's an editorial by Pirracchio called Vasopressin in Septic Shock, Is Early the Right Question? And a letter in Critical Care, from Wieruszewski, arguing that trials of early multimodal vasopressor therapy need a dose ceiling, not a dose floor. Again, I've only seen titles. But they're in the same territory, which is that threshold trials are a blunt instrument.
-Tom: Yes. Fine. That's three trials where the answer is, it doesn't matter as much as we hoped. Which does seem to be the pattern in critical care.
-Kate: It does. Number four breaks the pattern slightly. A Chinese multicentre trial of intraoperative dobutamine plus noradrenaline, against noradrenaline alone, to prevent postoperative acute kidney injury in septic shock. J A M A again.
-Tom: Five hundred and eighty-four patients, thirty-nine hospitals, all with septic shock undergoing surgery for source control.
-Kate: Yes, and the dobutamine went up to five micrograms per kilo per minute. The primary outcome was new or worsening A K I within seven days.
-Tom: And dobutamine won.
-Kate: Twenty-two point eight per cent against thirty-four point seven. Adjusted relative risk nought point six four, confidence interval nought point four nine to nought point eight three. And stage two and three A K I also fell.
-Tom: But no difference in mortality, kidney replacement therapy, or length of stay.
-Kate: Right. And tachycardia was commoner with dobutamine, forty-one per cent against twenty-nine point nine.
-Tom: So I'm sceptical. It's open label, the outcome is A K I, which is a biochemical definition that can move with all sorts of things, and none of the outcomes patients care about moved.
-Kate: And it's a restricted population. Surgical source control, in China, in a single trial. The summary says it suggests a possible renoprotective effect but warrants caution before widespread adoption, and I'd agree.
-Tom: What I'd say is, interesting and hypothesis generating. If you're an anaesthetist looking after a septic patient with a low cardiac output state and a rising creatinine, you probably already have a view on inotropes. This doesn't change that. It might justify a bigger trial.
-Kate: Fair. The last of the Porto papers is P R o F L U I D. An observational study, so not a trial, of fluid therapy in mechanically ventilated adults. Two thousand four hundred and fifty-four patients, two hundred and six I C Us, forty-one countries.
-Tom: Which fits nicely with the A R I S E FLUIDS paper that we talked about last week.
-Kate: Yes. And what's interesting is where the fluid comes from. Median daily fluid peaked at three litres on the first day after intubation and fell to about two point six litres by day six. Fluid balance went from plus nought point nine of a litre initially to near neutral after day three.
-Tom: But the sources.
-Kate: Yes. Maintenance and replacement fluids were nearly a third of the volume, thirty-one point nine per cent. Medication related fluid, what people call fluid creep, thirty point nine. Resuscitation fluid was only sixteen per cent.
-Tom: So most of the fluid isn't resuscitation at all. Everyone's arguing about the bolus, and most of the volume is the drip and the drug diluents.
-Kate: That's the headline. And balanced crystalloids were about forty-nine per cent of the fluid, saline twenty-seven, with a lot of variation between units.
-Tom: I like that as a practical point. If you want to reduce a patient's fluid exposure, the place to start is the drug chart and the maintenance prescription, not the resuscitation protocol.
-Kate: Yes. Concentrate infusions, review the maintenance fluid on the ward round. It's an observational description, no outcomes in the summary, but a useful one.
-Tom: Before we move on, there was a smaller item from last week's Critical Care Reviews newsletter, number seven hundred and seventy-four, which landed after we recorded last week's episode.
-Kate: Yes, a randomised trial from the Netherlands, three centres, of automated single channel E E G for delirium monitoring in I C U. A hundred and twenty patients analysed.
-Tom: And it was stopped early.
-Kate: At forty per cent of the planned sample, because the device manufacturer went bankrupt. And with the E E G results available to clinicians, median I C U stay was forty-eight hours shorter, rate ratio nought point seven one, P nought point oh two seven. Prescribing of several sedative and antipsychotic drugs was also lower.
-Tom: Small, stopped for a reason unrelated to the result, one device that no longer exists. Intriguing but not practice changing, and Critical Care Reviews says as much. Those figures are theirs.
-Kate: Agreed. That newsletter also listed a new Cochrane review on daily sedation interruption, but I only have the title, so we'll leave that for another time.
-Tom: Right. Let's turn to anaesthesia, and I'll admit it's a thinner section this week, partly because the journals block us.
-Kate: The B J A and Anaesthesia feeds both loaded, so I can tell you what was published, but I've mostly seen titles and abstracts, not full texts.
-Tom: The one I wanted to talk about is the Anaesthesia international survey of awake tracheal intubation in the era of videolaryngoscopy. Four thousand seven hundred and twenty-eight clinicians.
-Kate: Which is a big survey. The abstract I've seen, secondhand, says it asked about how often people do awake intubation, how confident they are, and whether videolaryngoscopy has changed that. The authors suggest that less exposure, possibly because of videolaryngoscopy, may be eroding confidence in the technique.
-Tom: There's an editorial in the same issue with the title, Awake Tracheal Intubation as a High Acuity, Low Occurrence Event: Is Widespread Videolaryngoscopy to Blame?
-Kate: I like that title. It's the sort of thing you hear in every airway simulation course.
-Tom: Because it's true. If your first line for everything is a good videolaryngoscope, you do fewer awake intubations, and the ones you do are the hard ones. High acuity, low frequency. The classic recipe for losing a skill.
-Kate: So the practical take is not about the survey numbers. It's whether your department still keeps the skill up. Do trainees see enough awake intubations, do consultants rehearse the setup, is the kit together on one trolley?
-Tom: And I'd add the I C U angle. We get the patients you can't safely intubate asleep, and we often have the least rehearsal of the awake technique.
-Kate: Fair. And these are surveys. Self reported, and people who respond to an airway survey are likely to be people who care about airways.
-Tom: Quite. Second anaesthesia item. The Association of Anaesthetists' consent guideline.
-Kate: Now I should be careful with this one. It's not new. It was published online in July, by McLeod and colleagues, and has just appeared in the October print issue of Anaesthesia. So it's recent context, not this week's news.
-Tom: Replacing the 2017 version.
-Kate: Yes. As I understand it, it builds on the Montgomery judgment and the G M C and N I C E guidance on shared decision making. It adds a section on perioperative medicine, revises advice on when and how to hold the conversation, and puts weight on the role of organisations in making good consent possible.
-Tom: And I think a December statement from the Safe Anaesthesia Liaison Group said the update would stress that consent discussions should happen before the patient reaches the anaesthetic room.
-Kate: Which is a quote I've seen second hand, so I'd treat it as a reported intention. But it's the bit that matters for I C U, because in an I C U you're often in the position where consent is by proxy, or a best interests decision, or an emergency.
-Kate: Mental Capacity Law and Policy has also written about the guideline. I haven't opened that, so I'll just say the commentary exists.
-Tom: So the practical suggestion is, if you do pre-assessment or anaesthesia for elective patients, read the guideline. If you're in I C U, it's useful as a reference for what the standard is, particularly when you're writing a statement.
-Kate: Yes. Now the medicolegal section. And I should say the news here is quieter than usual on the Court of Protection side.
-Tom: The National Archives feed for the Court of Protection shows its most recent new judgments as dated the eighth of October, and one of those we covered last week. So nothing new in this week's window.
-Kate: Mental Capacity Law and Policy had a single post, on the tenth, which was also last week's topic. And the Bottom Line hasn't posted since mid September. So no new commentary there.
-Tom: What there is, is Prevention of Future Deaths reports. A cluster were published on the thirteenth. These are reports written some weeks or months earlier, so it's the publication that's new.
-Kate: I read four of them, and I'm going to avoid names. First, a report from a coroner in Greater Manchester, about a woman who died of multiorgan failure from septic shock, due to necrotising fasciitis of a finger.
-Tom: Oh. That's one that we'd recognise.
-Kate: She attended hospital on three days, had a finger amputation, and the necrotising fasciitis was only identified after she died. The coroner's concerns are quite interesting, because they're not really about this case's clinical care.
+Kate: It's a Device Safety Information notice, number D S I slash two thousand and twenty-six slash zero thirteen. It was first published on the ninth of October, and it was updated on the sixteenth, which is why it's in this week's feed. The manufacturer is Nova Biomedical, and the product is the StatStrip ketone test strip.
+Tom: The one a lot of hospitals have on the point of care meters.
+Kate: Exactly. Specified lots have had quality control failures. The manufacturer has started a recall, told people not to use those lots, and paused distribution. And the update on the sixteenth added another batch number to the field safety notice.
+Tom: So if you checked your stock last week and thought you were fine, check again.
+Kate: Yes. And the bit I'd underline is the supply side. The notice says replacement stock isn't expected in the U K for about four weeks, and that further lots may fail quality control and be withdrawn too. So it warns you not to assume the strips you've got will last as long as you think.
+Tom: Right, so it's not just a recall. It's a rationing problem.
+Kate: That's how I read it. And the advice reflects that. Work out which lots you hold. Stop using the recalled ones. If a lot fails its quality control on two consecutive occasions, take it out of use and switch lot or switch method.
+Tom: Which method, though? That's the practical question.
+Kate: The notice says to identify and validate alternatives, which means other point of care devices or the lab. And then, importantly, to prioritise the strips you do have for the highest risk patients. It names suspected or established diabetic ketoacidosis, children, acutely unwell people with type one diabetes, and anyone who needs serial ketone measurements during D K A treatment.
+Tom: Which is us, in the I C U. If you're running a D K A protocol that's titrated to blood ketones, you're going to be in the queue for those strips.
+Kate: And the other group I'd think about is the euglycaemic ketoacidosis patient. Someone on an S G L T two inhibitor who's had surgery, and the glucose looks fine but they're sick. That's exactly the person where you want a quick ketone and you don't want to be told the meter's out of strips.
+Tom: Well, that's a point. If your glucose is normal, the ketone is the whole diagnosis.
+Kate: Yes. So, Monday morning. Find out who looks after the point of care testing in your hospital. Ask whether they've actioned this notice, and what the plan is if the strips run short. And find out whether your blood gas analyser or your lab can give you a beta hydroxybutyrate quickly, and how quickly, before you need it at three in the morning.
+Tom: I'd add that D K A protocols often say "ketones below such and such" as a resolution target. If the method changes, the numbers might not line up exactly, so someone should have thought about that.
+Kate: That's a fair local-governance point, and I'd put it as a question for your lab rather than a claim about the devices. The notice itself doesn't say anything on cross-method comparison.
+Tom: Fine. Good. Practical, boring, important. Moving on.
+Kate: Right. Critical Care Reviews has three Quick Takes this week, and the first is a trial of chest wall oscillation. This is from a respiratory I C U in a single centre, published in Chest, online on the fourteenth of October. The first author is Ielo.
+Tom: High frequency chest wall oscillation. The vest.
+Kate: The vest. Eighty-eight patients with acute or acute on chronic respiratory failure, lots of secretions, and an ineffective cough. They were on high flow oxygen or non-invasive ventilation. Randomised to the vest plus usual care, or usual care alone.
+Tom: And the primary outcome?
+Kate: The need for therapeutic bronchoscopy. Six out of forty-four with the vest, fourteen out of forty-four without. So that's about fourteen per cent against about thirty-two per cent. The unadjusted p value was nought point nought four two.
+Tom: Which looks nice. But you said unadjusted.
+Kate: Yes, and this is the catch, as Critical Care Reviews points out. The adjusted analysis was the pre-specified one, and the odds ratio was nought point three three six, with a confidence interval running from nought point one one one to one point nought two one. P of nought point nought five five. So it's inconclusive on the pre-specified analysis.
+Tom: Hang on. So the headline number is the unadjusted one, and the one they said in advance they'd rely on just misses.
+Kate: That's what the summary says. I should be clear that I haven't been able to open the paper itself, so these figures are Critical Care Reviews' summary of it, and I'm leaning on their reading.
+Tom: Fair enough. What about everything else?
+Kate: Hospital stay and respiratory I C U stay were shorter, but those were exploratory secondary analyses. No one was intubated. Mortality didn't differ. Small, single centre, lots of secondary comparisons.
+Tom: So where does that leave us? Honestly, I like the idea. If you've got someone with a ton of secretions who can't cough, and you're trying to avoid a bronchoscopy or an intubation, you'd like something that isn't just more physio.
+Kate: Mm. But I'd also say, bronchoscopy is a soft outcome. It depends on who's deciding. In an open label trial, the people deciding whether to do a bronchoscopy know which arm the patient is in.
+Tom: Yes, and that's the thing I'd want to know. Who made the call, and was there a protocol for it? I'd also want to know how many of those bronchoscopies were for a lobar collapse on imaging, versus "they sound wet".
+Kate: Which I can't tell you from the summary. So, Monday: nothing changes. If your unit has a vest and you're using it, fine. This doesn't give you a reason to buy one.
+Tom: Agreed. A hypothesis, rather than a result.
+Kate: Second Quick Take is another respiratory one, but perioperative. Prophylactic high flow nasal oxygen after lung cancer surgery. Published in Critical Care, volume thirty, article five two eight, by Lin and colleagues.
+Tom: Oh, I like this one. Because we keep being told high flow is good for everything, and then the trials come out and it's good for a bit of something.
+Kate: Ha. Well. Single centre, open label, patients aged sixty to eighty having thoracoscopic resection for lung cancer. Two hundred and twenty-three randomised, and two hundred and ten in the modified intention to treat analysis. High flow versus conventional oxygen.
+Tom: Thirteen patients out. That's a few.
+Kate: It's about six per cent, and the authors, and Critical Care Reviews, flag post randomisation exclusions as a limitation. The primary outcome was the severity of in-hospital pulmonary complications on an ordinal scale, and the ordinal odds ratio was nought point five, with a confidence interval of nought point two eight to nought point nine one. P of nought point nought two two.
+Tom: So half the odds of being in a worse category. Which sounds big until you remember it's ordinal, and the categories are doing a lot of work.
+Kate: Yes. A search of the abstract suggests moderate to severe complications went from about forty per cent to about twenty-three per cent, but I've only seen that through a search summary, so treat it as indicative. What I can say from Critical Care Reviews is that some early respiratory symptoms improved, but physiological measures and length of stay didn't. No intervention related serious adverse events.
+Tom: And nobody was blinded, obviously. You can see the high flow.
+Kate: Obviously. And patients with a planned post-operative I C U admission were excluded, so this tells us nothing about the sort of patient we get sent.
+Tom: That's the line I'd highlight. Everyone in an I C U wants to say "see, high flow works". But the trial deliberately left out the people who'd come to us.
+Kate: There's also a smaller thoracic surgery trial from this year, in Thoracic Cancer, which as far as I can see found no significant difference in thirty-day pulmonary complications. I haven't read it, only the search result.
+Tom: So we have a positive single centre open label trial and a smaller null one. That's a pattern we've seen before with high flow in the perioperative setting. Reasonable people, I think, would say it might help older patients with thoracic surgery, and nobody has proved it.
+Kate: Which is more or less Critical Care Reviews' bottom line. Consider it in selected older lung resection patients. It's not a reason to do it after every operation.
+Tom: Fine by me. If you've got a high flow machine going spare and a sixty-eight year old with borderline reserve, no harm. But I wouldn't write a protocol on this.
+Kate: Third, and this one's more relevant to those of you doing extracorporeal support. It's the joint A D Q I and E L S O workgroup statements on delivering continuous renal replacement therapy during E C M O. Published in Blood Purification, online on the twelfth of October.
+Tom: This is a consensus paper, so, the standard caveat. Expert opinion, not trial data.
+Kate: Yes, and it says so itself. Comparative evidence is limited, and the statements don't establish that any one circuit design is better or that any of it saves lives. What it does is set out a practical framework.
+Tom: Which is?
+Kate: Three ways of doing it. An integrated C R R T circuit spliced into the E C M O circuit, a separate C R R T circuit with its own access, or an in-line haemofilter. And the choice depends on patient size, vascular access, bleeding risk, device compatibility and what your team is trained to do.
+Tom: Sensible. And I imagine it says the thing everyone says about anticoagulation, which is individualise it.
+Kate: It does. Individualise anticoagulation, and monitor interruptions to therapy. And use institutional protocols, trained teams, and structured quality monitoring.
+Tom: And the pressure and air entry business, I assume. Because the thing people forget with an integrated circuit is the pressure interactions.
+Kate: Yes, circuit configuration has to account for pressure limits, air entry, recirculation, thrombosis and bleeding. All the things that bite you at two in the morning.
+Tom: And, I mean, linking back to the first thing we spoke about on yesterday's episode, it's another place where the filter is more than a filter. The M H R A caspofungin alert is about the membrane. This is about the circuit. If you run C R R T on E C M O, this is a good excuse to sit down and look at your own protocol.
+Kate: I'd do that. Is it going to change your practice? Probably not, if you already have a protocol. If you don't, it's a template.
+Tom: Okay. Let's do the stuff that I couldn't open but you might want to chase.
+Kate: Right. A short headline run. These are titles and abstracts only, and I haven't been able to read the papers, so I'm not going to give you numbers.
+Tom: Starting with guidelines.
+Kate: There's a new U K Joint Societies guideline on suspected infectious and autoimmune encephalitis in adults, in the Journal of Infection, online on the twelfth of October. It replaces the first U K guideline, the viral encephalitis one from twenty twelve. From the abstract, it stresses early recognition, thinking about infectious and immune mediated causes in parallel, with particular attention to the first twenty-four to seventy-two hours.
+Tom: Which is a change in emphasis, isn't it. The old guideline was about viral encephalitis.
+Kate: Yes. And there's a separate European one, from the European Academy of Neurology and the European society of microbiology and infectious diseases, also this year. A search summary says its recommendations include giving intravenous aciclovir as soon as possible when you suspect encephalitis, doing a lumbar puncture early unless contraindicated, and not replacing specific P C R testing with multiplex panels. Again, I haven't read the guideline itself.
+Tom: That last one's interesting. A lot of labs now offer a multiplex panel. If the guidance is that it shouldn't replace the herpes P C R, that's worth knowing.
+Kate: It is. But I'd read the actual recommendation before quoting it to your microbiologist.
+Tom: Next.
+Kate: A few others from the newsletter. A JAMA Internal Medicine observational comparison of phenobarbital against diazepam for alcohol withdrawal. A systematic review and trial sequential analysis of conservative against higher oxygen targets after cardiac arrest, in Academic Emergency Medicine. And, in Critical Care, a paper on the fragility of randomised trials in critical care.
+Tom: Which I think is the one to read, given what we've just done. We've just spent twenty minutes on single centre trials where a p value of nought point nought four two or nought point nought two two is carrying the whole conclusion.
+Kate: That's what a fragility index is about, how many patients' outcomes would have to flip to change the result. I haven't read it, so I can't tell you what it found, only that it exists.
+Tom: Good. Anaesthesia?
+Kate: Okay. Anaesthesia this week was thinner on things I could open. In Anaesthesia, there's an external validation of the V I D I A C score for predicting difficult direct laryngoscopy, a binational cohort of patients over ninety having elective surgery who were then admitted to critical care, looking at frailty and mortality, and an editorial titled A good death in intensive care. I've only seen titles.
+Tom: That last one's of interest. Though I'd want to see what it actually says about it before I say anything.
+Kate: Agreed. In the B J A, there's one piece of correspondence I could read the opening of. It's about the bispectral index. A group previously described patients having transcatheter aortic valve replacement who had an apparently adequate B I S reading, but a high suppression ratio, in sixty-two patients. The correspondents are saying that suggests an adequate number can hide a lot of E E G suppression.
+Tom: Which is an old point, really. B I S is a processed index, and it can be right on average and wrong in the one you're looking at. But in an older patient on a lot of agent, I'd always look at the raw trace.
+Kate: Yes. It's also a good reminder to look at the suppression ratio if your monitor displays it.
+Tom: Also, there's a B J A meta-analysis of near infrared spectroscopy during cardiac surgery and neurocognitive outcomes, I think.
+Kate: Yes, the abstract introduces it but I only saw the beginning, so I can't tell you whether it's positive or negative.
+Tom: Then let's not guess.
+Kate: Right. The medicolegal section, and this is a short one. No new Court of Protection judgments on the National Archives listing since the eighth of October, and nothing new from Mental Capacity Law and Policy beyond what was on the feed before. We couldn't open the thirty-nine Essex Chambers pages.
+Tom: What about coroners?
+Kate: Two Prevention of Future Deaths reports from the batch of the thirteenth of October that we didn't cover yesterday. The first isn't an I C U case strictly, but the lesson is familiar. It's a coroner writing to an ambulance association about a patient with severe hypoglycaemia.
 Tom: Go on.
-Kate: One. A consultant microbiologist gave evidence about a national shortage of that specialty, and the coroner is concerned that creates a risk. That one is addressed to the Secretary of State. Two. The hospital relies on an off-site laboratory for blood cultures, and the coroner is concerned about the time results take to reach clinicians, though that wasn't a factor in this death. Three. An orthopaedic junior doctor reviewed her in the same day emergency care unit and wrote the notes in a trauma and orthopaedic tracker that other specialties can't routinely see.
-Tom: That last one is a good example of a recurring thing. The right information existed, but nobody looking after her could find it.
-Kate: And it's something you can check in your own hospital. Where do the notes of specialty reviews of patients in assessment areas actually go? Is it the main record?
-Tom: Second report?
-Kate: A coroner in Nottinghamshire, about a woman with long standing hydrocephalus and a shunt. She died from a hypoxic ischaemic brain injury, after a procedure to replace a non functioning external ventricular drain.
-Tom: Right, so a neurosurgical I C U type of death.
-Kate: Yes. The coroner describes two phases. At the first hospital, the shunt malfunction wasn't recognised promptly. Headache and seizures weren't adequately monitored or recorded, neurosurgical advice to get an urgent ophthalmology review for papilloedema wasn't followed, and the MRI was delayed. The transfer to the neurosurgical centre was delayed by something like five to seven days. But the coroner says that was unlikely to be causal, or more than minimally contributory, to the death.
-Tom: Then at the specialist centre.
-Kate: The external ventricular drain stopped working at about nine in the morning on the twenty-fifth. Nursing staff escalated it, but it wasn't reviewed by a senior doctor by midday as it should have been. The coroner says it is possible, though not probable, that earlier review would have resolved it.
-Tom: Possible but not probable. That's a careful sentence.
-Kate: It is. The pressure rose, she had a seizure that evening, and the drain was replaced. Hypoxic ischaemic injury followed, thought to be from the raised intracranial pressure plus the underlying disease, and possibly low mean arterial pressure during the procedure.
-Tom: And the matters of concern?
-Kate: The concerns section in the version I read concentrates on the first hospital. Failure to follow neurosurgical advice, no recording of headache and seizure frequency, and the delay in recognising raised pressure. And there's a response from a Lincolnshire hospital attached, which I haven't read.
-Tom: There's a message for neuro I C U in that, which is that a non functioning drain is a time critical problem, and escalation has to end with someone senior actually looking at it.
-Kate: Yes. Third report, briefly. A coroner in Greater Manchester again, about a woman who died at home from an undiagnosed aortic dissection after being discharged from the same day emergency care unit with a diagnosis of reflux.
-Tom: Chest pain radiating to the back, a family history of early cardiac death.
-Kate: And the coroner's view was that the diagnosis wasn't considered, so no C T angiogram, and with a scan she'd probably have been transferred to a specialist centre and survived. The concerns go to the Secretary of State, about variation between trusts in which patients are seen in same day emergency care rather than the emergency department, and about access to general practice.
-Tom: That one's emergency medicine rather than us, but the anchoring and the discharge are universal.
-Kate: And the fourth, from Worcestershire, is a ward patient admitted with a kidney infection who arrested in the early hours after five days in hospital, probably from a pulmonary embolus. The concerns were that no fluid balance chart was started, and that a venous thromboembolism assessment had identified risk and prescribed stockings, but he was without prophylaxis for his whole admission.
-Tom: So the assessment was done and not acted on. Which is the thing we always see. The process is completed, the outcome isn't achieved.
-Kate: And the coroner's comment is that some staff don't appreciate the fundamental importance of the issues. The question for us is how many of those fundamentals we check at the point someone is referred to I C U from the ward.
-Tom: Yes. For anyone writing a coroner's statement, those four reports are good reading, because they show what the coroner is asking about. Escalation, documentation, and who looked at what, and when.
-Kate: Before we finish. What we couldn't check. Critical Care Reviews' own site blocks us, so the trial summaries come from the supplementary newsletter on the fifteenth, and last Sunday's number seven hundred and seventy-four. This week's regular newsletter, number seven hundred and seventy-five, hadn't arrived when we recorded.
-Tom: The New England Journal and J A M A full texts were blocked, so the figures for the Porto trials are from the Critical Care Reviews summaries, with the headline results cross-checked against news reports for two of them. We haven't read the editorials.
-Kate: We also couldn't open the Thirty-nine Essex Chambers Mental Capacity Report, the N I C E pages, the Health Services Safety Investigations Body, the Royal College of Anaesthetists, Intensive Care Medicine, Critical Care, or the American Journal of Respiratory and Critical Care Medicine. So quiet doesn't mean nothing happened there.
-Tom: Right. So what are the things to act on?
-Kate: One. The M H R A notice on C R R T and caspofungin. Check which membranes you use, and agree a rule for timing echinocandins after circuit starts and changes, without pausing the dialysis.
-Tom: Two. I C R A K I. Don't change policy on one stopped trial, but if your default in an unstable patient is intermittent haemodialysis, it's worth a fresh look.
-Kate: And a bonus. S A V E I C U and V A S S P R both say, you can relax. Inhaled sedation doesn't improve survival, and you don't need to start vasopressin early.
-Tom: Next week we'll have the regular Critical Care Reviews newsletter, and hopefully a few more full papers. Thanks for listening.
-Kate: Thanks, everyone. Goodbye.
+Kate: A patient was treated by a paramedic in accordance with the national J R C A L C guidelines, three boluses of intravenous glucose over about twenty-four minutes, then complex carbohydrates. They weren't taken to hospital. They went to sleep and were found unresponsive the next morning, with a profound neurological injury that didn't respond to treatment. The patient died some weeks later.
+Tom: And the concern?
+Kate: The coroner says the flowchart for severe hypoglycaemia, once the glucose is back above four, sends the practitioner back to the mild section, and that doesn't point them to the separate part of the guideline about whether the patient needs further care. The risk is that a patient, particularly one on a sulphonylurea, is not conveyed or considered for further care. The coroner also says the time thresholds for giving I V glucose in the flowchart differ from those in the medicines section of the guideline, which may cause confusion. And that one ambulance trust has already issued a red patient safety notice about it.
+Tom: So the thing to take from that is the sulphonylurea.
+Kate: Yes. A sulphonylurea causes prolonged hypoglycaemia, and "glucose is above four" doesn't mean it's over. We're the ones who see this when it goes wrong. If you get a patient in the unit with hypoxic brain injury after a hypoglycaemic episode at home, that's a story you'll probably be asked about later.
+Tom: I should say, the inquest in that case hadn't concluded when the report was written, as I read it. So this is a coroner's concern during an investigation, not a finding.
+Kate: Good point. It's a preliminary report on an ongoing investigation, and the coroner's description of the sequence of events may well change.
+Tom: Second?
+Kate: A report to the Secretary of State for Health. It's about a frail patient discharged from an acute hospital during a planned rapid discharge event, with targets for discharge numbers well above the usual rate. Therapy paperwork wasn't completed. The home safety assessment, and the grab rails, and the rearrangement of the bedroom, weren't done in time. A week later, there was an unwitnessed fall at home, a catastrophic head injury, and the patient died.
+Tom: And the coroner also says the cause of the fall couldn't be determined, and whether the adaptations would have changed it, right?
+Kate: Yes, the report is explicit about that. It wasn't possible to say why they fell, or whether the missing adaptations contributed. But the concern is that rapid discharge events put pressure on staff and community services, and that the root cause is inadequate social care provision.
+Tom: Which is a bit outside our territory, but it's the same capacity story that sits behind every I C U discharge delay and every outlier.
+Kate: And if you're asked to lead a surge or a discharge push, it's a useful thing to have read.
+Tom: Okay. Anything else in the legal literature?
+Kate: One thing. The Journal of the Intensive Care Society has a paper from the Legal and Ethical Advisory Group, called Critical care and the law, pertinent cases from twenty twenty-five. It was published online on the eighth of October. I haven't opened it, and I couldn't find it through search, but the earlier editions in this series cover Court of Protection rulings, negligence cases and Prevention of Future Deaths reports. For anyone writing coroner's statements, I'd put it on your list.
+Tom: Right. It's the sort of thing that's useful the day you need it.
+Kate: Exactly.
+Tom: So. Recap?
+Kate: One thing to act on. The M H R A notice on Nova StatStrip ketone strips. Check your lots, find out whether your point of care team have actioned it, and find out what the plan is for ketone testing if the strips run short, because the replacement stock isn't due for about four weeks.
+Tom: And one thing to know. Chest wall oscillation and prophylactic high flow after lung resection both look promising, but both are small single centre open label trials, and neither one is a reason to change what you do.
+Kate: And the thing we couldn't open: the U K encephalitis guideline. Worth reading properly.
+Tom: That's it for this one. Thank you for listening.
+Kate: Bye for now.
 Tom: Bye.
