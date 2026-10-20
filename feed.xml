@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 21:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:20:59 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,56 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Deep dive: Catheter-related bloodstream infection in the ICU</title>
+      <guid isPermaLink="false">od-deepdive-2026-10-20-crbsi</guid>
+      <pubDate>Tue, 20 Oct 2026 09:20:59 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/deep-dive-2026-10-20-crbsi.mp3" length="3644452" type="audio/mpeg"/>
+      <itunes:duration>607</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Kate and Tom cover catheter-related bloodstream infection in adult ICU. They start with the mechanism: extraluminal skin colonisation in the first two weeks, hub and lumen spread after that, and biofilm. Next come diagnosis and its limits: the CLABSI surveillance definition versus a clinical CRBSI, differential time to positivity (weaker for S. aureus), tip cultures, Rijnders' watchful-waiting trial, and OUTCOMEREA's data on treating a positive tip without a positive blood culture. On prevention they go through Keystone against Matching Michigan, CLEAN, Timsit's chlorhexidine dressing trials, 3SITES, impregnated catheters and chlorhexidine bathing, and set out where SHEA 2022, epic3 and the French 2020 guidance disagree. On management they cover when the line must come out, lock therapy, how long to treat each organism, BALANCE, and the 2025–26 S. aureus evidence (SNAP cefazolin, CloCeBa, SABATO and the 2026 IDSA/ESCMID guideline).</p>
+<p><strong>Take-home points</strong></p>
+<ul>
+<li>If the patient is stable and cultures are pending, waiting before removing the line is reasonable (Rijnders). Culture tips only when infection is suspected, and don't treat a positive tip without a positive blood culture.</li>
+<li>Use 2% chlorhexidine in alcohol for skin prep and chlorhexidine dressings, and prefer subclavian or jugular over femoral where it is safe.</li>
+<li>S. aureus, Pseudomonas or Candida means the line comes out. Repeat the blood cultures, get an echo and involve ID.</li>
+<li>Cefazolin is now a real alternative to flucloxacillin for MSSA bacteraemia, with less AKI.</li>
+<li>Seven days for uncomplicated Gram-negative bacteraemia once the line is out is defensible, but it is extrapolated from BALANCE (only about 6% line source), not proven for CRBSI.</li>
+</ul>
+<p><strong>Key sources</strong></p>
+<ul>
+<li><a href="https://www.gov.uk/government/statistics/surveillance-of-bloodstream-infections-in-intensive-care-england/infographic-bloodstream-infections-in-intensive-care-units-england-2024-to-2025">UKHSA ICCQIP: bloodstream infections in ICUs, England 2024 to 2025</a></li>
+<li><a href="https://doi.org/10.1086/599376">Mermel et al. IDSA CRBSI guideline. Clin Infect Dis 2009</a></li>
+<li><a href="https://doi.org/10.1007/s00134-003-2045-z">Safdar &amp; Maki. Pathogenesis of CVC-related BSI. Intensive Care Med 2004</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(98)11134-0">Blot et al. Differential time to positivity. Lancet 1999</a></li>
+<li><a href="https://doi.org/10.7326/0003-4819-140-1-200401060-00007">Raad et al. DTP for short- and long-term catheters. Ann Intern Med 2004</a></li>
+<li><a href="https://doi.org/10.1016/j.jhin.2018.01.010">Bouzidi et al. DTP in S. aureus CRBSI. J Hosp Infect 2018</a></li>
+<li><a href="https://doi.org/10.1007/s00134-004-2212-x">Rijnders et al. Watchful waiting vs catheter removal. Intensive Care Med 2004</a></li>
+<li><a href="https://doi.org/10.1007/s00134-024-07498-1">Buetti et al (OUTCOMEREA). Positive tip cultures without BSI. Intensive Care Med 2024</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa061115">Pronovost et al. Keystone ICU. NEJM 2006</a></li>
+<li><a href="https://doi.org/10.1136/bmjqs-2012-001325">Bion et al. Matching Michigan. BMJ Qual Saf 2013</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(15)00244-5">Mimoz et al. CLEAN. Lancet 2015</a></li>
+<li><a href="https://doi.org/10.1001/jama.2009.376">Timsit et al. Chlorhexidine sponge dressing. JAMA 2009</a></li>
+<li><a href="https://doi.org/10.1164/rccm.201206-1038OC">Timsit et al. Chlorhexidine gel dressing. AJRCCM 2012</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1500964">Parienti et al. 3SITES. NEJM 2015</a></li>
+<li><a href="https://doi.org/10.1001/jama.299.20.2413">Parienti et al. Cathedia. JAMA 2008</a></li>
+<li><a href="https://doi.org/10.1002/14651858.CD007878.pub3">Lai et al. Impregnated CVCs. Cochrane 2016</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa1207290">Huang et al. REDUCE MRSA. NEJM 2013</a></li>
+<li><a href="https://doi.org/10.1001/jama.2014.18400">Noto et al. Chlorhexidine bathing in ICU. JAMA 2015</a></li>
+<li><a href="https://doi.org/10.1017/ice.2022.87">Buetti et al. SHEA/IDSA/APIC CLABSI prevention compendium. ICHE 2022</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/24330862/">Loveday et al. epic3. J Hosp Infect 2014</a></li>
+<li><a href="https://doi.org/10.1186/s13613-020-00713-4">Timsit et al. French ICU expert guidelines on intravascular catheter infection. Ann Intensive Care 2020</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2404991">BALANCE Investigators. 7 vs 14 days for bacteraemia. NEJM 2025</a></li>
+<li><a href="https://doi.org/10.1056/NEJMoa2506905">SNAP. Cefazolin vs flucloxacillin for MSSA bacteraemia. NEJM 2026</a></li>
+<li><a href="https://doi.org/10.1016/S0140-6736(25)01624-1">CloCeBa. Cefazolin vs cloxacillin. Lancet 2025</a></li>
+<li><a href="https://doi.org/10.1016/S1473-3099(23)00756-9">SABATO. Early oral switch in low-risk SAB. Lancet Infect Dis 2024</a></li>
+<li><a href="https://www.idsociety.org/practice-guideline/staphylococcus-aureus-bacteremia/">IDSA/ESCMID S. aureus bacteraemia guideline (2026)</a></li>
+<li><a href="https://doi.org/10.1016/j.jinf.2015.09.037">Vogel et al. ID consultation in SAB, meta-analysis. J Infect 2016</a></li>
+<li><a href="https://doi.org/10.1093/cid/civ933">Pappas et al. IDSA candidiasis guideline. Clin Infect Dis 2016</a></li>
+<li><a href="https://doi.org/10.1086/501639">Soufir et al. Attributable mortality of CRBSI. ICHE 1999</a></li>
+</ul>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: PDOC in the Court of Protection: the case law since Aintree</title>
       <guid isPermaLink="false">od-deepdive-2026-10-19-cop-pdoc-case-law-history</guid>
