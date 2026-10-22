@@ -10,7 +10,7 @@
     <description>Private audio explainers. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 14:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/cover.png</url>
       <title>General Deep Dives</title>
@@ -24,5 +24,14 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Welcome to General Deep Dives</title>
+      <guid isPermaLink="false">od-gdd-2026-10-22-welcome</guid>
+      <pubDate>Thu, 22 Oct 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/episodes/2026-10-22-welcome.mp3" length="271479" type="audio/mpeg"/>
+      <itunes:duration>45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>A short introduction from Kate and Tom: explainers on how the NHS is put together, where the money goes, contracts, job planning and management roles. Episodes arrive on request.</p>]]></description>
+    </item>
   </channel>
 </rss>
