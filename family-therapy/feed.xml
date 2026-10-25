@@ -10,7 +10,7 @@
     <description>A private weekly audio digest on family therapy and systemic practice. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png</url>
       <title>Family Therapy Digest</title>
@@ -26,6 +26,29 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>25 October 2026: Care Together in Greater Manchester, Bluey and Bowen, and structural family therapy</title>
+      <guid isPermaLink="false">ft-digest-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/episodes/2026-10-25.mp3" length="12941813" type="audio/mpeg"/>
+      <itunes:duration>2157</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Covers 11 to 25 October 2026. Papers were discussed from abstracts and record metadata only; full texts not read.</p>
+<p><strong>Items</strong></p>
+<ul>
+<li>Policy (government press release, no evaluation yet): Care Together, a mental health pilot for children supported by social care, run by NHS Greater Manchester ICB with Stockport, Tameside and Rochdale; up to 9.4 million pounds over three years; names family therapy. <a href="https://www.gov.uk/government/news/new-mental-health-pilot-for-young-people-supported-by-social-care">DHSC and NHS England, 23 Oct</a></li>
+<li>Policy briefs: Steps to Safety, GP-based domestic abuse referral service in 12 ICB areas (<a href="https://www.gov.uk/government/news/steps-to-safety-initiative-introduced-in-12-areas-across-england">DHSC, 23 Oct</a>); a tabled Social Housing Bill measure on tenancies for domestic abuse survivors (<a href="https://www.gov.uk/government/news/domestic-abusers-face-eviction-as-survivors-gain-housing-rights">MHCLG, 20 Oct</a>); children looked after statistics due <a href="https://www.gov.uk/government/statistics/announcements/children-looked-after-in-england-including-adoptions-year-ending-31-march-2026">19 Nov</a>.</li>
+<li>Profession news: AFSP (the Association for Family and Systemic Psychotherapy, formerly AFT) is recruiting a CEO, closing 2 Nov (<a href="https://www.theafsp.org/about-us/work-at-afsp/">AFSP</a>); annual conference, Glasgow, 15-16 Oct (<a href="https://www.theafsp.org/events/save-the-date-for-this-years-afsp-annual-conference/">AFSP</a>); events including <a href="https://www.theafsp.org/events/a-phenomenology-of-racism-in-psychotherapy-and-supervision/">27 Oct racism webinar</a>, <a href="https://www.theafsp.org/events/men-interrupting/">24 Nov Newcastle</a>, <a href="https://www.theafsp.org/events/2027-ifta-congress/">IFTA 2027 call</a>; <a href="https://www.theafsp.org/publications-resources/context-magazine/contribute-to-context/">Context open call for writers</a>.</li>
+<li>Qualitative content analysis: Bluey read through Bowen family systems theory. <a href="https://doi.org/10.1002/anzf.70097">ANZJFT, online 12 Oct</a></li>
+<li>Mixed-methods feasibility pilot (three couples): Relational Suicide Intervention. <a href="https://doi.org/10.1111/famp.70205">Family Process, online 18 Oct</a></li>
+<li>Practice report (no outcome data): the Métissages Group, a transcultural setting in France. <a href="https://doi.org/10.1177/13591045261501788">Clinical Child Psychology and Psychiatry, online 21 Oct</a></li>
+<li>Brief mentions: Parenting-STAIR adaptation for military-connected mothers (<a href="https://doi.org/10.1111/famp.70209">Family Process</a>); chatbot answers to parent questions on child OCD (<a href="https://doi.org/10.1177/13591045261499579">CCPP</a>).</li>
+</ul>
+<p><strong>Concept corner: structural family therapy.</strong> Further reading: Minuchin (1974), Families and Family Therapy; Minuchin and Fishman (1981), Family Therapy Techniques.</p>
+<p><strong>From the training room:</strong> preparing for live supervision.</p>
+<p><strong>Unchecked this week:</strong> Journal of Family Therapy early view, Journal of Marital and Family Therapy (no day-level dates), Context magazine issues, Therapy Today, The Psychologist, Psychotherapy Networker, EFTA, Tavistock and Portman, Institute of Family Therapy, Anna Freud Centre, KCC Foundation, UKCP news, NICE, NHS England, Children's Commissioner. The AFT-to-AFSP rename comes from a search snippet.</p>
+<p>AI-generated summary; check the sources before relying on them in practice.</p>]]></description>
+    </item>
     <item>
       <title>18 October 2026: A proposed family-enhanced CBT-E, a psychosis carers trial protocol, and externalising</title>
       <guid isPermaLink="false">ft-digest-2026-10-18</guid>
