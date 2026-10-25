@@ -1,112 +1,187 @@
-Kate: Hello, and welcome to the I C M and Anaesthesia Digest. It's the nineteenth of October. I'm Kate.
+Kate: Hello, and welcome to the I C M and Anaesthesia Digest. It's Sunday the twenty-fifth of October. I'm Kate.
 Tom: And I'm Tom. Hello.
-Kate: Now, a bit of housekeeping. Yesterday's episode covered the big European congress trials in some depth, so we're not going to go round that again. The Critical Care Reviews newsletter for this week landed overnight, though, and there are a few things in it we hadn't got to.
-Tom: So this is the follow-up edition. Quieter week on the headline front, but one thing that might genuinely need someone to do something this morning.
-Kate: Which is where we'll start. The M H R A, and blood ketone strips.
+Kate: This one covers the week from the nineteenth. And I'll say up front, it's a quieter week on the big headline trials.
+Tom: Yes. The European congress trials, and the dialysis and vasopressin papers, were all in the last two episodes, so we're not going round those again.
+Kate: Right. Also a bit of housekeeping. The Critical Care Reviews newsletter that usually steers us lands on a Saturday or Sunday night, and this week's hadn't arrived when we put this together.
+Tom: So no steer from Rob this week. We've gone to the journal feeds, the abstracts, the regulators, and the courts.
+Kate: And I should be straight about what that means. For most of the papers today we've read the abstracts, not the full texts, because the publishers block us. We'll flag that as we go.
+Tom: Good. And the numbers we give you are from those abstracts, so treat them as that.
+Kate: So, what have we got. A few device safety notices to check. A neat piece of work on timing the C T angiogram for brainstem death testing. A big perioperative haemodynamics trial that came out null. Two more perioperative ventilation and infection trials. Candida in septic shock. And a Court of Protection judgment that I think is well worth ten minutes of your time.
+Tom: Let's start with the thing that might need someone to do something on Monday.
+Kate: Which is the M H R A field safety notices. Two weekly lists were published on the nineteenth, covering the fifth to the ninth of October and the twelfth to the sixteenth.
+Tom: And I should say, these lists are just a name and a date. The actual detail is in the manufacturer's notice, which we haven't read.
+Kate: Right. So this is a pointer, not a summary. But three of the entries are right in our territory.
 Tom: Go on.
-Kate: It's a Device Safety Information notice, number D S I slash two thousand and twenty-six slash zero thirteen. It was first published on the ninth of October, and it was updated on the sixteenth, which is why it's in this week's feed. The manufacturer is Nova Biomedical, and the product is the StatStrip ketone test strip.
-Tom: The one a lot of hospitals have on the point of care meters.
-Kate: Exactly. Specified lots have had quality control failures. The manufacturer has started a recall, told people not to use those lots, and paused distribution. And the update on the sixteenth added another batch number to the field safety notice.
-Tom: So if you checked your stock last week and thought you were fine, check again.
-Kate: Yes. And the bit I'd underline is the supply side. The notice says replacement stock isn't expected in the U K for about four weeks, and that further lots may fail quality control and be withdrawn too. So it warns you not to assume the strips you've got will last as long as you think.
-Tom: Right, so it's not just a recall. It's a rationing problem.
-Kate: That's how I read it. And the advice reflects that. Work out which lots you hold. Stop using the recalled ones. If a lot fails its quality control on two consecutive occasions, take it out of use and switch lot or switch method.
-Tom: Which method, though? That's the practical question.
-Kate: The notice says to identify and validate alternatives, which means other point of care devices or the lab. And then, importantly, to prioritise the strips you do have for the highest risk patients. It names suspected or established diabetic ketoacidosis, children, acutely unwell people with type one diabetes, and anyone who needs serial ketone measurements during D K A treatment.
-Tom: Which is us, in the I C U. If you're running a D K A protocol that's titrated to blood ketones, you're going to be in the queue for those strips.
-Kate: And the other group I'd think about is the euglycaemic ketoacidosis patient. Someone on an S G L T two inhibitor who's had surgery, and the glucose looks fine but they're sick. That's exactly the person where you want a quick ketone and you don't want to be told the meter's out of strips.
-Tom: Well, that's a point. If your glucose is normal, the ketone is the whole diagnosis.
-Kate: Yes. So, Monday morning. Find out who looks after the point of care testing in your hospital. Ask whether they've actioned this notice, and what the plan is if the strips run short. And find out whether your blood gas analyser or your lab can give you a beta hydroxybutyrate quickly, and how quickly, before you need it at three in the morning.
-Tom: I'd add that D K A protocols often say "ketones below such and such" as a resolution target. If the method changes, the numbers might not line up exactly, so someone should have thought about that.
-Kate: That's a fair local-governance point, and I'd put it as a question for your lab rather than a claim about the devices. The notice itself doesn't say anything on cross-method comparison.
-Tom: Fine. Good. Practical, boring, important. Moving on.
-Kate: Right. Critical Care Reviews has three Quick Takes this week, and the first is a trial of chest wall oscillation. This is from a respiratory I C U in a single centre, published in Chest, online on the fourteenth of October. The first author is Ielo.
-Tom: High frequency chest wall oscillation. The vest.
-Kate: The vest. Eighty-eight patients with acute or acute on chronic respiratory failure, lots of secretions, and an ineffective cough. They were on high flow oxygen or non-invasive ventilation. Randomised to the vest plus usual care, or usual care alone.
-Tom: And the primary outcome?
-Kate: The need for therapeutic bronchoscopy. Six out of forty-four with the vest, fourteen out of forty-four without. So that's about fourteen per cent against about thirty-two per cent. The unadjusted p value was nought point nought four two.
-Tom: Which looks nice. But you said unadjusted.
-Kate: Yes, and this is the catch, as Critical Care Reviews points out. The adjusted analysis was the pre-specified one, and the odds ratio was nought point three three six, with a confidence interval running from nought point one one one to one point nought two one. P of nought point nought five five. So it's inconclusive on the pre-specified analysis.
-Tom: Hang on. So the headline number is the unadjusted one, and the one they said in advance they'd rely on just misses.
-Kate: That's what the summary says. I should be clear that I haven't been able to open the paper itself, so these figures are Critical Care Reviews' summary of it, and I'm leaning on their reading.
-Tom: Fair enough. What about everything else?
-Kate: Hospital stay and respiratory I C U stay were shorter, but those were exploratory secondary analyses. No one was intubated. Mortality didn't differ. Small, single centre, lots of secondary comparisons.
-Tom: So where does that leave us? Honestly, I like the idea. If you've got someone with a ton of secretions who can't cough, and you're trying to avoid a bronchoscopy or an intubation, you'd like something that isn't just more physio.
-Kate: Mm. But I'd also say, bronchoscopy is a soft outcome. It depends on who's deciding. In an open label trial, the people deciding whether to do a bronchoscopy know which arm the patient is in.
-Tom: Yes, and that's the thing I'd want to know. Who made the call, and was there a protocol for it? I'd also want to know how many of those bronchoscopies were for a lobar collapse on imaging, versus "they sound wet".
-Kate: Which I can't tell you from the summary. So, Monday: nothing changes. If your unit has a vest and you're using it, fine. This doesn't give you a reason to buy one.
-Tom: Agreed. A hypothesis, rather than a result.
-Kate: Second Quick Take is another respiratory one, but perioperative. Prophylactic high flow nasal oxygen after lung cancer surgery. Published in Critical Care, volume thirty, article five two eight, by Lin and colleagues.
-Tom: Oh, I like this one. Because we keep being told high flow is good for everything, and then the trials come out and it's good for a bit of something.
-Kate: Ha. Well. Single centre, open label, patients aged sixty to eighty having thoracoscopic resection for lung cancer. Two hundred and twenty-three randomised, and two hundred and ten in the modified intention to treat analysis. High flow versus conventional oxygen.
-Tom: Thirteen patients out. That's a few.
-Kate: It's about six per cent, and the authors, and Critical Care Reviews, flag post randomisation exclusions as a limitation. The primary outcome was the severity of in-hospital pulmonary complications on an ordinal scale, and the ordinal odds ratio was nought point five, with a confidence interval of nought point two eight to nought point nine one. P of nought point nought two two.
-Tom: So half the odds of being in a worse category. Which sounds big until you remember it's ordinal, and the categories are doing a lot of work.
-Kate: Yes. A search of the abstract suggests moderate to severe complications went from about forty per cent to about twenty-three per cent, but I've only seen that through a search summary, so treat it as indicative. What I can say from Critical Care Reviews is that some early respiratory symptoms improved, but physiological measures and length of stay didn't. No intervention related serious adverse events.
-Tom: And nobody was blinded, obviously. You can see the high flow.
-Kate: Obviously. And patients with a planned post-operative I C U admission were excluded, so this tells us nothing about the sort of patient we get sent.
-Tom: That's the line I'd highlight. Everyone in an I C U wants to say "see, high flow works". But the trial deliberately left out the people who'd come to us.
-Kate: There's also a smaller thoracic surgery trial from this year, in Thoracic Cancer, which as far as I can see found no significant difference in thirty-day pulmonary complications. I haven't read it, only the search result.
-Tom: So we have a positive single centre open label trial and a smaller null one. That's a pattern we've seen before with high flow in the perioperative setting. Reasonable people, I think, would say it might help older patients with thoracic surgery, and nobody has proved it.
-Kate: Which is more or less Critical Care Reviews' bottom line. Consider it in selected older lung resection patients. It's not a reason to do it after every operation.
-Tom: Fine by me. If you've got a high flow machine going spare and a sixty-eight year old with borderline reserve, no harm. But I wouldn't write a protocol on this.
-Kate: Third, and this one's more relevant to those of you doing extracorporeal support. It's the joint A D Q I and E L S O workgroup statements on delivering continuous renal replacement therapy during E C M O. Published in Blood Purification, online on the twelfth of October.
-Tom: This is a consensus paper, so, the standard caveat. Expert opinion, not trial data.
-Kate: Yes, and it says so itself. Comparative evidence is limited, and the statements don't establish that any one circuit design is better or that any of it saves lives. What it does is set out a practical framework.
-Tom: Which is?
-Kate: Three ways of doing it. An integrated C R R T circuit spliced into the E C M O circuit, a separate C R R T circuit with its own access, or an in-line haemofilter. And the choice depends on patient size, vascular access, bleeding risk, device compatibility and what your team is trained to do.
-Tom: Sensible. And I imagine it says the thing everyone says about anticoagulation, which is individualise it.
-Kate: It does. Individualise anticoagulation, and monitor interruptions to therapy. And use institutional protocols, trained teams, and structured quality monitoring.
-Tom: And the pressure and air entry business, I assume. Because the thing people forget with an integrated circuit is the pressure interactions.
-Kate: Yes, circuit configuration has to account for pressure limits, air entry, recirculation, thrombosis and bleeding. All the things that bite you at two in the morning.
-Tom: And, I mean, linking back to the first thing we spoke about on yesterday's episode, it's another place where the filter is more than a filter. The M H R A caspofungin alert is about the membrane. This is about the circuit. If you run C R R T on E C M O, this is a good excuse to sit down and look at your own protocol.
-Kate: I'd do that. Is it going to change your practice? Probably not, if you already have a protocol. If you don't, it's a template.
-Tom: Okay. Let's do the stuff that I couldn't open but you might want to chase.
-Kate: Right. A short headline run. These are titles and abstracts only, and I haven't been able to read the papers, so I'm not going to give you numbers.
-Tom: Starting with guidelines.
-Kate: There's a new U K Joint Societies guideline on suspected infectious and autoimmune encephalitis in adults, in the Journal of Infection, online on the twelfth of October. It replaces the first U K guideline, the viral encephalitis one from twenty twelve. From the abstract, it stresses early recognition, thinking about infectious and immune mediated causes in parallel, with particular attention to the first twenty-four to seventy-two hours.
-Tom: Which is a change in emphasis, isn't it. The old guideline was about viral encephalitis.
-Kate: Yes. And there's a separate European one, from the European Academy of Neurology and the European society of microbiology and infectious diseases, also this year. A search summary says its recommendations include giving intravenous aciclovir as soon as possible when you suspect encephalitis, doing a lumbar puncture early unless contraindicated, and not replacing specific P C R testing with multiplex panels. Again, I haven't read the guideline itself.
-Tom: That last one's interesting. A lot of labs now offer a multiplex panel. If the guidance is that it shouldn't replace the herpes P C R, that's worth knowing.
-Kate: It is. But I'd read the actual recommendation before quoting it to your microbiologist.
-Tom: Next.
-Kate: A few others from the newsletter. A JAMA Internal Medicine observational comparison of phenobarbital against diazepam for alcohol withdrawal. A systematic review and trial sequential analysis of conservative against higher oxygen targets after cardiac arrest, in Academic Emergency Medicine. And, in Critical Care, a paper on the fragility of randomised trials in critical care.
-Tom: Which I think is the one to read, given what we've just done. We've just spent twenty minutes on single centre trials where a p value of nought point nought four two or nought point nought two two is carrying the whole conclusion.
-Kate: That's what a fragility index is about, how many patients' outcomes would have to flip to change the result. I haven't read it, so I can't tell you what it found, only that it exists.
-Tom: Good. Anaesthesia?
-Kate: Okay. Anaesthesia this week was thinner on things I could open. In Anaesthesia, there's an external validation of the V I D I A C score for predicting difficult direct laryngoscopy, a binational cohort of patients over ninety having elective surgery who were then admitted to critical care, looking at frailty and mortality, and an editorial titled A good death in intensive care. I've only seen titles.
-Tom: That last one's of interest. Though I'd want to see what it actually says about it before I say anything.
-Kate: Agreed. In the B J A, there's one piece of correspondence I could read the opening of. It's about the bispectral index. A group previously described patients having transcatheter aortic valve replacement who had an apparently adequate B I S reading, but a high suppression ratio, in sixty-two patients. The correspondents are saying that suggests an adequate number can hide a lot of E E G suppression.
-Tom: Which is an old point, really. B I S is a processed index, and it can be right on average and wrong in the one you're looking at. But in an older patient on a lot of agent, I'd always look at the raw trace.
-Kate: Yes. It's also a good reminder to look at the suppression ratio if your monitor displays it.
-Tom: Also, there's a B J A meta-analysis of near infrared spectroscopy during cardiac surgery and neurocognitive outcomes, I think.
-Kate: Yes, the abstract introduces it but I only saw the beginning, so I can't tell you whether it's positive or negative.
-Tom: Then let's not guess.
-Kate: Right. The medicolegal section, and this is a short one. No new Court of Protection judgments on the National Archives listing since the eighth of October, and nothing new from Mental Capacity Law and Policy beyond what was on the feed before. We couldn't open the thirty-nine Essex Chambers pages.
-Tom: What about coroners?
-Kate: Two Prevention of Future Deaths reports from the batch of the thirteenth of October that we didn't cover yesterday. The first isn't an I C U case strictly, but the lesson is familiar. It's a coroner writing to an ambulance association about a patient with severe hypoglycaemia.
-Tom: Go on.
-Kate: A patient was treated by a paramedic in accordance with the national J R C A L C guidelines, three boluses of intravenous glucose over about twenty-four minutes, then complex carbohydrates. They weren't taken to hospital. They went to sleep and were found unresponsive the next morning, with a profound neurological injury that didn't respond to treatment. The patient died some weeks later.
-Tom: And the concern?
-Kate: The coroner says the flowchart for severe hypoglycaemia, once the glucose is back above four, sends the practitioner back to the mild section, and that doesn't point them to the separate part of the guideline about whether the patient needs further care. The risk is that a patient, particularly one on a sulphonylurea, is not conveyed or considered for further care. The coroner also says the time thresholds for giving I V glucose in the flowchart differ from those in the medicines section of the guideline, which may cause confusion. And that one ambulance trust has already issued a red patient safety notice about it.
-Tom: So the thing to take from that is the sulphonylurea.
-Kate: Yes. A sulphonylurea causes prolonged hypoglycaemia, and "glucose is above four" doesn't mean it's over. We're the ones who see this when it goes wrong. If you get a patient in the unit with hypoxic brain injury after a hypoglycaemic episode at home, that's a story you'll probably be asked about later.
-Tom: I should say, the inquest in that case hadn't concluded when the report was written, as I read it. So this is a coroner's concern during an investigation, not a finding.
-Kate: Good point. It's a preliminary report on an ongoing investigation, and the coroner's description of the sequence of events may well change.
-Tom: Second?
-Kate: A report to the Secretary of State for Health. It's about a frail patient discharged from an acute hospital during a planned rapid discharge event, with targets for discharge numbers well above the usual rate. Therapy paperwork wasn't completed. The home safety assessment, and the grab rails, and the rearrangement of the bedroom, weren't done in time. A week later, there was an unwitnessed fall at home, a catastrophic head injury, and the patient died.
-Tom: And the coroner also says the cause of the fall couldn't be determined, and whether the adaptations would have changed it, right?
-Kate: Yes, the report is explicit about that. It wasn't possible to say why they fell, or whether the missing adaptations contributed. But the concern is that rapid discharge events put pressure on staff and community services, and that the root cause is inadequate social care provision.
-Tom: Which is a bit outside our territory, but it's the same capacity story that sits behind every I C U discharge delay and every outlier.
-Kate: And if you're asked to lead a surge or a discharge push, it's a useful thing to have read.
-Tom: Okay. Anything else in the legal literature?
-Kate: One thing. The Journal of the Intensive Care Society has a paper from the Legal and Ethical Advisory Group, called Critical care and the law, pertinent cases from twenty twenty-five. It was published online on the eighth of October. I haven't opened it, and I couldn't find it through search, but the earlier editions in this series cover Court of Protection rulings, negligence cases and Prevention of Future Deaths reports. For anyone writing coroner's statements, I'd put it on your list.
-Tom: Right. It's the sort of thing that's useful the day you need it.
-Kate: Exactly.
-Tom: So. Recap?
-Kate: One thing to act on. The M H R A notice on Nova StatStrip ketone strips. Check your lots, find out whether your point of care team have actioned it, and find out what the plan is for ketone testing if the strips run short, because the replacement stock isn't due for about four weeks.
-Tom: And one thing to know. Chest wall oscillation and prophylactic high flow after lung resection both look promising, but both are small single centre open label trials, and neither one is a reason to change what you do.
-Kate: And the thing we couldn't open: the U K encephalitis guideline. Worth reading properly.
-Tom: That's it for this one. Thank you for listening.
-Kate: Bye for now.
-Tom: Bye.
+Kate: First, Intersurgical, spirometry sets and anaesthetic breathing systems. The notice is dated the thirteenth of October.
+Tom: Second, Maquet, the Flow-i C twenty, C thirty and C forty, plus the Flow-c and Flow-e. That's listed as an anaesthesia system, notice dated the fifth of October.
+Kate: And third, N O x Box, the N O x Box i, dated the fifth. That's the nitric oxide delivery device.
+Tom: So breathing circuits, anaesthetic machines, and inhaled nitric oxide. Not nothing.
+Kate: And there's an Abbott i-STAT high sensitivity troponin I cartridge notice in the same list, if you use point of care troponin.
+Tom: So the practical bit. These all go through your trust's medical device safety officer, and the manufacturers are meant to have contacted you directly. If you run any of those machines, it's worth a quick email to find out whether the notice has actually reached the department.
+Kate: Yes. I wouldn't panic. I'd just check that somebody has read it and knows what it asks you to do.
+Tom: Agreed. Nothing new from the Drug Safety Update that touches us this week. The only item in the window is a chikungunya vaccine licence being withdrawn, which isn't an I C U matter.
+Kate: Fine. Let's go to the clinical stuff. And I want to start with the one I found most interesting. It's in Anaesthesia, online on the twenty-first of October. Optimum timing of cerebral C T angiography for determination of death using neurological criteria.
+Tom: A retrospective sensitivity cohort study.
+Kate: Yes. So the background is that C T angiography is increasingly written into national guidelines as an ancillary test when you can't complete the clinical brainstem tests, or can't be sure of them. But uptake is patchy, partly because studies have shown quite variable sensitivity.
+Tom: And sensitivity is what, here? Because it's not the usual problem. If it's a false negative, the angiogram doesn't show absent intracranial flow, even though the patient has in fact died by neurological criteria.
+Kate: Exactly. So nobody is declared dead wrongly. The harm is delay, repeat testing, and a family left waiting. But it matters.
+Tom: Right. And the idea they tested is timing.
+Kate: Yes. The thought is that if you scan too soon after the first signs of brainstem areflexia, meaning fixed dilated pupils and loss of cough and gag, the intracranial circulation hasn't yet fully stopped, so the scan can look falsely reassuring.
+Tom: So they looked back at a hundred and eighteen I C U patients undergoing determination of death by neurological criteria, who had a C T angiogram, scored on a four point system.
+Kate: And overall, it did not confirm cerebral circulatory arrest in fifteen of the hundred and eighteen. Thirteen percent. So an overall sensitivity of eighty-seven point three percent.
+Tom: And the timing?
+Kate: This is the striking bit. Of those fifteen false negatives, ninety-three point three percent, so fourteen of the fifteen, were within twelve hours of the first signs of areflexia.
+Tom: So when they split it at twelve hours, early versus late.
+Kate: Sensitivity in the early group was sixty-seven point four percent. In the late group, ninety-eight point seven. P less than nought point nought nought one.
+Tom: That's a big gap. Sixty-seven versus ninety-nine.
+Kate: And they recommend delaying the angiogram until at least twelve hours after those first signs.
+Tom: Okay. How far do I believe it?
+Kate: Well. It's retrospective, and it's a hundred and eighteen patients, so the early group is small and that confidence interval on sixty-seven percent runs from about fifty-one to eighty. And the key exposure, the time of the first signs of areflexia, is exactly the sort of thing that's hard to pin down in a notes review. Somebody notices the pupils at a ward round, and that isn't the moment they became fixed.
+Tom: Yes. If anything that muddies the measurement, so I'd be a bit wary of the twelve hour cut off itself. But the direction makes physiological sense. And I like that it's a hypothesis you could test prospectively without much trouble.
+Kate: And for context, the main UK document is the consensus guideline in Anaesthesia in twenty twenty-three, which recommended C T angiography as the ancillary test of choice when clinical criteria alone can't confirm death. That paper reported a specificity of one hundred percent. So the question left over was always sensitivity, and this paper is poking at precisely that.
+Tom: So on Monday.
+Kate: If you're ever going to ask for an angiogram in a patient where you've been unable to complete the clinical tests, think about when the first brainstem signs appeared, and consider whether the scan is better done later. It's one retrospective study, so I wouldn't rewrite a protocol on it. But it's a good thing to have in your head when a scan comes back not confirming and the patient's only been areflexic a few hours.
+Tom: And a non-confirming scan in that situation isn't evidence the patient is alive. It's an indeterminate result.
+Kate: Yes. Agreed.
+Tom: Right. Next one. Perioperative. PELICAN, in J A M A, published online the nineteenth.
+Kate: Individualised cardiac index guided haemodynamic therapy in high risk patients having elective major abdominal surgery.
+Tom: So this is the idea that rather than aiming for one target for everybody, you measure the patient's resting cardiac index awake, before surgery, and then try to keep them at that level during the operation.
+Kate: Yes, using non-invasive bioreactance for the baseline, according to the trial registration. The comparison was routine haemodynamic therapy, with cardiac index monitored but hidden from the clinicians.
+Tom: And the design?
+Kate: Multicentre, single blind, superiority. Twelve university hospitals in five countries, Austria, the Czech Republic, Denmark, Germany and Spain. Enrolment from October twenty twenty-three to October twenty twenty-five.
+Tom: Numbers.
+Kate: Eleven hundred and twenty-eight enrolled, eleven hundred and eleven randomised, ten hundred and ninety-five in the primary analysis. Median age sixty-seven. And the primary outcome was a composite, within seven days, of acute kidney injury, acute myocardial injury, severe infectious complications, non-fatal cardiac arrest, or death.
+Tom: And?
+Kate: Two hundred and forty-three of five hundred and forty-nine, forty-four point three percent, in the individualised group, against two hundred and fifty-six of five hundred and forty-six, forty-six point nine percent, in the routine group. Relative risk nought point nine four, ninety-five point one percent confidence interval nought point eight three to one point nought eight. P of nought point three eight.
+Tom: So nothing. And no difference in any of the individual components either.
+Kate: Correct.
+Tom: Which, I mean, forty-four percent for a seven day composite tells you how hungry that composite is. Any postoperative troponin rise counts.
+Kate: Yes, acute myocardial injury is in there, and so is any acute kidney injury. It's a very inclusive composite, so it's a hard thing to move, but it also means that if the intervention had worked, you'd have expected a signal somewhere.
+Tom: And context. The old argument is that goal directed therapy helps, but the benefit shrinks as the trials get bigger and the control arm gets better.
+Kate: The classic reference is OPTIMISE, in J A M A in twenty fourteen, which tested a cardiac output guided algorithm in major gastrointestinal surgery. I'd rather not quote its numbers from memory, but it's fair to say that the overall story since then has been mixed, and PELICAN doesn't move it towards benefit.
+Tom: To be fair, this one asked a slightly different question. It wasn't "does flow guided therapy work", it was "is the patient's own baseline the right target".
+Kate: Yes, and the answer, at least with this definition, is that it doesn't seem to matter. I couldn't find the accompanying editorial, so I can't tell you what the J A M A commentators made of it. The numbers I've given are from the abstract, and a secondary write-up agrees with them.
+Tom: Monday?
+Kate: Nothing changes. If anything it's a reason not to buy extra kit for individualised targets. Keep doing sensible, boring things, and avoid sustained hypotension.
+Tom: Let's do the other two perioperative ones together. First, a big one. ORACLE, in Anesthesiology, online the nineteenth. Operating room air filtration and sterilisation and surgical infections.
+Kate: This is a Sessler trial, from the Cleveland Clinic. Cluster randomised, and the clusters are operating rooms. Each room was randomised in four week blocks to either active supplemental air sterilisation, or an identical looking sham unit.
+Tom: Blinded.
+Kate: Fully, they say. Investigators, clinicians, patients. And the primary outcome is a composite of surgical wound infection, infection related complications, or death within thirty days after inpatient surgery.
+Tom: And the size.
+Kate: A hundred and ten thousand, five hundred and thirty-eight patients enrolled across sixty-eight operating rooms, and a hundred and seven thousand, three hundred and thirty-four in the analysis. It stopped at the third interim analysis because it crossed the futility boundary, with fifty-eight thousand, nine hundred and thirty-eight inpatients randomised.
+Tom: Result.
+Kate: Eight point one percent against eight point two percent. Odds ratio nought point nine eight, ninety-five percent interval nought point nine two to one point nought five. Nothing. Same for all patients, inpatient and outpatient, five point five against five point six.
+Tom: So the authors conclude that infection control effort might be better spent limiting direct wound contamination.
+Kate: And one thing worth saying, because it's in the paper, is that the trial was supported by a grant from the company that makes the device, ActivePure. The company approved the original protocol, but wasn't involved in data collection, analysis or the manuscript, though it was given a draft as a courtesy.
+Tom: So a null result from a trial the manufacturer funded. That's rather reassuring, actually.
+Kate: It is. If you're being asked to put these units in theatres, this is the paper to cite. Not a game changer, but it saves some money.
+Tom: Now the second. BJA, online the twentieth. Electrical impedance tomography guided PEEP optimisation and postoperative pulmonary complications in laparoscopic colorectal surgery. A randomised trial.
+Kate: Single centre. A hundred and seventeen adults, intermediate to high risk, so A R I S C A T of twenty-six or more, having laparoscopic colorectal surgery. Randomised to E I T guided PEEP titration, or fixed PEEP of five.
+Tom: Primary outcome pulmonary complications within thirty days, adjudicated by a multidisciplinary team using standard criteria.
+Kate: Driving pressure was lower with E I T, sixteen against nineteen centimetres of water. And complications: twenty-nine of fifty-nine, forty-nine point two percent, against forty-two of fifty-eight, seventy-two point four percent. Hazard ratio nought point five three, nought point three three to nought point eight five.
+Tom: Right. So it's positive, and it's a nice effect size.
+Kate: It is. But, a hundred and seventeen patients, single centre, and look at the control rate. Seventy-two percent of the control arm had a pulmonary complication. That's a very broad definition of complication.
+Tom: And five of PEEP is a low comparator. Almost any individualisation will beat five in a steep Trendelenburg laparoscopic case with pneumoperitoneum.
+Kate: Exactly my reading. For context, the best bigger signal is a twenty twenty-six meta-analysis, also in the BJA, of individualised PEEP in minimally invasive thoracic and abdominal surgery. Thirty studies, risk ratio nought point six seven, nought point five six to nought point seven nine, though the authors themselves say causality needs more work.
+Tom: And an earlier B J A randomised trial of driving pressure guided PEEP in laparoscopic and robotic lower abdominal surgery in twenty twenty-three didn't find a difference. Fourteen percent against nineteen and a half, risk ratio nought point seven two, not significant.
+Kate: So where does that leave us? Individualising PEEP probably helps a bit. Whether you need an E I T machine to do it, as opposed to titrating by driving pressure or compliance, this trial can't tell you, because it didn't compare them.
+Tom: Right. Interesting, hypothesis supporting, not a reason to buy E I T for theatres.
+Kate: Fine. Moving to the I C U. Critical Care Medicine, twenty-first of October. Delay from hypotension onset to appropriate antifungal therapy is the critical determinant of outcome in Candida septic shock.
+Tom: A retrospective cohort. Eight hundred and fifty adults with culture positive Candida septic shock, from thirty-two hospitals in Canada, the U S and Saudi Arabia. And the data run from nineteen eighty-nine to twenty eighteen.
+Kate: And just over two thirds, sixty-nine point two percent, got appropriate therapy after the onset of persistent hypotension.
+Tom: And the main finding is the dose response.
+Kate: Yes. The adjusted odds of death rose by about four and a half percent for each hour of delay, odds ratio one point nought four five, ninety-five percent interval one point nought three five to one point nought five six.
+Tom: Which compounds nicely. By my arithmetic that's roughly thirty percent higher odds of death for a six hour delay.
+Kate: Yes, that's the same sum I did. And fewer than twenty percent got appropriate antifungals within six hours of documented hypotension.
+Tom: So, believe it?
+Kate: It's the same family of finding as the septic shock antibiotic timing literature, so it's biologically plausible and the direction fits. But there are problems. It's retrospective, it's thirty years of data across very different practice, and, crucially, it only includes people with culture proven Candida. So you know who the Candida patients were only afterwards.
+Tom: And confounding by indication. The sickest patients may be given the antifungal sooner, or later, depending on who's worrying about them.
+Kate: Right. And I'd add that we mentioned the pooled EUROBACT analysis on early adequate antifungal therapy and candidaemia in the CCR newsletter list last week. That was a headline we didn't open. So I'd say there are two papers pointing the same way, from different data, both observational.
+Tom: Practical bit?
+Kate: If you've got a patient in shock with real risk factors for invasive Candida, think abdominal perforation or leak, recent abdominal surgery, parenteral nutrition, central lines, heavy colonisation, the case for an early empirical echinocandin gets slightly stronger. It won't move the whole unit, but it's one for the antimicrobial stewardship round.
+Tom: And do remember the M H R A caspofungin alert from the thirteenth of October that we covered on the eighteenth. If they're on a P A N membrane haemofilter, caspofungin can be adsorbed, so the advice was to give it at least six hours after starting or after a circuit change, where you can.
+Kate: Yes, and the advice there was not to pause the dialysis to do it. Good link.
+Tom: Next, sepsis again, with a different angle. Anaesthesia, online the twentieth. Delivery and adherence of biomarker guided antibiotic treatment protocols in the ADAPT-Sepsis trial. An in-trial process evaluation.
+Kate: So ADAPT-Sepsis was the big U K trial of daily procalcitonin or C R P guided antibiotic stopping, versus standard care. Two thousand seven hundred and sixty adults, forty-one critical care units. The main results have already been published; this is a pre-planned process evaluation.
+Tom: So not an outcomes paper.
+Kate: No. It asks how well the protocols actually worked in practice. The algorithms produced advice, strong stop, suggest stop, or standard care, and that was relayed to research staff and clinicians who stayed blinded to the group.
+Tom: And?
+Kate: Strong stop advice arrived about one point seven days earlier on procalcitonin than on C R P. And C R P generated more standard care advice, nine point one percentage points more. Adherence was higher in the C R P arm by six point eight points overall, which they put down to those two things, the higher share of standard care advice and the later stop advice.
+Tom: So, procalcitonin tells you to stop sooner, and people follow it less often.
+Kate: Roughly. And one of the reasons listed for not following advice was fixed duration guidance from microbiology. In other words, somebody has told them a number of days for that infection.
+Tom: Which is exactly what happens on a real unit.
+Kate: Yes. And there's a policy hook. NICE's sepsis guideline for adults, N G two five three, was published in November twenty twenty-five. NICE's own page says a review found it needed updating around procalcitonin testing, and there was a draft update out for consultation in June this year. I couldn't confirm if that's been finalised, so check the NICE page.
+Tom: So the process paper is a useful read if your unit is thinking of putting a procalcitonin algorithm in. The lesson is that the algorithm is only half the problem. You also have to deal with the microbiologist's duration rules and the registrar's nerves.
+Kate: Yes. I'd say that's the take-home. Right. The one I said was worth ten minutes.
+Tom: The Court of Protection.
+Kate: Barts Health N H S Trust versus C G, twenty twenty-six E W C O P fifty-five, Tier Three. Mrs Justice Theis. Judgment on the sixteenth of October, and it was an ex tempore judgment, given on the day.
+Tom: And I think what's interesting for us is that it's a perfectly ordinary serious medical treatment case, except it has an I C U stay built into the plan.
+Kate: Yes. So, a man aged fifty-nine, with paranoid schizophrenia, living in supported accommodation for around twenty-five years. A large pituitary macroadenoma that has been compressing his optic pathway, and his vision has deteriorated. The treating clinicians, endocrinology and neurosurgery, recommend an endoscopic transsphenoidal resection under general anaesthetic.
+Tom: And he doesn't want it.
+Kate: He objects. And the reason, as the judge puts it, is a fixed belief that he has no tumour and just needs a new pair of glasses. He has been told the diagnosis several times and can't retain it.
+Tom: So capacity wasn't in dispute.
+Kate: No. Everybody agreed, including the Official Solicitor, who represented him. Section three of the Act, he can't understand, retain, use or weigh the information.
+Tom: What's the timetable?
+Kate: Surgery planned for the twentieth of October, which was four days after the hearing. If that date was missed there would be a delay of at least three weeks for another theatre slot. The application was made on the thirteenth. So it went from application to judgment in three days.
+Tom: Which is very quick, and the judge says why. The documents were of a high quality. She praised the position statements and the clinicians' joint statement, and said it makes an enormous difference to have those at short notice.
+Kate: Yes, I'd underline that. It's a lesson about how your statement is written, for anyone of us who is a witness in these.
+Tom: And the best interests reasoning?
+Kate: Quotes Aintree and Lady Hale's paragraph twenty-two, the welfare in the widest sense, and so on. Then two realistic options, surgery or not, because monitoring wasn't feasible given his history of not attending follow up. The risks of not operating were progressive visual loss, hormone effects, and the risk of cranial nerve problems and obstructive hydrocephalus that could need emergency surgery, with potentially fatal consequences.
+Tom: And the surgical risks?
+Kate: Cortisol deficiency, diabetes insipidus, loss of smell, C S F leak, and the ordinary risks of surgery. And the judge notes, in addition, the risk that comes from his opposition, that restraint or chemical sedation might be needed.
+Tom: And that's the I C U bit.
+Kate: Exactly. The judge says the post-operative period is when restraint and deprivation of liberty are most likely to arise. Nasal packing, a catheter, venous and arterial access that he needs to leave alone. He's expected to be in the intensive care unit for five to seven days, and she notes that it's a specialist setting where the clinicians are experienced in managing restraint, if required.
+Tom: So the care plan has to cover what happens in the I C U when he pulls at things.
+Kate: Yes, and she approves the care plan and authorises the deprivation of liberty. With the caveat that restraint should only be used where necessary and proportionate.
+Tom: The line that people have been quoting is paragraph twenty-eight.
+Kate: Which is this. "This procedure is the standard treatment option, and C G should be placed in no worse position due to his lack of capacity than anybody else requiring this procedure."
+Tom: And the Mental Capacity Law and Policy blog picked that one out, didn't they.
+Kate: They did. The blog calls it a relatively routine serious medical treatment case, and says that line stood out. Their point is that in many cases, people with mental health conditions come to serious harm because standard assessment and treatment for physical problems doesn't happen, and it's refreshing to see that discrimination identified and, they hope, avoided here. They also recommend a S C I E guide called Get me to hospital.
+Tom: I'd attribute that to the blog. That's their view, not the court's.
+Kate: Right. Now, the procedural bit. Counsel for the Trust apologised for the delay in bringing the application. The timeline in the judgment is that the capacity assessment was on the seventeenth of September, an independent mental capacity advocate was appointed and met him on the twenty-ninth of September, and the second multidisciplinary meeting was the ninth of October. The application followed on the thirteenth.
+Tom: And the judge referred to an earlier Court of Protection judgment, Birmingham and Solihull Mental Health versus C G, twenty twenty-six E W C O P thirty-seven, at paragraph sixty-seven. That sets out factors a trust should weigh when deciding whether to come to court.
+Kate: And in particular the factor where the patient objects to the plan, which applied here, especially with the planned restraint. The judge agreed it was right to apply.
+Tom: So the practical points for us, as people who write the ICU plans for these patients.
+Kate: One. If a patient lacking capacity objects, and the plan might involve restraint or sedation either before surgery or in the I C U afterwards, that's the situation where the court has said it's right to apply.
+Tom: Two. The I M C A appointment seems to have been a delay point. Ask for it early.
+Kate: Three. Plan the post-operative care as part of the application, not as an afterthought. The judge approved the treatment plan including the I C U element, so the clinicians in intensive care need to have read it, and need to be happy that they can deliver it.
+Tom: And four. If you're giving evidence, write it so a judge can use it in a few days.
+Kate: Yes. Now, the other Court of Protection judgments published this week. There were two more. One on a financial deputy and a conflict of interest, and one on a young man's residence and contact with his family.
+Tom: Neither touches intensive care, so we're leaving them out.
+Kate: Yes. And the Mental Capacity Law and Policy blog is running a series of worked examples of deprivation of liberty after a case they refer to as A G N I, which is worth a look if you do community-facing capacity work. We haven't read those posts in depth.
+Tom: Prevention of Future Deaths, then. There was a batch on the nineteenth and one on the twenty-third. We read two in full.
+Kate: The first is from the Nottingham coroner, sent to the medical director of Nottingham University Hospitals. A woman in her late seventies who attended the emergency department after a fall, in February twenty twenty-four. The trauma C T showed injuries and a fourteen millimetre lung nodule, which the radiologist described as likely incidental but possibly a primary lung tumour.
+Tom: And what's the failure?
+Kate: The nodule was recorded by the E D doctor, but the major trauma team determined she didn't need admission, so she stayed an E D patient. The discharge summary mentioned the nodule, but no referral was made, the G P wasn't tasked with anything, and the summary wasn't shared with the patient. The nodule wasn't investigated for about a year. She died of cancer in May twenty twenty-five.
+Tom: And the coroner's concern is system rather than individual.
+Kate: Yes. Two concerns. There's no clear policy on who is responsible for acknowledging and acting on incidental findings from E D imaging. And an over-reliance on the trust's radiology alerts for new probable cancer, with unclear wording on when to issue one. The coroner also noted this follows a previous report from the same trust with similar themes, and that the risk was already on the trust's risk register.
+Tom: She was careful to say she couldn't determine whether treatment would probably have extended her life.
+Kate: She was. Now, why does this matter for us? Because the same thing happens with I C U patients. We do whole body C T in trauma and in the sick undifferentiated patient, we find a nodule or an adrenal mass or something else, we focus on the acute problem, the patient goes to the ward, and it falls out of the discharge summary.
+Tom: Yes. It's a good prompt to look at how your unit's discharge summary handles incidental findings, and who owns them.
+Kate: The second is from Northamptonshire, sent to the Department of Health, N H S England and East Midlands Ambulance Service. A man of thirty-two with a long history of mental health problems who called a mental health hub, and then rang nine-nine-nine at about four thirty-six in the morning, saying he had taken a significant overdose. The call was categorised as category three, and the first ambulance arrived three hundred and fifty-seven minutes after that call.
+Tom: And the specific concern.
+Kate: The category was decided by the type of drug, and the coroner found that no consideration was given to the number of tablets. The system only upgraded the call if the drug was on a list of high risk ones.
+Tom: So that's N H S Pathways, the triage tool.
+Kate: Yes, the evidence given at the inquest was that under N H S Pathways that conversation was a category three. It's an ambulance matter more than an intensive care one, but the overdose triage point is useful if you do poisoning work.
+Tom: Right. That's the main business. Some quick hits.
+Kate: Quick hits. Anaesthesia, the twenty-third. A systematic review of liberal versus conventional pre-operative clear fluid fasting in children. Thirty-three studies, five hundred and eighty thousand, one hundred and ninety-seven children.
+Tom: Aspiration is rare, as we know. Pooled incidence nought point nought three percent under both policies. The risk ratio from the fourteen studies that gave one was nought point seven seven, with an interval from nought point four to one point four seven.
+Kate: And the certainty was graded very low. So nothing to say the liberal policy is worse, and nothing strong to say it's safer either. But I think it supports shorter fasts for the children on your list, rather than the whole morning nil by mouth.
+Tom: Next. Critical Care Medicine, a systematic review of the furosemide stress test in adults and children with A K I. Twenty studies, nineteen hundred and seventy-nine patients. For predicting progression to stage three, pooled sensitivity nought point six nine and specificity nought point eight eight, but graded low certainty.
+Kate: And for the question that matters, whether using it to guide early renal replacement therapy changes mortality, two randomised trials, two hundred and twelve patients, risk ratio one point nought nought, nought point seven nine to one point two seven. Very low certainty. So it may help you risk stratify. There's no evidence it helps you decide when to start.
+Tom: Two cohorts from the European and Spanish perioperative groups. The first, F R A G I L E, in the European Journal of Anaesthesiology. Fourteen hundred and seventy-two surgical patients across sixty-four centres in ten countries. Preoperative frailty was about ten to fifteen percent, depending on the scale. And in the thirty days after surgery, eleven point nine percent of the non-frail became frail. The adjusted odds ratio of complications with preoperative frailty was two point three five, one point five three to three point six.
+Kate: And the second, in the same journal, a Spanish cohort of twenty-four hundred and forty-two patients across forty-three hospitals. Postoperative delirium at forty-eight hours was independently associated with a four point six points higher W H O D A S score at one year, which is worse function, and with more institutionalisation and higher mortality. Observational, so association not cause.
+Tom: And one more. Also from Anaesthesia, an editorial by Patrick Ward, "Awake tracheal intubation: the default technique?", published on the twenty-fourth. We haven't read it, only seen the title.
+Kate: But it follows the international survey of forty-seven hundred and twenty-eight clinicians that we covered on the eighteenth, where about forty-one percent of respondents felt that awake intubation use had gone down after video laryngoscopy became widespread, and seventy-seven point six percent thought the indications should be reassessed. There's also a second editorial in the November print issue asking whether video laryngoscopy is to blame.
+Tom: So we're not able to tell you what the editorial argues. I'd rather say that than guess.
+Kate: Yes. We should say the same about discourse in general. We looked for what clinicians were saying about these papers, and for most of them we found nothing yet. They're a few days old. The Bottom Line published its September critical care evidence updates on the twenty-third, which is a list of papers, not commentary, so there's nothing there to attribute.
+Tom: And that's a sensible place to say what we haven't checked.
+Kate: Okay. The Critical Care Reviews newsletter, because it hadn't arrived, and the C C R site itself is blocked. The thirty-nine Essex Chambers reports, also blocked. N I C E, H S S I B, the Royal College of Anaesthetists, the Intensive Care Society and F I C M, we didn't get anything from. The full texts of the J A M A, B J A, Anaesthesia, Anesthesiology and Critical Care Medicine papers. And for Intensive Care Medicine and A J R C C M, we only saw a single review article in the window, so I wouldn't read anything into that.
+Tom: So, a recap. What should people do?
+Kate: One. Ask your device safety officer about the three field safety notices: the Intersurgical breathing systems, the Maquet anaesthesia systems, and the N O x Box.
+Tom: Two. If you do brainstem death testing, remember the timing finding on C T angiography. One retrospective study, but a scan within twelve hours of the first signs may be falsely non-confirmatory.
+Kate: Three. If a patient who lacks capacity and objects is going to need restraint or sedation, whether in theatre or in the I C U afterwards, Barts versus C G is a useful template for how quickly and how well the court can move if you give it good documents.
+Tom: And four, a small one. Look at how your discharge summaries handle incidental findings.
+Kate: And everything else is either null, like PELICAN and ORACLE, or hypothesis generating.
+Tom: That's us. Thanks for listening.
+Kate: Take care, and we'll be back next week.

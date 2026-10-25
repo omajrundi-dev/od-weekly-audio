@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 11:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,29 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>25 October 2026: Brainstem death C T angiography timing, PELICAN null, Barts v CG, device notices</title>
+      <guid isPermaLink="false">od-digest-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-10-25.mp3" length="12688385" type="audio/mpeg"/>
+      <itunes:duration>2114</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>Covers 19 to 25 October 2026.</strong> Critical Care Reviews newsletter 776 had not arrived, so there was no CCR steer this week. Trial figures are from abstracts (via Europe PMC) unless stated; publisher full texts could not be opened.</p>
+<ul>
+<li><strong>MHRA field safety notices</strong> (lists published 19 Oct; contents of the manufacturer notices not read): Intersurgical spirometry sets and anaesthetic breathing systems (13 Oct); Maquet Flow-i C20/C30/C40, Flow-c, Flow-e anaesthesia systems (5 Oct); NOxBOX NOXBOXi (5 Oct). Ask your medical device safety officer whether the notices have reached you. <a href="https://www.gov.uk/drug-device-alerts/field-safety-notices-12-october-2026-to-16-october-2026">12 to 16 Oct list</a> · <a href="https://www.gov.uk/drug-device-alerts/field-safety-notices-5-to-9-october-2026">5 to 9 Oct list</a></li>
+<li><strong>Timing of cerebral CT angiography for death by neurological criteria</strong> (Anaesthesia, online 21 Oct; retrospective, 118 ICU patients): sensitivity 87.3% overall; 67.4% if within 12 h of first signs of brainstem areflexia vs 98.7% after 12 h; 14 of 15 false negatives were early. Authors suggest waiting at least 12 h. DOI 10.1111/anae.70438</li>
+<li><strong>PELICAN</strong> (JAMA, online 19 Oct): individualised cardiac index-guided haemodynamic therapy vs routine, 1,095 analysed, 12 centres. Seven-day composite 44.3% vs 46.9%, RR 0.94 (0.83 to 1.08). Null. <a href="https://clinicaltrials.gov/study/NCT05648279">Registry</a></li>
+<li><strong>ORACLE</strong> (Anesthesiology, online 19 Oct): supplemental operating room air sterilisation vs sham, cluster randomised, 107,334 analysed; stopped for futility; composite 8.1% vs 8.2%, OR 0.98 (0.92 to 1.05). Funded by a grant from the device manufacturer. <a href="https://clinicaltrials.gov/study/NCT04610294">Registry</a></li>
+<li><strong>EIT-guided PEEP in laparoscopic colorectal surgery</strong> (BJA, online 20 Oct): single centre, 117 patients; pulmonary complications 49.2% vs 72.4% against fixed PEEP 5, HR 0.53 (0.33 to 0.85). Hypothesis-supporting. DOI 10.1016/j.bja.2026.09.016</li>
+<li><strong>Candida septic shock and antifungal delay</strong> (Crit Care Med, online 21 Oct; retrospective, 850 patients): adjusted OR of death 1.045 per hour of delay; under 20% received appropriate antifungals within 6 h.</li>
+<li><strong>ADAPT-Sepsis process evaluation</strong> (Anaesthesia, online 20 Oct): 2,760 patients, 41 UK units; procalcitonin gave strong-stop advice about 1.7 days earlier than CRP but adherence was lower. NICE NG253 is being updated around procalcitonin (draft consulted June 2026; final status not confirmed).</li>
+<li><strong>Barts Health NHS Trust v CG [2026] EWCOP 55 (T3)</strong> (Theis J, 16 Oct): best-interests approval and DoL authorisation for pituitary surgery in a man objecting through a fixed delusional belief, with restraint likely post-operatively in ICU (5 to 7 days). Para 28: he should be placed in no worse position because of lack of capacity. <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t3/2026/55">Judgment</a> · <a href="https://www.mentalcapacitylawandpolicy.org.uk/responding-appropriately-to-the-physical-health-needs-of-those-with-mental-health-conditions-a-case-study/">MCLP comment</a></li>
+<li><strong>Prevention of Future Deaths:</strong> <a href="https://www.judiciary.uk/prevention-of-future-death-reports/gloria-monte-prevention-of-future-deaths-report/">incidental lung nodule on ED trauma CT not actioned, no policy on who owns incidental findings (Nottingham)</a> · <a href="https://www.judiciary.uk/prevention-of-future-death-reports/samuel-hand-prevention-of-future-deaths-report/">overdose 999 call triaged by drug type not quantity, 357-minute response (East Midlands Ambulance Service)</a></li>
+<li><strong>Quick hits (abstracts):</strong> paediatric clear-fluid fasting meta-analysis (Anaesthesia; aspiration 0.03% either way, very low certainty); furosemide stress test systematic review (Crit Care Med; no evidence it improves RRT timing outcomes); FRAGILE frailty cohort and Spanish postoperative delirium cohort (Eur J Anaesthesiol); Anaesthesia editorial "Awake tracheal intubation: the default technique?" (title only, not read).</li>
+</ul>
+<p><strong>Unchecked this week:</strong> CCR newsletter 776 and site, 39 Essex Chambers, NICE (page not opened), HSSIB, RCoA, ICS, FICM, publisher full texts (JAMA, BJA, Anaesthesia, Anesthesiology, Crit Care Med), AJRCCM. Little clinician commentary was found on this week's papers; The Bottom Line's September updates are a list only.</p>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>Deep dive: PDOC in the Court of Protection: the case law since Aintree (corrected)</title>
       <guid isPermaLink="false">od-deepdive-2026-10-19-cop-pdoc-case-law-history-2</guid>
