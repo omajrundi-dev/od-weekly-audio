@@ -10,7 +10,7 @@
     <description>Private audio explainers. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:45:03 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/cover.png</url>
       <title>General Deep Dives</title>
@@ -24,6 +24,36 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>How NHS money flows: from Treasury to trust</title>
+      <guid isPermaLink="false">od-gdd-2026-10-22-nhs-money-treasury-to-trust</guid>
+      <pubDate>Sat, 31 Oct 2026 19:45:03 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/episodes/2026-10-22-nhs-money-treasury-to-trust.mp3" length="3385341" type="audio/mpeg"/>
+      <itunes:duration>564</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Kate and Tom follow NHS money in England from the Spending Review to the Department of Health, through integrated care boards, to how a trust is actually paid under the NHS Payment Scheme, and why deficits, cost improvement programmes and the end of system breakeven now bite at trust level. Includes the Health Bill to abolish NHS England, which has passed the Commons and had its Lords second reading on 13 October 2026, and is not yet law.</p>
+<p><b>Take-home points</b></p>
+<ul>
+<li>Elective work is paid per case at the full national price; adult critical care sits in the fixed block, so argue for ICU capacity in terms of protected elective lists.</li>
+<li>The 2026/27 tariff assumes 2% efficiency a year (cost uplift initially 2.03%, efficiency factor 2.0%), which is where CIPs come from.</li>
+<li>Since 1 April 2026 each trust must break even on its own; deficit support is about £1.3bn this year, down from £2.2bn, and tapering.</li>
+<li>NHS England's abolition is not law yet: the Bill would let the Secretary of State cap trust spending, remove foundation trust status and appoint FT boards.</li>
+<li>Medical bank spend was the main driver of the Q1 2026/27 provider overspend.</li>
+</ul>
+<p><b>Key sources</b></p>
+<ul>
+<li><a href="https://www.gov.uk/government/publications/spending-review-2025-document/spending-review-2025-html">Spending Review 2025 (HM Treasury)</a></li>
+<li><a href="https://www.health.org.uk/reports-and-analysis/analysis/health-care-funding">Health care funding (Health Foundation, updated March 2026)</a></li>
+<li><a href="https://www.nuffieldtrust.org.uk/resource/whats-in-the-new-health-bill">What's in the new Health Bill? (Nuffield Trust)</a></li>
+<li><a href="https://www.kingsfund.org.uk/insight-and-analysis/projects/nhs-modernisation-bill-2026">NHS Modernisation Bill 2026 (The King's Fund)</a></li>
+<li><a href="https://www.weightmans.com/media-centre/news/health-bill-2026-reform-moves-closer/">Health Bill 2026: reform moves closer (Weightmans, Oct 2026)</a></li>
+<li><a href="https://www.england.nhs.uk/wp-content/uploads/2026/03/26-27NHSPS-SD-NHS-provider-payment-mechanisms.pdf">2026/27 NHS provider payment mechanisms (NHS England)</a></li>
+<li><a href="https://www.england.nhs.uk/long-read/nhs-finance-business-rules-from-2026-27-guidance-for-integrated-care-boards-and-nhs-trusts/">NHS finance business rules from 2026/27 (NHS England)</a></li>
+<li><a href="https://www.hfma.org.uk/articles/q1-report-sets-out-position-deficit-support-funding">Q1 report sets out position on deficit support funding (HFMA)</a></li>
+<li><a href="https://www.carnallfarrar.com/insights-nhs-system-breakeven-duty-ends-trust-plan-limits/">System breakeven duty ends (Carnall Farrar)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before relying on it.</p>]]></description>
+    </item>
     <item>
       <title>Welcome to General Deep Dives</title>
       <guid isPermaLink="false">od-gdd-2026-10-22-welcome</guid>
