@@ -10,7 +10,7 @@
     <description>Private audio explainers. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 19:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:50:23 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/cover.png</url>
       <title>General Deep Dives</title>
@@ -24,6 +24,32 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>Rock through the ages: genres and the bands that made them</title>
+      <guid isPermaLink="false">od-gdd-2026-10-30-rock-genres-through-the-ages</guid>
+      <pubDate>Sat, 31 Oct 2026 19:50:23 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/episodes/2026-10-30-rock-genres-through-the-ages.mp3" length="3556510" type="audio/mpeg"/>
+      <itunes:duration>593</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Kate and Tom race through seventy-odd years of rock, genre by genre, with a record or two for each stop: from Sister Rosetta Tharpe and fifties rock and roll, through the British Invasion, psychedelia, heavy metal, prog, glam, punk, post-punk and goth, to grunge, Britpop, the 2000s guitar revival and today's post-punk bands, with a running thread on Leeds and Sheffield.</p>
+<p><b>Take-home points</b></p>
+<ul>
+<li>Rock grew out of Black American gospel, blues and R&amp;B; Sister Rosetta Tharpe was playing loud electric guitar in 1944.</li>
+<li>British bands played American records back to America, and that loop runs through the whole story.</li>
+<li>Most new genres are a reaction: when something gets too big, long or polished, the next lot strips it back.</li>
+<li>Leeds matters: Gang of Four, the Mekons, the Sisters of Mercy, Kaiser Chiefs and Yard Act.</li>
+<li>Starter playlist: Johnny B. Goode, You Really Got Me, Purple Haze, Paranoid, Anarchy in the UK, Damaged Goods, Smells Like Teen Spirit, Common People, I Bet You Look Good on the Dancefloor, and a Yard Act track.</li>
+</ul>
+<p><b>Key sources</b></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Strange_Things_Happening_Every_Day">Strange Things Happening Every Day</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Black_Sabbath_(album)">Black Sabbath (album)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Music_in_Leeds">Music in Leeds</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Whatever_People_Say_I_Am,_That%27s_What_I%27m_Not">Whatever People Say I Am, That's What I'm Not</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yard_Act">Yard Act</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before relying on it.</p>]]></description>
+    </item>
     <item>
       <title>How NHS money flows: from Treasury to trust</title>
       <guid isPermaLink="false">od-gdd-2026-10-22-nhs-money-treasury-to-trust</guid>
