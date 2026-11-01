@@ -10,7 +10,7 @@
     <description>A private weekly audio digest on family therapy and systemic practice. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/cover.png</url>
       <title>Family Therapy Digest</title>
@@ -26,6 +26,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, max 12. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>1 November 2026: The Great EFT Schism, family interactions at clinical high risk for psychosis, and approach-method-technique</title>
+      <guid isPermaLink="false">ft-digest-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/family-therapy/episodes/2026-11-01.mp3" length="12301551" type="audio/mpeg"/>
+      <itunes:duration>2050</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Covers 18 October to 1 November 2026. All papers were discussed from abstracts and record metadata only; full texts not read.</p>
+<p><strong>Items</strong></p>
+<ul>
+<li>Cross-sectional survey, non-clinical community sample (545 couples): attachment-only versus multi-motivational (attachment, regard, attraction) accounts of couple satisfaction in emotion-focused couple therapy theory. <a href="https://doi.org/10.1111/famp.70214">Family Process, December 2026 issue</a></li>
+<li>Observational and self-report study, 162 youths at clinical high risk for psychosis and their parents: family communication and symptoms. <a href="https://doi.org/10.1037/fam0001546">Journal of Family Psychology, online 19 Oct</a></li>
+<li>Qualitative interview study (9 adolescents, 11 caregivers, one US emergency department): Black adolescents presenting with suicide risk and their caregivers, experiences of and barriers to mental health care. <a href="https://doi.org/10.1111/camh.70137">Child and Adolescent Mental Health, online 20 Oct</a></li>
+<li>Profession news: AFSP is recruiting a CEO, closing Monday 2 November (<a href="https://www.theafsp.org/about-us/work-at-afsp/">AFSP</a>); AFSP events listing, including the 10 November webinar on supervising high-conflict families (<a href="https://www.theafsp.org/events/">AFSP events</a>).</li>
+<li>Brief mention, scale development (mixed methods): Filial Caregiving Burnout in the Chinese cultural context. <a href="https://doi.org/10.1111/famp.70212">Family Process</a></li>
+</ul>
+<p><strong>Concept corner: Burnham's approach, method and technique.</strong> Further reading: Burnham (1992), Approach-method-technique: making distinctions and creating connections, Human Systems 3 (check the reference); Burnham's writing on relational reflexivity in Flaskas, Mason and Perlesz (eds), The Space Between (2005).</p>
+<p><strong>From the training room:</strong> presenting a family to your supervision group.</p>
+<p><strong>Unchecked this week:</strong> Journal of Family Therapy early view, Journal of Marital and Family Therapy full contents, Context magazine, Therapy Today, The Psychologist, Psychotherapy Networker, EFTA, Tavistock and Portman, Institute of Family Therapy, Anna Freud Centre, KCC Foundation, UKCP, NICE, NHS England and Children's Commissioner (web searches found nothing new for the week; nothing opened directly). The AFSP news page redirected and was not read. Journals were swept via PubMed only.</p>
+<p>AI-generated summary; check the sources before relying on them in practice.</p>]]></description>
+    </item>
     <item>
       <title>25 October 2026: Care Together in Greater Manchester, Bluey and Bowen, and structural family therapy</title>
       <guid isPermaLink="false">ft-digest-2026-10-25</guid>
