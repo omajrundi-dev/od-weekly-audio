@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:00:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,29 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>1 November 2026: Chlorhexidine oral care null, UK resuscitative thoracotomy, remimazolam delirium, Townsend update, device notices</title>
+      <guid isPermaLink="false">od-digest-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-11-01.mp3" length="11497985" type="audio/mpeg"/>
+      <itunes:duration>1916</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>Covers 26 October to 1 November 2026.</strong> A quiet week with no landmark trial. Critical Care Reviews newsletter 776 (25 Oct) arrived after last week's episode; newsletter 777 had not arrived. Trial figures are from abstracts (via Europe PMC); publisher full texts could not be opened.</p>
+<ul>
+<li><strong>MHRA field safety notices, 19 to 23 Oct (published 28 Oct)</strong>: B Braun Space infusion pumps, Philips IntelliVue monitors, Baxter TruSystem, Unisurge procedure packs with Steriflush flush syringes, Abbott FreeStyle Libre 3 app. Contents of the manufacturer letters not read; ask your medical device safety officer. <a href="https://www.gov.uk/drug-device-alerts/field-safety-notices-19-to-23-october-2026">FSN list</a></li>
+<li><strong>Chlorhexidine in an oral-care bundle for VAP</strong> (Crit Care, online 29 Oct; single-centre, six medical ICUs, cluster crossover, 1,035 patients): VAP 16.9 vs 18.8 per 1,000 ventilator-days, adjusted IRR 1.08 (0.84 to 1.38); 28-day mortality 28.7% vs 26.4%; ICU stay about 0.9 days longer with chlorhexidine. Unblinded, CPIS-defined. DOI 10.1186/s13054-026-06217-0</li>
+<li><strong>TETRiS, resuscitative thoracotomy</strong> (Resuscitation, online 28 Oct; prospective UK national service evaluation): 116 patients, 70.7% prehospital, 8 (6.9%) survived to discharge; no survivors beyond 10 minutes of traumatic arrest. DOI 10.1016/j.resuscitation.2026.111371</li>
+<li><strong>Remimazolam vs propofol TIVA, neurovascular surgery</strong> (BJA, online 29 Oct; single-centre, 686 analysed): delirium 12.8% vs 10.8%, risk difference 1.97 points (-2.85 to 6.80) against a 10-point margin; less hypotension with remimazolam. DOI 10.1016/j.bja.2026.09.021</li>
+<li><strong>ESICM consensus on human-centred partnership in the ICU</strong> (Intensive Care Med, online 26 Oct): 43 endorsed statements. A consensus statement, not trial evidence. DOI 10.1007/s00134-026-08626-9</li>
+<li><strong>Patient vs surrogate-signed POLST, South Korea</strong> (AJRCCM, online 1 Nov; observational, 1.19 million ICU admissions): surrogate-signed orders associated with higher odds of invasive terminal care (OR 2.16, 1.98 to 2.35); confounded by who is able to sign. DOI 10.1093/ajrccm/aamag276</li>
+<li><strong>Recent context: PRESSURE</strong> (JAMA; online about 1 Oct, print 27 Oct): permissive MAP target in 1,900 ventilated children on vasoactives; primary outcome no difference (probabilistic index 0.52, 0.49 to 0.54), norepinephrine-equivalent dose 37.5% lower. DOI 10.1001/jama.2026.19747</li>
+<li><strong>PFD reports (published 27 and 30 Oct)</strong>: <a href="https://www.judiciary.uk/prevention-of-future-death-reports/eunice-brookes-prevention-of-future-deaths-report/">Eunice Brookes</a> (unrecognised obstructed hiatus hernia, fluid balance charting, deterioration, out-of-hours surgical review); <a href="https://www.judiciary.uk/prevention-of-future-death-reports/alexander-mulroney-prevention-of-future-deaths-report/">Alexander Mulroney</a> (ofloxacin psychiatric warnings, to MHRA, NICE and BNF).</li>
+<li><strong>Court of Protection, post-AGNI deprivation of liberty</strong>: <a href="https://caselaw.nationalarchives.gov.uk/ewcop/t2/2026/57">A Local Authority v ZZ (No 2) [2026] EWCOP 57 (T2)</a>, 29 Oct. Community cases only; none seen applying the new test to hospital or ICU care.</li>
+<li><strong>Townsend v Epsom and St Helier</strong> ([2026] EWCA Civ 195): Supreme Court hearing listed 12 to 13 January 2027. The College of ICM's October digest says it has joined the Intensive Care Society in a submission to the Supreme Court; status not confirmed.</li>
+</ul>
+<p><strong>Unchecked this week:</strong> criticalcarereviews.com site and 39 Essex Chambers (blocked), publisher full texts (JAMA, NEJM, Lancet, BJA, Anaesthesia), manufacturers' device letters, RCoA, NICE, HSSIB, Association of Anaesthetists pages.</p>
+<p><em>AI-generated summary of the sources listed; check the primary sources before changing practice.</em></p>]]></description>
+    </item>
     <item>
       <title>25 October 2026: Brainstem death C T angiography timing, PELICAN null, Barts v CG, device notices</title>
       <guid isPermaLink="false">od-digest-2026-10-25</guid>
