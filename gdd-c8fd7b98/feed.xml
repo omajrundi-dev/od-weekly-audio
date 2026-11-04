@@ -10,7 +10,7 @@
     <description>Private audio explainers. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 19:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:28:34 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/cover.png</url>
       <title>General Deep Dives</title>
@@ -24,6 +24,44 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>The Gold Guide: the rulebook for medical training</title>
+      <guid isPermaLink="false">od-gdd-2026-11-04-gold-guide-medical-training</guid>
+      <pubDate>Wed, 04 Nov 2026 13:28:34 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/gdd-c8fd7b98/episodes/2026-11-04-gold-guide-medical-training.mp3" length="7844449" type="audio/mpeg"/>
+      <itunes:duration>1307</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p>Kate and Tom take apart the Gold Guide, COPMeD's reference guide for postgraduate foundation and specialty training across the UK, now in its 11th edition (5 August 2026, corrected 15 September 2026). What it is and isn't (not law, not a contract, but the source of training numbers, ARCP outcomes and appeal rights), who does what (Dean, TPD, Educational and Clinical Supervisors, colleges, employer), the trainee's journey through Form R, less than full time, the 14-day rule and out of programme, how an ARCP panel works and what each outcome means, reviews and appeals, the Tattersall judicial review, and what the Medical Training Review in England might change.</p>
+<p><b>Take-home points</b></p>
+<ul>
+<li>The Gold Guide is not legislation and not contractual, but the High Court (Tattersall v NHS England, 2023) held that the right of appeal arises from it alone, so decisions under it must be lawful, reasonable and fair and are open to judicial review.</li>
+<li>The Postgraduate Dean, not the trust medical director, is the Responsible Officer for doctors in training from F2 onwards; the 15 September 2026 correction to the 11th edition was about exactly this.</li>
+<li>ARCP is a documentary review held in absentia by a panel of at least three, with college external advisers and lay representation. Outcome 2 means catch up without extra time, 3 means extra time, 4 means release, 5 means the evidence is missing. Non-standard outcomes should never surprise the trainee.</li>
+<li>The practical numbers: 10 working days to request a review or appeal; 14 days' absence in a year triggers a CCT-date review; LTFT is normally no lower than 50% (never below 20%); out of programme needs six months' notice and normally a year in post first.</li>
+<li>The guide is reviewed every two years. Phase 2 of the Medical Training Review in England (independent chair Jane Dacre, eight working groups, proposals due by April 2027) may drive bigger changes, but nothing from it is in force.</li>
+</ul>
+<p><b>Key sources</b></p>
+<ul>
+<li><a href="https://www.copmed.org.uk/publications/gold-guide/gold-guide-11th-edition">COPMeD: Gold Guide 11th edition (5 August 2026, updated 15 September 2026)</a></li>
+<li><a href="https://www.fph.org.uk/media/mz2hvwji/gold-guide-11th-edition-august-2026.pdf">Gold Guide 11th edition PDF (copy hosted by the Faculty of Public Health)</a></li>
+<li><a href="https://www.copmed.org.uk/publications/gold-guide/gold-guide-10th-edition">COPMeD: Gold Guide 10th edition (7 August 2024)</a></li>
+<li><a href="https://www.jcst.org/-/media/Files/JCST/Archive/GoldGuide2010.pdf">Gold Guide 4th edition, June 2010 (history and 2007 start date)</a></li>
+<li><a href="https://caselaw.nationalarchives.gov.uk/ewhc/admin/2023/1677">R (Tattersall) v NHS England [2023] EWHC 1677 (Admin)</a></li>
+<li><a href="https://thamesvalley.hee.nhs.uk/resources-information/arcps/reviews-and-appeals/">NHS England Thames Valley: ARCP reviews and appeals (timescales)</a></li>
+<li><a href="https://www.scotlanddeanery.nhs.scot/trainee-information/annual-review-of-competence-progression-arcp/arcp-outcomes/">Scotland Deanery: ARCP outcomes</a></li>
+<li><a href="https://rcem.ac.uk/wp-content/uploads/2024/03/External_Advisor_Handbook_Updated_Final_v1.pdf">RCEM External Advisor Handbook (panel composition, 10% sampling)</a></li>
+<li><a href="https://www.scotlanddeanery.nhs.scot/media/m20dtgxq/20121130-time-out-of-training-gmc-position-statement-nov-2012_pdf_pdf-60998809.pdf">GMC position statement: time out of training (the 14-day rule), 2012</a></li>
+<li><a href="https://rcoa.ac.uk/media/6486">RCoA statement on LTFT (GMC 50% and 20% limits)</a></li>
+<li><a href="https://www.hee.nhs.uk/sites/default/files/documents/Proposal%20-%20amending%20rules%20for%20extensions%20to%20training.pdf">HEE paper on extension limits (Gold Guide 6th edition rule and the GP proposal)</a></li>
+<li><a href="https://www.hee.nhs.uk/sites/default/files/documents/Derogations%20statement%20-%20Final%20September%202022.pdf">GMC, statutory education bodies and AoMRC: COVID derogations statement, September 2022</a></li>
+<li><a href="https://www.jcst.org/-/media/Files/JCST/Key-Documents/Management-of-ARCPs-and-Outcome-10s-into-2021-and-beyond.pdf">JCST: Outcome 10 and ARCPs into 2021</a></li>
+<li><a href="https://www.england.nhs.uk/long-read/the-medical-training-review-phase-1-diagnostic-report/">NHS England: Medical Training Review phase 1 diagnostic report</a></li>
+<li><a href="https://www.nhsemployers.org/articles/medical-education-and-training-review">NHS Employers: Medical Education and Training Review (phase 2 status, July 2026)</a></li>
+<li><a href="https://www.rcsed.ac.uk/news-resources/rcsed-press-statements/2025/october/rcsed-responds-to-phase-one-findings-of-nhs-england-s-review-of-postgraduate-medical-education">RCSEd response to the phase one findings</a></li>
+<li><a href="https://bma.org.uk/bma-media-centre/junior-doctors-change-name-to-resident-doctors">BMA: junior doctors change name to resident doctors (18 September 2024)</a></li>
+</ul>
+<p>AI-generated summary of the sources listed; check the primary sources before relying on it.</p>]]></description>
+    </item>
     <item>
       <title>Rock through the ages: genres and the bands that made them</title>
       <guid isPermaLink="false">od-gdd-2026-10-30-rock-genres-through-the-ages</guid>
