@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,23 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>8 November 2026 (backup voices): PROSpect finds no benefit from proning or oscillation in paediatric ARDS; chlorhexidine bundle trial</title>
+      <guid isPermaLink="false">od-digest-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 22:30:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-11-08.mp3" length="2856704" type="audio/mpeg"/>
+      <itunes:duration>476</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>A short, partial edition.</strong> Most primary sources were unreachable this week, so this draws on Critical Care Reviews newsletter 777 (1 November), i.e. mostly the week before the usual window. Figures are from CCR's summaries, not the papers. Voices are the offline backup voices (Gemini credits were exhausted).</p>
+<ul>
+<li><strong>PROSpect</strong> (Lancet, Curley et al.): prone positioning and HFOV in early paediatric ARDS, 424 children, no improvement in ventilator-free days; more airway obstruction and pressure injury with proning, more haemodynamic instability with HFOV. Stopped for futility. Not for adults.</li>
+<li><strong>Chlorhexidine in an oral-care bundle</strong> (Critical Care, cluster crossover, six medical ICUs in India): no reduction in VAP (adjusted IRR 1.08, 95% CI 0.84 to 1.38).</li>
+<li><strong>ACLF global multisociety consensus</strong> (Hepatology): harmonised definitions and grading; expert consensus only.</li>
+<li>Seen by title only, not opened: ASA guidance on periprocedural fasting in tube-fed patients (Anesthesiology Open); ESICM consensus on human-centred partnership in the ICU (Intensive Care Med).</li>
+<li>MedSafetyWeek ran 2 to 8 November (Yellow Card reporting).</li>
+</ul>
+<p><strong>Unchecked this week:</strong> all journal feeds, MHRA alerts and Drug Safety Update, judiciary.uk PFD reports, EWCOP/National Archives, Mental Capacity Law and Policy, The Bottom Line, St Emlyn's, criticalcarereviews.com website, BJA and Anaesthesia. Network access to these was refused.</p>]]></description>
+    </item>
     <item>
       <title>Deep dive: The 2026 AHA/ACC acute pulmonary embolism guideline</title>
       <guid isPermaLink="false">od-deepdive-2026-11-03-aha-acc-pe-guideline-2026</guid>

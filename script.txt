@@ -1,153 +1,47 @@
-Kate: Hello, and welcome to the I C M and Anaesthesia Digest for Sunday the first of November. I'm Kate.
-Tom: And I'm Tom. Hello. Well, it's been a quiet one, hasn't it?
-Kate: It has. No big landmark trial this week, so we're going to be honest about that and not stretch things. We've got a handful of smaller papers that are worth a proper look, a pile of device notices, and a fair bit of medicolegal.
-Tom: Which is fine by me. Quiet weeks are when you can actually go into the methods.
-Kate: Exactly. A quick note on sources first. The Critical Care Reviews newsletter, number seven seven six, dated the twenty-fifth of October, only reached the inbox after last week's episode went out. So we've got it now. Its main trial, PELICAN, we covered last week, and its quick takes match what we said. Number seven seven seven hadn't arrived when we recorded, so there's no fresh steer from them this week.
-Tom: And the trial numbers you'll hear today come from abstracts, mostly via Europe PMC, because the publisher pages wouldn't open. We'll say so where it matters.
-Kate: Right. Let's start with the thing you might actually have to do something about. Device notices.
-Tom: Go on.
-Kate: The MHRA published its field safety notice list for the nineteenth to the twenty-third of October on the twenty-eighth. The ones that jumped out for us are B Braun Space infusion pumps, Philips IntelliVue patient monitors, Baxter's TruSystem, Unisurge custom procedure packs that include Steriflush saline and water flush syringes, and an Abbott FreeStyle Libre three app notice.
-Tom: Hang on, what do they actually say?
-Kate: That's the honest answer, I don't know. The list gives the manufacturer, the product and a date, and the letters themselves sit behind a download page that wouldn't open from here. So I can tell you these exist. I can't tell you what the fault is or what you're meant to do.
-Tom: Which is a bit of an annoying thing to say about infusion pumps.
-Kate: It is. And the B Braun entry is dated the fourteenth of October, so the manufacturer has been writing to customers for a couple of weeks already. The MHRA's own line is that if you receive a notice from a manufacturer you must act on it, and the list is for information.
-Tom: So Monday morning, what do we do?
-Kate: Ask your medical device safety officer whether those notices have reached your trust, and whether anyone has checked the pumps and monitors on your unit against them. That's it. It takes two minutes and it's the sort of email that gets lost.
-Tom: Fair. And the October safety roundup from the MHRA came out this week too, but the ICU bits in it, the caspofungin and C R R T filter alert and the ketone strip problem, we've already covered in the last couple of weeks.
-Kate: Yes. Nothing new there. The Drug Safety Update had nothing new in the window either, apart from a reminder about Med Safety Week, which starts on the second of November.
-Tom: Right. On to the trials, then. What have you got?
-Kate: Let's do the chlorhexidine one first, because it's a topic that has sort of rumbled on for a decade. This is in Critical Care, online on the twenty-ninth of October. A pragmatic cluster randomised crossover trial in six medical intensive care units. Single hospital, a tertiary academic centre in Bhubaneswar, in India.
-Tom: Oral care bundles and ventilator associated pneumonia. Everyone's favourite.
-Kate: Well, quite. The question is whether adding zero point one two per cent chlorhexidine to a standardised oral care bundle gives you any extra benefit. So both arms get the bundle. One arm also gets chlorhexidine. Six units, randomised to one order or the other, nine months in each period, with a one month wash in and retraining gap between.
-Tom: And who's in it?
-Kate: Adults ventilated for at least forty-eight hours. About one thousand and thirty-five patients in total, and just over ten thousand ventilator days. Mean age around fifty-five, A P A C H E two around twenty, S O F A around thirteen. So sick.
-Tom: Primary outcome?
-Kate: V A P incidence density, per thousand ventilator days, defined by a C P I S score above six.
-Tom: Hm. C P I S.
-Kate: I know. Hold that thought. The result: sixteen point nine per thousand ventilator days without chlorhexidine, eighteen point eight with it. The adjusted incidence rate ratio was one point oh eight, with a confidence interval from nought point eight four to one point three eight. So no difference, and if anything the point estimate goes the wrong way.
-Tom: And mortality?
-Kate: Twenty-eight day mortality twenty-eight point seven per cent without, twenty-six point four with. Adjusted odds ratio nought point eight seven, interval nought point six five to one point one five. Also no clear difference. ICU stay was longer in the chlorhexidine arm by about nought point nine of a day, and that interval, nought point one nine to one point five eight, doesn't cross zero.
-Tom: So, believe it?
-Kate: I'd believe it as a null, not as a refutation. A few things. It's one centre. The patient numbers are quite unbalanced, six hundred and thirty-seven in the no chlorhexidine arm and three hundred and ninety-eight in the chlorhexidine arm, which can happen when units differ in size, but I'd want to see how they handled it in the full paper, and I haven't been able to open it. And it's unblinded.
-Tom: And the C P I S is a soft outcome. If you know which arm you're in, and you're scoring a clinical pulmonary infection score, there's room for drift.
-Kate: There is. That cuts both ways, mind you. But it's a reason not to over read a rate ratio of one point oh eight.
-Tom: What about the earlier evidence? Because I remember this being quite a big story.
-Kate: If memory serves, the worry came from meta-analyses around twenty fourteen that suggested chlorhexidine oral care might do little for pneumonia outside cardiac surgery, and some raised a possible mortality signal. I'm going from memory there, so I wouldn't quote numbers. What I can say is that the authors' own abstract says recent evidence has questioned the benefit outside cardiac surgery. So this lands on the same side.
-Tom: And the practical point is, well, the control arm is a decent bundle. So the incremental question is a fair one.
-Kate: Yes. It's the right question. Does the chlorhexidine add anything on top of toothbrushing, suction, moisturising and so on?
-Tom: What do we do on Monday?
-Kate: If your unit is still routinely using chlorhexidine mouthwash in non cardiac surgical patients, this is one more small reason to ask why. It won't settle it on its own. But I'd say the burden of proof is now on keeping it.
-Tom: That's about right. Unlikely to change much on its own, but it points the way.
-Kate: Right. Now, something with a lot more human cost to it. The T E T R i S study, in Resuscitation, online on the twenty-eighth of October. It's a national service evaluation of resuscitative thoracotomy in the UK.
-Tom: Prospective, I think?
-Kate: Prospective, twelve months. Twenty UK helicopter emergency medical services and twenty-six major trauma centre emergency departments, using the PHOTON, TERN and NaTRIC research networks. So, prehospital and in hospital, which is the bit that retrospective series usually miss.
-Tom: How many?
-Kate: One hundred and sixteen patients had a resuscitative thoracotomy. Eighty-two of those, seventy point seven per cent, were done prehospital. Median age thirty. Eighty-four per cent male. And about seventy per cent penetrating injury.
-Tom: Right. And survival?
-Kate: Fifty patients, forty-three per cent, got return of spontaneous circulation. Eight, six point nine per cent, survived to hospital discharge.
-Tom: Eight out of a hundred and sixteen.
-Kate: Yes. And here's the thing that I think is the real finding. Survival was strongly tied to the cause and the physiology at the time of the procedure. Suspected tamponade was the commonest indication, in sixty-two per cent. But when they looked at what was actually found at operation, seventy point seven per cent turned out to be exsanguinating haemorrhage. And patients with tamponade did substantially better than those with exsanguination. The abstract doesn't give me the split in numbers, so I won't.
-Tom: So what you thought you were treating wasn't always what you were treating.
-Kate: Exactly. And the other headline is that there were no survivors beyond ten minutes of traumatic cardiac arrest.
-Tom: That's a stark line. Ten minutes.
-Kate: It is. It's an observational dataset, mind you. Small numbers of survivors, so any subgroup comparisons are fragile. And ED thoracotomy patients had shorter arrest times, better physiology and higher survival than prehospital ones, but those are different patients to begin with. You can't conclude that doing it in the ED is better.
-Tom: Yes, the arrival-in-better-shape problem. The ones who make it to the ED are by definition the ones who've lasted.
-Kate: Right. So what's it for? It's not going to change anyone's protocol overnight. But for those of us who receive these patients, and who sit in the trauma debriefs, it gives you UK numbers from a prospective national sweep, rather than anecdote. And a clear message that time and physiology matter more than the label on the arrest.
-Tom: And for those of us who aren't on the pre-hospital side, it's a reminder of what the denominator looks like. Eight survivors.
-Kate: Yes. Okay. Anaesthesia. Tom, this one's yours.
-Tom: Right. British Journal of Anaesthesia, online on the twenty-ninth. Remimazolam versus propofol for postoperative delirium in neurovascular surgery. A randomised non-inferiority trial. Single centre, double blind.
-Kate: Remimazolam again.
-Tom: Remimazolam again. So the context is, remimazolam is a benzodiazepine, short acting, reversible with flumazenil, and in the surgical literature it tends to give you less hypotension than propofol. But there's a nagging worry that a benzodiazepine, even a nice one, may push up delirium. So people keep running trials to test that.
-Kate: And why neurovascular?
-Tom: Because they use total intravenous anaesthesia a lot, for neurophysiological monitoring, and you really care about haemodynamics and a quick wake up. Aneurysm clipping, A V M resection, microvascular decompression, and bypass. Both arms had remifentanil. The remimazolam arm got flumazenil at the end.
-Kate: Size?
-Tom: Six hundred and eighty-six in the modified intention to treat analysis. Three hundred and forty-four remimazolam, three hundred and forty-two propofol. The primary outcome was delirium within five days, assessed twice a day with C A M I C U or the three D C A M. The pre-specified non-inferiority margin was ten percentage points.
-Kate: And the result?
-Tom: Delirium in forty-four of three hundred and forty-four, twelve point eight per cent, with remimazolam. Thirty-seven of three hundred and forty-two, ten point eight per cent, with propofol. Risk difference one point nine seven percentage points, ninety-five per cent interval minus two point eight five to six point eight. So the upper bound is well inside ten. Non-inferior by their own criterion.
-Kate: Right. And hypotension?
-Tom: The time below sixty-five millimetres of mercury, as a burden, was lower with remimazolam. Median zero versus seven and a half millimetres of mercury minutes. And extubation in theatre was more common, eighty-five point two per cent versus sixty-seven point three.
-Kate: Which is quite a difference.
-Tom: It is. Though extubation in theatre after neurovascular surgery is partly a local culture call, so I'd hold that one more loosely than the haemodynamics.
-Kate: So do you believe it?
-Tom: I believe it's non-inferior in that population at that margin. Two cautions, and the authors actually make one of them themselves. The observed delirium rate was lower than they'd expected when they set the margin. A ten point margin is generous when your control event rate is about eleven per cent. Non-inferior by ten points is, I mean, you'd still need to be comfortable with the idea that a true difference of, say, five or six points would be fine.
-Kate: Well, the interval does reach six point eight.
-Tom: Quite. And a clinician might not call a six per cent absolute increase in delirium trivial. The second caution is that it's a single centre, in a fairly narrow surgical group, and delirium was a screening outcome.
-Kate: Is there anything else in the literature this week?
-Tom: There's some correspondence in Anaesthesia on how to read bispectral index during remimazolam and propofol anaesthesia, a letter on the twenty-second and the authors' reply on the twenty-third. I've only seen the titles, so I'm not going to characterise the argument. But it tells you that how we monitor depth with remimazolam is still being fought over. And there's an earlier Anaesthesia trial, from the thirteenth of October, comparing remimazolam with propofol for delirium in older patients after lung resection, also a non-inferiority design. I've not read the results, so I won't quote any. But you can see the trend. People keep asking the same question in different surgery.
-Kate: So Monday?
-Tom: Nothing, really. If you already use remimazolam, this adds a bit of reassurance on delirium and a bit more on haemodynamics. If you don't, it isn't a reason to switch. And it doesn't tell you anything about ICU sedation, which is a different population and a different question.
-Kate: Fair. Right. A bit of the human side of intensive care. Two papers on how we do the talking.
-Tom: Go on.
-Kate: First, the European Society of Intensive Care Medicine has published a consensus statement on what it calls human-centred partnership in the I C U. Intensive Care Medicine, online on the twenty-sixth of October. The method is worth a sentence. Forty-six panel members, rapid reviews on twenty P I C O questions across six domains, fifty-three draft statements, a two round eDelphi with two hundred and one stakeholders in the first round and a hundred and forty-nine in the second, and then a consensus meeting that included patient and family representatives. Forty-three statements were endorsed.
-Tom: Forty-three. That's a lot of statements.
-Kate: It is. The headline themes are flexible family visiting, structured interdisciplinary communication, empathy-based training for staff, psychological support for patients and for I C U professionals, culturally responsive care, environmental measures to improve sleep and reduce delirium, and digital technology.
-Tom: None of which anyone's going to argue with.
-Kate: No. And that's rather the point to be careful about. It's a consensus statement, not a trial. The strength is that families and patients were in the room. The weakness is that "everyone agrees flexible visiting is nice" is not the same as evidence that it changes outcomes. I haven't got the full text, so I can't tell you how they graded the evidence behind each statement.
-Tom: So, a useful thing to hold up the next time someone's arguing about visiting hours at the bedside.
-Kate: Yes, I'd say that's about the right use of it.
-Tom: The second paper?
-Kate: This one is in the American Journal of Respiratory and Critical Care Medicine, online on the first of November, so today. Patient versus surrogate decision-making for life sustaining treatment and terminal care intensity. A South Korean nationwide cohort. One million, one hundred and eighty-nine thousand, and forty-two adult I C U admissions, between twenty twenty and twenty twenty-three, across four hundred and seventeen hospitals.
-Tom: And the question?
-Kate: Physician orders for life sustaining treatment, which they call POLST, and advance directives. Does it matter who signs the order, the patient or a surrogate? Among people who died within ninety days, a patient-signed order was associated with lower odds of invasive terminal care. The abstract gives an odds ratio of nought point four three, but the interval printed is nought point four three to nought point five four, which can't be right as it has the estimate at the edge. So I'm not going to quote the interval. It looks like a typo.
-Tom: Fair enough.
-Kate: A surrogate-signed order was more than three times as common as a patient-signed one. And with surrogate-signed orders the odds of invasive terminal care went up. Odds ratio two point one six, interval one point nine eight to two point three five. And even in patients who had an advance directive, once a surrogate signed the final order, the odds were still higher, one point six nine, one point five one to one point eight nine. The authors call that "advance directive erosion".
-Tom: I have a problem with the causal reading of that.
-Kate: Go on.
-Tom: Who signs is going to be tied to capacity, to how sick the patient is, to how sudden the deterioration. A patient who signs an order themselves is probably a patient who's awake and talking, and who's been on a palliative trajectory for a while. A surrogate signs when the patient is already unconscious or crashing. It's a very different population. Those are database associations, and they can't tell you what the surrogate was overriding.
-Kate: Yes, and the term "erosion" is quite loaded. It might be that the surrogate is reflecting real changes in what's known about the prognosis. Also, it's a Korean system, with its own law on life sustaining treatment, and the order itself is not the same thing as a ReSPECT form. So you can't map it straight across.
-Tom: What I do take from it is a modest point about timing. If you want a conversation to be patient-led, it needs to happen before the patient can't take part in it.
-Kate: Which is the authors' conclusion too. There is also an editorial alongside it in the same issue, titled "Lost in advance of translation", about advance directives and surrogate decision making around the world. I haven't read it, so I can't tell you what it argues.
-Tom: Right. Not Monday-changing, but good to have in your pocket for the next family meeting.
-Kate: Now, a short one that I thought was worth a few minutes, because it's a trial you may have seen in print this week. The PRESSURE trial of permissive blood pressure targets in critically ill children, in JAMA.
-Tom: I thought that was out earlier.
-Kate: It was. Europe PMC lists it as first published on the first of October, another source says the twenty-eighth of September, so that's outside our window. The print issue is the twenty-seventh of October, which is why it's turned up in the feeds. So treat it as recent context rather than news. We haven't covered it before, and it's a big paediatric trial.
-Tom: Remind me.
-Kate: Multicentre, unblinded, pragmatic. Twenty-three paediatric intensive care units in three countries. Children who were ventilated and on vasoactive drugs for hypotension. One thousand nine hundred were randomised, nine hundred and ten and nine hundred and four analysed for the primary outcome. Intervention was a permissive mean arterial pressure target above the fifth centile for age. Control was usual care, with the target set by the attending.
-Tom: And the primary outcome was a composite.
-Kate: Yes. Mortality and duration of invasive ventilation at thirty days, analysed as a ranked outcome, so they report a probabilistic index. Nought point five two, interval nought point four nine to nought point five four, P of nought point two three. So no difference. The permissive target did cut exposure. The median norepinephrine-equivalent dose was thirty-seven point five per cent lower. Median arterial pressure while on vasoactives was fifty-eight versus sixty-one.
-Tom: Three millimetres of mercury.
-Kate: Three millimetres. And six of seven secondary outcomes were similar. The one that wasn't was P I C U stay among survivors, one hundred and fifty-nine hours versus one hundred and sixty-six, a probabilistic index of nought point five three. Kidney replacement therapy and adverse events were similar.
-Tom: So fewer drugs, no harm detected, no benefit shown on the primary, and a tiny length of stay signal that I'd not lean on given there were seven secondary outcomes.
-Kate: Agreed. The accompanying JAMA editorial, titled "Blood Pressure Targets in Critically Ill Children", opens by saying that "do I need to treat this blood pressure" is one of the commonest questions an acute care paediatrician asks, and that there is long-standing ambiguity about what counts as acceptable. That's all I've read of it, the opening paragraph, so I can't tell you its conclusion.
-Tom: And what does it mean for adult intensivists? Not much directly, but it echoes the pattern we keep seeing. Chasing a higher number with more vasopressor doesn't reliably buy you anything.
-Kate: And the usual caveat. Three millimetres of mercury separation is a modest contrast. It tells you that being a little more permissive within the studied range was safe enough, not that you can go wherever you like.
-Tom: Right.
-Kate: Now, the medicolegal section. Let me start with two Prevention of Future Deaths reports published on the thirtieth of October. Both were written in the summer, with report dates in July and August, but they were published this week, on the twenty-seventh and the thirtieth.
-Tom: Go on.
-Kate: The first is relevant to anyone who gets called to the ward. Eunice Brookes, coroner area Nottingham City and Nottinghamshire, report dated the twenty-eighth of July, sent to Doncaster and Bassetlaw Teaching Hospitals. A woman admitted with suspected gastrointestinal obstruction, with a known large hiatus hernia that had become incarcerated with a partial gastric volvulus. It wasn't recognised. The coroner found that, had it been recognised, a nasogastric tube would have been placed and, on balance, she would not have died when she did. The conclusion was a narrative with neglect.
-Tom: What did the coroner pick out?
-Kate: No consultant review in the emergency department or acute medicine until she was in extremis, about three to four hours before death. No surgical review until the morning she died. Inadequate fluid balance charting, in particular the large volumes of vomit not being recorded. The trust's adult pain guideline wasn't followed and worsening pain wasn't escalated. And no recognition of her deterioration.
-Tom: And the matters of concern?
-Kate: Four. Inaccurate fluid balance charts, particularly with persistent vomiting. Nursing assessments not identifying a deteriorating patient and so preventing escalation. The pain guideline not being followed, delaying diagnosis of an acute abdomen. And continuing confusion over arrangements for surgical review at weekends and out of hours.
-Tom: It's the familiar list, isn't it? And it's the sort of thing that comes to us late, when we're asked to see someone who has been unwell for days.
-Kate: Yes. It's not an I C U report as such, but it's the pre-I C U story. A patient with a plausible working diagnosis of constipation who didn't fit it. The practical thing for those of us who run outreach or sit on deterioration committees is, I think, the charting point. If vomit isn't measured, you can't see the fluid loss, and your early warning score is going to look better than the patient does.
-Tom: And the second?
-Kate: The second isn't I C U either, but it's addressed to the M H R A, N I C E and the B N F. Alexander Mulroney, Berkshire, report dated the seventh of August. A man with no previous mental health history who took ofloxacin from the sixteenth of December and died by suicide two days later. The coroner's finding was that on the balance of probability the ofloxacin did not itself cause the death but induced a determination to end his life.
-Tom: Fluoroquinolones.
-Kate: Yes. The concern is about how the warning is presented. The coroner heard that the on-screen prescribing alerts include one high severity warning, which talks about disabling and potentially irreversible effects without mentioning suicide, and twelve medium severity ones, with the one that mentions suicide coming twelfth, after about forty-one lines of dense small print. The coroner's concern is that in a time-limited consultation it's missed. The recipients have fifty-six days to respond.
-Tom: It's a nice illustration of alert fatigue. And we all prescribe antibiotics in the I C U, usually not an oral quinolone for a urinary infection, but peri-operatively, sometimes. I'd say the lesson is the one the coroner draws: the warning exists, but a warning in the twelfth slot of a medium alert list is barely a warning.
-Kate: Right. Now, the Court of Protection. There's a lot of post-A G N I judgment writing at the moment. A G N I is the Supreme Court reference from Northern Ireland, neutral citation twenty twenty-six U K S C sixteen, from June this year. It replaces the old Cheshire West approach to deprivation of liberty with what the judges are calling a multifactorial test. The judgments quote it as: look at the person's concrete situation as a whole. Factors include the degree of restriction, the extent of coercion, the person's own wishes and feelings, consent in the Convention sense, and whether the arrangement is within the sphere of relative normality for that person.
-Tom: And this week?
-Kate: Judge Burrows, in a Court of Protection judgment of the twenty-ninth of October, A Local Authority versus Z Z, number two, twenty twenty-six E W C O P fifty-seven. A young man with learning disability and a history of sexual offending, living in supported living, with heavy restrictions largely to protect the public. The judge found a deprivation of liberty, and that it was nonetheless in his best interests. One bit that's useful far beyond that case: he says that compliance, acquiescence and resignation are not consent. His position was, quote, "closer to that of mere acquiescence rather than actual agreement".
-Tom: I like that line.
-Kate: Yes. And the commentary on Mental Capacity Law and Policy this week has been full of it. They note a High Court decision on children, Re B, from Mrs Justice Henke, who leads the National D o L list, applying A G N I to under sixteens, and a Northern Irish High Court decision from Mr Justice Humphreys. In that second one, which they quote, he says that different judges can and will reach different decisions in very similar cases because there's no bright line rule.
-Tom: Which is a polite way of saying it's a mess.
-Kate: They'd probably put it a bit more diplomatically. What I'd say, for us, is: all of these are community and social care cases. I haven't seen anyone this week apply the new test to a hospital or an intensive care setting, where the starting point is still the Ferreira line that treatment in the person's best interests, to save their life, isn't a deprivation of liberty. I'm not saying A G N I changes that. I'm saying I haven't seen it tested.
-Tom: So nothing to do on Monday, but a thing to watch if you do the best-interests paperwork.
-Kate: Yes. Finally, and I'd say this is the one that matters most for intensivists, an update. The Court of Appeal decision in Townsend versus Epsom and St Helier, twenty twenty-six E W C A Civ one nine five, handed down on the third of March. It held there's no carve-out for clinical decisions in incapacitated adults. If there's an unresolved disagreement about life sustaining treatment, it goes to court, and the hospital can't pre-empt that by withholding or withdrawing unilaterally. That's what the commentary says. We've covered it in the deep dives.
-Tom: And it's going to the Supreme Court.
-Kate: Yes. The Supreme Court page lists the hearing for the twelfth and thirteenth of January twenty twenty-seven, permission granted on the twenty-ninth of June. The new bit this week is in the College of Intensive Care Medicine's October president's digest, which was emailed on the thirtieth. It says the College has joined the Intensive Care Society in a submission to the Supreme Court seeking clarity for clinicians after the Court of Appeal ruling. The Supreme Court page, when I looked, didn't list any interveners, so I can't tell you the status or form of that submission. All I can say is what the digest says.
-Tom: The same digest mentions the College has published guidance on assisted feeding under restraint for patients with severe eating disorders, written with the Royal College of Psychiatrists. That's on the F I C M website, I haven't read it.
-Kate: Good to know. So, what to do. For Townsend, nothing new. Keep following the Court of Appeal position for now, and I'd say flag it early to your legal team if you've got a disagreement about withdrawal brewing.
-Tom: That's not legal advice, by the way.
-Kate: No. It isn't. Right, a brief word on what was in the CCR newsletter. Besides PELICAN, the quick takes covered LATE-M T, a randomised trial of thrombectomy twenty-four to seventy-two hours after large vessel stroke, in the New England Journal. These are C C R's figures, from their summary. Three hundred and thirty-six patients, an odds ratio for a better functional outcome of one point seven four, interval one point one nine to two point five five. Symptomatic haemorrhage in four point eight per cent versus none, and mortality six per cent versus one point eight. And the European consensus on temporary mechanical circulatory support in cardiogenic shock, which says match the device to the phenotype and plan the exit from the start.
-Tom: Both were online before this week, and neither is quite our beat, so I'll leave it there.
-Kate: Yes, that's recent context only.
-Tom: So, a recap?
-Kate: The recap. One. Ask your device safety officer about the infusion pump, monitor and flush syringe notices on the MHRA list, because we can't tell you what they say.
-Tom: Two. Chlorhexidine on top of a good oral care bundle showed no benefit in a single-centre Indian cluster crossover trial. Good reason to ask whether you still need it.
-Kate: Three. Resuscitative thoracotomy in the UK: eight survivors out of a hundred and sixteen, and none after ten minutes of traumatic arrest.
-Tom: And four, in the medicolegal pile, Townsend goes to the Supreme Court in January, and the College and the Society are reportedly weighing in.
-Kate: Right. And a note on what we couldn't check this week. We couldn't open the Critical Care Reviews site, the thirty-nine Essex Chambers pages, publisher full texts for the Lancet, N E J M, JAMA, B J A and Anaesthesia, or the manufacturers' device letters. Nor did we get to the Royal College of Anaesthetists, NICE, H S S I B or the Association of Anaesthetists pages directly this week.
-Tom: Thank you for listening. Have a good week.
+Kate: Hello and welcome to the I C M and Anaesthesia Digest for the eighth of November. I'm Kate.
+Tom: And I'm Tom. Now, a bit of honesty up front. This has been a thin week for us, and not because nothing happened.
+Kate: Right. Most of the sites we normally read, the journals, the MHRA, the coroners' reports, the court listings, weren't reachable from where this episode is put together. So where we couldn't open something, we're going to say so, rather than pretend the week was quiet.
+Tom: Which means the main thing we did get is the Critical Care Reviews newsletter, number seven seven seven. And that's dated the first of November, so it covers the week before our usual window. Treat everything today as very recent context rather than breaking news.
+Kate: And the figures come from Critical Care Reviews' own summaries. We couldn't open the papers themselves, so please hold the numbers a bit loosely.
+Tom: Fair. Shall we start with the trial that matters most?
+Kate: Yes. PROSpect. Prone positioning and high-frequency oscillation in early paediatric ARDS, published in the Lancet, first author Curley.
+Tom: It's a two-by-two factorial. So each child is randomised twice, prone versus supine, and oscillation versus conventional ventilation.
+Kate: Per Critical Care Reviews, four hundred and twenty-four children with early moderate to severe paediatric ARDS, across seventy-five paediatric intensive care units in eighteen countries. Primary outcome, ventilator-free days at day twenty-eight.
+Tom: And it's negative.
+Kate: Neither intervention helped. Prone versus supine, the adjusted difference was nought days, with an interval running from roughly minus one to plus one. Oscillation versus conventional, minus nought point three days.
+Tom: So not just a non-significant trend. A tight null centred on nothing.
+Kate: Pretty much. And there were harms. Proning had more airway obstruction and pressure injuries. Oscillation had more haemodynamic instability. No mortality difference detected.
+Tom: Now, it stopped at four hundred and twenty-four of six hundred planned, for futility and slow recruitment. How much does that worry you?
+Kate: Less than it would for a positive trial. Stopping for futility with a tight interval around zero is fairly reassuring. The caveat is that it was response-adaptive, so the analysis is more complicated than a simple two-arm comparison, and I'd want to read the methods before saying more.
+Tom: And the obvious question. Adults.
+Kate: Critical Care Reviews are clear, and I agree. Don't extrapolate. The adult proning evidence is in a different population with a different physiology. And this doesn't settle rescue proning in an individual child who's failing.
+Tom: So on Monday, if you're on a paediatric unit or you take transfers, it argues against routine first-line proning or oscillation in these children. And for adults, nothing changes.
+Kate: Nothing changes. Good. Next.
+Tom: Chlorhexidine in oral care. A cluster-randomised crossover trial in Critical Care, from India.
+Kate: Six medical I C Us, one centre. One thousand and thirty-five adults ventilated for at least forty-eight hours. Everyone gets a standardised oral care bundle, mechanical brushing and so on, with or without point one two per cent chlorhexidine.
+Tom: Ventilator-associated pneumonia was eighteen point eight versus sixteen point nine per thousand ventilator days, chlorhexidine versus none. Adjusted rate ratio one point oh eight, interval about nought point eight four to one point three eight.
+Kate: So no benefit, if anything a nudge the wrong way, though that interval is wide. And I C U stay was nearly a day longer with chlorhexidine.
+Tom: Limitations?
+Kate: Only six clusters, so very few units to carry the design. Unblinded. And VAP defined with a score-based criterion, which is notoriously soft. Critical Care Reviews make the point that absence of a significant difference isn't equivalence.
+Tom: Mm. I'd add that this lines up with where a lot of units already landed. Several have been quietly dropping chlorhexidine because of the mortality signal in earlier meta-analyses.
+Kate: Yes, and I'd keep that separate from this trial. This one just says that adding it to a good bundle didn't buy anything. The bundle is probably doing the work, so keep the toothbrushing.
+Tom: So, practical point. If your unit still routinely uses it, this adds to the case for not bothering. It's not a reason to drop oral care.
+Kate: Right. Now a definitions one. Acute-on-chronic liver failure.
+Tom: Five liver societies, the American, European, Asia-Pacific and two Latin American associations, have published a joint consensus on definitions, in Hepatology.
+Kate: The headline is that you need advanced chronic liver disease, at least stage three fibrosis. Liver failure is defined as an I N R of one point five or more and bilirubin of five milligrams per decilitre or more, plus extrahepatic organ dysfunction or failure. Grade one is one dysfunction, grade two is one organ failure, grade three is two or more organ failures.
+Tom: Which, from the I C U side, is useful mostly for conversations. If we're all using the same words when we refer, and when we talk to the transplant centre about who's too sick or not sick enough, that's helpful.
+Kate: But it's expert consensus. It harmonises definitions. It doesn't show that using them improves outcomes. Critical Care Reviews say much the same: find the underlying liver disease, find the precipitant, and reassess organ failure dynamically.
+Tom: Agreed. Not a Monday change, more a thing to know when the next one comes in.
+Kate: Now, briefly, a couple of things we spotted but couldn't open.
+Tom: There's an American Society of Anesthesiologists guidance on periprocedural fasting in patients on tube feeding, in Anesthesiology Open. We haven't been able to read it, so I won't tell you what it says.
+Kate: What I can say is that this is a long-running practical headache. Patients on enteral feeding who go for tracheostomy or a scan, and get fasted for hours, and miss a lot of their nutrition. If you have a local policy on this, it may be worth checking whether this guidance gives you something to update it against.
+Tom: And there's a European Society of Intensive Care Medicine consensus statement on human-centred partnership in the I C U, in Intensive Care Medicine, led by Latour and colleagues. Same thing. We saw the title and not the text.
+Kate: Worth a read if you're involved in family engagement or visiting policy. And that's all I'd say.
+Tom: On safety, the one thing we can confirm is that Med Safety Week runs from the second to the eighth of November, and it's about reporting suspected side effects and device incidents through Yellow Card. We could not read this week's M H R A alerts or the Drug Safety Update, so if there was a ventilator or infusion pump alert, we've missed it.
+Kate: Same for the medicolegal side. We looked for new prevention of future deaths reports and Court of Protection judgments from this week and couldn't find anything dated in the window, but that is very different from there being nothing. Those listings were not reachable, so please treat that as unchecked.
+Tom: And the same with the anaesthesia journals, B J A and Anaesthesia. Unchecked.
+Kate: So, a recap. One, PROSpect: no benefit from routine proning or oscillation in early paediatric ARDS, with some harms. Don't extrapolate to adults.
+Tom: Two, chlorhexidine on top of a good oral care bundle didn't reduce VAP. Keep the bundle, question the antiseptic.
+Kate: And a request for next week. If you hear of a device alert or a coroner's report we should have caught, we'd like to have it covered properly.
+Tom: Thanks for listening.
 Kate: Bye for now.
