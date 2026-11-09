@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 22:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,24 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>9 November 2026 (backup voices): ON-SCENE prehospital ECPR; DAPT-SHOCK-AMI cangrelor in cardiogenic shock</title>
+      <guid isPermaLink="false">od-digest-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-11-09.mp3" length="5176064" type="audio/mpeg"/>
+      <itunes:duration>863</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>A partial edition (about 14 minutes).</strong> Window: 2 to 9 November 2026. Figures come from Critical Care Reviews newsletter 778 (CCR summaries) and, for DAPT-SHOCK-AMI, ESC 2025 conference coverage; the papers themselves were not opened. Backup voices (Gemini credits depleted).</p>
+<ul>
+<li><strong>ON-SCENE</strong> (NEJM, Reis Miranda): non-randomised stepped-wedge study of prehospital ECPR in adults aged 18 to 50 with refractory OHCA. Per CCR, survival to discharge 40% vs 20% (OR 2.72, 95% CI 1.59 to 4.66); selected population, residual confounding likely. Encouraging, not practice-changing.</li>
+<li><strong>DAPT-SHOCK-AMI</strong> (Lancet, Motovska): 605 patients, cangrelor vs crushed ticagrelor in MI with cardiogenic shock. Non-inferiority for death/MI/stroke at 30 days not established (p=0.13); end-of-PCI platelet inhibition 100% vs 22% in a lab subgroup.</li>
+<li><strong>SCAI SHOCK 2026 update</strong> (expert consensus): stage by hypoperfusion and trajectory, not by device.</li>
+<li><strong>Anaesthesia:</strong> RCoA/Association/DAS joint RSI statement (July 2026, context; excerpts only); Cook narrative review of RSI and Chahal editorial in Anaesthesia (titles only); Putzu sugammadex vs neostigmine meta-analysis (EJA, results not seen); OPTIPAM (Anesthesiology, design only).</li>
+<li><strong>Medicolegal:</strong> Townsend v Epsom and St Helier [2026] EWCA Civ 195 (March, commentary only); French guideline on withholding/withdrawing life-sustaining treatment (ACCPM, abstract only).</li>
+<li><strong>Device check:</strong> Dr&auml;ger Atlan anaesthesia workstations, DSI/2026/005 (first published August; ongoing) - confirm the field action is done locally.</li>
+</ul>
+<p><strong>Unchecked this week:</strong> all journal feeds, MHRA lists, Drug Safety Update, judiciary.uk PFD reports, EWCOP/National Archives, Mental Capacity Law and Policy, The Bottom Line, St Emlyn's, the CCR website, BJA and Anaesthesia. Network access was refused.</p>]]></description>
+    </item>
     <item>
       <title>8 November 2026 (backup voices): PROSpect finds no benefit from proning or oscillation in paediatric ARDS; chlorhexidine bundle trial</title>
       <guid isPermaLink="false">od-digest-2026-11-08</guid>

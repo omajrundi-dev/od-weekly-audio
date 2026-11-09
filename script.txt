@@ -1,47 +1,78 @@
-Kate: Hello and welcome to the I C M and Anaesthesia Digest for the eighth of November. I'm Kate.
-Tom: And I'm Tom. Now, a bit of honesty up front. This has been a thin week for us, and not because nothing happened.
-Kate: Right. Most of the sites we normally read, the journals, the MHRA, the coroners' reports, the court listings, weren't reachable from where this episode is put together. So where we couldn't open something, we're going to say so, rather than pretend the week was quiet.
-Tom: Which means the main thing we did get is the Critical Care Reviews newsletter, number seven seven seven. And that's dated the first of November, so it covers the week before our usual window. Treat everything today as very recent context rather than breaking news.
-Kate: And the figures come from Critical Care Reviews' own summaries. We couldn't open the papers themselves, so please hold the numbers a bit loosely.
-Tom: Fair. Shall we start with the trial that matters most?
-Kate: Yes. PROSpect. Prone positioning and high-frequency oscillation in early paediatric ARDS, published in the Lancet, first author Curley.
-Tom: It's a two-by-two factorial. So each child is randomised twice, prone versus supine, and oscillation versus conventional ventilation.
-Kate: Per Critical Care Reviews, four hundred and twenty-four children with early moderate to severe paediatric ARDS, across seventy-five paediatric intensive care units in eighteen countries. Primary outcome, ventilator-free days at day twenty-eight.
-Tom: And it's negative.
-Kate: Neither intervention helped. Prone versus supine, the adjusted difference was nought days, with an interval running from roughly minus one to plus one. Oscillation versus conventional, minus nought point three days.
-Tom: So not just a non-significant trend. A tight null centred on nothing.
-Kate: Pretty much. And there were harms. Proning had more airway obstruction and pressure injuries. Oscillation had more haemodynamic instability. No mortality difference detected.
-Tom: Now, it stopped at four hundred and twenty-four of six hundred planned, for futility and slow recruitment. How much does that worry you?
-Kate: Less than it would for a positive trial. Stopping for futility with a tight interval around zero is fairly reassuring. The caveat is that it was response-adaptive, so the analysis is more complicated than a simple two-arm comparison, and I'd want to read the methods before saying more.
-Tom: And the obvious question. Adults.
-Kate: Critical Care Reviews are clear, and I agree. Don't extrapolate. The adult proning evidence is in a different population with a different physiology. And this doesn't settle rescue proning in an individual child who's failing.
-Tom: So on Monday, if you're on a paediatric unit or you take transfers, it argues against routine first-line proning or oscillation in these children. And for adults, nothing changes.
-Kate: Nothing changes. Good. Next.
-Tom: Chlorhexidine in oral care. A cluster-randomised crossover trial in Critical Care, from India.
-Kate: Six medical I C Us, one centre. One thousand and thirty-five adults ventilated for at least forty-eight hours. Everyone gets a standardised oral care bundle, mechanical brushing and so on, with or without point one two per cent chlorhexidine.
-Tom: Ventilator-associated pneumonia was eighteen point eight versus sixteen point nine per thousand ventilator days, chlorhexidine versus none. Adjusted rate ratio one point oh eight, interval about nought point eight four to one point three eight.
-Kate: So no benefit, if anything a nudge the wrong way, though that interval is wide. And I C U stay was nearly a day longer with chlorhexidine.
-Tom: Limitations?
-Kate: Only six clusters, so very few units to carry the design. Unblinded. And VAP defined with a score-based criterion, which is notoriously soft. Critical Care Reviews make the point that absence of a significant difference isn't equivalence.
-Tom: Mm. I'd add that this lines up with where a lot of units already landed. Several have been quietly dropping chlorhexidine because of the mortality signal in earlier meta-analyses.
-Kate: Yes, and I'd keep that separate from this trial. This one just says that adding it to a good bundle didn't buy anything. The bundle is probably doing the work, so keep the toothbrushing.
-Tom: So, practical point. If your unit still routinely uses it, this adds to the case for not bothering. It's not a reason to drop oral care.
-Kate: Right. Now a definitions one. Acute-on-chronic liver failure.
-Tom: Five liver societies, the American, European, Asia-Pacific and two Latin American associations, have published a joint consensus on definitions, in Hepatology.
-Kate: The headline is that you need advanced chronic liver disease, at least stage three fibrosis. Liver failure is defined as an I N R of one point five or more and bilirubin of five milligrams per decilitre or more, plus extrahepatic organ dysfunction or failure. Grade one is one dysfunction, grade two is one organ failure, grade three is two or more organ failures.
-Tom: Which, from the I C U side, is useful mostly for conversations. If we're all using the same words when we refer, and when we talk to the transplant centre about who's too sick or not sick enough, that's helpful.
-Kate: But it's expert consensus. It harmonises definitions. It doesn't show that using them improves outcomes. Critical Care Reviews say much the same: find the underlying liver disease, find the precipitant, and reassess organ failure dynamically.
-Tom: Agreed. Not a Monday change, more a thing to know when the next one comes in.
-Kate: Now, briefly, a couple of things we spotted but couldn't open.
-Tom: There's an American Society of Anesthesiologists guidance on periprocedural fasting in patients on tube feeding, in Anesthesiology Open. We haven't been able to read it, so I won't tell you what it says.
-Kate: What I can say is that this is a long-running practical headache. Patients on enteral feeding who go for tracheostomy or a scan, and get fasted for hours, and miss a lot of their nutrition. If you have a local policy on this, it may be worth checking whether this guidance gives you something to update it against.
-Tom: And there's a European Society of Intensive Care Medicine consensus statement on human-centred partnership in the I C U, in Intensive Care Medicine, led by Latour and colleagues. Same thing. We saw the title and not the text.
-Kate: Worth a read if you're involved in family engagement or visiting policy. And that's all I'd say.
-Tom: On safety, the one thing we can confirm is that Med Safety Week runs from the second to the eighth of November, and it's about reporting suspected side effects and device incidents through Yellow Card. We could not read this week's M H R A alerts or the Drug Safety Update, so if there was a ventilator or infusion pump alert, we've missed it.
-Kate: Same for the medicolegal side. We looked for new prevention of future deaths reports and Court of Protection judgments from this week and couldn't find anything dated in the window, but that is very different from there being nothing. Those listings were not reachable, so please treat that as unchecked.
-Tom: And the same with the anaesthesia journals, B J A and Anaesthesia. Unchecked.
-Kate: So, a recap. One, PROSpect: no benefit from routine proning or oscillation in early paediatric ARDS, with some harms. Don't extrapolate to adults.
-Tom: Two, chlorhexidine on top of a good oral care bundle didn't reduce VAP. Keep the bundle, question the antiseptic.
-Kate: And a request for next week. If you hear of a device alert or a coroner's report we should have caught, we'd like to have it covered properly.
-Tom: Thanks for listening.
-Kate: Bye for now.
+Kate: Hello and welcome to the ICM and Anaesthesia Digest. It's the ninth of November. I'm Kate.
+Tom: And I'm Tom. Right, a slightly odd week, Kate. Plenty of papers, but a lot of our usual primary sources were locked away from us again.
+Kate: Yes, we should say that up front. I'm going to be straight with people. Most of the figures today come from the Critical Care Reviews newsletter, number seven hundred and seventy-eight, and from conference coverage of one trial. Where we couldn't open the paper itself, we'll say so.
+Tom: And the journal feeds, the MHRA lists, the coroners' reports and the Court of Protection listings were all out of reach this week. So when we say we found nothing in those, please hear that as unchecked, not quiet.
+Kate: Good. So the plan. Two big cardiac arrest and shock papers, then an anaesthesia section on rapid sequence induction and a couple of other bits, then a short medicolegal slot, and a device check to finish.
+Tom: Lead with the arrest one.
+Kate: Right. ON-SCENE. This is in the New England Journal, from a Dutch group led by Reis Miranda, and it's about taking extracorporeal CPR out of the hospital and onto the helicopter.
+Tom: Which is a bold thing to do. What was the design?
+Kate: So this is important. It's not a randomised trial. It's a national stepped-wedge study across four Dutch helicopter services, where the services rolled out the ability to start ECPR on scene at different times. Adults aged eighteen to fifty with refractory out-of-hospital arrest. The registry entry describes witnessed arrests, with refractory arrest lasting more than twenty minutes but under forty-five.
+Tom: So very selected. Young, witnessed, shockable or similar rhythm, a team that can cannulate on a roadside.
+Kate: Exactly. According to Critical Care Reviews, two hundred and thirty-one patients were analysed. Survival to hospital discharge was forty per cent, fifty-seven out of a hundred and forty-four, with the ECPR-capable teams, versus twenty per cent, seventeen out of eighty-seven, with conventional teams. Odds ratio two point seven two, with a ninety-five per cent interval of one point five nine to four point six six.
+Tom: That's a big difference.
+Kate: It is. And favourable neurological outcome at six months, again per CCR, was thirty-six per cent versus thirteen per cent.
+Tom: Okay. Now the but.
+Kate: The but is the design. Rollout wasn't randomised, it wasn't blinded, and CCR points out that residual confounding and temporal effects are possible. Recruitment also fell short of the planned sample. Adverse events included bleeding and cannulation difficulties.
+Tom: And time. Stepped-wedge across years means everything else in the system is moving too. Bystander CPR rates, defibrillation, post-arrest care, even who gets labelled refractory.
+Kate: Yes. And the other thing I'd say is that the comparison isn't ECPR versus no ECPR in the same patient. It's a service that can do it versus one that can't, and the ones that can are probably a particular kind of service in other ways as well.
+Tom: Fair. Where does it sit against what we already have? Because we've had randomised ECPR trials.
+Kate: We have. In-hospital and emergency department settings, ARREST, Prague, INCEPTION, and they've been, I'd say, mixed, with the more positive ones in carefully chosen systems. I haven't got those numbers in front of me this week so I won't quote them. The honest summary is that benefit seems real only when the system is fast and the patient selection is tight.
+Tom: And this paper fits that. A specialist service, selected young patients, short low-flow time.
+Kate: CCR's bottom line is that the association is encouraging and supports further evaluation of rapid prehospital ECPR, but does not establish a causal survival benefit or justify extrapolating to unselected cardiac arrest.
+Tom: Which is where I'd land. Monday morning, nothing changes. If you're in a region thinking about a prehospital ECPR service, it's a reason to keep going with a proper evaluation, not a reason to launch one on the strength of this.
+Kate: Agreed. Interesting though, that a non-randomised study got into the New England Journal. Says something about how hard it is to randomise this.
+Tom: It does. Right, second one. Cardiogenic shock and antiplatelets.
+Kate: DAPT-SHOCK-AMI, in the Lancet, Motovska and colleagues. This was presented at the European Society of Cardiology last year, so the headline numbers are known, and I've been able to check them against the conference coverage.
+Tom: The question being?
+Kate: In someone with a heart attack and cardiogenic shock, who's sedated and ventilated, probably with a gut that isn't absorbing anything, does intravenous cangrelor beat crushed oral ticagrelor?
+Tom: Which is a very practical question. We all crush ticagrelor down an NG tube and hope.
+Kate: We do. Six hundred and five patients, twenty-nine hospitals in five European countries, double-blind. And the primary clinical endpoint was death, myocardial infarction or stroke at thirty days, and the aim was to show cangrelor wasn't worse.
+Tom: And?
+Kate: It didn't show that. Thirty-seven point six per cent with cangrelor versus forty-one per cent with ticagrelor on the conference figures, and the non-inferiority p value was nought point one three. So the trial did not establish non-inferiority.
+Tom: Hang on. That sounds like a numerically better result for cangrelor that failed a non-inferiority test. That's a bit counter-intuitive.
+Kate: It is, and it's a nice example of why non-inferiority margins matter. A point estimate in the right direction doesn't meet a prespecified margin on its own, and CCR notes the margin wasn't met. So you can't call it a win, and you can't call it a loss.
+Tom: What about the platelet effect?
+Kate: In a laboratory subgroup of a hundred and twenty-four patients, adequate platelet inhibition at the end of the PCI was one hundred per cent with cangrelor and twenty-two per cent with crushed ticagrelor.
+Tom: Twenty-two per cent. So four out of five weren't adequately inhibited at the end of the procedure.
+Kate: Yes, and that's the real finding for me. It confirms what pharmacology studies have been saying for years, that crushed oral antiplatelets are unreliable in shock. But CCR is careful to say this is a subgroup, and it shouldn't be mistaken for a demonstrated clinical benefit.
+Tom: Bleeding?
+Kate: Major bleeding at thirty days was about six per cent with cangrelor and five per cent with ticagrelor. Similar, but not proven equivalent.
+Tom: And the presenters talked about lower cardiovascular mortality with cangrelor at later time points.
+Kate: They did, but those were secondary or exploratory, so I'd keep them out of the decision. They need confirming in a bigger trial.
+Tom: So practical message?
+Kate: Cangrelor gives you reliable immediate platelet inhibition when oral absorption is uncertain. This trial doesn't prove it gives better outcomes. If your cardiology colleagues already use it in shock, this supports their pharmacology. If they don't, this isn't the paper that tells them to start. And it's worth asking in your own unit what actually happens to the crushed ticagrelor, because that twenty-two per cent is a sobering number.
+Tom: One more cardiac thing, briefly. The SCAI shock classification has been updated.
+Kate: Yes. Stages A to E again, now with phenotypes and populations built in, including infarct shock, heart failure, right ventricular and mixed shock, and paediatrics. The key line, per CCR, is that hypoperfusion, not hypotension alone, distinguishes stages B and C. Stage D is worsening or failing to improve despite initial support, and stage E is actual or impending collapse.
+Tom: And the accompanying editorial title says it all, staging shock by physiology, not by devices.
+Kate: It does. But I haven't read the editorial, so I'll only say the title. And note this is expert consensus, not evidence that staging improves outcomes. CCR's advice is to use it as a shared language for reassessment and handover, and not to treat a stage as an automatic indication for a particular device.
+Tom: Which, as someone who has argued about escalation on the phone at three in the morning, is a sensible thing to say.
+Kate: Right, let's move to anaesthesia. Rapid sequence induction.
+Tom: This is a big topic at the moment. Back in the summer, in July, the Royal College of Anaesthetists, the Association of Anaesthetists and the Difficult Airway Society put out a joint statement on rapid sequence induction and intubation in adult practice.
+Kate: That's outside our window, so it's context, not news. But it matters for this week. As far as I could see from the summaries, the statement was partly a response to coroners' reports, and it acknowledges gaps in the evidence. It says delayed sequence induction is appropriate for patients who can't cooperate with pre-oxygenation. And on cricoid force it says accuracy is improved by education, practice, ultrasound and videolaryngoscopy to see the effect.
+Tom: I should say, we've only seen excerpts of that statement, not the whole thing. So don't treat that as a full account.
+Kate: Quite. And they say a fuller guideline is still to come. Then, on the second of November, Cook and colleagues published a narrative review of rapid sequence induction in Anaesthesia.
+Tom: I couldn't open it, so I can only tell you it exists. And alongside it, an editorial in the same journal by Chahal, titled "Beyond difficult: matching airway risk to intervention".
+Kate: Which is a nice phrase. Though again, title only. I'd flag that those two are worth reading together with the college statement if you do any emergency anaesthesia or ICU intubation.
+Tom: And this is the point. The old textbook RSI, the cricoid, the suxamethonium, the no-bagging, hasn't been the real world for a long time. We have preoxygenation with high flow, videolaryngoscopy, rocuronium and sugammadex. The debate is how much of that is actually evidence.
+Kate: Yes, and a review that sets that out clearly is welcome. Next time we have the full text, we'll do it properly.
+Tom: Sugammadex came up as well, actually. A meta-analysis from Putzu and colleagues in the European Journal of Anaesthesiology, sugammadex versus neostigmine for reversal.
+Kate: I couldn't confirm its results this week, so no numbers. For context, earlier meta-analyses, for instance one in 2021 that pooled fourteen trials and about fourteen hundred patients, found fewer postoperative pulmonary complications with sugammadex, an odds ratio of nought point six two. That was driven mainly by respiratory failure.
+Tom: Though the earlier literature wasn't consistent, and a lot of it was small, single-centre trials. So I'd wait to see what the new one adds.
+Kate: Quickly, two more anaesthesia bits. OPTIPAM, in Anesthesiology, a trial of individualised blood pressure targets in cardiac surgery.
+Tom: I'll be careful here. We've only seen the design, from the 2023 protocol. It planned eleven hundred patients, randomised open-label, individualised targets based on baseline mean arterial pressure versus a standard of sixty-five or more, with a composite of kidney injury, neurological complications and death. We haven't seen the result, so we can't tell you if it worked.
+Kate: Which is a shame, because it's exactly the question. And an editorial in Anaesthesia by Eich, on toxic followership and permissive environments in acute healthcare. Title only again, but it's the human-factors theme that keeps coming back.
+Tom: Right, medicolegal.
+Kate: Short and cautious. We couldn't reach the Court of Protection listings or the coroners' database this week, so nothing from them. Summer coroners' reports we did see are outside our window, including ones on anaesthetic death and sepsis escalation, so I won't discuss them.
+Tom: What we can say is that there's a recent Court of Appeal decision, Townsend against Epsom and St Helier, from March this year. We only have commentary on it, not the judgment itself. As the commentary reads it, it says clinical decisions about incapacitated adults sit inside the best-interests framework, which may mean more treatment disputes reaching the Court of Protection.
+Kate: And the patient died before a best-interests evaluation could happen. Please check the judgment itself before relying on any of that, because I'm giving you a secondhand account.
+Tom: Something else that touches on this. A French guideline on decisions to withhold or withdraw life-sustaining treatment in adult ICU, by Giabicani and colleagues, in the journal Anaesthesia Critical Care and Pain Medicine.
+Kate: Expert consensus, strong agreement on all the recommendations after one round of rating, from what the abstract says. I haven't seen the recommendations. It's a different legal system from ours, so treat it as comparison, not guidance.
+Tom: Device check, then.
+Kate: Yes. This isn't new this week, but it keeps appearing on the MHRA lists. The Dräger Atlan anaesthesia workstation alert, reference DSI slash 2026 slash 005, first published in August. The concern is a manufacturing defect that may cause piston ventilator failure before or during use, and the affected range was later expanded.
+Tom: So if you have Atlan machines, check with your medical engineering team that the field action has been done for your serial numbers. I haven't seen this week's MHRA lists, so there may be newer alerts we've missed.
+Kate: Fair. And one last thing from the CCR newsletter. They say CCR Frankfurt is on the twenty-second and twenty-third of February, with trials still being announced.
+Tom: Right, recap time.
+Kate: One. ON-SCENE is encouraging for prehospital ECPR in young, selected patients, but it's non-randomised, so keep the claim modest. Two. In shock with a heart attack, crushed ticagrelor often fails to inhibit platelets, and cangrelor fixes that, but the trial didn't prove non-inferior clinical outcomes.
+Tom: And three, if you have Dräger Atlan machines, check the alert has been actioned. Plus, read the RSI statement and Cook's review when you can.
+Kate: Thanks for listening, and we'll be back next week.
+Tom: Bye for now.
