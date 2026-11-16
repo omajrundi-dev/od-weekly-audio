@@ -10,7 +10,7 @@
     <description>A private weekly audio briefing on new intensive care medicine and anaesthesia research. Not for public listing.</description>
     <language>en-gb</language>
     <copyright>Personal use only</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 12:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:30:00 +0000</lastBuildDate>
     <image>
       <url>https://omajrundi-dev.github.io/od-weekly-audio/cover.png</url>
       <title>ICM &amp; Anaesthesia Digest</title>
@@ -26,6 +26,27 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <!-- EPISODES: newest first, no cap. New <item> elements are inserted directly below this line. -->
+    <item>
+      <title>16 November 2026: RACE-CARS community cardiac arrest programme fails to improve survival; VILARE videolaryngoscopy in trainees</title>
+      <guid isPermaLink="false">od-digest-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 19:30:00 +0000</pubDate>
+      <enclosure url="https://omajrundi-dev.github.io/od-weekly-audio/episodes/2026-11-16.mp3" length="10381722" type="audio/mpeg"/>
+      <itunes:duration>1730</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description><![CDATA[<p><strong>Window: 9 to 16 November 2026.</strong> About 29 minutes. Primary papers could not be opened this week; figures come from Critical Care Reviews newsletter 779 (CCR summaries), trial registrations/protocols and abstract-level summaries, and are attributed on air. Unconfirmed results were left out.</p>
+<ul>
+<li><strong>RACE-CARS</strong> (NEJM, Malta Hansen, epub 8 Nov): cluster RCT in North Carolina, 55 clusters, 22,459 adult OHCAs. Favourable neurological survival 9.0% vs 9.4% (CCR: aOR 0.97, 95% CI 0.75 to 1.26). AHA summary: no overall rise in bystander CPR or defibrillation. A failure of reach, not evidence against bystander CPR. <a href="https://www.nejm.org/doi/10.1056/NEJMoa2612757">NEJM</a></li>
+<li><strong>SWITCH-SWEDEHEART</strong> (NEJM, Omerovic): registry stepped-wedge, 17,095 ACS/PCI patients; default prasugrel not superior to ticagrelor (11.1% vs 11.8%, aOR 0.90, 0.77 to 1.06, per CCR).</li>
+<li><strong>ILCOR 2026 CoSTR</strong> (Circulation, 5 Nov, recent context): against routine thrombolysis in arrest; insufficient evidence for routine IM adrenaline; preprint suggests against routine fluids in undifferentiated arrest and against starch. Check local protocols; no change on the unit. <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000001473">Circulation</a></li>
+<li><strong>Normocapnia vs mild hypercapnia in ARDS</strong> (Crit Care Med, 11 Nov; target trial emulation, observational): 292 per arm, 90-day mortality 28.8% in both (per abstract). Permissive hypercapnia still reasonable outside brain injury and RV failure. <a href="https://doi.org/10.1097/CCM.0000000000007434">doi</a></li>
+<li><strong>Anaesthesia: VILARE</strong> (Anaesthesia, Taboada, about 9 Nov): pragmatic multicentre RCT in Spain, Macintosh-blade VL vs DL by residents in elective/urgent theatre patients, about 1,000 planned, first-attempt success primary outcome. Results not verified against the paper, so not quoted. Fits DEVICE and COVALENT; keep teaching DL. <a href="https://clinicaltrials.gov/study/NCT06842082">Registration</a></li>
+<li><strong>Ketamine vs etomidate</strong> (Khan, Crit Care Explor; secondary observational analysis of DEVICE and PREOXI, 2,357 patients): ketamine linked to more CV collapse (aOR about 1.8, per abstract), mainly vasopressor use, consistent with the RSI trial. Reduce the dose and have the pressor ready. <a href="https://doi.org/10.1097/CCE.0000000000001510">doi</a></li>
+<li><strong>Medicolegal:</strong> Lewis, "The Right-to-Try Does Not Apply to Brain Death", Neurocrit Care viewpoint, 13 Nov (US discourse; abstract only). No in-window EWCOP treatment judgment or PFD report could be confirmed. <a href="https://pubmed.ncbi.nlm.nih.gov/43026399">PubMed</a></li>
+<li><strong>Device check:</strong> MHRA field safety notices list, 2 to 6 Nov (dated 10 Nov), includes Abiomed Automated Impella Controller, Datascope Cardiosave IABP, Aerogen and Codan; contents not read, so ask your devices team. Dr&auml;ger Atlan DSI/2026/005 (August, re-listed) still worth confirming locally.</li>
+<li>Seen, results not verified: CO-ROAM (oliceridine vs remifentanil, ICM), ADJUST (ulinastatin in sepsis, Chest), cefepime neurotoxicity target trial emulations (Crit Care), Majumdar NHS Resolution aspiration claims letter (Anaesthesia).</li>
+</ul>
+<p><strong>Unchecked this week:</strong> full text of all journals (NEJM, Anaesthesia, BJA, ICM, CCM, Chest, Circulation), PubMed, journal RSS feeds, gov.uk MHRA alerts and Drug Safety Update, judiciary.uk PFD reports, National Archives EWCOP listings, Mental Capacity Law and Policy, 39 Essex, The Bottom Line, St Emlyn's, criticalcarereviews.com. Shell and web fetch access to these hosts was refused; WebSearch and Gmail only.</p>]]></description>
+    </item>
     <item>
       <title>9 November 2026 (re-rendered with the usual voices): ON-SCENE prehospital ECPR; DAPT-SHOCK-AMI cangrelor in cardiogenic shock</title>
       <guid isPermaLink="false">od-digest-2026-11-09-2</guid>

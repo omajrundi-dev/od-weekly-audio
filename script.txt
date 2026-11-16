@@ -1,78 +1,184 @@
-Kate: Hello and welcome to the ICM and Anaesthesia Digest. It's the ninth of November. I'm Kate.
-Tom: And I'm Tom. Right, a slightly odd week, Kate. Plenty of papers, but a lot of our usual primary sources were locked away from us again.
-Kate: Yes, we should say that up front. I'm going to be straight with people. Most of the figures today come from the Critical Care Reviews newsletter, number seven hundred and seventy-eight, and from conference coverage of one trial. Where we couldn't open the paper itself, we'll say so.
-Tom: And the journal feeds, the MHRA lists, the coroners' reports and the Court of Protection listings were all out of reach this week. So when we say we found nothing in those, please hear that as unchecked, not quiet.
-Kate: Good. So the plan. Two big cardiac arrest and shock papers, then an anaesthesia section on rapid sequence induction and a couple of other bits, then a short medicolegal slot, and a device check to finish.
-Tom: Lead with the arrest one.
-Kate: Right. ON-SCENE. This is in the New England Journal, from a Dutch group led by Reis Miranda, and it's about taking extracorporeal CPR out of the hospital and onto the helicopter.
-Tom: Which is a bold thing to do. What was the design?
-Kate: So this is important. It's not a randomised trial. It's a national stepped-wedge study across four Dutch helicopter services, where the services rolled out the ability to start ECPR on scene at different times. Adults aged eighteen to fifty with refractory out-of-hospital arrest. The registry entry describes witnessed arrests, with refractory arrest lasting more than twenty minutes but under forty-five.
-Tom: So very selected. Young, witnessed, shockable or similar rhythm, a team that can cannulate on a roadside.
-Kate: Exactly. According to Critical Care Reviews, two hundred and thirty-one patients were analysed. Survival to hospital discharge was forty per cent, fifty-seven out of a hundred and forty-four, with the ECPR-capable teams, versus twenty per cent, seventeen out of eighty-seven, with conventional teams. Odds ratio two point seven two, with a ninety-five per cent interval of one point five nine to four point six six.
-Tom: That's a big difference.
-Kate: It is. And favourable neurological outcome at six months, again per CCR, was thirty-six per cent versus thirteen per cent.
-Tom: Okay. Now the but.
-Kate: The but is the design. Rollout wasn't randomised, it wasn't blinded, and CCR points out that residual confounding and temporal effects are possible. Recruitment also fell short of the planned sample. Adverse events included bleeding and cannulation difficulties.
-Tom: And time. Stepped-wedge across years means everything else in the system is moving too. Bystander CPR rates, defibrillation, post-arrest care, even who gets labelled refractory.
-Kate: Yes. And the other thing I'd say is that the comparison isn't ECPR versus no ECPR in the same patient. It's a service that can do it versus one that can't, and the ones that can are probably a particular kind of service in other ways as well.
-Tom: Fair. Where does it sit against what we already have? Because we've had randomised ECPR trials.
-Kate: We have. In-hospital and emergency department settings, ARREST, Prague, INCEPTION, and they've been, I'd say, mixed, with the more positive ones in carefully chosen systems. I haven't got those numbers in front of me this week so I won't quote them. The honest summary is that benefit seems real only when the system is fast and the patient selection is tight.
-Tom: And this paper fits that. A specialist service, selected young patients, short low-flow time.
-Kate: CCR's bottom line is that the association is encouraging and supports further evaluation of rapid prehospital ECPR, but does not establish a causal survival benefit or justify extrapolating to unselected cardiac arrest.
-Tom: Which is where I'd land. Monday morning, nothing changes. If you're in a region thinking about a prehospital ECPR service, it's a reason to keep going with a proper evaluation, not a reason to launch one on the strength of this.
-Kate: Agreed. Interesting though, that a non-randomised study got into the New England Journal. Says something about how hard it is to randomise this.
-Tom: It does. Right, second one. Cardiogenic shock and antiplatelets.
-Kate: DAPT-SHOCK-AMI, in the Lancet, Motovska and colleagues. This was presented at the European Society of Cardiology last year, so the headline numbers are known, and I've been able to check them against the conference coverage.
-Tom: The question being?
-Kate: In someone with a heart attack and cardiogenic shock, who's sedated and ventilated, probably with a gut that isn't absorbing anything, does intravenous cangrelor beat crushed oral ticagrelor?
-Tom: Which is a very practical question. We all crush ticagrelor down an NG tube and hope.
-Kate: We do. Six hundred and five patients, twenty-nine hospitals in five European countries, double-blind. And the primary clinical endpoint was death, myocardial infarction or stroke at thirty days, and the aim was to show cangrelor wasn't worse.
-Tom: And?
-Kate: It didn't show that. Thirty-seven point six per cent with cangrelor versus forty-one per cent with ticagrelor on the conference figures, and the non-inferiority p value was nought point one three. So the trial did not establish non-inferiority.
-Tom: Hang on. That sounds like a numerically better result for cangrelor that failed a non-inferiority test. That's a bit counter-intuitive.
-Kate: It is, and it's a nice example of why non-inferiority margins matter. A point estimate in the right direction doesn't meet a prespecified margin on its own, and CCR notes the margin wasn't met. So you can't call it a win, and you can't call it a loss.
-Tom: What about the platelet effect?
-Kate: In a laboratory subgroup of a hundred and twenty-four patients, adequate platelet inhibition at the end of the PCI was one hundred per cent with cangrelor and twenty-two per cent with crushed ticagrelor.
-Tom: Twenty-two per cent. So four out of five weren't adequately inhibited at the end of the procedure.
-Kate: Yes, and that's the real finding for me. It confirms what pharmacology studies have been saying for years, that crushed oral antiplatelets are unreliable in shock. But CCR is careful to say this is a subgroup, and it shouldn't be mistaken for a demonstrated clinical benefit.
-Tom: Bleeding?
-Kate: Major bleeding at thirty days was about six per cent with cangrelor and five per cent with ticagrelor. Similar, but not proven equivalent.
-Tom: And the presenters talked about lower cardiovascular mortality with cangrelor at later time points.
-Kate: They did, but those were secondary or exploratory, so I'd keep them out of the decision. They need confirming in a bigger trial.
-Tom: So practical message?
-Kate: Cangrelor gives you reliable immediate platelet inhibition when oral absorption is uncertain. This trial doesn't prove it gives better outcomes. If your cardiology colleagues already use it in shock, this supports their pharmacology. If they don't, this isn't the paper that tells them to start. And it's worth asking in your own unit what actually happens to the crushed ticagrelor, because that twenty-two per cent is a sobering number.
-Tom: One more cardiac thing, briefly. The SCAI shock classification has been updated.
-Kate: Yes. Stages A to E again, now with phenotypes and populations built in, including infarct shock, heart failure, right ventricular and mixed shock, and paediatrics. The key line, per CCR, is that hypoperfusion, not hypotension alone, distinguishes stages B and C. Stage D is worsening or failing to improve despite initial support, and stage E is actual or impending collapse.
-Tom: And the accompanying editorial title says it all, staging shock by physiology, not by devices.
-Kate: It does. But I haven't read the editorial, so I'll only say the title. And note this is expert consensus, not evidence that staging improves outcomes. CCR's advice is to use it as a shared language for reassessment and handover, and not to treat a stage as an automatic indication for a particular device.
-Tom: Which, as someone who has argued about escalation on the phone at three in the morning, is a sensible thing to say.
-Kate: Right, let's move to anaesthesia. Rapid sequence induction.
-Tom: This is a big topic at the moment. Back in the summer, in July, the Royal College of Anaesthetists, the Association of Anaesthetists and the Difficult Airway Society put out a joint statement on rapid sequence induction and intubation in adult practice.
-Kate: That's outside our window, so it's context, not news. But it matters for this week. As far as I could see from the summaries, the statement was partly a response to coroners' reports, and it acknowledges gaps in the evidence. It says delayed sequence induction is appropriate for patients who can't cooperate with pre-oxygenation. And on cricoid force it says accuracy is improved by education, practice, ultrasound and videolaryngoscopy to see the effect.
-Tom: I should say, we've only seen excerpts of that statement, not the whole thing. So don't treat that as a full account.
-Kate: Quite. And they say a fuller guideline is still to come. Then, on the second of November, Cook and colleagues published a narrative review of rapid sequence induction in Anaesthesia.
-Tom: I couldn't open it, so I can only tell you it exists. And alongside it, an editorial in the same journal by Chahal, titled "Beyond difficult: matching airway risk to intervention".
-Kate: Which is a nice phrase. Though again, title only. I'd flag that those two are worth reading together with the college statement if you do any emergency anaesthesia or ICU intubation.
-Tom: And this is the point. The old textbook RSI, the cricoid, the suxamethonium, the no-bagging, hasn't been the real world for a long time. We have preoxygenation with high flow, videolaryngoscopy, rocuronium and sugammadex. The debate is how much of that is actually evidence.
-Kate: Yes, and a review that sets that out clearly is welcome. Next time we have the full text, we'll do it properly.
-Tom: Sugammadex came up as well, actually. A meta-analysis from Putzu and colleagues in the European Journal of Anaesthesiology, sugammadex versus neostigmine for reversal.
-Kate: I couldn't confirm its results this week, so no numbers. For context, earlier meta-analyses, for instance one in 2021 that pooled fourteen trials and about fourteen hundred patients, found fewer postoperative pulmonary complications with sugammadex, an odds ratio of nought point six two. That was driven mainly by respiratory failure.
-Tom: Though the earlier literature wasn't consistent, and a lot of it was small, single-centre trials. So I'd wait to see what the new one adds.
-Kate: Quickly, two more anaesthesia bits. OPTIPAM, in Anesthesiology, a trial of individualised blood pressure targets in cardiac surgery.
-Tom: I'll be careful here. We've only seen the design, from the 2023 protocol. It planned eleven hundred patients, randomised open-label, individualised targets based on baseline mean arterial pressure versus a standard of sixty-five or more, with a composite of kidney injury, neurological complications and death. We haven't seen the result, so we can't tell you if it worked.
-Kate: Which is a shame, because it's exactly the question. And an editorial in Anaesthesia by Eich, on toxic followership and permissive environments in acute healthcare. Title only again, but it's the human-factors theme that keeps coming back.
-Tom: Right, medicolegal.
-Kate: Short and cautious. We couldn't reach the Court of Protection listings or the coroners' database this week, so nothing from them. Summer coroners' reports we did see are outside our window, including ones on anaesthetic death and sepsis escalation, so I won't discuss them.
-Tom: What we can say is that there's a recent Court of Appeal decision, Townsend against Epsom and St Helier, from March this year. We only have commentary on it, not the judgment itself. As the commentary reads it, it says clinical decisions about incapacitated adults sit inside the best-interests framework, which may mean more treatment disputes reaching the Court of Protection.
-Kate: And the patient died before a best-interests evaluation could happen. Please check the judgment itself before relying on any of that, because I'm giving you a secondhand account.
-Tom: Something else that touches on this. A French guideline on decisions to withhold or withdraw life-sustaining treatment in adult ICU, by Giabicani and colleagues, in the journal Anaesthesia Critical Care and Pain Medicine.
-Kate: Expert consensus, strong agreement on all the recommendations after one round of rating, from what the abstract says. I haven't seen the recommendations. It's a different legal system from ours, so treat it as comparison, not guidance.
-Tom: Device check, then.
-Kate: Yes. This isn't new this week, but it keeps appearing on the MHRA lists. The Dräger Atlan anaesthesia workstation alert, reference DSI slash 2026 slash 005, first published in August. The concern is a manufacturing defect that may cause piston ventilator failure before or during use, and the affected range was later expanded.
-Tom: So if you have Atlan machines, check with your medical engineering team that the field action has been done for your serial numbers. I haven't seen this week's MHRA lists, so there may be newer alerts we've missed.
-Kate: Fair. And one last thing from the CCR newsletter. They say CCR Frankfurt is on the twenty-second and twenty-third of February, with trials still being announced.
-Tom: Right, recap time.
-Kate: One. ON-SCENE is encouraging for prehospital ECPR in young, selected patients, but it's non-randomised, so keep the claim modest. Two. In shock with a heart attack, crushed ticagrelor often fails to inhibit platelets, and cangrelor fixes that, but the trial didn't prove non-inferior clinical outcomes.
-Tom: And three, if you have Dräger Atlan machines, check the alert has been actioned. Plus, read the RSI statement and Cook's review when you can.
-Kate: Thanks for listening, and we'll be back next week.
-Tom: Bye for now.
+Kate: Hello and welcome to the ICM and Anaesthesia Digest. It's Monday the sixteenth of November. I'm Kate.
+Tom: And I'm Tom. Morning. Or evening, depending on when you're listening.
+Kate: So, what sort of week has it been?
+Tom: An interesting one on paper. Critical Care Reviews pulled together over a hundred papers this week, ten of them randomised trials. The difficulty, again, is that we couldn't get at most of the primary sources directly.
+Kate: Yes, let's be honest about that up front. This week the journal websites, PubMed, the gov dot uk alert pages, the coroners' reports and the Court of Protection listings were all out of reach to us. So most of what we say is from the Critical Care Reviews newsletter, number seven hundred and seventy-nine, plus trial registrations, protocols and abstract-level summaries.
+Tom: So where a number comes from CCR's summary rather than the paper, we'll say so. And where we couldn't confirm a result at all, we're going to leave the number out rather than guess.
+Kate: Which means a slightly shorter show. Better that than padding.
+Tom: Agreed. So the plan.
+Kate: The plan. A big community cardiac arrest trial in the New England Journal that didn't work, and what that tells us. Then the new ILCOR consensus. Then a target trial emulation on carbon dioxide targets in ARDS. Then anaesthesia, with a Spanish videolaryngoscopy trial in trainees and another look at ketamine versus etomidate. Then a short medicolegal slot on brain death, and a few things to check on Monday.
+Tom: Off we go, then.
+Kate: Right. RACE-CARS. That stands for the Randomized Cluster Evaluation of Cardiac Arrest Systems. It was presented at the American Heart Association meeting and published in the New England Journal on the eighth of November. First author Carolina Malta Hansen.
+Tom: This is the North Carolina one.
+Kate: It is. And the question is a really good one. We all know the chain of survival. Recognition, bystander CPR, early defibrillation. The question is whether you can push a whole region's system to do those better, and whether that actually changes survival.
+Tom: So not a drug, not a device. A system.
+Kate: Exactly. The intervention was a package. Training emergency call handlers to recognise arrest and coach CPR over the phone. Community training in hands-only CPR and AED use. And strengthening first responder and early defibrillation programmes.
+Tom: And the design?
+Kate: A registry-based cluster randomised trial. Fifty-seven clusters of counties were randomised to the programme or to usual care. Two clusters then declined to take part, so fifty-five were analysed. Twenty-eight clusters, with about eleven and a half thousand patients, got the programme. Twenty-seven clusters, with about ten thousand eight hundred, had usual care.
+Tom: So over twenty-two thousand adult out-of-hospital arrests in total.
+Kate: Twenty-two thousand, four hundred and fifty-nine.
+Tom: That's a big trial.
+Kate: It's enormous. And the primary outcome was survival to hospital discharge with a favourable neurological outcome.
+Tom: Go on, then.
+Kate: Nine point nought per cent with the programme. Nine point four per cent with usual care. CCR gives the adjusted odds ratio as nought point nine seven, with a confidence interval from nought point seven five to one point two six.
+Tom: So, nothing.
+Kate: Nothing detectable. And CCR makes the fair point that the interval is still compatible with meaningful benefit or with harm.
+Tom: Mm. Twenty-two thousand patients, and the interval still runs from a quarter better to a quarter worse.
+Kate: That's the thing about cluster trials. Your effective sample size is closer to the number of clusters than the number of patients. Fifty-five clusters is not that many.
+Tom: Right. And presumably counties are quite different from each other. Rural versus urban, ambulance response times, all of that.
+Kate: Which pushes the variance up. So it's a big trial that's less precise than the headline number suggests.
+Tom: The obvious question, though, is whether the programme actually changed what happened at the scene. Because if bystander CPR rates didn't move, you haven't tested the chain of survival. You've tested a training programme that didn't reach anybody.
+Kate: That's exactly the right question. And the American Heart Association's own summary says the programme didn't improve the overall rates of bystander CPR or defibrillation.
+Tom: There you go.
+Kate: There was some coverage suggesting bystander CPR was more likely in programme areas in the final year of the study. But the figures we've seen for that are inconsistent between sources, so I'm not going to quote them.
+Tom: Fair. And CCR's own critique says something similar, doesn't it?
+Kate: It does. Their summary says community training reach was limited, and implementation varied across the different parts of the programme. So their framing is that these findings are about the package as it was delivered.
+Tom: Which is the honest framing. This isn't a trial showing that bystander CPR doesn't matter.
+Kate: No. The observational data linking bystander CPR to survival is about as consistent as anything in resuscitation science. What RACE-CARS tells you is that a regional programme of this kind, run over a few years, didn't shift behaviour enough to move survival.
+Tom: And the coverage I saw mentioned over two hundred thousand people trained.
+Kate: In a state of over ten million, spread over several years. And of course the people you train in a community session aren't necessarily the people standing next to someone when they collapse at home.
+Tom: Most arrests are at home, aren't they.
+Kate: The large majority. Often witnessed by an older spouse. That's a hard group to reach with a training day in the town hall.
+Tom: So where does this sit against the prior evidence? Because the Danish story is the one everyone quotes.
+Kate: Right. The Danish national experience over the two thousands and early twenty-tens is the one people point to. Mandatory CPR training in schools, training with driving licences, dispatcher-assisted CPR, more AEDs. And bystander CPR and survival both went up a lot.
+Tom: But that was observational. A before and after at a national level.
+Kate: Exactly. Lots of things change over a decade. Ambulance services, hospital care, targeted temperature management, coronary intervention. RACE-CARS is the randomised test of that idea, and it's a much more sobering result.
+Tom: Though you could argue the Danish effort was bigger, longer and national. School-age training for a generation. You can't randomise that.
+Kate: That's a fair challenge. Culture change might be a twenty-year project, and a cluster trial lasting a few years can only test a slice of it.
+Tom: So what do we do with it on Monday? Most of us aren't running regional ambulance systems.
+Kate: For an ICU consultant, honestly, not much changes. It's a reminder that the outcome of out-of-hospital arrest is largely decided before the patient reaches us. And it's a caution for anyone who thinks a public CPR campaign alone will change their unit's outcome data.
+Tom: And a methods lesson. Registry-based cluster trials can answer system-level questions cheaply, but you need reach and fidelity measured properly or you can't tell a failed idea from a failed delivery.
+Kate: Which, oddly, takes us to the other registry-based trial CCR highlighted this week.
+Tom: The Swedish one.
+Kate: SWITCH-SWEDEHEART, also in the New England Journal. Not an ICU trial, but it's the same idea. Seven Swedish regions, grouped into three clusters, switched their default antiplatelet drug after PCI for acute coronary syndrome, from ticagrelor to prasugrel, in a randomised sequence.
+Tom: Stepped wedge.
+Kate: Stepped wedge, open label, built on the national registry. Just over seventeen thousand patients. Per CCR, death, MI or stroke at a year was eleven point one per cent under the prasugrel policy, against eleven point eight per cent under ticagrelor. An adjusted odds ratio of nought point nine, and the interval crossed one.
+Tom: So, not superior.
+Kate: Not superior. And CCR is careful to say that doesn't establish they're equivalent either. There was a signal of slightly less major bleeding with prasugrel, but that was a secondary outcome.
+Tom: I mention it only because we see these patients. Post-PCI, cardiogenic shock, sometimes arrest. And the default P2Y12 drug varies by region.
+Kate: Right. And, you know, in our patients the question is usually less which oral agent, and more whether they can absorb it at all. We talked last week about cangrelor in shock.
+Tom: We did. Move on.
+Kate: Move on. ILCOR.
+Tom: Go on.
+Kate: So the International Liaison Committee on Resuscitation publishes its Consensus on Science with Treatment Recommendations every year now. The twenty twenty-six summary was published in Circulation on the fifth of November.
+Tom: So just before our window. But nobody's covered it here yet, and CCR picked it out as one of their three Quick Takes this week.
+Kate: Exactly. It covers six task forces. Basic life support, advanced life support, paediatric, neonatal, education and teams, and first aid. CCR counts sixteen systematic reviews, nine scoping reviews and twenty-one evidence updates.
+Tom: And the headline for us?
+Kate: Two things CCR picks out for adults. A recommendation against routine thrombolysis during cardiac arrest. And insufficient evidence to recommend routine intramuscular adrenaline.
+Tom: The thrombolysis one is not a surprise.
+Kate: No. The trials of routine thrombolysis in undifferentiated arrest were negative years ago. The key word is routine. Suspected PE is a different question, and nothing here stops you giving a lytic when you think it's a massive PE.
+Tom: What about the IM adrenaline thing? I'd assumed that was a paediatric or community question.
+Kate: I think the push has come from the community side. Whether lay responders or first responders could give IM adrenaline before an IV is available. The summaries we saw suggested the review behind it was mainly paediatric. Either way, there's not enough evidence to recommend it.
+Tom: Anything on fluids? Because people still run a litre in on autopilot during arrests.
+Kate: From summaries of the preprint, they suggest against routine IV fluid in undifferentiated non-traumatic arrest, unless you suspect hypovolaemia before the arrest. That's a weak recommendation with very low certainty evidence. And against starches, during CPR or after return of circulation.
+Tom: Starch during CPR. Does anyone still do that?
+Kate: Somewhere, presumably, or they wouldn't have needed to say it.
+Tom: Fair.
+Kate: And on ventilation during CPR, they restate the familiar stuff. Thirty to two, or about ten breaths a minute with continuous compressions once there's an advanced airway.
+Tom: And this is the thing about ILCOR. It's a consensus document. CCR's line was nice on that.
+Kate: Their line was that recommendation strength and certainty of evidence are different things, and that consensus isn't proof of better outcomes.
+Tom: Which is exactly right. A strong recommendation built on moderate evidence and a weak one built on very low certainty evidence can both end up in the same flowchart.
+Kate: And of course in the UK we don't take ILCOR directly. The Resuscitation Council UK writes our guidelines, broadly in step with the European Resuscitation Council, and its twenty twenty-five guidelines are the current ones.
+Tom: So, Monday?
+Kate: If you run your resus training or sit on the resus committee, use it to check your local protocols. Nothing here should make you change practice on the unit tomorrow.
+Tom: Right. Lungs.
+Kate: Lungs. This is a paper in Critical Care Medicine, published on the eleventh of November. A target trial emulation of normocapnia versus mild hypercapnia during lung protective ventilation in ARDS.
+Tom: The permissive hypercapnia question. Which we've all been taught is fine, but has never really been tested.
+Kate: Exactly. So, to be clear about what this is. A target trial emulation is observational data analysed as if it were a randomised trial. You specify the trial you wish you'd run, eligibility, treatment strategies, time zero, outcome, and then you try to mimic it in a database.
+Tom: Which deals with some biases, like immortal time, but not confounding by indication.
+Kate: Not unmeasured confounding, no. So, what they emulated. Patients starting lung protective ventilation were assigned either to normocapnia, a partial pressure of carbon dioxide of thirty-five to forty-five millimetres of mercury, or to mild hypercapnia, fifty to fifty-five, for four days.
+Tom: In kilopascals, that's roughly four and a half to six, against six and a half to seven and a bit.
+Kate: About that. They started with over five thousand potentially eligible patients, and ended up with two hundred and ninety-two in each arm.
+Tom: That's a big drop.
+Kate: It is. Which is normal for an emulation with strict strategies, but it tells you how few patients actually sat cleanly in either band for four days.
+Tom: And the result?
+Kate: Ninety-day mortality was identical. Eighty-four out of two hundred and ninety-two, twenty-eight point eight per cent, in both arms.
+Tom: Exactly identical? That's almost suspicious.
+Kate: It's what the abstract says. And the authors themselves say it should be read cautiously because of potential residual bias. One caveat from us: we've seen the abstract summarised, but not the full paper, so we couldn't check which database it came from.
+Tom: So how do you get to normocapnia in a lung-protective patient? You turn the rate up.
+Kate: Right. And they specifically say normocapnia achieved through a higher respiratory rate didn't reduce mortality.
+Tom: Which is interesting, because the theoretical worry about chasing carbon dioxide is that a higher rate means more mechanical power, and potentially dynamic hyperinflation.
+Kate: And the theoretical worry about hypercapnia is the right ventricle, raised pulmonary pressures, intracranial pressure, and some animal and cell data on impaired alveolar repair. So you've got plausible harm in both directions.
+Tom: And this finds neither.
+Kate: It finds no difference. And I think that's reassuring for how most of us practise. Tolerate a modestly raised carbon dioxide, don't drive the rate hard to normalise it, and make exceptions for the brain-injured patient and the patient with a struggling right ventricle.
+Tom: Which, funnily enough, CCR also flagged an editorial this week on ventilation in right ventricular failure. We haven't read it, so I'll just mention it exists.
+Kate: Fine. So, Monday: unchanged. Keep doing what you're doing, and don't read this as proof that hypercapnia is safe in everybody.
+Tom: Before anaesthesia, the trials we couldn't get into.
+Kate: Yes, a quick list. Three ICU trials CCR listed this week where we could confirm the design but not the results. CO-ROAM in Intensive Care Medicine, oliceridine against remifentanil for analgesia in ventilated patients, a non-inferiority trial from China. ADJUST in Chest, ulinastatin in sepsis. And two target trial emulations in Critical Care looking at cefepime against piperacillin-tazobactam or meropenem and delirium or neurotoxicity.
+Tom: The cefepime one's interesting, given the ACORN trial.
+Kate: It is. ACORN, in JAMA in twenty twenty-three, found more neurological dysfunction with cefepime than with piperacillin-tazobactam. So a confirmatory signal would matter. But we haven't seen the numbers, so we'll come back to it if it's worth it.
+Tom: Right. Anaesthesia.
+Kate: Your turn.
+Tom: My turn. So, VILARE. A pragmatic multicentre randomised trial in Anaesthesia, published around the ninth of November. Videolaryngoscopy versus direct laryngoscopy for intubation by anaesthesia trainees. It's a Spanish trial, sponsored from the Lucus Augusti hospital in Lugo, and the first author is Taboada.
+Kate: In theatre, not in the ICU?
+Tom: In theatre. That's the point of it. The population is adults having surgery under general anaesthesia, with no predictors of a difficult airway. And every intubation was done by a resident.
+Kate: So the easy airway in the trainee's hands.
+Tom: Exactly. Macintosh-shaped videolaryngoscope blade against a standard Macintosh direct laryngoscope. And the primary outcome is first-attempt success.
+Kate: How big?
+Tom: The protocol, published in the Spanish anaesthesia journal earlier this year, planned about a thousand patients. And here's the bit I find really interesting. The sample size was based on first-attempt success of ninety-nine per cent with video and ninety-four per cent with direct laryngoscopy. That's from their own institutional data.
+Kate: Ninety-four per cent first-pass success for trainees with a Mac. In unselected patients.
+Tom: Which is what they expected.
+Kate: And did they get it?
+Tom: So this is where I have to be careful. We couldn't open the paper this week. A secondary summary we found suggests video improved first-attempt success, and that both arms came in well below those protocol assumptions. But I can't confirm the figures against the paper, so I'm not going to give them.
+Kate: That's fine. If it holds up, the bit that's interesting is that last part. If the real-world first-pass rate for trainees is much lower than people assume, that matters for training and supervision.
+Tom: Yes. And it fits with what we already knew. The DEVICE trial in the New England Journal in twenty twenty-three was in emergency departments and ICUs. First-attempt success was about eighty-five per cent with video against seventy-one per cent with direct. And in an exploratory analysis, the biggest gain was in the least experienced operators.
+Kate: Which is exactly VILARE's population, just in a calmer setting.
+Tom: Right. And there was a large German and Austrian perioperative trial, COVALENT, in JAMA Network Open in August, which also favoured videolaryngoscopy over direct, with hyperangulated blades doing best.
+Kate: So where's the argument? Because it sounds like everyone agrees.
+Tom: The argument is about what you teach. If video is better for trainees in easy airways, why would you ever have them use a Mac? And the counter-argument is that direct laryngoscopy is still a skill you need when the screen fogs, the battery dies, or there's blood all over the camera.
+Kate: I've had all three.
+Tom: We all have. And there was a piece in Anaesthesia and Intensive Care in January with the title, Do not stop teaching anaesthesia trainees direct laryngoscopy. That rather gives away their position.
+Kate: And I think there's a middle ground. Using a Macintosh-shaped video blade is direct laryngoscopy with a screen. The supervisor sees what the trainee sees, and the trainee can still look down the blade.
+Tom: Exactly. Which is probably the most useful practical point. If VILARE's video arm used a Mac-geometry blade, it's not a trial of abandoning direct skills. It's a trial of giving the trainee and the supervisor a picture.
+Kate: So, Monday?
+Tom: So, Monday. If your department is still debating universal videolaryngoscopy, this adds another randomised trial in favour, and in elective theatre patients rather than emergencies. And keep deliberate direct laryngoscopy practice on the training curriculum. I'd also say, wait to see the full paper before you quote VILARE's numbers to anyone, including us.
+Kate: Ha. Fair. And while we're on airways, CCR's featured narrative review this week was on in-hospital emergency airway management in critically ill patients. We haven't read it yet, but it's their pick.
+Tom: Right. The second anaesthesia item is the induction agent argument, again.
+Kate: Ketamine and etomidate.
+Tom: Ketamine and etomidate. So, as a reminder. The RSI trial, Casey and colleagues, New England Journal, December twenty twenty-five. About two thousand three hundred and sixty critically ill adults in American emergency departments and ICUs, randomised to ketamine or etomidate for emergency intubation.
+Kate: And no mortality difference.
+Tom: No difference in the primary outcome. Twenty-eight-day in-hospital death was twenty-eight point one per cent with ketamine and twenty-nine point one per cent with etomidate. But cardiovascular collapse at intubation was more common with ketamine. Twenty-two point one per cent against seventeen per cent.
+Kate: And that was mostly vasopressors, wasn't it?
+Tom: Mostly new or increased vasopressor use. The severe hypotension and cardiac arrest parts on their own didn't show a clear difference. And it was open label, so the decision to start a vasopressor was made by someone who knew which drug had gone in.
+Kate: Which matters.
+Tom: It does. Now, this week. Khan and colleagues in Critical Care Explorations. A secondary analysis pooling individual patient data from two earlier American trials, DEVICE and PREOXI. About two thousand three hundred and fifty patients. But the induction drug wasn't randomised in either. Most got etomidate, about three hundred got ketamine.
+Kate: So it's observational, and the clinician chose the drug.
+Tom: Exactly. And per the abstract, after weighting and adjustment, ketamine was associated with higher odds of cardiovascular collapse. An adjusted odds ratio of about one point eight. Again driven mainly by vasopressor use. No clear difference in first-attempt success or in-hospital mortality.
+Kate: Confounding by indication must be enormous there. Who gets ketamine? The sick, shocked, asthmatic patient.
+Tom: Absolutely, and you'd expect that to push ketamine's collapse rate up. So the honest reading is that it's consistent with the randomised trial and adds very little on its own.
+Kate: The thing I keep coming back to is the dose. People give ketamine in shock as though it's a haemodynamically neutral drug, and in the catecholamine-depleted patient it isn't. It's a direct myocardial depressant once the sympathetic drive has nothing left.
+Tom: Right. And I've seen people argue online that the RSI trial was really a test of dosing, not the drug. That's a reasonable hypothesis, but it's an argument, not a finding.
+Kate: And then there's the British angle. Etomidate has never really been part of UK practice in the way it is in America.
+Tom: No. Most UK ICUs use ketamine, or propofol at a reduced dose, often with rocuronium and a vasopressor drawn up, or even running. So if you're asking what to do on Monday, I don't think this changes anything. What it does do is reinforce something we should already be doing. In the shocked patient, reduce the dose, have the pressor ready before you push, and expect the blood pressure to fall whichever drug you use.
+Kate: Good. Medicolegal.
+Tom: Go on.
+Kate: So, a thin week here, and I want to be clear that's partly because we couldn't check our sources. The National Archives case law listings, the coroners' Prevention of Future Deaths pages and the Mental Capacity Law and Policy blog were all out of reach. So this is unchecked, not quiet.
+Tom: Was there anything?
+Kate: Nothing we could confirm on medical treatment from the Court of Protection in the window. There's one new Court of Protection judgment that's been reported, but it's a procedural case about the scope of an inquiry, not a treatment case, so we'll leave it.
+Tom: Fine.
+Kate: The one piece worth discussing is a viewpoint in Neurocritical Care, published on the thirteenth of November, by Ariane Lewis, with the title The Right-to-Try Does Not Apply to Brain Death.
+Tom: This is American.
+Kate: It's American, so it's discourse, not UK law. The background is that this year there was a widely publicised suggestion that the American federal Right-to-Try Act, which allows access to experimental treatments for life-threatening conditions, applied to a Texas case. The family of an infant with suspected brain death asked for hyperbaric oxygen or stem cells instead of a formal brain death evaluation.
+Tom: Oh dear.
+Kate: And Lewis's argument, from the abstract, is that the Act may apply to life-threatening neurological conditions, but it isn't relevant once a brain injury is so severe that brain death is suspected, or once death has been declared. And Lewis calls on clinicians' organisations to, in her words, promote deference to expertise and counter misinformation.
+Tom: And Lewis was one of the authors of the American brain death guideline in twenty twenty-three. So not a neutral voice on this, but very much an expert one.
+Kate: Right. So why does it matter here? Because we see the same pattern. Families who, often entirely understandably, look online and find an experimental treatment, and ask for it after death has been confirmed by neurological criteria, or while we're preparing to test.
+Tom: And the UK legal position is clearer than the American one, isn't it.
+Kate: In the sense that the courts here have consistently treated death confirmed by neurological criteria as death. The Academy of Medical Royal Colleges code is the standard. And once death is confirmed, it isn't a best interests question, because there's no living patient whose interests are at stake.
+Tom: Which is a very hard thing to say to a family.
+Kate: Very hard. I think the practical point for us is the timing Lewis is pointing at. The difficult window is before testing, when brain death is suspected but not yet confirmed. That's when requests for experimental treatment tend to come, and that's when good, early, honest communication matters most.
+Tom: And documentation. If it does end up in court, or at an inquest, a clear record of what was explained, when, and to whom.
+Kate: Absolutely. And I'd add, if a family requests a delay to testing or an experimental intervention before testing, that is a best interests question, because the patient is alive. And the Townsend appeal decision we mentioned last week is a reminder that clinical decisions to withhold treatment aren't carved out of the best interests framework.
+Tom: Good. Device and safety checks.
+Kate: Yes. Two things, both with a caveat. First, the MHRA's weekly list of field safety notices, dated the tenth of November, covering the second to the sixth of November, includes manufacturers whose kit is in most ICUs. Abiomed, for the automated Impella controller. Datascope, for the Cardiosave balloon pump. And Aerogen and Codan.
+Tom: What do the notices say?
+Kate: That's the caveat. We couldn't open them. So I'm not going to guess. If your unit runs Impella or Cardiosave pumps, it's worth asking your medical devices team whether they've actioned that week's notices.
+Tom: And the second?
+Kate: The Dräger Atlan anaesthetic workstation notice from August, about the risk of piston ventilator failure, has been listed again in a recent round-up. It's not new, but if your theatres have Atlans, it's worth checking the field action has actually been done.
+Tom: Right. Recap.
+Kate: Recap. For the unit on Monday, honestly not much changes this week. RACE-CARS is a big, well-designed, negative trial of a community and ambulance cardiac arrest programme. It shows how hard it is to shift bystander behaviour, not that bystander CPR doesn't matter.
+Tom: In anaesthesia, more randomised support for videolaryngoscopy in trainees, this time in elective theatre patients. Keep teaching direct skills. And on induction, the ketamine collapse signal is now in an observational pooled analysis as well. Reduce the dose and have the pressor ready, whatever you use.
+Kate: And the one thing to actually check is the device notices. Impella and Cardiosave from the early November MHRA list, and the Atlan workstation if you have them.
+Tom: Next week, with luck, we'll have the papers open and some numbers we've read for ourselves.
+Kate: Fingers crossed. Thanks for listening. Bye for now.
+Tom: Bye.
